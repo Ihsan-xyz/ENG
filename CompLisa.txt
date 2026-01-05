@@ -1,51 +1,51 @@
 ####################################--------------------- LISA BOMB TRADER
 Lisa/WelcomeUnknow
-\CBmp[UniqueLisa,20]\SETpl[LisaHappy]\Lshake\prf\c[4]Street Urchin：\c[0]    Oi... Oi yew! Me name's Lisa! And yew arr?
-\CamCT\Bon[2]\m[pleased]\plf\c[6]Lona：\c[0]    I'm Lona, Lona Falldin.
-\CBmp[UniqueLisa,20]\SETpl[LisaHappy]\Lshake\prf\c[4]Street Urchin：\c[0]    Noice ta meet ya! Say Lona, arr ya inturassted een sum... Foire powah?
+\CBmp[UniqueLisa,20]\SETpl[LisaHappy]\Lshake\prf\c[4]Bocah Jalanan：\c[0]    Oi... Oi kau! Namaku Lisa! Dan kau siapa?
+\CamCT\Bon[2]\m[pleased]\plf\c[6]Lona：\c[0]    Aku Lona, Lona Falldin.
+\CBmp[UniqueLisa,20]\SETpl[LisaHappy]\Lshake\prf\c[4]Bocah Jalanan：\c[0]    Senang kenalan sama lu! Ngomong-ngomong Lona, lu tertarik sama... Kekuatan Api?
 
 Lisa/Welcome0
-\CBid[-1,20]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Hear's ah tip four ya! Wen een doubt... Use ah Bomb!
+\CBid[-1,20]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Nih tips buat lu! Kalo ragu... Ledakin aja pake Bom!
 
 Lisa/Welcome1
-\CBid[-1,20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    If ahny trubble cums ye way... Explowseves will 'ake eet goo ahway!
+\CBid[-1,20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Kalo ada masalah yang nyamperin... Bahan peledak bakal bikin semuanya ilang!
 
 Lisa/Welcome2
-\CBid[-1,20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Ello Sis! Lookin' tah blow tings up arr ya?
+\CBid[-1,20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Halo Kak! Lagi cari sesuatu buat diledakin ya?
 
 Lona/LisaOptUnknow
-\m[confused]\plf\c[6]Lona：\c[0]    H-Huh...? \optD[F... Foire powah?]
+\m[confused]\plf\c[6]Lona：\c[0]    H-Hah...? \optD[K... Kekuatan Api?]
 
 Lona/LisaOpt
 \CamCT\m[confused]\plf\c[6]Lona：\c[0]    Mmmm...
 
 Lona/LisaOpt_Supply
-Gunpowder Supplier?
+Penyuplai Mesiu?
 
 Lona/LisaOpt_SouthFL
-South Gate Campsite
+Perkemahan Gerbang Selatan
 
 Lisa/About
-\CamCT\Bon[2]\m[flirty]\plf\c[6]Lona：\c[0]    F... Fire power? Just what exactly are you selling so late at night?
-\CamMP[UniqueLisa]\BonMP[UniqueLisa,5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Nevah 'eard of eet befour? Wunce egg-noighted... Eet makes tings goo BOOM!
-\CamCT\Bon[8]\m[confused]\plf\c[6]Lona：\c[0]    Is that......
-\CamCT\Bon[1]\m[wtf]\Rshake\c[6]Lona：\c[0]    \{Gunpowder?!
-\CamMP[UniqueLisa]\BonMP[UniqueLisa,3]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Ohhoo! 'hats rhoight!
-\CamCT\m[serious]\plf\c[6]Lona：\c[0]    I've heard that such material is actually illegal...?
-\CamMP[UniqueLisa]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Sis, dun't bee bloodie stewpid! The wurlds bee goin' tah fookin' sheyet, 'ho cares eef eet's legal or nut?!
-\CamMP[UniqueLisa]\BonMP[UniqueLisa,4]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Oh cummon Sis! 'he best way tah defend yewrself is tah hurt 'em furst!
-\CamCT\m[confused]\plf\c[6]Lona：\c[0]    Well... I suppose that's true...
+\CamCT\Bon[2]\m[flirty]\plf\c[6]Lona：\c[0]    K... Kekuatan api? Sebenarnya apa yang kau jual malam-malam begini?
+\CamMP[UniqueLisa]\BonMP[UniqueLisa,5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Gak pernah denger sebelumnya? Sekali disulut... Itu bikin semuanya jadi DUAARR!
+\CamCT\Bon[8]\m[confused]\plf\c[6]Lona：\c[0]    Apa itu......
+\CamCT\Bon[1]\m[wtf]\Rshake\c[6]Lona：\c[0]    \{Bubuk mesiu?!
+\CamMP[UniqueLisa]\BonMP[UniqueLisa,3]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Oho! Bener banget!
+\CamCT\m[serious]\plf\c[6]Lona：\c[0]    Kudengar bahan seperti itu sebenarnya ilegal...?
+\CamMP[UniqueLisa]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Kak, jangan bego dong! Dunia udah mau kiamat gini, siapa peduli legal atau enggak?!
+\CamMP[UniqueLisa]\BonMP[UniqueLisa,4]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Ayolah Kak! Cara terbaik buat ngelindungin diri itu ya nyerang mereka duluan!
+\CamCT\m[confused]\plf\c[6]Lona：\c[0]    Yah... Kurasa itu benar...
 
 ############################## COMMON EXT Convoy
 
 NPC/CommonConvoyTarget0
-\CBid[-1,20]\SETpl[LisaAngry]\Lshake\c[4]Lisa：\c[0]    Fleeing right now?
+\CBid[-1,20]\SETpl[LisaAngry]\Lshake\c[4]Lisa：\c[0]    Kabur sekarang?
 
 NPC/CommonConvoyTarget1
-\CBid[-1,20]\SETpl[LisaNormal]\Lshake\c[4]Lisa：\c[0]    Brace yourself! They are here!
+\CBid[-1,20]\SETpl[LisaNormal]\Lshake\c[4]Lisa：\c[0]    Siap-siap! Mereka datang!
 
 NPC/CommonConvoyTarget2
-\CBid[-1,20]\SETpl[LisaTriumph]\Lshake\c[4]Lisa：\c[0]    I cudda use some fucken axe-itement!
+\CBid[-1,20]\SETpl[LisaTriumph]\Lshake\c[4]Lisa：\c[0]    Gue butuh kesenangan nih!
 
 ####################################--------------------- Minecave Hevent itself
 
@@ -53,31 +53,31 @@ Lisa/LisaAbomHev_begin
 \SETpl[LisaBereft]\Lshake\c[4]Lisa：\c[0]    \{WAAAH!!!
 
 Lisa/LisaAbomHev1
-\c[4]Lisa：\c[0]    \{DUN'T YA COOM CLOSE TA MEH!!!
+\c[4]Lisa：\c[0]    \{JANGAN DEKET-DEKET GUE!!!
 
 Lisa/LisaAbomHev2
-\c[4]Lisa：\c[0]    \{EEEEEK!
+\c[4]Lisa：\c[0]    \{IIIIIIH!
 
 Lisa/LisaAbomHev3
-\narr A swarm of bugs surrounded Lisa.
+\narr Sekerumunan serangga mengelilingi Lisa.
 
 Lisa/LisaAbomHev4
-\c[4]Lisa：\c[0]    \{SHIET! GOO 'WAY! GET OFFAH MEEE!!!
+\c[4]Lisa：\c[0]    \{SIALAN! PERGI SANA! LEPASIN GUE!!!
 
 Lisa/LisaAbomHev5
-\c[4]Lisa：\c[0]    \{NOOOO!!
+\c[4]Lisa：\c[0]    \{TIDAAAK!!
 
 Lisa/LisaAbomHev6
-\c[4]Lisa：\c[0]    \{EEEYAAAAAAH!!!
+\c[4]Lisa：\c[0]    \{KYAAAAAAAH!!!
 
 Lisa/LisaAbomHev7
-\narr The bug's claws hooked onto Lisa's anus, and then inserted itself inside her intestines.
+\narr Cakar serangga itu mengait ke anus Lisa, lalu memasukkan dirinya ke dalam ususnya.
 
 Lisa/LisaAbomHev8
-\c[4]Lisa：\c[0]    \{BLOODIE 'ELL!!! M-ME ARSE'OLE!
+\c[4]Lisa：\c[0]    \{BANGSAT!!! P-PANTAT GUE!
 
 Lisa/LisaAbomHev9
-\c[4]Lisa：\c[0]    \{D... DOOOOON'T
+\c[4]Lisa：\c[0]    \{J... JANGAAAAN
 
 Lisa/LisaAbomHev10_1
 \c[4]Lisa：\c[0]    \{EEEEEEPP?!
@@ -89,43 +89,43 @@ Lisa/LisaAbomHev10_3
 \c[4]Lisa：\c[0]    \{AHHHHHHHHHHHHHHHH!!!
 
 Lisa/LisaAbomHev11
-\narr Many insects were firmly burrowed inside Lisa with their claws, biting the intestinal wall and injecting their venom.
+\narr Banyak serangga yang bersarang kuat di dalam diri Lisa dengan cakar mereka, menggigit dinding usus dan menyuntikkan racun mereka.
 
 Lisa/LisaAbomHev12
-\Rshake\c[4]Lisa：\c[0]    \{FOOKIN' SAINTS!! EET 'UUURTS!!!
+\Rshake\c[4]Lisa：\c[0]    \{DEMI ORANG SUCI SIALAN!! SAKIIIT!!!
 
 Lisa/LisaAbomHev13
-\c[4]Lisa：\c[0]    \{N-NO MOORE... E-EENSIDE...
+\c[4]Lisa：\c[0]    \{J-JANGAN LAGI... DI-DI DALEM...
 
 Lisa/LisaAbomHev14
-\narr Another bug crawled inside. The bugs were attracted to the smell coming from her anus. It didn't matter what the target's gender or age was...
+\narr Serangga lain merangkak masuk. Serangga-serangga itu tertarik pada bau yang keluar dari anusnya. Tidak peduli apa jenis kelamin atau usia targetnya...
 
 Lisa/LisaAbomHev15
-\c[4]Lisa：\c[0]    \{W...WUH-ATE! STOP EET! GIT OUTTAH MEE!
+\c[4]Lisa：\c[0]    \{T...TUNGGU! HENTIKAN! KELUAR DARI BADAN GUE!
 
 Lisa/LisaAbomHev16
-\c[4]Lisa：\c[0]    \{EH-'ELP MEE! SUMBOODY GIMMI' AH 'AND 'ERE!!!
+\c[4]Lisa：\c[0]    \{TO-TOLONG! SIAPAPUN BANTU GUE DI SINI!!!
 
 Lisa/LisaAbomHev17
-\c[4]Lisa：\c[0]    \{NOO! NOOO!! NOOOOOO!!!
+\c[4]Lisa：\c[0]    \{GAK! ENGGAK!! TIDAKKKK!!!
 
 Lisa/LisaAbomHev18
-\c[4]Lisa：\c[0]    \{AH DUN'T WUNNA DYE! SOMEBUDY 'ELP ME!!!
+\c[4]Lisa：\c[0]    \{GUE GAK MAU MATI! SIAPAPUN TOLONG GUE!!!
 
 Lisa/LisaAbomHev19
-\narr For them, Lisa's wailing was their beacon to attack. More and more bugs continued to attack Lisa's immature anus.
+\narr Bagi mereka, ratapan Lisa adalah sinyal untuk menyerang. Semakin banyak serangga terus menyerang anus Lisa yang belum dewasa.
 
 Lisa/LisaAbomHev20
-\narr Lisa's abdomen swelled up from the invasion of the insects. She was now swollen like a pregnant woman.
+\narr Perut Lisa membengkak akibat invasi serangga. Dia sekarang bengkak seperti wanita hamil.
 
 Lisa/LisaAbomHev21
-\c[4]Lisa：\c[0]    \{D-DUN'T KILL MEH! PL...PWEASE!! MAMAAA!!!
+\c[4]Lisa：\c[0]    \{J-JANGAN BUNUH GUE! MO...MOHON!! MAMAAA!!!
 
 Lisa/LisaAbomHev22
-\narr The venom of the insects began to work. At first, it was only a tingling. But now the pain inside her transformed into sexual pleasure.
+\narr Racun serangga mulai bekerja. Awalnya hanya kesemutan. Tapi sekarang rasa sakit di dalam dirinya berubah menjadi kenikmatan seksual.
 
 Lisa/LisaAbomHev23
-\c[4]Lisa：\c[0]    \{GUUAH?! S-SUMTHINGS COOMING... OUT?!
+\c[4]Lisa：\c[0]    \{GUUAH?! A-ADA YANG KELUAR... KELUAR?!
 
 Lisa/LisaAbomHev24
 \c[4]Lisa：\c[0]    \{EEEEEEEEEE!!
@@ -137,61 +137,61 @@ Lisa/LisaAbomHev26
 \c[4]Lisa：\c[0]    \{OOOOOHHHHHHUUUGH!!
 
 Lisa/LisaAbomHev27
-\c[4]Lisa：\c[0]    \{\{EEYAH!
+\c[4]Lisa：\c[0]    \{\{IYAAH!
 
 Lisa/LisaAbomHev28
 \c[4]Lisa：\c[0]    Ooooohhh.... Guuuaah...
 
 Lisa/LisaAbomHev29
-\narr All of this was too intense for Lisa. She lost all of her strength.
+\narr Semua ini terlalu intens bagi Lisa. Dia kehilangan seluruh kekuatannya.
 
 Lisa/LisaAbomHev30
 \c[4]Lisa：\c[0]    Uuunnngh\..\..\..
 
 Lisa/LisaAbomHev31
-\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Lisa! What happened?!
-\SETpl[LisaSad]\Lshake\prf\c[4]Lisa：\c[0]    *Sniff* Waaaaaah! *Sob*
-\m[wtf]\plf\Rshake\c[6]Lisa：\c[0]    Guh... *Hic* Guuuh... *Hic* Nnnnighnn...- *Sniff* -...B-Bugs!
-\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Don't be scared! I'm going to help you!
+\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Lisa! Apa yang terjadi?!
+\SETpl[LisaSad]\Lshake\prf\c[4]Lisa：\c[0]    *Hiks* Waaaaaah! *Terisak*
+\m[wtf]\plf\Rshake\c[6]Lisa：\c[0]    Guh... *Hik* Guuuh... *Hik* Nnnnighnn...- *Hiks* -...S-Serangga!
+\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Jangan takut! Aku akan menolongmu!
 
 ####################################--------------------- Minecave Hevent CONTROL
 
 Lisa/LisaAbomHev_Clear1
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    What the hell happened?!
-\m[confused]\plf\c[6]Lona：\c[0]    Ahhh... She...
-\m[shocked]\plf\c[6]Lona：\c[0]    A bug just entered her stomach!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    What?! This is not good... Bring her over here. Now!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Apa yang barusan terjadi?!
+\m[confused]\plf\c[6]Lona：\c[0]    Ahhh... Dia...
+\m[shocked]\plf\c[6]Lona：\c[0]    Seekor serangga baru saja masuk ke perutnya!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Apa?! Ini tidak bagus... Bawa dia ke sini. Sekarang!
 
 Lisa/LisaAbomHev_Clear2
-\m[terror]\plf\Rshake\c[6]Lona：\c[0]    How is she?! What's going to happen to her?
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    Not good... At least they haven't laid their eggs yets.
-\m[shocked]\plf\c[6]Lona：\c[0]    Eggs? In her stomach?!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    Yes, eggs. The babies hatch and begin feasting from inside the host. Many slaves died this way, which has had a serious impact on production.
-\m[sad]\plf\c[6]Lona：\c[0]    C-Can she be saved?!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    Once the eggs are hatched, there's no hope. And if their corpse is left alone, they can infect others too. \m[fear]\Rshake
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    Don't look at me like that. She may be a mixed race, but she's not a slave. I can still help. \m[flirty]
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    A new pharmacy has been opened near the Noer East Gate which carries medication against such infections.\n If I'm not mistaken, it's called \C[6]Elise's Obstetrics and Gynecology Clinic \C[0].
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    Now beware, that medication isn't cheap. We no longer have any stock ourselves, otherwise this infection wouldn't be a problem.
-\m[serious]\plf\Rshake\c[6]Lona：\c[0]    I'll try to get it as soon as possible!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    Quiet, the insects are slowly absorbing the host's strength. She must rest now...
+\m[terror]\plf\Rshake\c[6]Lona：\c[0]    Bagaimana keadaannya?! Apa yang akan terjadi padanya?
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Tidak bagus... Setidaknya mereka belum bertelur.
+\m[shocked]\plf\c[6]Lona：\c[0]    Telur? Di dalam perutnya?!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Ya, telur. Bayi-bayinya menetas dan mulai makan dari dalam inangnya. Banyak budak mati dengan cara ini, yang berdampak serius pada produksi.
+\m[sad]\plf\c[6]Lona：\c[0]    B-Bisakah dia diselamatkan?!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Begitu telurnya menetas, tidak ada harapan. Dan jika mayat mereka dibiarkan, mereka bisa menginfeksi yang lain juga. \m[fear]\Rshake
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Jangan menatapku seperti itu. Dia mungkin ras campuran, tapi dia bukan budak. Aku masih bisa membantu. \m[flirty]
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Sebuah apotek baru telah dibuka di dekat Gerbang Timur Noer yang menyediakan obat untuk infeksi semacam itu.\n Kalau tidak salah, namanya \C[6]Klinik Kebidanan dan Kandungan Elise\C[0].
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Tapi hati-hati, obat itu tidak murah. Kami tidak punya stok lagi, kalau ada sih infeksi ini tidak akan jadi masalah.
+\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Aku akan mencoba mendapatkannya secepat mungkin!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Tenanglah, serangga-serangga itu perlahan menyerap kekuatan inangnya. Dia harus istirahat sekarang...
 
 Lisa/LisaAbomHev_Clear3
-\board[Acquire Bug Repellent]
-Acquire 1 Bug Repellent \i[208]\n
-or 5 Repellent Herb. \i[206]\n
-And return to the mine to speak with Lisa.
+\board[Dapatkan Pengusir Serangga]
+Dapatkan 1 Bug Repellent \i[208]\n
+atau 5 Repellent Herb. \i[206]\n
+Dan kembali ke tambang untuk bicara dengan Lisa.
 
 Lisa/LisaAbomHev_HealNoItem
 \SETpl[LisaSad]\Lshake\prf\c[4]Lisa：\c[0]    Uhhhhnnnnn......
 
 Lisa/LisaAbomHev_WithItem1
-\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Lisa! Can you hear me? Please, I need you to eat this!
+\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Lisa! Bisa dengar aku? Tolong, kau harus makan ini!
 
 Lisa/LisaAbomHev_WithItem2
-\SETpl[LisaSad]\PLF\prf\c[4]Lisa：\c[0]    Guuuuaaah... S-Sis...?
-\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    How are you feeling?
-\SETpl[LisaSad]\PLF\prf\c[4]Lisa：\c[0]    I.......
-\SETpl[LisaSad]\PLF\prf\c[4]Lisa：\c[0]    Th-Thoose bugs ahttacked meh\..\..\..
+\SETpl[LisaSad]\PLF\prf\c[4]Lisa：\c[0]    Guuuuaaah... K-Kak...?
+\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Bagaimana perasaanmu?
+\SETpl[LisaSad]\PLF\prf\c[4]Lisa：\c[0]    Aku.......
+\SETpl[LisaSad]\PLF\prf\c[4]Lisa：\c[0]    Se-Serangga itu nyerang gue\..\..\..
 
 Lisa/LisaAbomHev_WithItem3
 \SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    \{GUH! AHHH!! GAAAAAAAH!!!!
@@ -200,485 +200,485 @@ Lisa/LisaAbomHev_WithItem3
 \SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    \{NNNnnnighnnnn......
 
 Lisa/LisaAbomHev_WithItem4
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]    It's okay, they're gone now! Please don't cry.
-\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    *Sniff* Waaah! *Sniff* Nnnnwaaaaaah! *Sob*
+\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Tidak apa-apa, mereka sudah pergi sekarang! Tolong jangan menangis.
+\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    *Hiks* Waaah! *Hiks* Nnnnwaaaaaah! *Terisak*
 
 Lisa/LisaAbomHev_WithItem5
-\SETpl[LisaSad]\PLF\prf\c[4]Lisa：\c[0]    Sis... L-Lona...
-\m[confused]\plf\PRF\c[6]Lona：\c[0]    Don't cry, I'm right here!
+\SETpl[LisaSad]\PLF\prf\c[4]Lisa：\c[0]    Kak... L-Lona...
+\m[confused]\plf\PRF\c[6]Lona：\c[0]    Jangan menangis, aku di sini!
 \SETpl[LisaSad]\PLF\prf\c[4]Lisa：\c[0]    .........
-\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    Let's go an' wepair da PAHOMPA!
-\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Eye'm gonna make moor bombs tah geet rid aff all these buggers!!!
-\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    Ok! Let's go!
+\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    Ayo kita perbaiki si PAHOMPA!
+\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Gue bakal bikin lebih banyak bom buat nyingkirin semua serangga sialan ini!!!
+\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    Oke! Ayo!
 
 ####################################--------------------- C130 Quest
 
 Lisa/C130_3_0
-\CamCT\m[flirty]\plf\c[6]Lona：\c[0]    Excuse me... So you're a gunpowder supplier?
-\CamMP[UniqueLisa]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Mah family's een this busniess... Ye?
-\CamCT\m[confused]\plf\c[6]Lona：\c[0]    So, do you know what a Overlord M405 Cannon is?
-\CamMP[UniqueLisa]\SETpl[LisaAngry]\prf\c[4]Lisa：\c[0]    Ya mean PAHOMPA? PAHOMPA is me family's work...
-\CamMP[UniqueLisa]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    How's eet dooin'?  Ya agreeh dhey got ah bad taste on namin things?
-\CamCT\m[flirty]\plf\c[6]Lona：\c[0]    Actually... The device is broken and unserviceable now. They are looking for someone to repair it.
-\CamMP[UniqueLisa]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    FOOKIN' 'ELL! Whot bee tah status on PAHOMPA?! Kan ya still move eet?
-\CamCT\m[fear]\plf\Rshake\c[6]Lona：\c[0]    No... It... Blew up completely.
-\CamMP[UniqueLisa]\SETpl[LisaAngry]\prf\c[4]Lisa：\c[0]    ......W-WHOT?!
-\CamCT\m[flirty]\plf\c[6]Lona：\c[0]    I think it'd be better to put a self-destruct button in a less conspicuous place...
+\CamCT\m[flirty]\plf\c[6]Lona：\c[0]    Permisi... Jadi kau penyuplai bubuk mesiu?
+\CamMP[UniqueLisa]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Keluarga gue di bisnis ini... Ya?
+\CamCT\m[confused]\plf\c[6]Lona：\c[0]    Jadi, apa kau tahu apa itu Meriam Overlord M405?
+\CamMP[UniqueLisa]\SETpl[LisaAngry]\prf\c[4]Lisa：\c[0]    Maksud lu PAHOMPA? PAHOMPA itu karya keluarga gue...
+\CamMP[UniqueLisa]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Gimana kabarnya? Lu setuju kan selera nama mereka jelek banget?
+\CamCT\m[flirty]\plf\c[6]Lona：\c[0]    Sebenarnya... Alat itu rusak dan tidak bisa dipakai sekarang. Mereka mencari seseorang untuk memperbaikinya.
+\CamMP[UniqueLisa]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    SIALAN! Gimana status PAHOMPA?! Masih bisa digerakin gak?
+\CamCT\m[fear]\plf\Rshake\c[6]Lona：\c[0]    Tidak... Itu... Meledak total.
+\CamMP[UniqueLisa]\SETpl[LisaAngry]\prf\c[4]Lisa：\c[0]    ......A-APA?!
+\CamCT\m[flirty]\plf\c[6]Lona：\c[0]    Kurasa lebih baik menaruh tombol penghancur diri di tempat yang tidak terlalu mencolok...
 \CamMP[UniqueLisa]\SETpl[LisaAngry]\prf\c[4]Lisa：\c[0]    ...........
-\CamCT\m[fear]\plf\c[6]Lona：\c[0]    It's better to have multiple safety devices and preventions. Most soldiers aren't even able to read... What's wrong?
-\CamMP[UniqueLisa]\SETpl[LisaAngry]\prf\Lshake\c[4]Lisa：\c[0]    PAHOMPA's self-destruck sequence wus me dehsign...
-\CamCT\m[sad]\plf\c[6]Lona：\c[0]    \..\..\..S-Sorry.
-\CamMP[UniqueLisa]\SETpl[LisaNormal]\prf\Lshake\c[4]Lisa：\c[0]    Allwight, eye'll fix me babie up! But now ther's a shuretage of matear-eols, will ya 'elp me?
+\CamCT\m[fear]\plf\c[6]Lona：\c[0]    Lebih baik punya beberapa perangkat keamanan dan pencegahan. Kebanyakan prajurit bahkan tidak bisa membaca... Ada apa?
+\CamMP[UniqueLisa]\SETpl[LisaAngry]\prf\Lshake\c[4]Lisa：\c[0]    Urutan penghancuran diri PAHOMPA itu desain gue...
+\CamCT\m[sad]\plf\c[6]Lona：\c[0]    \..\..\..M-Maaf.
+\CamMP[UniqueLisa]\SETpl[LisaNormal]\prf\Lshake\c[4]Lisa：\c[0]    Baiklah, gue bakal benerin bayi gue! Tapi sekarang lagi kekurangan material, lu mau bantu gue?
 
 Lisa/C130_3_1board
-\CamCT\board[Overlord M405 Cannon repair]
-Objective： Repair the Overlord M405 Cannon located in East 7 Sentry Point.
-Commissioner： Lisa
-Duration： 5 days
-Escort Lisa to the mine to obtain 10 High-quality Minerals. \i[342]After that, repair the cannon at the East 7 Outpost.
+\CamCT\board[Perbaikan Meriam Overlord M405]
+Tujuan： Perbaiki Meriam Overlord M405 yang terletak di Pos Jaga Timur 7.
+Komisaris： Lisa
+Durasi： 5 hari
+Kawal Lisa ke tambang untuk mendapatkan 10 Mineral Berkualitas Tinggi. \i[342]Setelah itu, perbaiki meriam di Pos Depan Timur 7.
 
 Lisa/C130_3_Accept
-\CamMP[UniqueLisa]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Ya kan't buy sucha eyetum anyware een tah Touwn ah Noer! Beesides, we're gonna need sum high-qualaty meanahrools!
-\CamCT\m[flirty]\plf\c[6]Lona：\c[0]    Wouldn't you want to give those to your parents?
-\CamMP[UniqueLisa]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Arr ya kidden? They abandoned meh when eye wus ah wee lass!
-\CamCT\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?!
-\CamMP[UniqueLisa]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Eye'm ah bloodie 'alf-breed... The reesult of rape frum ah fookin' wankah and ah slag, ya kan tell buy looken at me ears... \m[sad]
-\CamMP[UniqueLisa]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Ohhh, dun't bee looken like dat! Life's gud now, eye'm free tah do as eye pwease!
-\CamMP[UniqueLisa]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    If ya seereous ahbout fixen PAHOMPA, jus' follow meh to the mines!
-\CamCT\m[flirty]\plf\c[6]Lona：\c[0]    Got it!
+\CamMP[UniqueLisa]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Lu gak bisa beli barang gituan di Kota Noer! Selain itu, kita bakal butuh beberapa mineral berkualitas tinggi!
+\CamCT\m[flirty]\plf\c[6]Lona：\c[0]    Apa kau tidak ingin memberikannya pada orang tuamu?
+\CamMP[UniqueLisa]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Lu bercanda? Mereka nelantarin gue pas gue masih kecil!
+\CamCT\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Hah?!
+\CamMP[UniqueLisa]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Gue ini darah campuran sialan... Hasil perkosaan dari bajingan ngaceng sama pelacur, lu bisa liat dari kuping gue... \m[sad]
+\CamMP[UniqueLisa]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Ohhh, jangan liat kayak gitu dong! Hidup udah enak sekarang, gue bebas ngelakuin apa aja semau gue!
+\CamMP[UniqueLisa]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Kalo lu serius mau benerin PAHOMPA, ikutin gue ke tambang!
+\CamCT\m[flirty]\plf\c[6]Lona：\c[0]    Mengerti!
 
 Lisa/C130_3_2
-\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Fastah! Eye kan feel PAHOMPA whimpahin'!
+\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Cepetan! Gue bisa ngerasain PAHOMPA merintih!
 
 Lisa/QuestLisa_1_1
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    Stop! Who goes there?!
-\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Oi! It's meh! Long tyme no sea!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    Ah, the half-breed! And she's brought a friend. It's been a while!
-\SETpr[LisaHappy]\plf\Rshake\c[4]Lisa：\c[0]    I'm hear tah barter. Arr there any high-qualaty meanahrools lefta buy?
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    Can't sell 'em to you, the mine pit is constantly being filled with infected monsters, the only stock is reserved for the Guardsmen Headquarters.
-\SETpr[LisaNormal]\plf\Rshake\c[4]Lisa：\c[0]    Ah dun't worreh! Isn't eet okay fur us tah find sum ourselfs in the mine?
-\SETpl[LisaAngry]\m[confused]\Lshake\prf\c[4]Lisa：\c[0]    This Sis's tuff! She's runnin' aroun' tah eyeland buy herself durang this owutbreak! She's got huge guts!
-\SETpl[LisaAngry]\m[confused]\Lshake\prf\c[4]Lisa：\c[0]    Whatevah munstah cooms at us, she'll bee able tah take kare of eet!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Warden：\c[0]    Her? \..\..\..She doesn't seem to be the fighting type.
-\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    What?! Me?
-\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Ya kan deal wif all kinda munstahs, right?
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Berhenti! Siapa di sana?!
+\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Oi! Ini gue! Lama tak jumpa!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Ah, si ras campuran! Dan dia bawa teman. Sudah lama ya!
+\SETpr[LisaHappy]\plf\Rshake\c[4]Lisa：\c[0]    Gue di sini mau barter. Masih ada mineral berkualitas tinggi buat dibeli gak?
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Gak bisa dijual ke kamu, lubang tambang terus-terusan dipenuhi monster terinfeksi, stok yang ada cuma buat Markas Besar Penjaga.
+\SETpr[LisaNormal]\plf\Rshake\c[4]Lisa：\c[0]    Ah jangan khawatir! Boleh kan kalo kita cari sendiri di tambang?
+\SETpl[LisaAngry]\m[confused]\Lshake\prf\c[4]Lisa：\c[0]    Kakak ini tangguh! Dia lari-larian keliling pulau sendirian pas wabah gini! Dia punya nyali gede!
+\SETpl[LisaAngry]\m[confused]\Lshake\prf\c[4]Lisa：\c[0]    Monster apapun yang dateng, dia bakal bisa ngatasinnya!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[0]Sipir：\c[0]    Dia? \..\..\..Dia gak keliatan kayak tipe petarung.
+\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Apa?! Aku?
+\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Lu bisa ngatasin segala jenis monster kan?
 \m[flirty]\plf\c[6]Lona：\c[0]    Ummm...
 
 Lisa/QuestLisa_1_board
-\board[High-quality Minerals]
-Lona doesn't know what a High-quality Mineral looks like.
-Only Lisa is able to point out where High-quality Minerals are at.
-High-quality Minerals are only displayed when Lisa is near Lona.
+\board[Mineral Berkualitas Tinggi]
+Lona tidak tahu seperti apa Mineral Berkualitas Tinggi itu.
+Hanya Lisa yang bisa menunjukkan di mana Mineral Berkualitas Tinggi berada.
+Mineral Berkualitas Tinggi hanya ditampilkan saat Lisa berada di dekat Lona.
 
 Lisa/QuestLisa_2_done
-\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    We've got enuff meanahrools! Let's skram!!
-\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Eye'm gonna turn those buggers inta soup four whut dhey did tah meh dat day!
+\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Kita udah punya cukup mineral! Ayo cabut!!
+\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Gue bakal jadiin bajingan-bajingan itu sup karena apa yang mereka lakuin ke gue hari itu!
 
 Lisa/QuestLisa_3_CP0
-\m[triumph]\plf\c[6]Lona：\c[0]    Sir! I brought someone back to repair it!
-\CamMP[officer]\SETpl[Lawbringer]\PLF\prf\c[4]Artillery Officer：\c[0]    Great job!
+\m[triumph]\plf\c[6]Lona：\c[0]    Pak! Aku membawa seseorang untuk memperbaikinya!
+\CamMP[officer]\SETpl[Lawbringer]\PLF\prf\c[4]Petugas Artileri：\c[0]    Kerja bagus!
 
 Lisa/QuestLisa_3_CP1
-\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    PAHOMPA! Oooh, yah suffured sucha 'orrible deaf...
-\CamCT\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    W-What's wrong? You can't fix it?!
-\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    Kiddin'! Eye'm only muckin' about!
-\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Who do yah think eye ahm?! Of course eye kan fix her! Gimmie tah matear-eols!
+\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    PAHOMPA! Oooh, lu menderita kematian yang mengerikan...
+\CamCT\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    A-Ada apa? Kau tidak bisa memperbaikinya?!
+\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    Becanda! Gue cuma main-main doang!
+\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Lu pikir gue siapa?! Tentu aja gue bisa benerin dia! Siniin materialnya!
 
 Lisa/QuestLisa_3_CP2
-\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Now, pay 'ttenshion an watch this! Eye'm gonna make PAHOMPA jus' like new ahgain!
+\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Sekarang, perhatiin dan liat ini! Gue bakal bikin PAHOMPA kayak baru lagi!
 
 Lisa/QuestLisa_3_CP3_end
-\SETpr[LisaHappy]\SETpl[Lawbringer]\Rshake\plf\c[4]Lisa：\c[0]    And finashed! Yah kan give eet ah try now. Eye promuse thare's nu problem!
-\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    Amazing! Looks exactly like when we first recieved it.
-\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    Your father must be so proud. Not only for creating such a weapon for us...
-\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    But also being able to teach a half-breed woman basic repairs! Please give him my thanks.
+\SETpr[LisaHappy]\SETpl[Lawbringer]\Rshake\plf\c[4]Lisa：\c[0]    Dan selesai! Lu bisa cobain sekarang. Gue janji gak ada masalah!
+\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Luar biasa! Kelihatannya persis seperti saat kami pertama kali menerimanya.
+\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Ayahmu pasti sangat bangga. Bukan hanya karena menciptakan senjata seperti itu untuk kami...
+\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Tapi juga bisa mengajari wanita ras campuran perbaikan dasar! Tolong sampaikan terima kasihku padanya.
 \SETpr[LisaAngry]\Rshake\plf\c[4]Lisa：\c[0]    \..\..\..\..\..\..
-\CamCT\m[shocked]\SETpl[LisaAngry]\plf\Rshake\c[6]Lona：\c[0]    Ummm... A-Anyways, we're all so thankful for you!
+\CamCT\m[shocked]\SETpl[LisaAngry]\plf\Rshake\c[6]Lona：\c[0]    Ummm... Bagaimanapun, kami semua sangat berterima kasih padamu!
 
 Lisa/QuestLisa_3_CP3_end1
-\SETpl[Lawbringer]\SETpr[LisaNormal]\Lshake\prf\c[4]Artillery Officer：\c[0]    Regarding the price of the repairs, you can take this certificate to the security headquarters for payment.
-\SETpr[nil]\SETpl[LisaAngry]\prf\c[4]Lisa：\c[0]    \..\..\..\SETpl[LisaTriumph]\Lshake Eye'd say ah job well done! Wee should celabraight buy BLOWIN' SUMTHIN' UP!
-\SETpl[Lawbringer]\m[normal]\Lshake\prf\c[4]Artillery Officer：\c[0]    Again, my thanks to the two of you. I'll find someone to escort her back. And ma'am, I never got your name?
-\CamCT\m[pleased]\plf\Rshake\c[6]Lona：\c[0]    You can call me Lona!
+\SETpl[Lawbringer]\SETpr[LisaNormal]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Mengenai harga perbaikan, kau bisa membawa sertifikat ini ke markas keamanan untuk pembayaran.
+\SETpr[nil]\SETpl[LisaAngry]\prf\c[4]Lisa：\c[0]    \..\..\..\SETpl[LisaTriumph]\Lshake Gue bilang kerja bagus! Kita harus ngerayainnya dengan MELEDAKKAN SESUATU!
+\SETpl[Lawbringer]\m[normal]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Sekali lagi, terima kasih kepada kalian berdua. Aku akan mencari seseorang untuk mengawalnya kembali. Dan nona, aku belum tahu namamu?
+\CamCT\m[pleased]\plf\Rshake\c[6]Lona：\c[0]    Kau bisa memanggilku Lona!
 
 ####################################--------------------- LISA SouthFL quest
 
 SouthFL_11/begin
-\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Um...I have something I want to ask for your help with.
-\CBid[-1,20]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Lona, just sie what ye bloody want! You've 'elped me, and I'll 'elp ye too!
+\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Um... Aku punya sesuatu yang ingin kuminta bantuanmu.
+\CBid[-1,20]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Lona, bilang aja apa yang lu mau! Lu udah bantuin gue, dan gue bakal bantuin lu juga!
 
 SouthFL_11/begin_board
-\board[Escort Lisa to East 7 Sentry point]
-Goal： Escort Lisa
-Client：South Gate Campgrounds
-deadline：#{$story_stats["HiddenOPT1"]}days
-Escort Lisa to\c[4]East 7 Sentry Point\c[0].
+\board[Kawal Lisa ke Pos Jaga Timur 7]
+Tujuan： Kawal Lisa
+Klien： Perkemahan Gerbang Selatan
+tenggat waktu：#{$story_stats["HiddenOPT1"]}hari
+Kawal Lisa ke \c[4]Pos Jaga Timur 7\c[0].
 
 SouthFL_12/Joined0
-\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    A group of soldiers outside Sybaris said they needed your Overlord Cannon...
-\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Oh, ye mean that lil' thing me call PAHOMPA?
-\CBct[6]\m[confused]\plf\c[6]Lona：\c[0]    Umm, whatever... Pahompa... Anyway, they need your help.
-\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Listen up! Ye gots to ge' it roight! It's co'od brand ree-cog-naishun.
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Anyway, your cannon is famous now, you and I are also famous with it, they are calling for us by our names...
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Pahompa works now, so we can use it to blast those meat devils to smithereens.
+\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Sekelompok tentara di luar Sybaris bilang mereka butuh Meriam Overlord-mu...
+\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Oh, maksud lu benda kecil yang gue panggil PAHOMPA?
+\CBct[6]\m[confused]\plf\c[6]Lona：\c[0]    Umm, terserahlah... Pahompa... Pokoknya, mereka butuh bantuanmu.
+\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Denger ya! Lu harus sebut yang bener! Itu namanya brand re-cog-naishun.
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Pokoknya, meriammu terkenal sekarang, kau dan aku juga terkenal karenanya, mereka memanggil nama kita...
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Pahompa berfungsi sekarang, jadi kita bisa menggunakannya untuk meledakkan iblis-iblis daging itu sampai hancur berkeping-keping.
 \CBid[-1,8]\SETpl[LisaAngry]\m[confused]\Lshake\prf\c[4]Lisa：\c[0]    \..\..\..
-\CBid[-1,4]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Aight!
-\CBct[20]\m[flirty]\plf\c[6]Lona：\c[0]    Huh?
-\CBid[-1,3]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    Aight! I'll gaw with ye and we can use me cannon ta beat tha meat together...
-\CBct[20]\m[pleased]\plf\c[6]Lona：\c[0]    All right, let's go.
+\CBid[-1,4]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Oke!
+\CBct[20]\m[flirty]\plf\c[6]Lona：\c[0]    Hah?
+\CBid[-1,3]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    Oke! Gue bakal ikut lu dan kita bisa pake meriam gue buat ngehajar daging itu bareng-bareng...
+\CBct[20]\m[pleased]\plf\c[6]Lona：\c[0]    Baiklah, ayo pergi.
 
 ####################################--------------------- LISA SouthFL quest on eastCP
 
 Lisa7/begin0
-\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Oh... Hello, it's nice to see you again.
-\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    Hmmm? You must be... Lona, right?
-\CBfE[20]\SETpr[LisaHappy]\plf\Rshake\c[4]Lisa：\c[0]    Oi! Go' a feelin' fo' me cannon yet?
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    The half-breed is here too?
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    What's wrong? I still have enough firepower here, the deepones have calmed down recently, I don't need your assistance.
-\CBct[8]\m[confused]\plf\c[6]Lona：\c[0]    Hmm... The soldiers at the South Gate Campsite hope you can move the Overlord Cannon there.
-\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    They are currently being attacked by flesh demons and the situation is getting worse.
-\CBid[-1,8]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    \..\..\..
-\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    You need to transfer it over?
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    I mentioned this cannon in my letters, but I had no intention to give it away!
-\CBct[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    So... We can't have it?
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    They just want a freebie! Ask them to give me something in exchange for it!
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    But you don't even know how to operate it anyway. It's better to give it to someone who can use it, than just let it rot here, right?!
-\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Everyone should work together to defeat the monsters, they need your help!
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    This is why I hate Sybarians... Sybaris needs this... Sybaris needs that... Sybaris is a lost cause! It's gone! Get the fuck over it, little brat!
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    My hometown, Noer, still stands! And if She's attacked, without that cannon, I can only sit here with my thumbs up my ass and do nothing about it.
-\CBct[8]\m[sad]\plf\c[6]Lona：\c[0]    I'm sorry, I didn't mean to...
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    I won't give it to you! Tell the commanding officer to come here himself with a requisition form! Does he have no respect for the people of Noer? Asking two brats to relay messages...
+\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Oh... Halo, senang bertemu denganmu lagi.
+\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Hmmm? Kau pasti... Lona, kan?
+\CBfE[20]\SETpr[LisaHappy]\plf\Rshake\c[4]Lisa：\c[0]    Oi! Udah kangen sama meriam gue belum?
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Si ras campuran ada di sini juga?
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Ada apa? Aku masih punya cukup daya tembak di sini, para deepone sudah tenang akhir-akhir ini, aku tidak butuh bantuanmu.
+\CBct[8]\m[confused]\plf\c[6]Lona：\c[0]    Hmm... Para prajurit di Perkemahan Gerbang Selatan berharap kau bisa memindahkan Meriam Overlord ke sana.
+\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Mereka saat ini sedang diserang oleh iblis daging dan situasinya makin parah.
+\CBid[-1,8]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    \..\..\..
+\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Kau perlu memindahkannya ke sana?
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Aku menyebutkan meriam ini dalam surat-suratku, tapi aku tidak berniat memberikannya begitu saja!
+\CBct[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Jadi... Kita tidak boleh mengambilnya?
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Mereka cuma mau gratisan! Minta mereka memberiku sesuatu sebagai gantinya!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Tapi kau bahkan tidak tahu cara mengoperasikannya kan. Lebih baik memberikannya kepada seseorang yang bisa menggunakannya, daripada membiarkannya membusuk di sini, kan?!
+\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Semua orang harus bekerja sama untuk mengalahkan monster, mereka butuh bantuanmu!
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Inilah kenapa aku benci orang Sybaris... Sybaris butuh ini... Sybaris butuh itu... Sybaris itu kasus yang hilang! Itu sudah lenyap! Lupakan saja, bocah tengik!
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Kampung halamanku, Noer, masih berdiri! Dan jika Dia diserang, tanpa meriam itu, aku cuma bisa duduk diam di sini dan tidak melakukan apa-apa.
+\CBct[8]\m[sad]\plf\c[6]Lona：\c[0]    Maaf, aku tidak bermaksud...
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Aku tidak akan memberikannya padamu! Suruh komandan datang ke sini sendiri dengan formulir permintaan! Apakah dia tidak punya rasa hormat pada orang-orang Noer? Menyuruh dua bocah untuk menyampaikan pesan...
 
 Lisa7/begin1
-\CBfE[20]\SETpr[LisaAngry]\plf\Rshake\c[4]Lisa：\c[0]    Oi! Who are you calling a bra' 'ere? I'll fuck ye sideways!
-\CBfE[5]\SETpr[LisaAngry]\plf\Rshake\c[4]Lisa：\c[0]    I dee-saigned this 'ere cannon, I'll take it with me when I wanna, innit?
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    Humph! Even if you had developed the cannon, I won't let it go, it belongs to this outpost's inventory. They probably won't be able to use it anyway...
-\CBfE[8]\SETpr[LisaAngry]\plf\Rshake\c[4]Lisa：\c[0]    \..\..\.. Ye fooka.
+\CBfE[20]\SETpr[LisaAngry]\plf\Rshake\c[4]Lisa：\c[0]    Oi! Siapa yang lu panggil bocah di sini? Gue hajar lu!
+\CBfE[5]\SETpr[LisaAngry]\plf\Rshake\c[4]Lisa：\c[0]    Gue yang desain meriam ini, gue bakal bawa kapan pun gue mau, tau gak?
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Hmph! Bahkan jika kau yang mengembangkan meriam itu, aku tidak akan melepaskannya, itu milik inventaris pos ini. Mereka mungkin juga tidak akan bisa menggunakannya...
+\CBfE[8]\SETpr[LisaAngry]\plf\Rshake\c[4]Lisa：\c[0]    \..\..\.. Dasar bajingan.
 
 Lisa7/begin2
-\CBfE[20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Oi, bruv? Is there any artillery at the South Gate Campsite?
-\CBct[8]\m[tired]\plf\c[6]Lona：\c[0]    I think I saw some when I've been there...
+\CBfE[20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Oi, bro? Ada artileri gak di Perkemahan Gerbang Selatan?
+\CBct[8]\m[tired]\plf\c[6]Lona：\c[0]    Kurasa aku melihat beberapa saat aku ke sana...
 
 Lisa7/begin3
 \CBfE[8]\SETpr[LisaAngry]\plf\Rshake\c[4]Lisa：\c[0]    \..\..\..
-\CBfE[20]\SETpr[LisaNormal]\plf\Rshake\c[4]Lisa：\c[0]    Aight. 'Ere's what we gunna do. I'll take the faier cantro' system offa this piece of shite an' convert it to a good ol' dumb cannon is what I'll do.
-\CBfE[20]\SETpr[LisaAngry]\plf\Rshake\c[4]Lisa：\c[0]    This way your dumb shite grunts can use your cannon an' I'll bring me faier cantro' system ovah to the otha campsite.
-\CBfE[20]\SETpr[LisaNormal]\plf\Rshake\c[4]Lisa：\c[0]    You can surely wait until I transform that one into a PAHOMPA, then I bring it back to yous.
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    \..\..\..
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    Should we change it back to an average cannon? That anyone can use...
-\CBfE[20]\SETpr[LisaNormal]\plf\Rshake\c[4]Lisa：\c[0]    Aye.
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    All right, you've got yourselves a deal.
-\CBfE[20]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Hoo-fucken-rae!
+\CBfE[20]\SETpr[LisaNormal]\plf\Rshake\c[4]Lisa：\c[0]    Oke. Gini yang bakal kita lakuin. Gue bakal copot sistem kontrol tembak dari rongsokan ini dan ubah jadi meriam biasa.
+\CBfE[20]\SETpr[LisaAngry]\plf\Rshake\c[4]Lisa：\c[0]    Dengan cara ini pasukan bodoh lu bisa pake meriam lu dan gue bakal bawa sistem kontrol tembak gue ke perkemahan lain.
+\CBfE[20]\SETpr[LisaNormal]\plf\Rshake\c[4]Lisa：\c[0]    Lu pasti bisa nunggu sampe gue ubah yang di sana jadi PAHOMPA, terus gue balikin lagi ke lu.
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    \..\..\..
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Haruskah kita mengubahnya kembali menjadi meriam biasa? Yang bisa digunakan siapa saja...
+\CBfE[20]\SETpr[LisaNormal]\plf\Rshake\c[4]Lisa：\c[0]    Yoi.
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Baiklah, kita sepakat.
+\CBfE[20]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Asiikkk!
 
 Lisa7/begin4
-\CBfE[20]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Bruv, come an' look at this!
-\CBct[6]\m[flirty]\plf\c[6]Lona：\c[0]    O-okay...
+\CBfE[20]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Bro, sini liat ini!
+\CBct[6]\m[flirty]\plf\c[6]Lona：\c[0]    O-oke...
 
 Lisa7/begin5
-\CBct[2]\m[confused]\plf\c[6]Lona：\c[0]    This is.... The fire control system?
-\CBfE[20]\SETpr[LisaNormal]\plf\Rshake\c[4]Lisa：\c[0]    Aye! Me princess parts! I could make any cannon into a PAHOMPA if I only had more of these!
-\CBct[2]\m[flirty]\plf\c[6]Lona：\c[0]    P-princess parts?
+\CBct[2]\m[confused]\plf\c[6]Lona：\c[0]    Ini.... Sistem kontrol tembak?
+\CBfE[20]\SETpr[LisaNormal]\plf\Rshake\c[4]Lisa：\c[0]    Yoi! Bagian tuan putri gue! Gue bisa bikin meriam apa aja jadi PAHOMPA kalo gue punya lebih banyak ginian!
+\CBct[2]\m[flirty]\plf\c[6]Lona：\c[0]    B-bagian tuan putri?
 
 Lisa7/begin6
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    Well I'm not very satisfied with this deal, but I'll let it slide because you saved our bacon here.
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Artillery Officer：\c[0]    Get out of my face and... Good luck.
-\CBct[2]\m[confused]\plf\c[6]Lona：\c[0]    Uh... Thank you, Sir!
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Yah aku tidak terlalu puas dengan kesepakatan ini, tapi aku akan membiarkannya karena kau telah menyelamatkan nyawa kami di sini.
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Petugas Artileri：\c[0]    Menyingkirlah dari hadapanku dan... Semoga berhasil.
+\CBct[2]\m[confused]\plf\c[6]Lona：\c[0]    Uh... Terima kasih, Pak!
 
 Lisa7/begin7
-\CBfE[20]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Are we ready ta head out?
-\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Yes... Let's go to the \c[4]South Gate Campsite\c[0]!
-\CBfE[3]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Aye, let's rawk.
+\CBfE[20]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Udah siap berangkat?
+\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Ya... Ayo pergi ke \c[4]Perkemahan Gerbang Selatan\c[0]!
+\CBfE[3]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Yoi, ayo gass.
 
 Lisa7/begin5_board
-\board[Escort Lisa to the South Gate Camp]
-Goal： Escort Lisa
-Client： South Gate Campsite
-Deadline：#{$story_stats["HiddenOPT1"]}days
-Escort Lisa to the \c[4]South Gate Campsite\c[0].
+\board[Kawal Lisa ke Perkemahan Gerbang Selatan]
+Tujuan： Kawal Lisa
+Klien： Perkemahan Gerbang Selatan
+Tenggat waktu：#{$story_stats["HiddenOPT1"]}hari
+Kawal Lisa ke \c[4]Perkemahan Gerbang Selatan\c[0].
 
 ####################################--------------------- LISA SouthFL quest on eastCP
 
 Lisa8/Begin1
-\CBct[6]\m[flirty]\plf\c[6]Lona：\c[0]    Uh... hello?
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    It's you! You came back alive!
-\CBct[2]\m[confused]\plf\c[6]Lona：\c[0]    What do you mean? Of course we came back alive...
-\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Who's the brat?
-\CBfE[20]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Brat... Wow... I'm \c[6]Lisa\c[0]. Like bangin' yo mama \c[6]Lisa\c[0]!
-\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Huh?
-\CBct[20]\m[confused]\plf\c[6]Lona：\c[0]    She is the craftswoman who built the Overlord Cannon.
-\CBfE[5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    It's called PAHOMPA! Brand recognaishun, Lona! Brand Re-cog-naaaishun!
-\CBid[-1,8]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Hmm... Okay, what about the cannon? Why don't I see no cannon?
-\CBct[6]\m[flirty]\plf\c[6]Lona：\c[0]    Well... It was too heavy for us to haul it all the way over here.
+\CBct[6]\m[flirty]\plf\c[6]Lona：\c[0]    Uh... halo?
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Itu kau! Kau kembali hidup-hidup!
+\CBct[2]\m[confused]\plf\c[6]Lona：\c[0]    Maksudmu? Tentu saja kami kembali hidup-hidup...
+\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Siapa bocah itu?
+\CBfE[20]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Bocah... Wow... Gue \c[6]Lisa\c[0].
+\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Hah?
+\CBct[20]\m[confused]\plf\c[6]Lona：\c[0]    Dia adalah pengrajin yang membangun Meriam Overlord.
+\CBfE[5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Namanya PAHOMPA! Brand recognaishun, Lona! Brand Re-cog-naaaishun!
+\CBid[-1,8]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Hmm... Oke, bagaimana dengan meriamnya? Kenapa aku tidak melihat meriam?
+\CBct[6]\m[flirty]\plf\c[6]Lona：\c[0]    Yah... Terlalu berat bagi kami untuk mengangkutnya sampai ke sini.
 \CBid[-1,8]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    \..\..\..
-\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    So there was nobody in Noer to help you...
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Are we not fighting these monsters together?
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    How are we supposed to take back our home?
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Wait, don't blame them. They were also attacked by deepones.
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Deepones?! Haven't those things been driven off the island a long time ago?!
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    I'm sorry, he had his reasons, that's all I'm saying...
+\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Jadi tidak ada seorang pun di Noer yang membantumu...
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Apa kita tidak melawan monster-monster ini bersama-sama?
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Bagaimana kita bisa merebut kembali rumah kita?
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Tunggu, jangan salahkan mereka. Mereka juga diserang oleh deepone.
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Deepone?! Bukankah makhluk-makhluk itu sudah diusir dari pulau sejak lama?!
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Maaf, dia punya alasannya sendiri, itu saja yang kukatakan...
 
 Lisa8/Begin2
 \SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    !!!!!!
 
 Lisa8/Begin3
-\CBid[-1,1]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Wait a second, the hell is that kid doing with our artillery?
-\CBct[6]\m[confused]\plf\c[6]Lona：\c[0]    Huh...?
+\CBid[-1,1]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Tunggu sebentar, apa yang bocah itu lakukan dengan artileri kita?
+\CBct[6]\m[confused]\plf\c[6]Lona：\c[0]    Hah...?
 
 Lisa8/Begin4
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    LISA! What are you doing?!
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    LISA! Apa yang kau lakukan?!
 
 Lisa8/Begin5
-\CBfE[20]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    AN'... FINASHED!
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    WHAT THE-?! -What the fuck is this? Why is my beautiful cannon now a STEAMING PILE OF SHIT?!
-\CBfE[20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    PAHOMPA! It can rek your enemies from moiles away.
-\CBfE[5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Imagine your daughter innit? She olweis be runnin' away from bein' photographed innit? PAHOMPA can nail 'er anyway. Wanna try?
-\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    ENOUGH! Return my cannon to it's original state right this instant! Or I'll have someone ordered to cut you down for sabatoge!
-\CBct[6]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    SIR! P-Please wait, calm down!
-\CBct[6]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    Y-you called us here in the first place, how about you just let her work? A-and then we show you the power of this cannon in action?
+\CBfE[20]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    DAN... SELESAI!
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    APA-?! -Apa-apaan ini? Kenapa meriam indahku sekarang jadi TUMPUKAN SAMPAH?!
+\CBfE[20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    PAHOMPA! Bisa ancurin musuh lu dari bermil-mil jauhnya.
+\CBfE[5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Bayangin anak cewek lu coba? Dia selalu kabur kalo difoto kan? PAHOMPA bisa nangkep dia. Mau coba?
+\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    CUKUP! Kembalikan meriamku ke keadaan semula sekarang juga! Atau aku akan perintahkan seseorang untuk menebasmu karena sabotase!
+\CBct[6]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    PAK! T-Tunggu, tenanglah!
+\CBct[6]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    K-kau yang memanggil kami ke sini, bagaimana kalau kau biarkan dia bekerja? D-dan kemudian kami tunjukkan kekuatan meriam ini dalam aksi?
 
 Lisa8/Begin6
 \CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    \..\..\..
-\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    HMMPH! Come with me then!
-\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Fine, but if this 'upgrade' isn't as impressive as you two are claiming it to be, I'll make sure to personally hang you both!
+\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    HMMPH! Ikut aku kalau begitu!
+\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Baik, tapi jika 'peningkatan' ini tidak semengesankan yang kalian berdua klaim, aku pastikan akan menggantung kalian berdua sendiri!
 
 Lisa8/Begin7
-\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Phew... There'll be no accidents. There musn't be any... I trust Lisa's skills.
+\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Fiuuh... Tidak akan ada kecelakaan. Tidak boleh ada... Aku percaya kemampuan Lisa.
 
 Lisa8/Begin8_board
-\board[Go and test the cannon]
-Goal： Escort Lisa
-Client： South Gate Campsite
-Deadline：#{$story_stats["HiddenOPT1"]}days
-Take Lisa to the \c[4]South Gate Campsite\c[0] defensive perimeter.
-And show the power of the Overlord Cannon to those old men.
-Tell them that a new era has come and the age of the old has passed.
+\board[Pergi dan uji meriamnya]
+Tujuan： Kawal Lisa
+Klien： Perkemahan Gerbang Selatan
+Tenggat waktu：#{$story_stats["HiddenOPT1"]}hari
+Bawa Lisa ke perimeter pertahanan \c[4]Perkemahan Gerbang Selatan\c[0].
+Dan tunjukkan kekuatan Meriam Overlord kepada orang-orang tua itu.
+Katakan pada mereka bahwa era baru telah tiba dan zaman yang lama telah berlalu.
 
 ####################################--------------------- LISA SouthFL quest on Warfare
 
 Lisa9/Begin0
-\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    You finally arrived...
-\CBct[6]\m[flirty]\plf\c[6]Lona：\c[0]    Yes.
-\CBid[-1,8]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    You said you are powerful. Where is your power, little girl?
-\CBid[-1,8]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    There happens to be some garbage ahead for you to try.
-\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Show me your so-called perfect shot.
-\CBct[6]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    I will!
-\CBfE[5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Blow up those damn slabs o' meat!
-\CBfE[20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Let 'em all know me powah!
-\CBct[6]\m[serious]\plf\c[6]Lona：\c[0]    No problem! I can do it!
+\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Kau akhirnya sampai...
+\CBct[6]\m[flirty]\plf\c[6]Lona：\c[0]    Ya.
+\CBid[-1,8]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Kau bilang kau kuat. Di mana kekuatanmu, gadis kecil?
+\CBid[-1,8]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Kebetulan ada sampah di depan untuk kau coba.
+\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Tunjukkan padaku apa yang disebut tembakan sempurnamu.
+\CBct[6]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    Aku akan melakukannya!
+\CBfE[5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Ledakin daging-daging sialan itu!
+\CBfE[20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Biar mereka semua tau kekuatan gue!
+\CBct[6]\m[serious]\plf\c[6]Lona：\c[0]    Gak masalah! Aku bisa melakukannya!
 
 Lisa9/Done0
 \SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    \..\..\..
-\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    What a surprise... It was exactly as the kid said.
-\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    O' course! Me PAHOMPA is invincibul!
-\m[flirty]\plf\c[6]Lona：\c[0]    Huh... Does this prove that this thing is useful?
+\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Kejutan sekali... Persis seperti kata bocah itu.
+\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Tentu aja! PAHOMPA gue tak terkalahkan!
+\m[flirty]\plf\c[6]Lona：\c[0]    Hah... Apa ini membuktikan bahwa benda ini berguna?
 \SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Um......
 
 Lisa9/NotYet
-\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    It's a perfect shot, eh?
+\CBid[-1,5]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Itu tembakan yang sempurna, eh?
 
 Lisa10/Begin0
-\CBfE[5]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    What's wrong? Ye dun like me PAHOMPA?
-\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Huh?
-\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Uh... She wants you to compliment her on her cannon?
-\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Oh yeah, it was pretty good...
-\CBfE[3]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Aye!
+\CBfE[5]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Ada apa? Lu gak suka PAHOMPA gue?
+\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Hah?
+\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Uh... Dia ingin kau memuji meriamnya?
+\CBid[-1,2]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Oh ya, itu lumayan bagus...
+\CBfE[3]\SETpr[LisaTriumph]\plf\Rshake\c[4]Lisa：\c[0]    Yoi!
 
 Lisa10/Begin1
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Remarkable accuracy. But it will take a lot of time for our soldiers to understand how to use it.
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Unfortunately, that's exactly what we don't have.
-\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    That's true....
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Akurasi yang luar biasa. Tapi butuh banyak waktu bagi prajurit kami untuk mengerti cara menggunakannya.
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Sayangnya, itulah yang tidak kami miliki.
+\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Itu benar....
 
 Lisa10/Begin2
-\CBmp[Guard,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    Attention everyone! We got incoming!
+\CBmp[Guard,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Prajurit：\c[0]    Perhatian semuanya! Ada yang datang!
 
 Lisa10/Begin3
-\CBmp[Guard,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    It's a living person! It's a survivor!
+\CBmp[Guard,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Prajurit：\c[0]    Itu orang hidup! Itu penyintas!
 
 Lisa10/Begin4
-\CBmp[Refugee,6]\Lshake\prf\c[4]Survivor：\c[0]    Help me!
+\CBmp[Refugee,6]\Lshake\prf\c[4]Penyintas：\c[0]    Tolong aku!
 
 Lisa10/Begin5
-\CBmp[Refugee,6]\Lshake\prf\c[4]Survivor：\c[0]    I don't want to... *huff* *haff* I don't want to die!
+\CBmp[Refugee,6]\Lshake\prf\c[4]Penyintas：\c[0]    Aku tidak mau... *hosh* *hosh* Aku tidak mau mati!
 
 Lisa10/Begin6
-\CBmp[Refugee,6]\Lshake\prf\c[4]Survivor：\c[0]    No! Leave me alone!
+\CBmp[Refugee,6]\Lshake\prf\c[4]Penyintas：\c[0]    Tidak! Tinggalkan aku sendiri!
 
 Lisa10/Begin7
-\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Oh no... He's gone...
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    By the Saint... Look! He dragged a horde of meat demons with himself.
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    To arms everyone! Get ready to fight!
-\CBmp[Guard,6]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Soldier：\c[0]    Fuck, we're so dead... Game over man, GAME OVER!
+\CBct[8]\m[flirty]\plf\c[6]Lona：\c[0]    Oh tidak... Dia sudah tiada...
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Demi Orang Suci... Lihat! Dia menyeret segerombolan iblis daging bersamanya.
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Siapkan senjata semuanya! Bersiaplah untuk bertarung!
+\CBmp[Guard,6]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Prajurit：\c[0]    Bangsat, mati kita... Tamat sudah riwayat kita, TAMAT!
 
 Lisa10/Begin8
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Hey you!
-\CBct[2]\m[flirty]\plf\c[6]Lona：\c[0]    Who?! Me?
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Yes you, Lona! You're on cannon duty!
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Yes Sir!
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Hei kau!
+\CBct[2]\m[flirty]\plf\c[6]Lona：\c[0]    Siapa?! Aku?
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Ya kau, Lona! Kau bertugas di meriam!
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Siap Pak!
 
 Lisa10/Begin9
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    And you! Take Lisa safely back to the fortress!
-\CBmp[Guard,3]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Soldier：\c[0]    Yes Sir!
-\CBfE[5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Oi bruv! I wanna see me PAHOMPA show 'er powah, innit?
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Non-combatants will only get in the way here, so take her away immediately. Now! I said right NOW!
-\CBfE[5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Wot-fookin-evah!
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Dan kau! Bawa Lisa kembali ke benteng dengan selamat!
+\CBmp[Guard,3]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Prajurit：\c[0]    Siap Pak!
+\CBfE[5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Oi bro! Gue mau liat PAHOMPA gue unjuk kekuatan, tau!
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Non-kombatan cuma bakal ngalangin di sini, jadi bawa dia pergi segera. Sekarang! Aku bilang SEKARANG!
+\CBfE[5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Terserah-sialan-lah...
 
 Lisa10/Begin10
-\CBct[20]\m[flirty]\plf\c[6]Lona：\c[0]    Uh... Lisa, actually the watchtower at the camp overlooks the entire city, including here.
-\CBct[20]\m[confused]\plf\c[6]Lona：\c[0]    You don't want to encounter those... things again, do you?
+\CBct[20]\m[flirty]\plf\c[6]Lona：\c[0]    Uh... Lisa, sebenarnya menara pengawas di perkemahan bisa melihat seluruh kota, termasuk di sini.
+\CBct[20]\m[confused]\plf\c[6]Lona：\c[0]    Kau tidak mau ketemu benda-benda... itu lagi, kan?
 \CBfE[8]\SETpl[LisaSad]\Lshake\prf\c[4]Lisa：\c[0]    \..\..\..
-\CBfE[20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Aight, fine, I'mma leave. Bruv, show em some tender girl-love, okay?
-\CBct[3]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    All right, I'll do just that.
+\CBfE[20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Yaudah, oke, gue cabut. Bro, kasih mereka "kasih sayang cewek" yang lembut, oke?
+\CBct[3]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    Baiklah, akan kulakukan.
 
 Lisa10/Begin10_board
-\board[Kill them all]
-Goal：Kill all monsters
-Client：South Gate Perimeter
-Deadline： Immediately
-Let the monsters have a taste of gunpowder, leave none alive!
+\board[Bunuh mereka semua]
+Tujuan：Bunuh semua monster
+Klien：Perimeter Gerbang Selatan
+Tenggat waktu： Segera
+Biarkan para monster merasakan bubuk mesiu, jangan sisakan yang hidup!
 
 Lisa10/NotYet
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    The meat demons are coming! Hurry! To arms men!
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Iblis daging datang! Cepat! Angkat senjata!
 
 Lisa11/Win0
-\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    We survived! We won!
+\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Kita selamat! Kita menang!
 
 Lisa11/Lose0
-\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Saint damn it... FALLBACK!
-\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Soldier：\c[0]    Whu... What the heck is that?!
-\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    \..\..\.. Huh?
+\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Demi Orang Suci sialan... MUNDUR!
+\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Prajurit：\c[0]    A... Apa-apaan itu?!
+\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    \..\..\.. Hah?
 
 Lisa12/begin0_Win
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    You did a great job, this is definitely the biggest meat wave offensive we have faced so far, and yet you successfully repelled them.
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uh... That's only because Lisa's cannon is so stupid overpowered...
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    It really is...
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Kau melakukan pekerjaan hebat, ini jelas serangan gelombang daging terbesar yang pernah kita hadapi, namun kau berhasil memukul mundur mereka.
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uh... Itu cuma karena meriam Lisa terlalu kuat secara konyol...
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Memang benar...
 
 Lisa12/begin0_Lose
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    You were right, I should have believed it, I should have believed it sooner!
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Oh Saint from the heavens... Forgive me!
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Huh?
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Don’t you see?! That’s the Saint himself! The Saint brings down the purifying fire!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    The... The Saint?
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Kau benar, harusnya aku percaya, harusnya aku percaya lebih awal!
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Oh Orang Suci dari surga... Ampuni aku!
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Hah?
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Tidakkah kau lihat?! Itu Orang Suci sendiri! Orang Suci menurunkan api penyucian!
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Sang... Orang Suci?
 
 Lisa12/begin1
-\CBmp[Guard,20]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Soldier：\c[0]    Sir! Bad news!
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    What? What's going on?
-\CBmp[Guard,20]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Soldier：\c[0]    I was besieged by monsters on the road and they took the child.
-\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    WHAT?!
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Are you telling me she's dead?
-\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    No! She must be rescued! Those monsters will assimilate her if we're too late!
-\CBmp[Guard,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    It's not my fault, I'm not at fault! She was running around like a crazy fool!
-\CBmp[Guard,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    You will definitely not survive if you are taken to the lair!
-\CBct[20]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    Tell me where they took her!
-\CBmp[Guard,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    North, go to the city! But you can count me out! I ain't going back out there!
+\CBmp[Guard,20]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Prajurit：\c[0]    Pak! Kabar buruk!
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Apa? Apa yang terjadi?
+\CBmp[Guard,20]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Prajurit：\c[0]    Saya dikepung monster di jalan dan mereka mengambil anak itu.
+\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    APA?!
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Maksudmu dia sudah mati?
+\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    Tidak! Dia harus diselamatkan! Monster-monster itu akan menyerapnya jika kita terlambat!
+\CBmp[Guard,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Prajurit：\c[0]    Bukan salah saya, saya tidak salah! Dia lari ke sana kemari seperti orang gila!
+\CBmp[Guard,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Prajurit：\c[0]    Kau pasti tidak akan selamat jika dibawa ke sarangnya!
+\CBct[20]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    Katakan ke mana mereka membawanya!
+\CBmp[Guard,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Prajurit：\c[0]    Utara, pergi ke kota! Tapi jangan harap saya ikut! Saya tidak mau balik ke sana!
 
 Lisa12/begin2_Win
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    That's what happens if you trust newbies with a man's job... We can't spare the manpower, so take these.
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Go back to the camp and see if you can hire some help.
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Itulah akibatnya mempercayakan pekerjaan laki-laki pada pemula... Kami tidak punya tenaga cadangan, jadi ambillah ini.
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Kembalilah ke kamp dan lihat apa kau bisa menyewa bantuan.
 
 Lisa12/begin2_Lose
-\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    May the Saint have mercy on her poor soul, her fate is no longer in our hands.
+\CBid[-1,20]\SETpl[Lawbringer]\Lshake\prf\c[4]Centurion：\c[0]    Semoga Orang Suci mengasihani jiwanya yang malang, nasibnya tidak lagi di tangan kita.
 
 Lisa12/begin3_Board
-\board[Save Lisa]
-Goal： Go to the northern meat demon's lair and saveLisa.
-Client： Lona
-Deadline： 3 days
-Lisa was captured by the Flesh Demons, and I had to rescue her as soon as possible.
-From what that soldier said, it could be in the north? In the city?
+\board[Selamatkan Lisa]
+Tujuan： Pergi ke sarang iblis daging di utara dan selamatkan Lisa.
+Klien： Lona
+Tenggat waktu： 3 hari
+Lisa ditangkap oleh Iblis Daging, dan aku harus menyelamatkannya sesegera mungkin.
+Dari apa yang prajurit itu katakan, mungkinkah di utara? Di kota?
 
 Lisa12/begin4
 \CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Lisa...
 
 Lisa10/QmsgFailed
-Leaving will cause the mission to fail
+Pergi akan menyebabkan misi gagal
 
 ###############################################################################################################################     Find lisa in hive 3
 ###############################################################################################################################     Find lisa in hive 3
 ###############################################################################################################################     Find lisa in hive 3
 
 Lisa12/Hive3_Bios
-\CBmp[Pant,19]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    These are Lisa's...panties?
-\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    She is indeed here...
-\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Hope she's still alive...
+\CBmp[Pant,19]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Ini... celana dalam Lisa?
+\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Dia memang ada di sini...
+\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Semoga dia masih hidup...
 
 Lisa12/Hive3_Bios_board
-\board[Save Lisa]
-Goal： Go to the seedbed room.
-Client： Lona
-Every second counts, Lisa may not be able to hold on for long, you must act fast.
+\board[Selamatkan Lisa]
+Tujuan： Pergi ke ruang wadah benih.
+Klien： Lona
+Setiap detik berharga, Lisa mungkin tidak bisa bertahan lama, kau harus bertindak cepat.
 
 ###############################################################################     HEV DEV AREA
 Lisa12/rg13_HEV0
-\narr Today is a happy day, the meat demon has caught a new prey.
+\narr Hari ini adalah hari bahagia, iblis daging telah menangkap mangsa baru.
 
 Lisa12/rg13_HEV1
-\c[4]Lisa：\c[0]    \{Holy mother of meat soup! Let me goooo!\}
+\c[4]Lisa：\c[0]    \{Ibu suci sup daging! Lepasin gueeee!\}
 
 Lisa12/rg13_HEV1_1
-\narr It was a very strong, youthful mother body, and the flesh demon decided to make her into the best seedbed.
+\narr Itu adalah tubuh induk yang sangat kuat dan muda, dan iblis daging memutuskan untuk menjadikannya wadah benih terbaik.
 
 Lisa12/rg13_HEV2
-\c[4]Lisa：\c[0]    If you come at me, I'll bite yo dick off! All of 'em!
+\c[4]Lisa：\c[0]    Kalo lu deketin gue, gue gigit titit lu sampe putus! Semuanya!
 
 Lisa12/rg13_HEV3
-\c[4]Lisa：\c[0]    AIEEEE EE EEE EEE! So many of 'em!
+\c[4]Lisa：\c[0]    AIEEEE EE EEE EEE! Banyak banget!
 
 Lisa12/rg13_HEV4
 \c[4]Lisa：\c[0]    AIEEEEEEE!!!
 
 Lisa12/rg13_HEV5
-\c[4]Lisa：\c[0]    Noooo! Not me arse'ole!
+\c[4]Lisa：\c[0]    Tidak! Jangan lubang pantat gue!
 
 Lisa12/rg13_HEV6
-\narr The flesh demon's tentacles kept wildly squirming inside the seedbed's rectum, vigorously exploring its tender insides.
-\narr It injected a large amount of lubricant and preconceptional fluid into the body as a test.
-\narrOFF\c[4]Lisa：\c[0]    AIIEEE! Stop eeeet! This ain't no fun anymore!
-\narr It's hormone- and pehromone-laden fluid indicated to the creature that this host would be a perfect seedbed!
+\narr Tentakel iblis daging itu terus menggeliat liar di dalam rektum wadah benih, dengan penuh semangat menjelajahi bagian dalamnya yang lembut.
+\narr Ia menyuntikkan sejumlah besar pelumas dan cairan prakonsepsi ke dalam tubuh sebagai ujian.
+\narrOFF\c[4]Lisa：\c[0]    AIIEEE! Berhentiiii! Ini gak lucu lagi!
+\narr Cairannya yang sarat hormon dan feromon menunjukkan kepada makhluk itu bahwa inang ini akan menjadi wadah benih yang sempurna!
 
 Lisa12/rg13_HEV7
 \c[4]Lisa：\c[0]    \...\..\...!!!!!
-\Rshake\c[4]Lisa：\c[0]    No... Please no more... Leave me alone...
+\Rshake\c[4]Lisa：\c[0]    Tidak... Tolong jangan lagi... Tinggalkan aku sendiri...
 
 Lisa12/rg13_HEV8
 \c[4]Lisa：\c[0]    \{Ah?!
-\Rshake\c[4]Lisa：\c[0]    Eaaah!!!\n \{It 'uuurts it 'uuurts!
+\Rshake\c[4]Lisa：\c[0]    Eaaah!!!\n \{Sakiiiit, sakiiiit!
 
 Lisa12/rg13_HEV9
-\c[4]Lisa：\c[0]    \{It 'urts! Ah it's at me womb...
-\narr The flesh demon does not care about the cries of the seedbed as it violates its holes.
-For the more the seedbed cries and struggles, it means the healthier it is, the more vigorous the monster becomes.
+\c[4]Lisa：\c[0]    \{Sakit! Ah itu di rahim gue...
+\narr Iblis daging tidak peduli dengan tangisan wadah benih saat ia menodai lubang-lubangnya.
+Karena semakin wadah benih menangis dan meronta, itu berarti semakin sehat dia, semakin kuat monsternya.
 
 Lisa12/rg13_HEV10
 \c[4]Lisa：\c[0]    \{AIEEEEE EE EEEEE!
 
 Lisa12/rg13_HEV11
-\c[4]Lisa：\c[0]    *Sob* *Sob* It 'urts so much... It 'uuurts so muuuuch!.....
-\narr The meat demon injected a large amount of parasitic mutagenic fluid into Lisa's body to prepare her womb for transformation....
+\c[4]Lisa：\c[0]    *Hiks* *Hiks* Sakit banget... Sakiiit baaangeeet!.....
+\narr Iblis daging menyuntikkan sejumlah besar cairan mutagenik parasit ke dalam tubuh Lisa untuk mempersiapkan rahimnya bagi transformasi....
 
 Lisa12/rg13_HEV12
 \c[4]Lisa：\c[0]    \{AIEEE!!
-\Rshake\c[4]Lisa：\c[0]    It 'uuuurts, AAAAH!!!!!
+\Rshake\c[4]Lisa：\c[0]    Sakiiiit, AAAAH!!!!!
 
 Lisa12/rg13_HEV13
-\narr Seedbeds will gradually lose all sensation except sexual desire, and this new one will be no exception.
-\narr But before a new seedbed is completely transformed, it feels nothing but excruciating pain...
-\narr Of course, the creature doesn't care about all this, to it these screaming, struggling lumps of meat are just more mass to assimilate.
-\narr To hasten the transformation of the seedbed, the meat demon's tendrils move up its digestive tract, exuding hormones along its length.
+\narr Wadah benih secara bertahap akan kehilangan semua sensasi kecuali hasrat seksual, dan yang baru ini tidak terkecuali.
+\narr Tapi sebelum wadah benih baru benar-benar berubah, ia tidak merasakan apa-apa selain rasa sakit yang luar biasa...
+\narr Tentu saja, makhluk itu tidak peduli tentang semua ini, baginya gumpalan daging yang menjerit dan meronta ini hanyalah massa untuk diasimilasi.
+\narr Untuk mempercepat transformasi wadah benih, sulur iblis daging bergerak naik ke saluran pencernaannya, memancarkan hormon di sepanjang jalurnya.
 
 Lisa12/rg13_HEV14
-\c[4]Lisa：\c[0]    N-no, no more juice! Stop!
+\c[4]Lisa：\c[0]    T-tidak, jangan jus lagi! Berhenti!
 
 Lisa12/rg13_HEV15
 \c[4]Lisa：\c[0]    \{AIEEAAAAHAHA\} AHAYYAH\} HAAAAAAAYYYAH!
 
 Lisa12/rg13_HEV16
-\c[4]Lisa：\c[0]    \{No... *URGH* Wha.. *HURRRK* It's... *GLAGH*
+\c[4]Lisa：\c[0]    \{Gak... *URGH* Apa.. *HURRRK* Itu... *GLAGH*
 
 Lisa12/rg13_HEV17
 \c[4]Lisa：\c[0]    Uhhhu-uh-uuhhh-huuhu...
-\narr The tentacles of the meat demon went all the way from the anus to the esophagus of the seedbed, rearranging its innards along the way.
-\narr Then they emerged through the mouth. The seedbed has now lost consciousness due to the infernal pain...
-\narr But the transformation of the seedbed has just begun...
+\narr Tentakel iblis daging masuk mulai dari anus hingga kerongkongan wadah benih, mengatur ulang organ dalamnya di sepanjang jalan.
+\narr Kemudian mereka muncul melalui mulut. Wadah benih sekarang telah kehilangan kesadaran karena rasa sakit yang luar biasa...
+\narr Tapi transformasi wadah benih baru saja dimulai...
 
 ###############################################################################     Hev end
 
@@ -686,20 +686,20 @@ Lisa12/rg13_end
 \CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    !!!!!!
 
 Lisa12/triggerHer0
-\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    \c[4]Lisa\c[0]!? Are you okay?
-\CBid[-1,8]\prf\c[4]Lisa：\c[0]    *Sob* *sob*.....
-\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Oh, poor girl!
+\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    \c[4]Lisa\c[0]!? Kau baik-baik saja?
+\CBid[-1,8]\prf\c[4]Lisa：\c[0]    *Hiks* *hiks*.....
+\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Oh, gadis malang!
 
 Lisa12/triggerHer0_board
-\board[Take Lisa and leave]
-Goal： To escort Lisa out of the monster's lair, Lisa must be near the exit.
-Client： Lona
-Deadline：#{$story_stats["HiddenOPT1"]}days
-I found Lisa, but her condition was very poor, with traces of parasitism almost all over her body.
-I must take her out of here immediately!
+\board[Bawa Lisa dan pergi]
+Tujuan： Untuk mengawal Lisa keluar dari sarang monster, Lisa harus berada di dekat pintu keluar.
+Klien： Lona
+Tenggat waktu：#{$story_stats["HiddenOPT1"]}hari
+Aku menemukan Lisa, tetapi kondisinya sangat buruk, dengan jejak parasitisme hampir di seluruh tubuhnya.
+Aku harus membawanya keluar dari sini segera!
 
 Lisa12/triggerHer1
-\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Don't be afraid, big sister will get you out of here.
+\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Jangan takut, kakak akan mengeluarkanmu dari sini.
 \CBid[-1,8]\prf\c[4]Lisa：\c[0]    ......
 
 Lisa13/triggerHer0
@@ -708,19 +708,19 @@ Lisa13/triggerHer0
 Lisa13/triggerHer1
 \CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    ............
 \CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    .....
-\CBct[6]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    Sorry \..\..\.. I was too late......
+\CBct[6]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    Maaf \..\..\.. Aku terlambat......
 
 Lisa13/Qmsg0
-Lisa became a seedbed
+Lisa menjadi wadah benih
 
 Lisa13/Qmsg1
-A part of the lair
+Bagian dari sarang
 
 Lisa13/Qmsg2
-You were late...
+Kau terlambat...
 
 Lisa14/LisaNotInR50
-Lisa Must be near the exit!
+Lisa Harus berada di dekat pintu keluar!
 
 Lisa14/CommonConvoyTarget0
 \CBid[-1,8]\c[4]Lisa：\c[0]    ............
@@ -732,56 +732,56 @@ Lisa14/CommonConvoyTarget2
 \CBid[-1,8]\c[4]Lisa：\c[0]    ....
 
 Lisa15/ExitHive3
-\m[tired]\plf\PRF\c[6]Lona：\c[0]    We made it out successfully, you'll be fine...
+\m[tired]\plf\PRF\c[6]Lona：\c[0]    Kita berhasil keluar dengan sukses, kau akan baik-baik saja...
 \c[4]Lisa：\c[0]    ....
 
 Lisa15/begin0_board
-\board[Find Elise]
-Goal： Escort Lisa to Elise Obstetrics and Gynecology.
-Client： Lona
-Deadline：#{$story_stats["HiddenOPT1"]}days
-I have to find a good doctor to treat Lisa.
-Time is limited, I must act now.
+\board[Temukan Elise]
+Tujuan： Kawal Lisa ke Klinik Kebidanan dan Kandungan Elise.
+Klien： Lona
+Tenggat waktu：#{$story_stats["HiddenOPT1"]}hari
+Aku harus mencari dokter yang baik untuk merawat Lisa.
+Waktu terbatas, aku harus bertindak sekarang.
 
 ###############################################################################################################################     Lisa to Elise
 ###############################################################################################################################     Lisa to Elise
 ###############################################################################################################################     Lisa to Elise
 
 Lisa16/ElisaTalk0
-\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Ha! Lona! You showed up just at the right time! I happened to need to see you for something.
-\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    \c[4]Elise\c[0]! Help! Help her!
-\CBid[-1,6]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    Huh? Calm down...
-\CBct[20]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    Hurry up! Your tasks can wait, this is serious!
+\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Ha! Lona! Kau muncul di saat yang tepat! Kebetulan aku perlu menemuimu untuk sesuatu.
+\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    \c[4]Elise\c[0]! Tolong! Tolong dia!
+\CBid[-1,6]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    Hah? Tenanglah...
+\CBct[20]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    Cepatlah! Tugasmu bisa menunggu, ini serius!
 
 Lisa16/ElisaTalk1
 \narr\....\....\....
 
 Lisa16/ElisaTalk2
-\CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Will she be okay? Her body was so severely corrupted.
-\CBid[-1,3]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Small problem! Barely an inconvenience!
-\CBid[-1,6]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    But....
-\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    But what?
-\CBid[-1,6]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Her brain is also infected, and it will be very, very expensive to cure her!
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    I... I will find a way, and I will pay you back no matter how much money you need!
-\CBid[-1,20]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    Don't worry, missus, I'll give this to you for free.
-\CBct[20]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Give it to me for free? What?
+\CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Apa dia akan baik-baik saja? Tubuhnya sangat parah terkorupsi.
+\CBid[-1,3]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Masalah kecil! Gak ngerepotin sama sekali!
+\CBid[-1,6]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    Tapi....
+\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    Tapi apa?
+\CBid[-1,6]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Otaknya juga terinfeksi, dan bakal sangaaat, sangat mahal untuk menyembuhkannya!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Aku... Aku akan mencari cara, dan aku akan membayarmu tidak peduli berapa banyak uang yang kau butuhkan!
+\CBid[-1,20]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    Jangan khawatir, Nyonya, aku akan memberikan ini padamu secara gratis.
+\CBct[20]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Memberikannya padaku secara gratis? Apa?
 
 Lisa16/ElisaTalk3_berY
-\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Remember the experimental medicine I was talking about? No? Anyway, this is a sample ready for mass production. Take it when you are in danger!
-\CBct[20]\m[fear]\plf\PRF\c[6]Lona：\c[0]    I-Is it dangerous?
-\CBid[-1,20]\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]Elise：\c[0]    Don't be afraid! I know everything there is to know about living organisms! I wouldn't give you anything unsafe for human consumption...
-\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Just make sure to tell me what you felt after using it.
+\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Ingat obat eksperimental yang kubicarakan? Tidak? Pokoknya, ini sampel yang siap untuk produksi massal. Minumlah saat kau dalam bahaya!
+\CBct[20]\m[fear]\plf\PRF\c[6]Lona：\c[0]    A-Apakah itu berbahaya?
+\CBid[-1,20]\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]Elise：\c[0]    Jangan takut! Aku tahu segala hal tentang organisme hidup! Aku tidak akan memberimu sesuatu yang tidak aman untuk dikonsumsi manusia...
+\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Pastikan saja untuk memberitahuku apa yang kau rasakan setelah menggunakannya.
 
 Lisa16/ElisaTalk3_berN
-\CBid[-1,20]\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]Elise：\c[0]    This is my latest work, it neds testing. Eat it when you are in danger!
-\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Be sure to report back and tell me how you felt afterwards!
-\CBct[20]\m[fear]\plf\PRF\c[6]Lona：\c[0]    I will! I will do it, I promise...
+\CBid[-1,20]\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]Elise：\c[0]    Ini karya terbaruku, perlu pengujian. Makanlah saat kau dalam bahaya!
+\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Pastikan untuk melapor kembali dan beritahu aku bagaimana perasaanmu sesudahnya!
+\CBct[20]\m[fear]\plf\PRF\c[6]Lona：\c[0]    Aku akan! Aku akan melakukannya, aku janji...
 
 Lisa16/ElisaTalk4
-\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Your little sister will survive. She'll be fine!
+\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Adikmu akan selamat. Dia akan baik-baik saja!
 
 Lisa16/ElisaTalk5
-\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    What now...? What should I do...?
+\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    Sekarang apa...? Apa yang harus kulakukan...?
 
 Lisa16/Check0
 \CBid[-1,8]\m[sad]\prf\c[4]Lisa：\c[0]    ......
@@ -792,45 +792,45 @@ Lisa16/Check1
 \CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    ......
 
 Lisa16_17/StillThere0
-\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Well... How is Lisa doing now?
+\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Jadi... Bagaimana keadaan Lisa sekarang?
 
 Lisa16_17/StillThere1_0
-\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Stop bothering me! Just wait!
+\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Jangan ganggu aku! Tunggu saja!
 
 Lisa16_17/StillThere1_1
-\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Stop bothering me! Why don't you ask her yourself?
+\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Jangan ganggu aku! Kenapa kau tidak tanya dia sendiri?
 
 Lisa16_17/StillThere1_2
-\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Stop running to the doctor all the time...
+\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Berhenti lari-lari ke dokter terus-terusan...
 
 Lisa16_17/StillThere2_2
-\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    I'm sorry......
+\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Maaf......
 
 Lisa16_17/NotThere0
-\CBmp[elise,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Gosh darn it! Didn't actually work...
-\CBmp[elise,20]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    I paid so much and only got this lame thing!
+\CBmp[elise,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Sialan! Gak beneran berhasil...
+\CBmp[elise,20]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    Aku bayar mahal banget dan cuma dapet barang cupu ini!
 \CBmp[elise,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Grrrrr!
 
 Lisa16_17/NotThere1
-\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    That\..\..\..
-\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    She's gone!
-\CBct[8]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    She's gone?! What did you do?!
-\CBid[-1,20]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    What do you mean 'what did I do?' I CURED her. She's gone, left after the treatment...
-\CBct[8]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    WHAT?! T-Then where did she go?!
-\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    I don't know! Do I look like her father to you?
+\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Itu\..\..\..
+\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Dia sudah pergi!
+\CBct[8]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Dia pergi?! Apa yang kau lakukan?!
+\CBid[-1,20]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    Apa maksudmu 'apa yang kulakukan?' Aku MENYEMBUHKANNYA. Dia pergi, cabut setelah perawatan...
+\CBct[8]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    APA?! L-Lalu ke mana dia pergi?!
+\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    Aku tidak tahu! Apa aku kelihatan seperti bapaknya?
 \CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Ugh......
 
 Lisa18_19/InMarket0
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Lisa! Are you alright?
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I was worried you were going to-...
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Lisa! Kau baik-baik saja?
+\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Aku khawatir kau akan-...
 \CBid[-1,8]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    -\..\..\..
-\CBid[-1,20]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Bruv, hoo the bloody 'elle are yous?
-\CBct[8]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    W-What?! It's me, Lo-...
+\CBid[-1,20]\SETpl[LisaHappy]\Lshake\prf\c[4]Lisa：\c[0]    Bro, siapa elo sebenernya?
+\CBct[8]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    A-Apa?! Ini aku, Lo-...
 \CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    -\..\..\..
-\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Forget it... It's all fine.
-\CBid[-1,5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    I'm just fuckin' with yous.
+\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Lupakan saja... Semuanya baik-baik saja.
+\CBid[-1,5]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Gue cuma ngerjain lu doang kok.
 
 ##--------------------------------------------------------------------------------------
 
 Lisa/dead
-\narr Lisa was killed in battle!
+\narr Lisa tewas dalam pertempuran!
