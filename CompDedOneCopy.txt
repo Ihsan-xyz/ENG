@@ -1,0 +1,174 @@
+DedOne/ded0
+\SETpl[DedOne_revenant]\Lshake\c[4]Orang Asing Misterius：\c[0]    GAAAHRUUUGAAAAAAHHH!!! IDDQD IDKFA!!!
+
+DedOne/ded1
+\SETpl[DedOne_revenant]\Lshake\c[4]Orang Asing Misterius：\c[0]    REEEEEEEEEEEEEEEEEE!!! KAAAU MENGHANCURKAN CERITAKUUU!
+
+DedOne/ded2
+\SETpl[DedOne_revenant]\Lshake\c[4]Orang Asing Misterius：\c[0]    RAAAGHAAAAAAHHHHHH!!! SENJATAAA! BUTUH LEBIH BANYAK SENJATAAA!
+
+DedOne/PirateBane_begin1
+\CBmp[DedOne,8]\SETpl[DedOne_normal]\Lshake\c[4]Orang Asing Misterius：\c[0]    ......
+\CBct[1]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    GAH!
+EEEK!!!
+\CBmp[DedOne,8]\SETpl[DedOne_normal]\PLF\prf\c[4]Orang Asing Misterius：\c[0]    .........
+\CBct[8]\m[fear]\plf\PRF\c[6]Lona：\c[0]    ......
+\CBmp[DedOne,8]\SETpl[DedOne_normal]\PLF\prf\c[4]Orang Asing Misterius：\c[0]    ...
+\CBct[1]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Errr...
+\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    K-Kau tidak bisa menakutiku!
+\CBmp[DedOne,8]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    ......Begiiituuuu kahhh?
+\CBct[1]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    EEEYAH!!! K-Kau bisa bicara?!
+
+DedOne/PirateBane_begin_k1_Cocona
+\CBmp[DedOne,2]\SETpl[DedOne_normal]\SETlpr[cocona_confused]\Lshake\PRF\c[4]Orang Asing Misterius：\c[0]    ......Hmmm?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\PRF\c[4]Orang Asing Misterius：\c[0]    Anakkk ini masssihhh hiiiiduppp...?
+\CBfB[7]\SETlpr[cocona_shocked]\plf\Rshake\c[6]Cocona：\c[0]    K-KAU! HISS... Cocona tahu kau! Orang jahat!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Tidaaak naaaak maniiis, aku bukaaannn. Kareeena aku adalaaaah temannn Keaaadilaaan.
+\CBfB[7]\SETlpr[cocona_angry]\plf\Rshake\c[6]Cocona：\c[0]    Kau! Hissss... Pembohong!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Aku bukaaannn.
+\CBfB[7]\SETlpr[cocona_angry]\plf\Rshake\c[6]Cocona：\c[0]    Kau iya!
+\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    \{BUKANNN!!!
+\CBfB[8]\SETlpr[cocona_confused]\plf\PRF\c[6]Cocona：\c[0]    .........
+\CBmp[DedOne,8]\SETpl[DedOne_normal]\m[confused]\PLF\prf\c[4]Orang Asing Misterius：\c[0]    ......
+\CBfB[8]\SETlpr[cocona_confused]\plf\PRF\c[6]Cocona：\c[0]    ......
+\CBmp[DedOne,8]\SETpl[DedOne_normal]\PLF\prf\c[4]Orang Asing Misterius：\c[0]    ...
+\CBmp[DedOne,8]\SETpl[DedOne_normal]\m[confused]\Lshake\PRF\c[4]Orang Asing Misterius：\c[0]    Jaagaaa diiiaaa baaaiik-baaaiiik...
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uh...
+\CBct[1]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Tentu saja!
+
+DedOne/PirateBane_begin_k1_GratRat
+\CBfF[1]\SETpr[GrayRatShockedAr]\plf\Rshake\c[6]Gray Rat：\c[0]    MUNDUR NONA MUDA!
+\CBfF[1]\SETpr[GrayRatShockedAr]\plf\Rshake\c[6]Gray Rat：\c[0]    Kau... Apa kau ini?!
+\CBfB[2]\SETpl[CecilyWtfAr]\Lshake\prf\C[4]Cecily：\C[0]    Ada apa?
+\CBfF[20]\SETpr[GrayRatShockedAr]\plf\Rshake\c[6]Gray Rat：\c[0]    Jangan mendekat! Menjauhlah darinya!
+\CBmp[DedOne,8]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    ......Hmmm?
+\CBfB[2]\SETpl[CecilyShockedAr]\Lshake\prf\C[4]Cecily：\C[0]    Apa-apaan yang terjadi di sini?!
+\CBfF[20]\SETpr[GrayRatShockedAr]\plf\Rshake\c[6]Gray Rat：\c[0]    Makhluk itu berbahaya! Anda harus lari!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Apa kooouuu gila?
+Aku adalaaaah temannn Keaaadilaaan!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Jelaaaskan padaakuuu di manaaa akuuu memprooovokaaasimu?
+\CBfF[8]\SETpr[GrayRatConfusedAr]\plf\Rshake\c[6]Gray Rat：\c[0]    ......
+\CBfF[8]\SETpr[GrayRatNormalAr]\plf\Rshake\c[6]Gray Rat：\c[0]    ......
+\CBfF[6]\SETpr[GrayRatNormalAr]\plf\Rshake\c[6]Gray Rat：\c[0]    Saya salah paham pada Anda, mohon maaf Tuan.
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Tiiidak apaaa... Seringgg terjaaadiii.
+
+DedOne/PirateBane_begin_k2
+\CBmp[DedOne,20]\m[confused]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Naaak terschiiintaaa... Pernaaahkah kauuu beeertemuuu oraaang seeprtiii iniii seeebelumnyaaa?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Diiiaaa seumuuuran dengannnmuuu... Taaapi punya daaada yang jauuuh lebih beeessaaar.
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    D-Dada.........?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Perhaaatikaaan! Payudaaaranyaaa saaangat beeerbeeedaaa dibaaandingkan milikmuuu, sssaaangat beeessaaar.
+Aku biiilaaang ukurannnnya seeebesaar meeelon maaadu.
+\CBct[8]\m[shy]\plf\Rshake\c[6]Lona：\c[0]    Be... Besar.........?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Jaaangannn seeediiih, daaada raaata jugaaa imuuut kok.
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Anaaakku! Dengaaarkan kata-kataaaku dan iiingatlah aapa yang kuuuucaaapkannn!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Jika daaadamu tiiidak raaata, bagaiiimana duniiia biiisa seeetaara?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Jika daaadamu tiiidak beeessaaar, bagaiiimana orang-orang biiisa beeersaatu?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Dalaaam mimpian eroootiiis, tiiidak ada beeessaaar ataupun raaata.
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Seemuaaa yaang biiisa kita capai adalaaah klimaksss dengaan tangaan kita sendiiriii.
+\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Errr-... Aku...
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Jaaangan cemaaas... Aku haaanya bercandaaa dengaanmuuu.
+
+DedOne/PirateBane_begin_k3
+\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Jiiika kauuu pernaaah berpapasan dengaaan gaaadis peeendeeek, berdada-beeessaaar, berkulit-biiiruuu, dan bodoooh, tolooong baaawa dia padakuuu.
+\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Waaanita dengaaan kuliiit-biiiruuu ituuu jaraaang, kaaannn? Aku berhaaaraaap dia beeelum maaatttiii.
+
+DedOne/PirateBane_begin_k3_Opt
+\CBct[8]\m[normal]\SETpl[DedOne_normal]\plf\PRF\c[6]Lona：\c[0]    Ummm...\optB[Lupakan saja,Siapa kau?,Kulit biru?<r=HiddenOPT0>]
+
+DedOne/PirateBane_begin_k3_Opt_who
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Sebenarnya siapa... Apa kau ini?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Keadilan：\c[0]    KEAAADILAAAN! Karenaaa aku adalaaaah temannn keaaadilaaan!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Keadilan：\c[0]    Keaaadilaaan telaaah daaatang keee Pulaaau Noeeer untuuuk membaaantai semua makhluuuk jahaaat dan memurnikaaan duniiia iniii!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Keadilan：\c[0]    Selaaama kejaahaaatan masiiih aaada, MAAAKA AKUUU JUUUGA AKAAAN ADDAAA!
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Oke...
+
+DedOne/PirateBane_begin_k3_Opt_blue_NonMeet
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Gadis berkulit biru?
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ada begitu banyak kekacauan di dunia ini sekarang... Pasti tidak banyak harapan untuk menemukannya, kan?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Keadilan：\c[0]    Diiiaaa akaaan baaaiik-baaaiiik saajaa, akuuu sudaah baaaca dariii naskaaah baaahwa kauuu aaakan bertemuuu dengannyaaa diii maasa depaaan.
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Benarkah?
+
+DedOne/PirateBane_begin_k3_Opt_blue_Meet
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    ...Gadis berkulit biru?
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Sepertinya aku pernah bertemu. Apa dia seseorang yang mengaku sebagai \c[6]Penyihir Laut\c[0]?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Keadilan：\c[0]    AHHH! Jaaadi naskaaahku benaaar-benaaar diiikuuuti! Baaaguuusss seeekaaaliii!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Keadilan：\c[0]    Tolooong sampaaiiikan pesaaan padanyaaa baaahwa tuaaan taaanaahhhnya mengiiinformaaasikaan padanyaaa sewaaanya sudah jaaatuh temmmpo.
+Daaan biiilaaang padanyaaa jaaangaaan cooobaa sembuuunyiii laaagiii.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Sewanya jatuh tempo?
+...Kenapa kau tidak bilang sendiri padanya? Dia sekarang tinggal di reruntuhan di Pulau Fishtopia.
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Keadilan：\c[0]    Perrrcuuumaaa. Diiiaaa biiisa merasaaakan kehadiiirannnku.
+Akuuu haaanya iiinginnn mengingaaatkaannya baaahwa ini saaaatnya baaayaaar.
+Jiiiikaaa diiiaaa tiiidaaak mauuu bertemuuu akuuu, akuuu tiiidaaak mauuu memaksaaaanya.
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Keadilan：\c[0]    Teeentuuu saajaaa innni tidaaak akaaan siiia-siiiaaa.
+Selesaaaiiikan tugaaasku daaan akuuu akaaan memberiiiimu haaadiaaah Keaaadilaaan.
+\CBct[20]\m[normal]\plf\PRF\c[6]Lona：\c[0]    Oh?
+Yah, baiklah kalau begitu.
+
+####################################################################### PB_MassGrave
+#<r=HiddenOPT0>
+
+DedOne/MassGrave_1
+\CBct[8]\m[fear]\plf\PRF\c[6]Lona：\c[0]    \..\..\..P-Permisi?
+\CBmp[DedOne,2]\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Apaaa iiituuu?
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm...
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Orang-orang dari serikat bilang ada orang jahat yang melakukan hal buruk di sini.
+Aku tidak tahu apa kau yang bertanggung jawab atau bukan...
+\CBmp[DedOne,8]\SETpl[DedOne_normal]\PLF\prf\c[4]Orang Asing Misterius：\c[0]    ......Jaaahaaat?
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr... Kurasa mereka mungkin membicarakanmu?
+\CBmp[DedOne,2]\SETpl[DedOne_normal]\PLF\prf\c[4]Orang Asing Misterius：\c[0]    Akuuu?
+JAAAHAAAT?!\optD[Ya,(Jelaskan alasannya)<r=HiddenOPT0>]
+
+DedOne/MassGrave_optCB
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm... Ya...?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\PLF\prf\c[4]Orang Asing Misterius：\c[0]    Kenaaapaaa begiiituuu?
+Akuuu fffokuuusss paaada pekerjaaanku, daaan duniiia iniii membutuuuhkan akuuu.
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Tapi kau sudah mengganggu hukum dan ketertiban.
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Semua orang takut padamu... Dan aku juga agak berpikir kau jahat sih.
+\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    REEEEEEAAAGHAAAAAAHHHHHH!!!
+\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    AAAPAAA YAAANG KAAAU KATAAAKAAAN?!!! AKUUU TIIIDAAAK JAAAHAAAT!!!\n \.\.\.AKUUU\.\.\.
+ADALAAAH\.\.\. KEAAADILAAAN!!!
+\CBmp[DedOne,1]\SETpl[DedOne_angry]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    BUKTIIIKAAAN PAAADAAAKUUU KEMAMPUAAANMUUU!
+AKUUU AKAAAN BERIIIKAAAN TIIIGAAA PULUUUH DEEETIIIK!\n JIIIKAAA KAUUU BIIISAAA BERTAAAHAAAN, AKUUU AKAAAN MENDENGAAARKANMUUU!
+\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    APA-?!
+EEEP!!!
+
+DedOne/MassGrave_optCB2
+\CamMP[BlockerCam]\m[terror]\plf\PRF\c[6]Lona：\c[0]    EEEYAAAH?!
+\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    MENDEEERIIITAAALAAAH DAAAN MAAATIIILAAAH! 
+
+DedOne/MassGrave_optPASS
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr... Ya...?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\PLF\prf\c[4]Orang Asing Misterius：\c[0]    Kenaaapaaa begiiituuu? Akuuu fffokuuusss paaada pekerjaaanku, daaan duniiia iniii membutuuuhkan akuuu.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Pekerjaan? Pekerjaan macam apa yang kau lakukan?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\PLF\prf\c[4]Orang Asing Misterius：\c[0]    Dombaaa-dombaaa teeersesaaat iniii membuuutuuhkaaan tuntunaaankuuu. Akuuu baaantuuu arahkaaan merekaaa keee tempaaat mereeeka sehaaarussnyaaa.
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Mmmm... Aku tidak mengerti...
+\CBct[20]\m[fear]\plf\PRF\c[6]Lona：\c[0]    Yah bagaimanapun, tolong usahakan jangan terlihat orang lain.
+Itu cuma bikin masalah buat orang lain.
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\PLF\prf\c[4]Orang Asing Misterius：\c[0]    Akuuu sedaaang melakukaaan pekerjaaaan Keaaadilaaan!
+Akuuu adalaaaah oraaang baaaiiik, kenaaapa akuuu haruuur sembuuunyikaaan aaapa yangaa akuuu laaakukaaan?
+\CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Ugh...
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Kalau begitu kau harusnya pergi menolong orang-orang tak bersalah!
+\CBct[20]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    Apa orang baik keluyuran di kuburan malam-malam? Bisa kau jawab itu?
+\CBmp[DedOne,8]\SETpl[DedOne_normal]\PLF\prf\c[4]Orang Asing Misterius：\c[0]    Urk\..\..\..\n Waktuuunya baaagiiiku untuuuk peeergi. Seemoooogaaa beruntuuung.
+\CBct[20]\m[wtf]\plf\Rshake\c[6]Lona：\c[0]    ...Hah?
+DedOne/MassGrave_optPASS2
+\CBct[20]\m[confused]\SETpl[nil]\PRF\c[6]Lona：\c[0]    Apa otakmu rusak atau semacamnya...?
+
+DedOne/MassGrave_WIN
+\SETpl[DedOne_angry]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    KAAAU BERHASIIILLL BERTAAAHAAAN!
+Mengeeesaaankaaan, kauuu adalaaaah pemburuuu yaaang baaaiiik!
+\SETpl[DedOne_normal]\Lshake\prf\c[4]Orang Asing Misterius：\c[0]    Sampaaaiii jumpaaa!
+\CBct[20]\m[wtf]\SETpl[nil]\plf\Rshake\c[6]Lona：\c[0]    EH?!
+Apa otakmu rusak atau semacamnya...?
+
+
+####################################################################### PB_NorthCP
+
+PB_NorthCP/Qmsg0
+Aku adalah... KEAAADILAAAN!
+
+PB_NorthCP/Qmsg1
+JAAANGAAAN TAKUUUT!
+
+PB_NorthCP/Qmsg2
+KEAAADILAAAN SUDAAAH DAAATAAANG!
