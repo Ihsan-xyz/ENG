@@ -1,28 +1,28 @@
 begin/0
 \board[G8Demon King Challenge]
-Hello, my warriors.
-Welcome to the \C[2]G8Demon King Challenge\C[0].
-I've got two of the toughest kings in the game right now for you.
-Within \C[6]10\C[0] minutes, you must equip yourself and take down the kings.
+Halo, para pejuangku.
+Selamat datang di \C[2]Tantangan Raja Iblis G8\C[0].
+Saat ini aku telah menyiapkan dua raja terkuat di dalam game untuk kalian.
+Dalam waktu \C[6]10\C[0] menit, kalian harus melengkapi perlengkapan dan mengalahkan para raja tersebut.
 \n
-Participants will receive a G8 cool card.
-If you successfully defeat the king, you will receive a miniature model of the game character.
+Peserta akan menerima Kartu Keren G8.
+Jika berhasil mengalahkan raja, kalian akan menerima model miniatur karakter game ini.
 
 begin/1
-\CBmp[Shopper,19] This is the Quartermaster from whom you can request free equipment.
-\CBmp[Healer,19] Strange Doctor can restore your attributes to full.
-\CBmp[Reseter,19] Cute Maid will reset your talent points.
+\CBmp[Shopper,19] Ini adalah Quartermaster, tempat kalian bisa meminta perlengkapan gratis.
+\CBmp[Healer,19] Dokter Aneh (Strange Doctor) dapat memulihkan atributmu hingga penuh.
+\CBmp[Reseter,19] Pelayan Imut (Cute Maid) akan mereset poin talentamu.
 
 begin/2
 \board[ready to start]
-Please ask the Quartermaster for your equipment first and be aware of your carry weight.
-then press\C[6]X\C[0] to enter the menu to set your items, equipment, skills and talents.
+Silakan minta perlengkapanmu kepada Quartermaster terlebih dahulu dan perhatikan berat bawaan (carry weight) kalian.
+Lalu tekan\C[6]X\C[0] untuk masuk ke menu guna mengatur item, perlengkapan, skill, dan talenta.
 \n
 \n
-My best wishes and good luck.
+Doa terbaik dariku dan semoga berhasil.
 
 Pop/resetTrait
-Reset Talents
+Reset Talenta
 
 Pop/HealPlayer
-Restore life and stamina
+Pulihkan life dan stamina
