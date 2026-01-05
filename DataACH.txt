@@ -1,449 +1,449 @@
 #Fully translated and suggested by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
-#Survive until the date: 1776.6.6 in "Doom mode"!!! Achievement only counts if you turn on "Doom Mode" since
+#Bertahan hidup sampai tanggal: 1776.6.6 dalam "Doom mode"!!! Pencapaian hanya dihitung jika kamu menyalakan "Doom Mode" sejak
 
 DoneTutorial/item_name
-First step!
+Langkah pertama!
 
 DoneTutorial/description
-What a wonderful world!
+Dunia yang sungguh indah!
 
 DedTutorial/item_name
-Filtered
+Tersaring
 
 DedTutorial/description
-Failed to pass the great filter.
+Gagal melewati penyaring utama.
 
 GameOver/item_name
-Lona is dead!
+Lona mati!
 
 GameOver/description
-Better luck next time......
+Semoga beruntung lain kali......
 
 ArtAllBuy/item_name
-All buy!
+Beli semua!
 
 ArtAllBuy/description
-I don't get it.
+Aku tidak paham.
 
 ArtHopeless/item_name
-THE BEST YEAR： 2020!
+TAHUN TERBAIK： 2020!
 
 ArtHopeless/description
-Remember, the *CENSORED* spread the virus to this cruel world.
+Ingat, *CENSORED* menyebarkan virus ke dunia yang kejam ini.
 
 ArtThinking/item_name
-The ：thinking： man
+Pria ：berpikir：
 
 ArtThinking/description
 Hmmm......
 
 ArtThisIsFine/item_name
-This is fine...
+Ini tidak apa-apa...
 
 ArtThisIsFine/description
-You in 2020.
+Kamu di tahun 2020.
 
 ArtChadVsVirgin/item_name
-The Alpha and the Beta
+Sang Alpha dan Sang Beta
 
 ArtChadVsVirgin/description
-A tale as old as time...
+Kisah lama yang klasik...
 
 ArtDontShit/item_name
-Bad tourist
+Turis nakal
 
 ArtDontShit/description
-How uncivilized!
+Sungguh tidak beradab!
 
 ArtGodEmperor/item_name
-God Emperor of the Stars
+Kaisar Dewa Bintang
 
 ArtGodEmperor/description
-I salute you, leader of the Stars and Stripes!
+Hormat saya, pemimpin Bintang dan Garis!
 
 ArtSeaWitch/item_name
-Sea Witch
+Penyihir Laut
 
 ArtSeaWitch/description
-W-Well, the color's green like grass...
+Y-Yah, warnanya hijau seperti rumput...
 
 ArtTankMan/item_name
 *CENSORED*
 
 ArtTankMan/description
-Nothing happened, RIGHT?
+Tidak ada yang terjadi, KAN?
 
 Artlous2/item_name
-Painting of the Year
+Lukisan Terbaik Tahun Ini
 
 Artlous2/description
-They forced us to watch this.
+Mereka memaksa kita menonton ini.
 
 ArtBlack/item_name
-Paint it, *CENSORED*
+Warnai itu, *CENSORED*
 
 ArtBlack/description
-A forbidden word you can't say out loud.
+Kata terlarang yang tidak boleh diucapkan keras-keras.
 
 ArtPlague/item_name
-Virus Chairmonster
+Ketua Monster Virus
 
 ArtPlague/description
-Have you forgotten...? Don't you remember who spread the pestilence in this hopeless world?!
+Apakah kamu sudah lupa...? Tidakkah kamu ingat siapa yang menyebarkan wabah di dunia yang putus asa ini?!
 
 ArtFHK_pepe/item_name
-A mirage
+Fatamorgana
 
 ArtFHK_pepe/description
-We watched as they died and we did nothing.
+Kita hanya menonton saat mereka mati dan tidak berbuat apa-apa.
 
 GuildCompletedScoutCampOrkind_3/item_name
-Not that hard!
+Tidak sesulit itu!
 
 GuildCompletedScoutCampOrkind_3/description
-Finish Noer's Orkind quest line.
+Selesaikan alur misi Orkind di Noer.
 
 SavedScoutCampOrkind_1/item_name
-Where there's a will, there's a way!
+Di mana ada kemauan, di situ ada jalan!
 
 SavedScoutCampOrkind_1/description
-Rescue 5 refugees in the "Help look for the missing caravan!" quest.
+Selamatkan 5 pengungsi dalam misi "Bantu cari karavan yang hilang!".
 
 RecQuestC130_2/item_name
-KA-BOOM!!!
+DUUAARRR!!!
 
 RecQuestC130_2/description
-Defend the East Control Point using the "Overlord M405 Cannon".
+Pertahankan Pos Kendali Timur menggunakan "Meriam Overlord M405".
 
 RecQuestLisa_5/item_name
-Jus' like new ahgain!
+Bagaikan ba-ru lagi!
 
 RecQuestLisa_5/description
-Repair "PAHOMPA".
+Perbaiki "PAHOMPA".
 
 RecQuestLisaSaintCall_0/item_name
-This is four me arse'ole!
+Ini buat lu bangke!
 
 RecQuestLisaSaintCall_0/description
-Defend the South Gate Campsite using the "Overlord M405 Cannon".
+Pertahankan Perkemahan Gerbang Selatan menggunakan "Meriam Overlord M405".
 
 RecQuestLisa_10/item_name
-DEATH APOCALYPSE
+APOKALIPS KEMATIAN
 
 RecQuestLisa_10/description
-Watch the mysterious stranger shepherding lost souls.
+Saksikan orang asing misterius menggembalakan jiwa-jiwa yang tersesat.
 
 Rebirth/item_name
-Like a Phoenix, arise!
+Bangkitlah seperti Phoenix!
 
 Rebirth/description
-Rebirth a new life after your death.
+Terlahir kembali ke kehidupan baru setelah kematianmu.
 
 Kill1Hive/item_name
-This is for Sybaris...
+Ini demi Sybaris...
 
 Kill1Hive/description
-Destroy an Abominations' hive.
+Hancurkan sarang Abomination.
 
 RecQuestBC2_SideQu_0/item_name
-Think Lona, THINK!
+Berpikir Lona, BERPIKIR!
 
 RecQuestBC2_SideQu_0/description
-Rescue the refugees at the destroyed caravan, without relying on any followers.
+Selamatkan para pengungsi di karavan yang hancur, tanpa bantuan pengikut apa pun.
 
 Ending20G/item_name
-Goodbye, cruel world.
+Selamat tinggal, dunia yang kejam.
 
 Ending20G/description
-Escape from Noer Island.
+Melarikan diri dari Pulau Noer.
 
 BankTP_T1/item_name
-Hoarder
+Penimbun
 
 BankTP_T1/description
-Acquire a total net worth of 20,000 TP in the bank.
+Dapatkan kekayaan bersih total sebesar 20.000 TP di bank.
 
 BankTP_T2/item_name
-Miss Scrooge
+Nona Kikir
 
 BankTP_T2/description
-Acquire a total net worth of 200,000 TP in the bank.
+Dapatkan kekayaan bersih total sebesar 200.000 TP di bank.
 
 BankTP_T3/item_name
-Queen Midas
+Ratu Midas
 
 BankTP_T3/description
-Acquire a total net worth of 800,000 TP in the bank!
+Dapatkan kekayaan bersih total sebesar 800.000 TP di bank!
 
 BankTP_T4/item_name
-Rags to riches!
+Dari miskin jadi kaya!
 
 BankTP_T4/description
-Acquire a total net worth of 2,400,000 TP in the bank! You can leave the island now, you know that right?
+Dapatkan kekayaan bersih total sebesar 2.400.000 TP di bank! Kamu bisa meninggalkan pulau sekarang, kamu tahu itu kan?
 
 UniqueCharUniqueCocona_n1/item_name
 Paladin
 
 UniqueCharUniqueCocona_n1/description
-Slay the evil Necromancer and bring her head to the guild. If it's related to the undead, it's evil!
+Bantai Necromancer jahat dan bawa kepalanya ke guild. Jika berhubungan dengan mayat hidup, berarti itu jahat!
 
 RecQuestCocona_5/item_name
-You've got a friend in me
+Kau punya teman dalam diriku
 
 RecQuestCocona_5/description
-Befriend and recruit the evil Necromancer. Maybe she's not a bad person after all...?
+Berteman dan rekrut Necromancer jahat. Mungkin dia bukan orang jahat...?
 
 RecQuestCocona_28/item_name
-Let's leave together!
+Mari pergi bersama!
 
 RecQuestCocona_28/description
-Flee Noer Island with the evil Necromancer. ❤
+Kabur dari Pulau Noer bersama si Necromancer jahat. ❤
 
 RecCoconaHeadPat/item_name
-Teaching her feelings
+Mengajari perasaannya
 
 RecCoconaHeadPat/description
-Head pat the evil Necromancer 6 times. Woo-Miaow!~
+Usap kepala si Necromancer jahat sebanyak 6 kali. Wu-Miaow!~
 
 RecCoconaBath/item_name
-Rub-a-Dub-Dub!
+Gosok-gosok-gosok!
 
 RecCoconaBath/description
-Take a bath with the evil Necromancer 6 times. ICK... S-Stinky!
+Mandi bersama si Necromancer jahat sebanyak 6 kali. Iyuuh... B-Bau!
 
 RecCoconaSleep/item_name
-2 Girls 1 Bed
+2 Gadis 1 Ranjang
 
 RecCoconaSleep/description
-Sleep together with the evil Necromancer 6 times. Zzz... ❤
+Tidur bersama si Necromancer jahat sebanyak 6 kali. Zzz... ❤
 
 DefeatSpawnPoolWithoutDedOne/item_name
-Nameless Warrior
+Pejuang Tanpa Nama
 
 DefeatSpawnPoolWithoutDedOne/description
-Take out the spawn pool without any help from the sky.
+Musnahkan kolam pembiakan tanpa bantuan apa pun dari langit.
 
 DefeatBossMama/item_name
-Tentacles, kid!
+Tentakel, nak!
 
 DefeatBossMama/description
-Defeat the Crimson Slayer in a duel, and claim her sword in victory.
+Kalahkan Crimson Slayer dalam duel, dan rebut pedangnya dalam kemenangan.
 
 DefeatHorseCock/item_name
 Horse Cock
 
 DefeatHorseCock/description
-Defeat Horse Cock and claim his... unique weapon.
+Kalahkan Horse Cock dan rebut... senjata uniknya.
 
 DefeatOrkindWarboss/item_name
-Dicc the Impaler
+Dicc sang Penyula
 
 DefeatOrkindWarboss/description
-Defeat Dicc the Impaler in a duel.
+Kalahkan Dicc sang Penyula dalam duel.
 
 DefeatOrkindWarbossSTA/item_name
-Orkind's cultural exchange
+Pertukaran budaya Orkind
 
 DefeatOrkindWarbossSTA/description
-The weak (holes) should fear the strong...
+Si lemah (lubang) harus takut pada si kuat...
 
 QuProgSaveCecily_6/item_name
-M'lady
+Nona
 
 QuProgSaveCecily_6/description
-Rescue the aristocratic damsel in distress.
+Selamatkan nona bangsawan yang dalam kesulitan.
 
 RecQuestMilo_12/item_name
-How could you...?
+Tega-teganya kamu...?
 
 RecQuestMilo_12/description
-Betray the female noble for monetary gain. Traitor...
+Khianati bangsawan wanita demi uang. Penghianat...
 
 QuProgSaveCecily_12/item_name
-Give me liberty, and death.
+Berikan aku kebebasan, atau kematian.
 
 QuProgSaveCecily_12/description
-Help the noble lady liberate the slaves! Is freedom really worth suffering over?
+Bantu nona bangsawan membebaskan para budak! Apakah kebebasan benar-benar sebanding dengan penderitaannya?
 
 QuProgSaveCecily_21/item_name
-The Counter Attack
+Serangan Balik
 
 QuProgSaveCecily_21/description
-After being surrounded by thugs in the back alleys. They counter attacked and left a path of blood.
+Setelah dikepung oleh preman di gang belakang. Mereka menyerang balik dan meninggalkan jejak darah.
 
 RecQuestElise_5/item_name
-Volunteer
+Relawan
 
 RecQuestElise_5/description
-Assist the Gynecologist in his/her? research about Orkind breeding.
+Bantu Dokter Kandungan dalam penelitiannya tentang pengembangbiakan Orkind.
 
 RecQuestElise_18/item_name
-Test subject
+Subjek uji coba
 
 RecQuestElise_18/description
-Assist the Gynecologist in his research about Fishkind mating.
+Bantu Dokter Kandungan dalam penelitiannya tentang perkawinan Fishkind.
 
 RecQuest_Df_TellerSide_4/item_name
-The Saint's Soldier
+Prajurit Sang Saint
 
 RecQuest_Df_TellerSide_4/description
-A cult priest who murdered his own mother to make a prophecy come true.
+Seorang pendeta kultus yang membunuh ibunya sendiri demi mewujudkan ramalan.
 
 RecQuestBoardSwordCave_1/item_name
-Master of the sword
+Ahli pedang
 
 RecQuestBoardSwordCave_1/description
-Defeat the spirit of the berserker and claim his sword.
+Kalahkan roh sang berserker dan rebut pedangnya.
 
 RecQuestHostageReturnT1/item_name
-My hero! -...ine!
+Pahlawanku!
 
 RecQuestHostageReturnT1/description
-Rescue a prisoner in any dungeon.
+Selamatkan tawanan di penjara bawah tanah mana pun.
 
 RecQuestHostageReturnT2/item_name
-Savior of the misfortunate
+Penyelamat kaum malang
 
 RecQuestHostageReturnT2/description
-Rescue 10 prisoners in any dungeons.
+Selamatkan 10 tawanan di penjara bawah tanah mana pun.
 
 RecQuestHostageReturnT3/item_name
-Knightess in filthy rags
+Ksatria wanita dalam kain kotor
 
 RecQuestHostageReturnT3/description
-Rescue 20 prisoners in any dungeons.
+Selamatkan 20 tawanan di penjara bawah tanah mana pun.
 
 HellModDateT1/item_name
-Welcome to Hell...
+Selamat datang di Neraka...
 
 HellModDateT1/description
-Survive 1 day in "Hell Mode"! Achievement only counts if you turn on "Hell Mode" since Day 1.
+Bertahan hidup selama 1 hari dalam "Hell Mode"!  Pencapaian hanya dihitung jika kamu menyalakan "Hell Mode" sejak Hari ke-1.
 
 HellModDateT2/item_name
-Blessed by the Saint
+Diberkati oleh Sang Saint
 
 HellModDateT2/description
-Survive 1 year in "Hell Mode"!! Achievement only counts if you turn on "Hell Mode" since Day 1.
+Bertahan hidup selama 1 tahun dalam "Hell Mode"!! Pencapaian hanya dihitung jika kamu menyalakan "Hell Mode" sejak Hari ke-1.
 
 HellModDateT3/item_name
-The Devil wears braids
+Iblis berkepang
 
 HellModDateT3/description
-Survive 2 years in "Hell Mode"!!! Achievement only counts if you turn on "Hell Mode" since Day 1.
+Bertahan hidup selama 2 tahun dalam "Hell Mode"!!! Pencapaian hanya dihitung jika kamu menyalakan "Hell Mode" sejak Hari ke-1.
 
 DoomModDateT1/item_name
-The Nightmare begins!
+Mimpi buruk dimulai!
 
 DoomModDateT1/description
-Survive 1 day in "Doom Mode"! Achievement only counts if you turn on "Doom Mode" since Day 1.
+Bertahan hidup selama 1 hari dalam "Doom Mode"! Pencapaian hanya dihitung jika kamu menyalakan "Doom Mode" sejak Hari ke-1.
 
 DoomModDateT2/item_name
-Meet your Doom...!
+Hadapi Doom-mu...!
 
 DoomModDateT2/description
-Survive 1 year in "Doom Mode"!! Achievement only counts if you turn on "Doom Mode" since Day 1.
+Bertahan hidup selama 1 tahun dalam "Doom Mode"!! Pencapaian hanya dihitung jika kamu menyalakan "Doom Mode" sejak Hari ke-1.
 
 DoomModDateT3/item_name
-We got a badass over here!
+Ada orang hebat di sini!
 
 DoomModDateT3/description
-Survive until the date： 1776.6.6 in "Doom Mode"!!!
+Bertahan hidup sampai tanggal： 1776.6.6 dalam "Doom Mode"!!!
 
 record_giveup_hardcore/item_name
-I'm too young to die!
+Aku terlalu muda untuk mati!
 
 record_giveup_hardcore/description
-Turn off "Hell Mode". Coward.
+Matikan "Hell Mode". Pengecut.
 
 record_vaginal_count_0/item_name
-Spinster!
+Perawan tua!
 
 record_vaginal_count_0/description
-Am I even playing an eroge?
+Apakah aku benar-benar sedang main game eroge?
 
 ArenaWin/item_name
-Are you not entertained?!
+Apakah kalian tidak terhibur?!
 
 ArenaWin/description
-Win the Arena challenge.
+Menangkan tantangan Arena.
 
 ArenaSexBeastKilled/item_name
-Lona and Goliath
+Lona dan Goliath
 
 ArenaSexBeastKilled/description
-Defeat "The Mad Beast" in the Arena.
+Kalahkan "The Mad Beast" di Arena.
 
 RecQuestAdam_6/item_name
-Groovy...
+Keren...
 
 RecQuestAdam_6/description
-Acquire a futuristic weapon from Adam to use on primitive screwheads.
+Dapatkan senjata masa depan dari Adam untuk digunakan pada orang-orang primitif bodoh.
 
 RecQuestSeaWitch_4/item_name
-Everyone's a food critic...
+Semua orang sok jadi kritikus makanan...
 
 RecQuestSeaWitch_4/description
-Feed the starving Sea Witch.
+Beri makan si Penyihir Laut yang kelaparan.
 
 RecQuestSeaWitch_5/item_name
-A storm of hail and fire!
+Badai hujan es dan api!
 
 RecQuestSeaWitch_5/description
-Receive a gift from the mysterious stranger...
+Terima hadiah dari orang asing misterius...
 
 TrueDeepone/item_name
-Metamorphosis
+Metamorfosis
 
 TrueDeepone/description
-Awaken the emergence of a new Goddess...
+Bangkitkan kemunculan Dewi baru...
 
 SMRefugeeCampCBT/item_name
-Goblin Castrator
+Pengebiri Goblin
 
 SMRefugeeCampCBT/description
-Show a Goblin some humanity, and make sure it can never reproduce again.
+Tunjukkan sedikit kemanusiaan pada Goblin, dan pastikan ia tidak bisa bereproduksi lagi.
 
 AbomLona/item_name
-The Prototype Bioweapon
+Prototipe Senjata Biologis
 
 AbomLona/description
-Unleash the grotesque essence of The Mother of Fertility...
+Lepaskan esensi mengerikan dari Sang Bunda Kesuburan...
 
 EliseAbortion_T1/item_name
-I kid you not!
+Aku tidak bercanda!
 
 EliseAbortion_T1/description
-Abort your pregnancy by Elise for the first time.
+Gugurkan kandunganmu lewat Elise untuk pertama kalinya.
 
 EliseAbortion_T2/item_name
-It's just a parasite...
+Ini cuma parasit...
 
 EliseAbortion_T2/description
-Abort your pregnancy by Elise 3+ times.
+Gugurkan kandunganmu lewat Elise sebanyak 3+ kali.
 
 EliseAbortion_T3/item_name
-My body, my choice!
+Tubuhku, pilihanku!
 
 EliseAbortion_T3/description
-Abort your pregnancy by Elise 5+ times.
+Gugurkan kandunganmu lewat Elise sebanyak 5+ kali.
 
 EliseAbortion_T4/item_name
-INCONCEIVABLE!
+TIDAK MUNGKIN!
 
 EliseAbortion_T4/description
-Abort your pregnancy by Elise 7+ times.
+Gugurkan kandunganmu lewat Elise sebanyak 7+ kali.
 
 KillTheBaby/item_name
-Don't kick the baby!
+Jangan tendang bayinya!
 
 KillTheBaby/description
-Murder your baby with your own hands.
+Bunuh bayimu dengan tanganmu sendiri.
 
 SnowflakeFragged/item_name
-Sh-ACK-ttered snowflake
+Snowflake yang Han-CUR
 
 SnowflakeFragged/description
-Murder the special snowflake with the harsh truth, and humiliate his disgusting corpse.
+Bunuh si 'snowflake' spesial dengan kebenaran pahit, dan permalukan mayatnya yang menjijikkan.
 
 #Fully translated and suggested by Sugoi Soy Boy. Fuck off MTLing monkeys.
