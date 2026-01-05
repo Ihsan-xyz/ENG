@@ -801,7 +801,7 @@ cocona/RecQuestCocona_HEV3_8
 cocona/RecQuestCocona_HEV3_Roar0
 \c[6]Pendeta：\c[0]    \{Hyah!\} Luar biasa!
 cocona/RecQuestCocona_HEV3_Roar1
-\c[6]Pendeta：\c[0]    \{Memek ini penuh dengan dosa!
+\c[6]Pendeta：\c[0]    \{M*mek ini penuh dengan dosa!
 cocona/RecQuestCocona_HEV3_Roar2
 \c[4]Cocona：\c[0]    \{Woo...woo...*merengek*
 
@@ -842,7 +842,7 @@ cocona/RecQuestCocona_HEV3_16
 cocona/RecQuestCocona_HEV3_17
 \c[4]Cocona：\c[0]    \{\{Eeeeaaaah!!
 cocona/RecQuestCocona_HEV3_18
-\c[6]Pendeta：\c[0]    \{Sial! Apa memek ini beneran?!
+\c[6]Pendeta：\c[0]    \{Sial! Apa M*mek ini beneran?!
 
 cocona/RecQuestCocona_HEV3_19
 \c[4]Cocona：\c[0]    \{Wooooeeeeeah!!
@@ -862,7 +862,7 @@ cocona/RecQuestCocona_HEV3_25
 \c[6]Pendeta：\c[0]    \{Bangsat! Enak sekali rasanya!
 
 cocona/RecQuestCocona_HEV3_26
-\c[6]Pendeta：\c[0]    \{Memek kecil paling sempit penuh dosa yang pernah ada!
+\c[6]Pendeta：\c[0]    \{M*mek kecil paling sempit penuh dosa yang pernah ada!
 cocona/RecQuestCocona_HEV3_27
 \c[6]Pendeta：\c[0]    Apa pelacur kecil ini pingsan? Terlalu berat ya? Apa yang harus kulakukan dengan anak ini?
 cocona/RecQuestCocona_HEV4_END
@@ -986,7 +986,7 @@ Murnikan para Pembohong itu! Terpujilah Sang Suci!
 \CBmp[Idiot3,20]\SETpr[AnonMale2]\plf\Rshake\c[4]Biarawan：\c[0]    Sang Suci sudah menjanjikan ini pada kita!
 \CBmp[Idiot3,20]\SETpr[AnonMale2]\plf\Rshake\c[4]Biarawan：\c[0]    Kita akan menikmati lubang sempit bunga-bunga kita.
 \CBmp[Idiot4,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Biarawan：\c[0]    Lubang sempit!
-Memek imut!
+M*mek imut!
 \CBmp[Idiot3,20]\SETpr[AnonMale2]\plf\Rshake\c[4]Biarawan：\c[0]    Aku tak mau memetik bunga! Aku mau daging montok!
 \CBmp[boss,20]\SETpl[Mfat_tortruer]\Lshake\prf\c[4]Pemuja：\c[0]    Tutup mulutmu, tolol! Murnikan para Pembohong!
 \CBmp[boss,20]\SETpl[Mfat_tortruer]\Lshake\prf\c[4]Pemuja：\c[0]    Kalian akan dihadiahi oleh Sang Suci dan lebih banyak lagi!
@@ -1621,7 +1621,7 @@ Cocona/WhoreEV_hurt_CompCommand1
 \CBid[-1,6]\SETlpl[cocona_sad]\Lshake\c[4]Cocona：\c[0]    *Merengek* L-Lubang pipis sakit...
 
 prostituation/CoconaVag
-(Tawarkan memek Cocona sebagai gantinya)
+(Tawarkan M*mek Cocona sebagai gantinya)
 
 prostituation/vag_success
 \narr Pelanggan sepertinya tertarik pada Cocona saat mereka menatap tubuh kurusnya...
@@ -1642,7 +1642,7 @@ WhoreEV/fuck1
 WhoreEV/fuck2
 \c[4]Cocona：\c[0]    NYAH!!!
 WhoreEV/fuck3
-\narr Kontol pelanggan terlalu besar untuk memek mungil Cocona.
+\narr Kontol pelanggan terlalu besar untuk M*mek mungil Cocona.
 Kepala penis mereka langsung menghantam rahimnya...
 
 WhoreEV/fuck4_0
@@ -1661,7 +1661,7 @@ WhoreEV/fuck6
 \narr Pelanggan meraung euforia!\n Sepertinya mereka ejakulasi di dalam dirinya...
 
 WhoreEV/fuck_end0
-\narr Pelanggan memuji memek sempit Cocona.
+\narr Pelanggan memuji M*mek sempit Cocona.
 Mereka berkomentar kalau dia adalah alat bantu seks yang sempurna...
 
 WhoreEV/fuck_end1

@@ -514,7 +514,7 @@ EndingShipSlaveLona/begin4
 
 EndingShipSlaveLona/begin5
 \c[4]PelautB：\c[0]    Giliranku giliranku!
-\c[4]PelautC：\c[0]    Kenapa kita gak barengan aja? Aku bakal ent*t mekinya, kamu juga lebih suka pake mulutnya kan.
+\c[4]PelautC：\c[0]    Kenapa kita gak barengan aja? Aku bakal ent*t M*meknya, kamu juga lebih suka pake mulutnya kan.
 \c[4]PelautD：\c[0]    Ide bagus tuh! Aku bakal pake lubang pantatnya, mulai sekarang kita saudara se-lubang!
 \c[4]PelautB：\c[0]    Aku suka itu! Saudara se-lubang...
 \c[4]PelautC：\c[0]    Kita mungkin bukan saudara kandung, tapi kita bakal jadi saudara se-lubang sampai mati, haha!
