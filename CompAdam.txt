@@ -1,112 +1,111 @@
-#Diterjemahkan sepenuhnya oleh Sugoi Soy Boy. Pergi sana monyet-monyet MTL.
+#Fully translated by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 Adam/NonFristTimeBegin
-\CBmp[Adam,2]\SETpl[Adam_normal]\Lshake\c[4]Unknown：\c[0]    Bukannya aku pernah ketemu kamu sebelumnya?
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm, kayaknya enggak deh?
+\CBmp[Adam,2]\SETpl[Adam_normal]\Lshake\c[4]Unknown：\c[0]    Haven't I met you somewhere before?
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm, I don't think so?
 
 Adam/0_Begin0
-\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\c[4]Unknown：\c[0]    Aku butuh jasa seseorang yang jago mengintai, apa itu kamu?
+\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\c[4]Unknown：\c[0]    I require the services of someone who would be good at scouting, does that sound like you?
 
 Adam/0_Begin2
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Aku?\optB[Bukan aku...,Itu aku!]
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Me?\optB[Not I...,That's me!]
 
 Adam/1_Begin_yes
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Kayaknya itu aku?
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    Tapi kamu kelihatan kayak... cuma bocah.
-\CBct[1]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Hei! Aku bukan anak kecil!
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Hmmm\..\..\.. Apa kamu dari Sybaris?
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Iya, kenapa tanya?
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    Apa kamu gak tahu? Para tentara di pulau ini dipelihara dengan mengeksploitasi orang-orang Sybaris.
-\CBct[2]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Eh...?! G-Gak mungkin, kan?
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    Aku butuh bantuan semacam pengintai.
-\CBmp[Adam,20]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    Kamu harus lulus tesku dan buktikan padaku kalau kamu pengintai yang layak. Aku mau kamu pergi dan curi medali yang tersemat di baju zirah \c[6]Centurion\c[0] di kamp militer!
-\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Kamu gak bakal lakuin ini cuma-cuma, aku bakal kasih Koin Tembaga kalau lulus tes.
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I guess that's me?
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    But you look like... just a mere child.
+\CBct[1]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Hey! I'm not a child!
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Hmmm\..\..\.. Are you from Sybaris?
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Yes, why do you ask?
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    Don't you know? The soldiers on this island are maintained by exploiting the people of Sybaris.
+\CBct[2]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Eh...?! T-There's no way, right?
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    I'll need the help of a scout of some sort.
+\CBmp[Adam,20]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    You'll have to pass my test and prove to me you're a worthy scout. I want you to go and steal the medal pinned on the \c[6]Centurion's\c[0] armor at the military camp!
+\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    You won't be doing this for no reason, I'll reward you with a Copper Coin upon passing my test.
 \CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm...
 
 Adam/1_Begin_done0
-\CBct[20]\m[pleased]\c[6]Lona：\c[0]    Aku dapat!
-\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Kerja bagus, aku tahu aku bisa percaya sama kamu.
+\CBct[20]\m[pleased]\c[6]Lona：\c[0]    I've got it!
+\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Well done, I knew I was able to trust you.
 
 Adam/1_Begin_done1
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Datang dan temui aku lagi dua hari lagi, aku punya tugas lain yang butuh bantuanmu.
-\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Ini buatmu!
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Come back and visit me in two days, I have other tasks that will require your help.
+\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Here you go!
 
 Adam/1_Begin_done2
-\CBct[8]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Terima kasih!
+\CBct[8]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Thank you!
 
 Adam/2_begin_1
-\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Hei! Bocah pintar, kita ketemu lagi.
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm, halo lagi.
-\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Aku punya tugas yang butuh bantuanmu.
-\CBmp[Adam,8]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Pernah denger apa itu \c[4]musket\c[0]?
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Gak, gak pernah...
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Yah, lagipula kamu gak kelihatan kayak pejuang. Tapi, kamu pasti tahu meriam itu apa, kan?
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Intinya, itu meriam yang dikecilin sampai bisa kamu pegang pakai tangan doang.
-Itu ditenagai sihir kuat, tapi gak butuh pengetahuan sihir buat pakainya.
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Kedengarannya hebat banget?
-\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Ya, memang sangat hebat!
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Gudang senjata di timur benteng baru aja terima kiriman musket. Aku butuh kamu bantu curi beberapa.
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Soal hadiahmu\..\..\.. Aku gak bakal ngecewain kamu!
+\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Hey! Good kid, so we meet again.
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm, hello again.
+\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    I have a task that requires your help.
+\CBmp[Adam,8]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Have you ever heard of what a \c[4]musket\c[0] is?
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Nope, never...
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Ah well, you don't look like a warrior after all. But, surely you know what a cannon is, right?
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Basically, it's a cannon that's shrunken to where you can hold it with just your hands alone. It's powered by strong magic, yet doesn't require any knowledge of magic to use.
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    This all sounds pretty impressive?
+\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Yes, quite impressive indeed!
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    The armory at the east of the fortress recently recieved a batch of muskets. I need you to help me steal a few of them.
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    As for your reward\..\..\.. I won't mistreat you!
 
 Adam/2_begin_board
 \board[Steal some muskets]
-Tujuan：Curi beberapa meriam genggam ini.
-Hadiah：2\i[581] Koin Emas
-Klien：Unknown
-Syarat Quest：Sekali
-Pergi ke gudang senjata di timur benteng dan curi beberapa musket.
+Goal：Steal some of these hand-held cannons.
+Reward：2\i[581] Gold Coins
+Client：Unknown
+Quest Term：Once
+Head over to the armory, located at the east of the fortress and steal a few muskets.
 
 Adam/2_begin_decide
-\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Nah, apa keputusanmu?\optB[Nanti aku kabari lagi...,Aku bisa melakukannya!]
+\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Well, what's your decision?\optB[I'll get back to you on that...,I can do it!]
 
 Adam/2_begin_accept1
-\CBct[20]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    Gak masalah! Aku bisa kok!
-\CBmp[Adam,3]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Anak pintar! Nih!
+\CBct[20]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    No problem! I can do it!
+\CBmp[Adam,3]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Such a good kid! Here!
 
 Adam/2_begin_accept2
-\CBct[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Hah?!
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Ini medali yang kamu curi sebelumnya, ini juga semacam kartu akses. Medali ini menandakan kamu pernah bertugas di \c[4]Markas Penjaga\c[0].
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Bawa ini, kalau enggak kamu gak bakal bisa masuk.
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    \c[6]Musket\c[0] itu bakal kelihatan kayak meriam kayu, tapi ada pipa besi di atasnya.
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Bilang ke mereka kalau kamu disewa serikat dan diminta buat baca, tinjau, dan salin catatan \c[4]Bryan\c[0].
-\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Terima kasih!
+\CBct[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?!
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    This is the medal you've stolen before, it's also a pass of some sort. The medal signifies you've served at the\c[4]Guardsmen Headquarters\c[0].
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Take it with you, or else you won't be able to get in.
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    The \c[6]muskets\c[0] will look like wooden cannons, but with a metal pipe attached on top of them.
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Tell them that you are hired by the guild and requested to read, review, and copy \c[4]Bryan's\c[0] records.
+\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Thank you!
 
 Adam/5_win1
-\CBct[3]\m[Adam_sad]\plf\PRF\c[6]Lona：\c[0]    Aku dapat barangnya!
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Coba liat!
-\CBct[3]\m[normal]\plf\PRF\c[6]Lona：\c[0]    Oke!
+\CBct[3]\m[Adam_sad]\plf\PRF\c[6]Lona：\c[0]    I've got them!
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Let me see!
+\CBct[3]\m[normal]\plf\PRF\c[6]Lona：\c[0]    Okay!
 \CBmp[Adam,20]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    \..\..\..
 
 Adam/5_win2
-\CBmp[Adam,8]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    Aku belum pernah lihat senjata kayak gini...
-\CBmp[Adam,8]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    Hmph... Seperti dugaan dari \c[4]Milo\c[0], cuma orang kayak dia yang mampu beli benda beginian.
-\CBmp[Adam,8]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    Jadi, pengisian energi apinya juga jauh lebih cepat?
-\CBmp[Adam,8]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    \..\..\..Menarik...
-\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Yah, ini memang yang aku mau. Kamu boleh pulang sekarang.
+\CBmp[Adam,8]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    I've never seen such a weapon before...
+\CBmp[Adam,8]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    Hmmph... As expected of \c[4]Milo\c[0], only someone like him would be able to afford such a thing.
+\CBmp[Adam,8]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    So, even the fire energy refill is much faster?
+\CBmp[Adam,8]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    \..\..\..Interesting...
+\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Well, this is indeed what I've wanted. You may return home now.
 \CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Gimana sama hadiahnya?
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Aku lagi gak punya duit, emangnya kamu mau apa? Mau berantem aja?
-\CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Ummm... Maaf...
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    Ah? Ngapain kamu minta maaf?
-\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Lupain aja. Nih, ambil.
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    What about the reward?
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    I'm out of money, otherwise what do you want? Do you want to fight instead?
+\CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Ummm... Sorry...
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    Ah? What are you apologizing for?
+\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Unknown：\c[0]    Forget it. Here, take it.
 \CBct[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Eh?!
 
 Adam/5_win3
-\CBct[8]\m[shocked]\plf\PRF\c[6]Lona：\c[0]    Te-... Terima kasih?
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Tapi bukannya ini cuma tongkat?
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    Bukan! Ini senjata api! Arahin ke musuhmu, teriak BANG! BANG!, dan musuhmu bakal mati!
+\CBct[8]\m[shocked]\plf\PRF\c[6]Lona：\c[0]    Th-... Thank you?
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    But isn't this just a stick?
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    No! This is a firearm! Point it at your enemy, shout out BANG! BANG!, and your enemy will die!
 \CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr?
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    Barang ini mahal! Aku gak punya waktu buat ngobrol lagi, cari tempat sepi buat nyoba sendiri sana.
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    This item is expensive! I don't have time to chit-chat any longer, find yourself a quiet place to test it out yourself.
 
 Adam/else
 \CBmp[Adam,10]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    Krroooohhh...
 \CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Hmmm?
-\CBmp[Adam,10]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    *NGOROK* Fyuuuhhh......
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    A-Apa dia tidur...?
+\CBmp[Adam,10]\SETpl[Adam_sad]\Lshake\prf\c[4]Unknown：\c[0]    *SNORE* Paaaahhh......
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I-Is he asleep...?
+
 
 Adam/ElseDialog
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Apa kamu gak lihat? Keluarga Rudesin menghambat kita buat maju, selama dia masih berkuasa!
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    Kita harus ambil alih kembali Pulau Noer...
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Can't you see? The Rudesin family hinders us from progressing foward, so long as he continues to be in control!
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    We must take back control of Noer Island...
 
-#Diterjemahkan sepenuhnya oleh Sugoi Soy Boy.
-Pergi sana monyet-monyet MTL.
+#Fully translated by Sugoi Soy Boy. Fuck off MTLing monkeys.
