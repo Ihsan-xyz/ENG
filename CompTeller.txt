@@ -1,348 +1,348 @@
 ########################################
 GodCTalk/begin1
-\CBmp[teller,8]\c[4]Fortune Teller：\c[0]    -In the end\..\..\..
-\CBmp[teller,20]\SETpl[TellerEyeClosed]\Lshake\c[4]Fortune Teller：\c[0]    That's exactly what happened.
-\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Mysterious Stranger：\c[0]    Sooo the chiiild knocked yooou down... Aaand caaaused all of thisss?
-\CBmp[teller,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    Yes, the little one is growing up too fast.
-\CBmp[teller,20]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Fortune Teller：\c[0]    This all sounds unbelievable, but it really is all just an accident.
-\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Mysterious Stranger：\c[0]    Acciiideeent...? Yooou call thisss an ACCIIIDEEENT...?!
-\CBmp[teller,20]\SETpl[TellerConfused]\Lshake\prf\c[4]Fortune Teller：\c[0]    It's the truth. If I've truly wanted to ruin things on purpose, you wouldn't have had time to react to any of this. The calamities wouldn't just stop at this island either.
-\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Mysterious Stranger：\c[0]    Fffine... I beeelieeeve yooou...
-\CBmp[teller,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    I appreciate it.
-\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Mysterious Stranger：\c[0]    Buuut yooou must paaay annnd maaake repaaaraaationsss forrr whaaat haaappeeened. Theee nexxxt stoooryline willll beee commmpleeetellly wriiiteeen anddd overrrseeeen by meee.
-\CBmp[teller,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    *Sigh* Fine, I accept.
+\CBmp[teller,8]\c[4]Peramal：\c[0]    -Pada akhirnya\..\..\..
+\CBmp[teller,20]\SETpl[TellerEyeClosed]\Lshake\c[4]Peramal：\c[0]    Begitulah tepatnya yang terjadi.
+\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Orang Asing Misterius：\c[0]    Jaadiii anakkk ituuu meennjjatuuuhkannmuu... Daaann meenyebabkannn semmuuaa iniii?
+\CBmp[teller,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Ya, si kecil itu tumbuh terlalu cepat.
+\CBmp[teller,20]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Peramal：\c[0]    Ini semua terdengar sulit dipercaya, tapi ini benar-benar hanya sebuah kecelakaan.
+\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Orang Asing Misterius：\c[0]    Keceeelaakaaaannn...? Kaaauu meenyebuuut iniii KEECCEEELAAAKAAAAAANNN...?!
+\CBmp[teller,20]\SETpl[TellerConfused]\Lshake\prf\c[4]Peramal：\c[0]    Itulah kenyataannya. Jika aku benar-benar ingin merusak segalanya dengan sengaja, kau tidak akan punya waktu untuk bereaksi. Bencana ini juga tidak akan berhenti di pulau ini saja.
+\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Orang Asing Misterius：\c[0]    Baaiiklaah... Akkuu peerrccayyaa paaaddaammuu...
+\CBmp[teller,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Aku menghargainya.
+\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Orang Asing Misterius：\c[0]    Taapppii kaaauu haarrusss meembaayyaar ddaann meembbeerrri gannntii rruuggii aaatass apppaa yaanng tteerrjaaddii. Aluurr cceerriittaa beerrrriikuutttnyaaa akkannn sepeenuhnyaaa kkuutuulliiss ddaann kkuuaawwaassii seennddiirrii.
+\CBmp[teller,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    *Hela napas* Baiklah, aku terima.
 
 GodCTalk/begin2
-\CBmp[teller,20]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Fortune Teller：\c[0]    Once I've gained my powers back completely, I'll be sure to oversee the return of my adorable children and offsprings.
-\CBmp[teller,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    You won't have to worry about anything else.
-\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Mysterious Stranger：\c[0]    Huu hu hu huuuuuu...~
-\CBmp[teller,20]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Fortune Teller：\c[0]    Hmmm?
-\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Mysterious Stranger：\c[0]    WWWAHAAA-HAAA-HAAAAAAaaa...!!!
-\CBmp[teller,20]\SETpl[TellerConfused]\Lshake\prf\c[4]Fortune Teller：\c[0]    What are you laughing about?
-\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Mysterious Stranger：\c[0]    The chillld managed to beeeat yooou dooown, annnd wasss able tooo essscaaape frommm yooou toooooo?
-\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Fortune Teller：\c[0]    A-And? So what?
-\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Mysterious Stranger：\c[0]   I willll beee laaaughing at thisss stooory forrr a looong tiiime! Hahaahaaa....!
+\CBmp[teller,20]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Peramal：\c[0]    Begitu kekuatanku pulih sepenuhnya, aku akan memastikan kepulangan anak-anak dan keturunanku yang manis.
+\CBmp[teller,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Kau tidak perlu mengkhawatirkan hal lainnya.
+\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Orang Asing Misterius：\c[0]    Huu hu hu huuuuuu...~
+\CBmp[teller,20]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Peramal：\c[0]    Hmmm?
+\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Orang Asing Misterius：\c[0]    WWWAHAAA-HAAA-HAAAAAAaaa...!!!
+\CBmp[teller,20]\SETpl[TellerConfused]\Lshake\prf\c[4]Peramal：\c[0]    Apa yang kau tertawakan?
+\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Orang Asing Misterius：\c[0]    Anakkk ittuuu beerrhaassiill meennuummbaanngkkannmuuu, ddaann bbiissaa lloollooss ddaariimmuu jjuuggaaa?
+\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Peramal：\c[0]    L-Lalu? Terus kenapa?
+\CBmp[DedOne,20]\SETpr[DedOne_normal]\plf\Rshake\c[4]Orang Asing Misterius：\c[0]   Akkuu akkan terttaawaa meenndeenngaarr ceerriittaa inii unntukk waaakktuu yaanng llaammaa! Hahaahaaa....!
 
 GodCTalk/begin3
-\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prh\c[4]Fortune Teller：\c[0]    \..\..\..Tsk! Asshole!
+\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prh\c[4]Peramal：\c[0]    \..\..\..Cih! Brengsek!
 
 unused/unused
-\SETpr[NoerGangBoss]\plf\Rshake\c[4]Thug：\c[0]    I always feel a bit sorry for the boss everytime we do this.
-\SETpl[TellerNormal]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    You won't tell, I won't tell. What he doesn't know won't hurt him, right?
+\SETpr[NoerGangBoss]\plf\Rshake\c[4]Preman：\c[0]    Aku selalu merasa kasihan pada bos setiap kali kita melakukan ini.
+\SETpl[TellerNormal]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Kau tidak bilang, aku tidak bilang. Apa yang dia tidak tahu tidak akan menyakitinya, kan?
 
 #######################################Teller TG
 
 GodCTalk2/begin0
-\CBmp[DedOne,20]\SETpl[TellerEyeClosed]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    THISSS IS NOOOT MY SCRRRIPT! WEEE'VE MAAADE AN AGREEEMENNNT! EVERRRYTHINNNG SHAAALL FOLLOOOW WHAT I'VVVE WROOOTE!
-\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Damn it all! You trully are the WORST player I've ever had to play with!
-\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Don't you remember what happened during our last game in order to appease your stupid grand adventure, and your disgustingly overpowered character?
-\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    Jusssticcce appearrred and saaaved the worrrld! It WASSS a grannnd adveeenturrreee!
-\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Right! You and your stupid minions nearly annihilated the entire universe and almost ruined everything!
-\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\plf\Rshake\c[4]Sea Witch：\c[0]    Mmmm......
-\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    Beeecause of MYYY ammmaaazing streeengthhh and pooowers, the whooole worrrld connntinuesss to ssstrive wittth Jusssticcce annnd peeeaccce!
-\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    EXACTLY! I had to fix your stupid, power fantasy storyline and change it into a normal, active world for you to enjoy!
-\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\plf\Rshake\c[4]Sea Witch：\c[0]    Ummm......
-\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    Noo-OOOOOO! I DOOO NOTTT APPROOOVVVE! YOU MUSSSTNNN'T MODDDIFFFY MY SSSTOOORYLINE AND PLOOOT!
-\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    Thisss is the whooole poinnnt of my ssstory! Frommm beginninnng tooo devvvelopmeeent, twiiissst, and ennnd!
-\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Your rotten soul wouldn't even understand what change and character development means! This is just another Mary Sue story!
-\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\plf\Rshake\c[4]Sea Witch：\c[0]    Ughhh......
-\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    A revenge drama's plot can not be written like this! If this isn't fixed properly, your story will definitely be known as the worst story ever written!
-\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    Impossssibllle! Dooo you nooot sssee that theee worrrld ssstill worssships the Sssaint?
-\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    The worrrld DESSSIRESSS for grannnd adveeenturrresss! Why, the talesss of theee Sssaint can beee founnnd aaall over the worrrld!
-\CBmp[teller,20]\SETpl[TellerConfused]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Hmmmph. Have you actually went down there and asked the people how they've felt?
-\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    Jussstiiice shhhall NOTTT beee quessstionnned!
-\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\plf\Rshake\c[4]Sea Witch：\c[0]    Let me take a look at this...
+\CBmp[DedOne,20]\SETpl[TellerEyeClosed]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    INIII BUKKANN SKKRRRIPKKUU! KIIITAA SSSUUDDAHH SEEPPAKKATT! SSEMUUUANYYAA HAARUSSS SESUUUAAI DEENNGANN APPPAA YANNLG KUUUTUULLISSS!
+\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Persetan! Kau benar-benar pemain TERBURUK yang pernah bermain denganku!
+\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Tidakkah kau ingat apa yang terjadi di permainan terakhir kita demi memuaskan petualangan agungmu yang konyol, dan karaktermu yang sangat tidak masuk akal itu?
+\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    KEEEADDIILLANNN MUUNNCUULLL DAANNN MEENYYEEELAMMATTKKANNN DUUNNIIAA! ITTUU ADALAAHH PETUUUAALANNGANN AGUUNNGG!
+\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Benar! Kau dan antek-antek bodohmu hampir memusnahkan seluruh alam semesta dan merusak segalanya!
+\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\plf\Rshake\c[4]Penyihir Laut：\c[0]    Mmmm......
+\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    KAAARRENAAA KEEKKUUUAATANNKKUU YANNLG LUUUAARR BIIAASSYAA, SSEMUUAA DUUNNIIAA TTEEERRRUSSS BERRLANNJJUTTT DEENNGANN KEEEADDIILLANNN DAANN PEERDDAAMMAAIIAANN!
+\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    TEPAT SEKALI! Aku harus memperbaiki alur cerita fantasi kekuatanmu yang konyol dan mengubahnya menjadi dunia normal yang hidup untuk kau nikmati!
+\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\plf\Rshake\c[4]Penyihir Laut：\c[0]    Anu......
+\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    TIIIDAAKKKK-KKKK! AKKKKU TIIIDAKKK MEENNYEETUUUJUUUINNYYAAA! KAAAU TIIIDAKKK BOOLLLEHH MEEMM-MOOODIIFFIIKASSSII ALLUURRR CEERRIIITAA DAANNN PLLOTTKKUU!
+\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    Iniii addalaahh innttii ddaariii ceerriittakkkuuu! Daariii aawaall, peerrkeemmbannlgann, kkeejuuttann, ssampaiii aakhiirrr!
+\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Jiwamu yang busuk itu bahkan tidak mengerti apa artinya perubahan dan perkembangan karakter! Ini hanyalah cerita Mary Sue murahan lainnya!
+\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\plf\Rshake\c[4]Penyihir Laut：\c[0]    Ughhh......
+\CBmp[teller,20]\SETpl[TellerAngry]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Plot drama balas dendam tidak bisa ditulis seperti ini! Jika ini tidak diperbaiki dengan benar, ceritamu pasti akan dikenal sebagai cerita terburuk yang pernah ditulis!
+\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    TIIIDAAKKK MUUNNGKKIINNN! TIDDAKKKAAHH KAAAU LIIHHATT BAHHWAA DUUNNIIAA MASSSIIHH MEENNYEEMMBAAHH SANNLG SAAIINNTT?!
+\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    DUUNNIIAA MEENNGIINNGIINNKANNN PEETUUUAALANNLGANN AGUUNNGG! KIIISSYAAHH TTEENTANNGG SANNLG SAAIINNTT BIIISSYAA DIITTEEMMUUUKANN DII SEELLURRUUH DUUNNIIAA!
+\CBmp[teller,20]\SETpl[TellerConfused]\Lshake\prf\c[4]Ebony Sh-Ub：\c[0]    Hmmmph. Pernahkah kau benar-benar turun ke sana dan bertanya pada orang-orang bagaimana perasaan mereka?
+\CBmp[DedOne,20]\SETpr[DedOne_angry]\plf\Rshake\c[4]Justice：\c[0]    KEEEADDIILLANNN TIIIDAAKKK BOOLLLEHH DIIPERRRTANNLYAANN-KANNN!
+\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\plf\Rshake\c[4]Penyihir Laut：\c[0]    Biar kulihat sebentar...
 
 GodCTalk2/begin1
-\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\plf\Rshake\c[4]Sea Witch：\c[0]    \..\..\..
-\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\c[4]Sea Witch：\c[0]    Hmmm\..\..\..
-\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\c[4]Sea Witch：\c[0]    Ummm\..\..\.. Grrr\..\..\..
-\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\c[4]Sea Witch：\c[0]    J-Just what the SHELL is this I'm reading?!
+\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\plf\Rshake\c[4]Penyihir Laut：\c[0]    \..\..\..
+\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\c[4]Penyihir Laut：\c[0]    Hmmm\..\..\..
+\CBmp[SeaWitch,8]\SETpr[SeaWitch_confused]\c[4]Penyihir Laut：\c[0]    Anu\..\..\.. Grrr\..\..\..
+\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\c[4]Penyihir Laut：\c[0]    S-Sebenarnya tulisan APALAH yang sedang kubaca ini?!
 
 #######################################Teller HEV
 
 TellerSakaGBoss/begin1
-\SETpr[NoerGangBoss]\plf\Rshake\c[4]Thug：\c[0]    I always feel a bit sorry for the boss everytime we do this.
-\SETpl[TellerNormal]\Lshake\prf\c[4]Fortune Teller：\c[0]    You won't tell, I won't tell. What he doesn't know won't hurt him, right?
+\SETpr[NoerGangBoss]\plf\Rshake\c[4]Preman：\c[0]    Aku selalu merasa kasihan pada bos setiap kali kita melakukan ini.
+\SETpl[TellerNormal]\Lshake\prf\c[4]Peramal：\c[0]    Kau tidak bilang, aku tidak bilang. Apa yang dia tidak tahu tidak akan menyakitinya, kan?
 
 TellerSakaGBoss/hCG01
-\c[4]Fortune Teller：\c[0]    OH! ♥ Your cock is so big as always! ♥ Fufu...~ ♥
-\c[4]Thug：\c[0]    Of course it's big.
+\c[4]Peramal：\c[0]    OH! ♥ Penis mu sangat besar seperti biasanya! ♥ Fufu...~ ♥
+\c[4]Preman：\c[0]    Tentu saja besar.
 
 TellerSakaGBoss/hCG02
-\c[4]Fortune Teller：\c[0]    *Sniff*... Your smell is really strong... How long have you not washed this manly cock ♥?
+\c[4]Peramal：\c[0]    *Endus*... Aromamu sangat kuat... Sudah berapa lama kau tidak mencuci batang jantanmu ini ♥?
 
 TellerSakaGBoss/hCG03
-\c[4]Fortune Teller：\c[0]    Allow me to clean it for you with my mouth... ♥
+\c[4]Peramal：\c[0]    Izinkan aku membersihkannya untukmu dengan mulutku... ♥
 
 TellerSakaGBoss/hCG04
-\c[4]Thug：\c[0]    Ooooooh! ♥
+\c[4]Preman：\c[0]    Ooooooh! ♥
 
 TellerSakaGBoss/hCG05
-\c[4]Thug：\c[0]    Unghn... Unf...♥
+\c[4]Preman：\c[0]    Unghn... Unf...♥
 
 TellerSakaGBoss/hCG06
-\c[4]Thug：\c[0]    HINNNGH! S-So good!
+\c[4]Preman：\c[0]    HINNNGH! Nikmat sekali!
 
 TellerSakaGBoss/hCG07
-\c[4]Thug：\c[0]    Amazing... It's like several girls are lickin' my cock at once!
+\c[4]Preman：\c[0]    Luar biasa... Rasanya seperti banyak gadis menjilati penisku sekaligus!
 
 TellerSakaGBoss/hCG08
-\c[4]Thug：\c[0]    Fuck... Unnngh... How do you even manage to do something like this...?
+\c[4]Preman：\c[0]    Sial... Unnngh... Bagaimana kau bisa melakukan hal seperti ini...?
 
 TellerSakaGBoss/hCG09
-\c[4]Thug：\c[0]    OOOH! I can't-... It's too much!
+\c[4]Preman：\c[0]    OOOH! Aku tidak bisa-... Ini terlalu berlebihan!
 
 TellerSakaGBoss/hCG10
-\c[4]Thug：\c[0]    I'm gonna cum...! It's about to shoot out!
+\c[4]Preman：\c[0]    Aku mau keluar...! Sudah hampir menyembur!
 
 TellerSakaGBoss/hCG11
-\c[4]Thug：\c[0]    Oughnnnfff! Hold up...! If you keep suckin' like that, I'M GONNA-!
+\c[4]Preman：\c[0]    Oughnnnfff! Tunggu dulu...! Kalau kau terus menghisap seperti itu, AKU AKAN-!
 
 TellerSakaGBoss/hCG12
-\c[4]Thug：\c[0]    -OOOORRRAAAUGH! *Splooort*!
+\c[4]Preman：\c[0]    -OOOORRRAAAUGH! *Croot*!
 
 TellerSakaGBoss/hCG13
-\c[4]Thug：\c[0]    Hinnngh...!
+\c[4]Preman：\c[0]    Hinnngh...!
 
 TellerSakaGBoss/hCG14
-\c[4]Thug：\c[0]    Ahhh...
+\c[4]Preman：\c[0]    Ahhh...
 
 TellerSakaGBoss/hCG15
-\c[4]Thug：\c[0]    *Huff*\..\..\.. *Haff*\..\..\..
+\c[4]Preman：\c[0]    *Hah*\..\..\.. *Hah*\..\..\..
 
 TellerSakaGBoss/hCG16
-\c[4]Fortune Teller：\c[0]    Hehe... ♥ You always sound so tough... Yet, ejaculated so fast. ♥
+\c[4]Peramal：\c[0]    Hehe... ♥ Kau selalu terdengar sangat tangguh... Tapi, ejakulasinya cepat sekali. ♥
 
 TellerSakaGBoss/hCG17
-\c[4]Thug：\c[0]    Nah, it's because Ebony's throat just feels way too fuckin' good.
+\c[4]Preman：\c[0]    Bukan begitu, ini karena tenggorokan Ebony rasanya sangat nikmat.
 
 TellerSakaGBoss/hCG18
-\c[4]Ebony Sh-Ub：\c[0]    Fufu.~ ♥ Excuse me, my pussy still hasn't gobbled up your cock yet...
+\c[4]Ebony Sh-Ub：\c[0]    Fufu.~ ♥ Permisi, vaginaku masih belum melahap penismu...
 
 TellerSakaGBoss/hCG19
-\c[4]Thug：\c[0]    That won't be a problem soon!
+\c[4]Preman：\c[0]    Itu tidak akan jadi masalah sebentar lagi!
 
 #######################################Teller HEV2
 
 GoldenBarHev/SadJew0
-\CBmp[Vandor,2]\SETpr[AnonMale1]\plf\Rshake\c[4]Servant：\c[0]    And you must be... The Oriental Commerce?
-\CBmp[SadJew,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    YES-yes-yes! It's me! That's me!
-\CBmp[SadJew,20]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    I'm involved in... moral support and a charity business, current times require all of us to work together on this island.
-\CBmp[SadJew,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    In order the help the Saint fend off invaders, investin-... DONATING a small amount of money is nothing.
-\CBmp[Vandor,2]\SETpr[AnonMale1]\plf\Rshake\c[4]Servant：\c[0]    People from the middle-eastern lands believe in the Saint? Don't all of you worship a whore as your prophet? Why would we even want to conduct business with those who pray to a false god?
-\CBmp[SadJew,6]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    OH NOO-no-no! I-I've converted! I believe in the Saint, just like you!
-\CBmp[SadJew,3]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    \cg[event_Coins]\SND[SE/Chain_move01.ogg]This amount should surely be enough to change your mind. I orde-... humbly ask you to allow me an audience with \c[6]Lord Milo\c[0], please.
-\cgoff\CBmp[Vandor,5]\SETpr[AnonMale1]\plf\Rshake\c[4]Servant：\c[0]    Is this all?! Are you looking down on me?
-\CBmp[Vandor,20]\SETpr[AnonMale1]\plf\Rshake\c[4]Servant：\c[0]    Listen carefully as I won't repeat myself, Sir. Lord Milo is a VERY busy man, no one is permitted to see him unless they've received an invitation.
-\CBmp[SadJew,6]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    I-I'm offering you such a large sum, if you can just give me a chance to-...
-\CBmp[Vandor,5]\SETpr[AnonMale1]\plf\Rshake\c[4]Servant：\c[0]    -Damn it, I'VE TOLD YOU MANY TIMES!!!
-\CBmp[Vandor,20]\SETpr[AnonMale1]\plf\Rshake\c[4]Servant：\c[0]    Lord Milo has no time for anybody, especially \c[6]dirty desert monkeys\c[0] like you! Leave, NOW!
-\CBmp[SadJew,8]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    It-It's fine, it's alright... I can wait! I'll wait patiently right here until Milo has tim-!
-\CBmp[Vandor,5]\SETpr[AnonMale1]\plf\Rshake\c[4]Servant：\c[0]    -BEGONE!
+\CBmp[Vandor,2]\SETpr[AnonMale1]\plf\Rshake\c[4]Pelayan：\c[0]    Dan kau pasti... Pedagang Timur?
+\CBmp[SadJew,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    IYA-iya-iya! Itu aku! Benar sekali!
+\CBmp[SadJew,20]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    Aku terlibat dalam... dukungan moral dan bisnis amal, masa-masa sulit seperti ini menuntut kita semua di pulau ini untuk bekerja sama.
+\CBmp[SadJew,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    Demi membantu sang Saint mengusir penjajah, berinves-... MENYUMBANG sedikit uang bukanlah apa-apa.
+\CBmp[Vandor,2]\SETpr[AnonMale1]\plf\Rshake\c[4]Pelayan：\c[0]    Orang-orang dari daratan Timur Tengah percaya pada Saint? Bukankah kalian semua memuja pelacur sebagai nabi kalian? Kenapa kami harus berurusan dengan mereka yang berdoa pada tuhan palsu?
+\CBmp[SadJew,6]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    OH TIDAAK-tidak-tidak! A-Aku sudah pindah keyakinan! Aku percaya pada Saint, sama sepertimu!
+\CBmp[SadJew,3]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    \cg[event_Coins]\SND[SE/Chain_move01.ogg]Jumlah ini pasti cukup untuk mengubah pikiranmu. Aku meme-... dengan rendah hati memohon padamu untuk mengizinkanku bertemu dengan \c[6]Tuan Milo\c[0], tolonglah.
+\cgoff\CBmp[Vandor,5]\SETpr[AnonMale1]\plf\Rshake\c[4]Pelayan：\c[0]    Cuma segini?! Apa kau meremehkanku?
+\CBmp[Vandor,20]\SETpr[AnonMale1]\plf\Rshake\c[4]Pelayan：\c[0]    Dengarkan baik-baik karena aku tidak akan mengulanginya, Tuan. Tuan Milo adalah orang yang SANGAT sibuk, tidak ada yang diizinkan menemuinya kecuali mereka memiliki undangan.
+\CBmp[SadJew,6]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    A-Aku menawarkan jumlah yang besar padamu, jika kau bisa memberiku kesempatan untuk-...
+\CBmp[Vandor,5]\SETpr[AnonMale1]\plf\Rshake\c[4]Pelayan：\c[0]    -Sialan, SUDAH KUBILANG BERKALI-KALI!!!
+\CBmp[Vandor,20]\SETpr[AnonMale1]\plf\Rshake\c[4]Pelayan：\c[0]    Tuan Milo tidak punya waktu untuk siapa pun, terutama \c[6]monyet gurun kotor\c[0] sepertimu! Pergi, SEKARANG!
+\CBmp[SadJew,8]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    Ti-Tidak apa-apa, tidak masalah... Aku bisa menunggu! Aku akan menunggu dengan sabar di sini sampai Milo punya wak-!
+\CBmp[Vandor,5]\SETpr[AnonMale1]\plf\Rshake\c[4]Pelayan：\c[0]    -ENYAHLAH!
 
 GoldenBarHev/SadJewMsg0
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\c[4]Cheerful Shopkeeper：\c[0]    Has anyone seen my wife around?
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\c[4]Pedagang Ceria：\c[0]    Apakah ada yang melihat istriku di sekitar sini?
 
 GoldenBarHev/SadJewMsg1
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\c[4]Cheerful Shopkeeper：\c[0]    She said she would help me with conducting business. My sweet, loving housewife would of made it happen!
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\c[4]Pedagang Ceria：\c[0]    Dia bilang dia akan membantuku mengurus bisnis. Istriku yang manis dan penyayang pasti bisa mewujudkannya!
 
 GoldenBarHev/SadJewMsg2
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\c[4]Cheerful Shopkeeper：\c[0]    *Sigh*... Oy vey, it's been so long since I've felt her love... Why must I always be so busy?
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\c[4]Cheerful Shopkeeper：\c[0]    But, I'm sure she'll forgive me as always.
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\c[4]Pedagang Ceria：\c[0]    *Hela napas*... Aduh, sudah lama sekali aku tidak merasakan cintanya... Kenapa aku harus selalu sesibuk ini?
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\c[4]Pedagang Ceria：\c[0]    Tapi, aku yakin dia akan memaafkanku seperti biasanya.
 
 GoldenBarHev/begin1
-\SndLib[sound_MaleWarriorDed]\c[4]Coomer A：\c[0]    OOOUGHHH! AHHH! UNNNGGGHHHPH!
-\SndLib[sound_MaleWarriorDed]\c[4]Coomer B：\c[0]    I missed Ebony's tight pussy so much!
-\SndLib[sound_MaleWarriorDed]\c[4]Coomer C：\c[0]    I heard yer got married recently, I was so worried I'd never see ya again.
+\SndLib[sound_MaleWarriorDed]\c[4]Pemuas A：\c[0]    OOOUGHHH! AHHH! UNNNGGGHHHPH!
+\SndLib[sound_MaleWarriorDed]\c[4]Pemuas B：\c[0]    Aku sangat merindukan vagina ketat Ebony!
+\SndLib[sound_MaleWarriorDed]\c[4]Pemuas C：\c[0]    Kudengar kau baru saja menikah, aku sangat khawatir tidak akan pernah melihatmu lagi.
 
 GoldenBarHev/HevItSelf01
-\c[4]Ebony Sh-Ub：\c[0]    Silly boys!~ *Haff*... How could I even think about leaving any of you?
+\c[4]Ebony Sh-Ub：\c[0]    Anak-anak nakal!~ *Hah*... Bagaimana mungkin aku berpikir untuk meninggalkan kalian?
 
 GoldenBarHev/HevItSelf02
-\c[4]Coomer D：\c[0]    How come it hasn't been my turn yet?! I wanna play with Mommy!
+\c[4]Pemuas D：\c[0]    Kenapa belum giliranku?! Aku ingin bermain dengan Ibu!
 
 GoldenBarHev/HevItSelf03
-\c[4]Coomer E：\c[0]    Ebony's sexy body just smells so nice! ♥ I want to fuck her too! ♥
+\c[4]Pemuas E：\c[0]    Tubuh seksi Ebony aromanya sangat harum! ♥ Aku ingin menidurinya juga! ♥
 
 GoldenBarHev/HevItSelf04
-\c[4]Ebony Sh-Ub：\c[0]    Please don't worry, everyone in here is a good boy! And all good boys get to have a turn...~ ♥
+\c[4]Ebony Sh-Ub：\c[0]    Tolong jangan khawatir, semua yang ada di sini adalah anak baik! Dan semua anak baik akan mendapatkan giliran...~ ♥
 
 GoldenBarHev/HevItSelf05
-\c[4]Coomer C：\c[0]    C-Can't hold on much longer! It's like Ebony's slutty pussy is wrappin' a hundred tongues around my cock an' lickin' it!
+\c[4]Pemuas C：\c[0]    A-Aku tidak bisa menahannya lebih lama lagi! Rasanya seolah vagina jalang Ebony melilitkan seratus lidah di penisku dan menjilatnya!
 
 GoldenBarHev/HevItSelf06
-\SndLib[sound_MaleWarriorDed]\c[4]Coomer C：\c[0]    I'M GONNA C-COOM!!!
+\SndLib[sound_MaleWarriorDed]\c[4]Pemuas C：\c[0]    AKU MAU KEE-KELUAARRR!!!
 
 GoldenBarHev/HevItSelf07
-\c[4]Ebony Sh-Ub：\c[0]    Cum! ♥ Let's all cum together!~ ♥ Let me swallow everyone's flith inside me!~ ♥
+\c[4]Ebony Sh-Ub：\c[0]    Keluarkan! ♥ Mari kita keluar bersama!~ ♥ Biarkan aku menelan semua kotoran kalian di dalam diriku!~ ♥
 
 GoldenBarHev/HevItSelf08
-\SndLib[sound_MaleWarriorDed]\c[4]Coomer A：\c[0]    \{OOOUGHHHAHHHHHH!!!
+\SndLib[sound_MaleWarriorDed]\c[4]Pemuas A：\c[0]    \{OOOUGHHHAHHHHHH!!!
 
 GoldenBarHev/HevItSelf09
-\SndLib[sound_MaleWarriorDed]\c[4]Coomer B：\c[0]    \{EEEEEEUGHHH!!!
+\SndLib[sound_MaleWarriorDed]\c[4]Pemuas B：\c[0]    \{EEEEEEUGHHH!!!
 
 GoldenBarHev/HevItSelf10
-\SndLib[sound_MaleWarriorDed]\c[4]Coomer C：\c[0]    \{HIIINNNIIIGHHHHHH!!!
+\SndLib[sound_MaleWarriorDed]\c[4]Pemuas C：\c[0]    \{HIIINNNIIIGHHHHHH!!!
 
 GoldenBarHev/HevItSelf11
-\c[4]Ebony Sh-Ub：\c[0]    Fufu... Everyone was really amazing.~
+\c[4]Ebony Sh-Ub：\c[0]    Fufu... Kalian semua benar-benar luar biasa.~
 
 GoldenBarHev/End
-\c[4]Man：\c[0]    Damn it...! STOP BANGING ON THE DOOR! THERE'S PEOPLE IN HERE!
-\m[flirty]\c[6]Lona：\c[0]    Ummm... I'm really sorry...
+\c[4]Pria：\c[0]    Sialan...! BERHENTI MENGGEDOR PINTUNYA! ADA ORANG DI DALAM SINI!
+\m[flirty]\c[6]Lona：\c[0]    Anu... Maafkan aku...
 
 ####################################################################### DFCultistquestline
 
 Df_TellerSide/NoneElseNotDone
-\CBid[-1,8]\SETpl[TellerNormal]\Lshake\c[4]Fortune Teller：\c[0]    Go on, you can do it.
+\CBid[-1,8]\SETpl[TellerNormal]\Lshake\c[4]Peramal：\c[0]    Ayo, kau bisa melakukannya.
 
 Df_TellerSide/NoneElseDone
-\CBid[-1,8]\SETpl[TellerNormal]\Lshake\c[4]Fortune Teller：\c[0]    Go forth, we shall meet again the future.
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm.... Okay?
+\CBid[-1,8]\SETpl[TellerNormal]\Lshake\c[4]Peramal：\c[0]    Pergilah, kita akan bertemu lagi di masa depan.
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Anu.... Oke?
 
 Df_TellerSide/0to1_1
-\CBid[-1,20]\SETpl[TellerNormal]\Lshake\c[4]Fortune Teller：\c[0]    Lona, you've finally shown up. I've been waiting for you for a long time.
+\CBid[-1,20]\SETpl[TellerNormal]\Lshake\c[4]Peramal：\c[0]    Lona, akhirnya kau muncul juga. Aku sudah menunggumu sejak lama.
 
 Df_TellerSide/0to1_2_know
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Auntie fortune teller from the Oriental Commerce? What are you doing here?
-\CBid[-1,5]\SETpl[TellerAngry]\Lshake\prf\c[4]Fortune Teller：\c[0]    AUNTIE\..\..\..?
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr... Miss fortune teller?
-\CBid[-1,8]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    *Huff*... Nevermind it.
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Tante peramal dari Pedagang Timur? Sedang apa Anda di sini?
+\CBid[-1,5]\SETpl[TellerAngry]\Lshake\prf\c[4]Peramal：\c[0]    TANTE\..\..\..?
+\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr... Nona peramal?
+\CBid[-1,8]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    *Hela napas*... Sudahlah, lupakan saja.
 
 Df_TellerSide/0to1_2_Unknow
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm... Have we met? Who are you?
-\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    I am the one who knows every single thing about you.
-\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    And I will be the one who guides your soul to its destiny.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Eh... Is that so?
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Anu... Apa kita pernah bertemu? Anda siapa?
+\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Akulah orang yang mengetahui segala hal tentang dirimu.
+\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Dan akulah yang akan menuntun jiwamu menuju takdirnya.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Eh... Begitukah?
 
 Df_TellerSide/0to1_3
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    So, why did you want to see me?
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Jadi, kenapa Anda ingin menemui saya?
 
 Df_TellerSide/1to2_0_0
-\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    You will kill someone for me...
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    M-ME? KILL SOMEONE?!
-\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Fortune Teller：\c[0]    Yes, that's correct. Kill someone.
-\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    W-Why me? Why should I do this for you?
-\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    Because you need money.
-\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    You wish to leave this dreadful island, and need the money to aid your escape...
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Money......
+\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Kau akan membunuh seseorang untukku...
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    A-AKU? MEMBUNUH SESEORANG?!
+\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Peramal：\c[0]    Ya, benar sekali. Membunuh seseorang.
+\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Kenapa saya? Kenapa saya harus melakukan ini untuk Anda?
+\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Karena kau butuh uang.
+\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Kau ingin meninggalkan pulau terkutuk ini, dan butuh uang untuk membantu pelarianmu...
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uang......
 
 Df_TellerSide/1to2_0_1
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Who are they? Why do you want them dead?
-\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Fortune Teller：\c[0]    They are evil Liars.
-\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    They are worshipping a dark and ancient Goddess that should not be worshipped in the wrong place, at the wrong time.
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uhhh... what are you talking about? I don't understand...
-\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Fortune Teller：\c[0]    They were victims of the Black Mist, just like you.
-\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Fortune Teller：\c[0]    But instead of fear, they glorify the Black Mist...
-\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    The cult of \c[6]The Mother of Fertility\c[0], they are the ones who worship the Black Mist that killed your family and friends.
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Siapa mereka? Kenapa Anda ingin mereka mati?
+\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Peramal：\c[0]    Mereka adalah Pembohong yang jahat.
+\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Mereka memuja Dewi kuno dan gelap yang seharusnya tidak disembah di tempat yang salah, pada waktu yang salah.
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uuuh... apa yang Anda bicarakan? Saya tidak mengerti...
+\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Peramal：\c[0]    Mereka adalah korban dari Kabut Hitam, sama sepertimu.
+\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Peramal：\c[0]    Tapi bukannya merasa takut, mereka malah memuja Kabut Hitam itu...
+\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Sekte \c[6]Sang Bunda Kesuburan\c[0], merekalah yang menyembah Kabut Hitam yang telah membunuh keluarga dan teman-temanmu.
 
 Df_TellerSide/1to2_1
-\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    I......
-\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    You must kill their shaman. He will be wearing a pig's head as his visage and calls himself... *Sigh*... \c[4]Pighead\c[0].
+\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Aku......
+\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Kau harus membunuh dukun mereka. Dia akan mengenakan kepala babi sebagai kedoknya dan menyebut dirinya... *Hela napas*... \c[4]Pighead\c[0].
 \plf\..\..\..
-\CBid[-1,5]\SETpl[TellerAngry]\Lshake\prf\c[4]Fortune Teller：\c[0]    Tsk\..\..\.. It's so irritating! I've had enough! Bunch of stupid apes!
-\CBid[-1,5]\SETpl[TellerAngry]\Lshake\prf\c[4]Fortune Teller：\c[0]    What kind of all-knowing and powerful Goddess would want to be represented and worshipped by someone who dubs themself as Pighead?
-\CBid[-1,5]\SETpl[TellerAngry]\Lshake\prf\c[4]Fortune Teller：\c[0]    To be worshipped by such a worthless thing can only bring a Goddess such shame, no?
+\CBid[-1,5]\SETpl[TellerAngry]\Lshake\prf\c[4]Peramal：\c[0]    Cih\..\..\.. Sangat menyebalkan! Sudah cukup! Dasar sekelompok kera bodoh!
+\CBid[-1,5]\SETpl[TellerAngry]\Lshake\prf\c[4]Peramal：\c[0]    Dewi macam apa yang maha tahu dan berkuasa yang mau direpresentasikan dan dipuja oleh seseorang yang menamai dirinya Pighead?
+\CBid[-1,5]\SETpl[TellerAngry]\Lshake\prf\c[4]Peramal：\c[0]    Dipuja oleh makhluk tak berharga seperti itu hanya akan mendatangkan aib bagi seorang Dewi, bukan?
 \CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    ......
 
 Df_TellerSide/1to2_1_BRD
-\board[Exterminate the Spreader of Lies.]
-Goal：Murder \c[4]Pighead\c[0]
-Reward：1 Gold Coin
-Client：The mysterious Fortune Teller
-Quest Term：Once
-Travel to the Water Cave and kill the shaman of the Mother of Fertility, \c[4]Pighead\c[0].
+\board[Basmi Penyebar Kebohongan.]
+Tujuan：Bunuh \c[4]Pighead\c[0]
+Hadiah：1 Koin Emas
+Klien：Peramal misterius
+Ketentuan Misi：Sekali
+Pergilah ke Gua Air dan bunuh dukun dari Bunda Kesuburan, \c[4]Pighead\c[0].
 
 Df_TellerSide/1to2_2_Yes
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Fine then, I'll do it.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    But, what does this cult have to do with you?
-\CBid[-1,8]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Fortune Teller：\c[0]    It doesn't matter, we are human after all.
-\CBid[-1,8]\SETpl[TellerConfused]\Lshake\prf\c[4]Fortune Teller：\c[0]    Humans are the ones who wish to resolve this disaster soon.
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Mmmm... Okay. It's fine if you don't want to tell me the reason.
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Baiklah, saya akan melakukannya.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Tapi, apa hubungan sekte ini dengan Anda?
+\CBid[-1,8]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Peramal：\c[0]    Itu tidak penting, bagaimanapun juga kita adalah manusia.
+\CBid[-1,8]\SETpl[TellerConfused]\Lshake\prf\c[4]Peramal：\c[0]    Manusialah yang ingin agar bencana ini segera terselesaikan.
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Mmmm... Baiklah. Tidak apa-apa jika Anda tidak ingin memberitahu alasannya.
 
 Df_TellerSide/1to2_2_No
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Forget it, you're asking the the wrong person for this task.
-\CBid[-1,8]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    It's alright, you will return to me sooner or later.
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Lupakan saja, Anda meminta orang yang salah untuk tugas ini.
+\CBid[-1,8]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Tidak apa-apa, cepat atau lambat kau pasti akan kembali padaku.
 
 Df_TellerSide/PriestDead
-\CBid[-1,0]\c[4]Pighead：\c[0]    NO! M-Mother of Fertility! You mustn't... forsaken... me...!
+\CBid[-1,0]\c[4]Pighead：\c[0]    TIDAK! B-Bunda Kesuburan! Kau tidak boleh... meninggalkan... aku...!
 
 Df_TellerSide/3to4_0
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm... It seems like Pighead is dead now?
-\CBid[-1,8]\SETpl[TellerConfused]\Lshake\prf\c[4]Fortune Teller：\c[0]    Simply wonderful. You're exactly like what has been predicted.
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Predicted...? Exactly?
-\CBid[-1,8]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    It's nothing. I said you could do it, have I not?
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Oh? Am I supposed to be happy about this?
-\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Fortune Teller：\c[0]    Why yes, you really should be glad.
-\CBid[-1,20]\CBmp[0]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    Here you go, I'm sure you will be needing these in the future.
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Anu... Sepertinya Pighead sudah mati sekarang?
+\CBid[-1,8]\SETpl[TellerConfused]\Lshake\prf\c[4]Peramal：\c[0]    Luar biasa. Kau persis seperti yang telah diprediksikan.
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Diprediksikan...? Persis?
+\CBid[-1,8]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Bukan apa-apa. Sudah kubilang kau bisa melakukannya, kan?
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Oh? Apa saya harus merasa senang akan hal ini?
+\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Peramal：\c[0]    Tentu saja, kau seharusnya merasa gembira.
+\CBid[-1,20]\CBmp[0]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Ini dia, aku yakin kau akan membutuhkannya di masa depan.
 
 Df_TellerSide/3to4_1
-\CBct[3]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Thank you!!!
+\CBct[3]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Terima kasih banyak!!!
 
 ############################################################################################## Rebirth to abom
 
 AbomRebirth/opt_rebirth
-Your child
+Anakmu
 
 AbomRebirth/beginIfAbom
-\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Fortune Teller：\c[0]    My dearest child, what is it you are looking for?
+\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Peramal：\c[0]    Anakku tersayang, apa yang sedang kau cari?
 
 AbomRebirth/ans_rebirth0
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uhhh... Your child?
-\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Fortune Teller：\c[0]    I know every little thing about you...
-\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Fortune Teller：\c[0]    From your physical pains and illnesses, to the nightmares that haunt you daily.
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Really? I've always been sick my entire life.
-\CBid[-1,20]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Fortune Teller：\c[0]    Since I am your mother, I can help you.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Errr... How exactly are you going to help me?
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uuuh... Anakmu?
+\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Peramal：\c[0]    Aku tahu setiap detail kecil tentang dirimu...
+\CBid[-1,20]\SETpl[TellerNormal]\Lshake\prf\c[4]Peramal：\c[0]    Dari rasa sakit fisik dan penyakitmu, hingga mimpi buruk yang menghantuimu setiap hari.
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Benarkah? Sebenarnya aku selalu sakit-sakitan seumur hidupku.
+\CBid[-1,20]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Peramal：\c[0]    Karena akulah ibumu, aku bisa membantumu.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Errr... Bagaimana tepatnya Anda akan membantu saya?
 
 AbomRebirth/ans_rebirth1
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    So... Did anything happen?
-\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    I have awakened great potential that lays dormant within you.
-\CBid[-1,20]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Fortune Teller：\c[0]    These new powers will be sure to aid you in your adventures.
-\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Fortune Teller：\c[0]    Go on then, my precious child.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm... Thank you?
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Jadi... Apa ada sesuatu yang terjadi?
+\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Aku telah membangkitkan potensi besar yang selama ini tertidur di dalam dirimu.
+\CBid[-1,20]\SETpl[TellerEyeClosed]\Lshake\prf\c[4]Peramal：\c[0]    Kekuatan baru ini pasti akan membantumu dalam petualanganmu.
+\CBid[-1,20]\SETpl[TellerOkay]\Lshake\prf\c[4]Peramal：\c[0]    Pergilah sekarang, anakku yang berharga.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Anu... Terima kasih?
 
 ############################################################################################## DancerSet
 
 HappyTrader/DancerSet0_waifuIsntThere
-\CBid[-1,6]\SETpl[HappyMerchant_shocked]\Lshake\c[4]Cheerful Shopkeeper：\c[0]    Oy vey! Oh, where has my wife gone?!
-\CBid[-1,8]\SETpl[HappyMerchant_fear]\Lshake\c[4]Cheerful Shopkeeper：\c[0]    Ohhh... Wasn't she around just a few moments ago?
+\CBid[-1,6]\SETpl[HappyMerchant_shocked]\Lshake\c[4]Pedagang Ceria：\c[0]    Aduh! Oh, ke mana perginya istriku?!
+\CBid[-1,8]\SETpl[HappyMerchant_fear]\Lshake\c[4]Pedagang Ceria：\c[0]    Ooh... Bukankah dia ada di sini baru saja?
 
 HappyTrader/DancerSet0
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Ummm...
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    Oh! Pardon me young lady... How may I scam- *Ahem* serve you?
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I've found this package while traveling around. I think it belongs to you?
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Anu...
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    Oh! Maafkan saya nona muda... Bagaimana saya bisa menip- *Ehem* melayani Anda?
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Saya menemukan paket ini saat sedang bepergian. Sepertinya ini milik Anda?
 
 HappyTrader/DancerSet1
-\CBid[-1,8]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    !\.!\.!\.!
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    Wonderful! This is indeed the goods I was missing. Those rotten thieves actually dared to steal my merchandise!
+\CBid[-1,8]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    !\.!\.!\.!
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    Luar biasa! Ini memang barang-barang saya yang hilang. Pencuri-pencuri busuk itu benar-benar berani mencuri dagangan saya!
 
 HappyTrader/DancerSet2
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\c[4]Cheerful Shopkeeper：\c[0]    Ah! My dearest love, don't you think these garments are quite beautiful?
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\c[4]Pedagang Ceria：\c[0]    Ah! Cintaku sayang, tidakkah kau pikir pakaian-pakaian ini sangat indah?
 
 HappyTrader/DancerSet3
-\CBmp[teller,3]\SETpr[TellerNormal]\plf\Rshake\c[4]Fortune Teller：\c[0]    Ara\..\..\.. Is this a present for me?
-\CBid[-1,6]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    \..\..\..Present?
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    RRRIGHT RIGHT RIGHT!!! These are gifts I got for you, aren't they beautiful? Does this make you happy?
-\CBmp[teller,5]\SETpr[TellerConfused]\plf\Rshake\c[4]Fortune Teller：\c[0]    ...You're giving me several sets of identical gifts?
-\CBid[-1,6]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    Right! R-Really! Gifts!
-\CBmp[teller,8]\SETpr[TellerAngry]\plf\Rshake\c[4]Fortune Teller：\c[0]    ......
-\CBid[-1,6]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    ......
+\CBmp[teller,3]\SETpr[TellerNormal]\plf\Rshake\c[4]Peramal：\c[0]    Ara\..\..\.. Apakah ini hadiah untukku?
+\CBid[-1,6]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    \..\..\..Hadiah?
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    BEEEENAR BENAR BENAR!!! Ini adalah hadiah yang kubelikan untukmu, indah sekali kan? Apakah ini membuatmu senang?
+\CBmp[teller,5]\SETpr[TellerConfused]\plf\Rshake\c[4]Peramal：\c[0]    ...Kau memberiku beberapa set hadiah yang identik?
+\CBid[-1,6]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    Benar! S-Sungguh! Hadiah!
+\CBmp[teller,8]\SETpr[TellerAngry]\plf\Rshake\c[4]Peramal：\c[0]    ......
+\CBid[-1,6]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    ......
 
 HappyTrader/DancerSet4
-\CBid[-1,6]\SETpl[HappyMerchant_fear]\Lshake\c[4]Cheerful Shopkeeper：\c[0]    Oy vey...
+\CBid[-1,6]\SETpl[HappyMerchant_fear]\Lshake\c[4]Pedagang Ceria：\c[0]    Aduh...
 \CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr...
-\CBid[-1,20]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    Ah! Please excuse me, young lady!
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    This is a beautiful dress imported from my country to Sybaris. Unfortunately, there was a riot of some sort there while the outfits were in transit.
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    Now, the noblemens of Rudesin Slope have no use for such costumes. What a waste...
+\CBid[-1,20]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    Ah! Maafkan saya, nona muda!
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    Ini adalah gaun indah yang diimpor dari negaraku ke Sybaris. Sayangnya, terjadi semacam kerusuhan di sana saat pakaian-pakaian ini dalam perjalanan.
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    Sekarang, para bangsawan di Lereng Rudesin tidak lagi membutuhkan kostum seperti ini. Sungguh sia-sia...
 \CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Oh?
-\CBid[-1,8]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    \..\..\..
-\CBid[-1,9]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    !!!
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    As a token of appreciation, I'll be willing to sell this outfit to you at a discount!
-\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Cheerful Shopkeeper：\c[0]    Whaddya think? Won't you consider taking a look?
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm... I'll think about it.
+\CBid[-1,8]\SETpl[HappyMerchant_fear]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    \..\..\..
+\CBid[-1,9]\SETpl[HappyMerchant_shocked]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    !!!
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    Sebagai tanda penghargaan, saya bersedia menjual pakaian ini kepada Anda dengan harga diskon!
+\CBid[-1,20]\SETpl[HappyMerchant_normal]\Lshake\prf\c[4]Pedagang Ceria：\c[0]    Bagaimana menurut Anda? Tidakkah Anda ingin melihatnya sebentar?
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Anu... Saya akan memikirkannya.
 
 
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
