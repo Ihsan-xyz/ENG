@@ -1,680 +1,1251 @@
-notice/ExtOverWrite
-\board[Rekan non-tempur]
-Kamu hanya diperbolehkan membawa satu \c[6]rekan non-tempur\c[0] dalam kelompokmu!
-Rekan non-tempur yang saat ini ada di kelompokmu akan meninggalkan tim, jika kamu mencoba menyewa yang baru.
-Menyewa rekan non-tempur ke dalam kelompokmu selama misi pengawalan akan menyebabkan kamu gagal dalam misi tersebut.
-Kamu harus memutuskan, apakah kamu akan menggagalkan misimu saat ini? Atau menelantarkan rekan non-tempur?
+#--------------------------------       narr
 
-Companion/Accept
-Terima? \optD[Gak jadi,Oke]
-
-Companion/TeamUp
-Ajak bergabung
-
-Companion/Follow
-Ikuti
-
-Companion/Wait
-Tunggu
-
-Companion/Other
-Lainnya
-
-Companion/Disband
-Bubarkan
+Lona/Group_disbanded
+\narr Kelompok telah dibubarkan.
 
-Companion/SetFoe
-Atur permusuhan rekan terhadap
+Lona/Follower_disbanded
+\narr Rekanmu telah berhenti melayanimu.
 
-Companion/Purr
-Mendengkur
+Lona/FollowerExt_disbanded
+\narr Pengikutmu telah pergi.
 
-Companion/Extension
-Perpanjang waktu
+Lona/NarrDriveAway
+\narr Kamu diusir!
 
-################################# COMMON COMP INFO
+#================================     OPT
 
-CompWarrior/CompData
-\board[Mercenary Warrior]
-\C[2]Posisi：\C[0]Depan
-\C[2]Tipe Tempur：\C[0]Melee, Pertahanan
-\C[2]Alignment：\C[0]Kriminal (Jahat)
-\C[2]Memusuhi：\C[0]Makhluk Jahat, Penjaga Noer
-\C[2]Biaya：\C[0]2 Bir\i[590]
-\C[2]Durasi：\C[0]2 Hari
-Tentara bayaran jarak dekat biasa yang bisa disewa.
+Lona/Decide_optD
+\m[confused]\c[6]Lona：\c[0]    Mmmm? \optD[Batal,Terima]
 
-CompArcher/CompData
-\board[Mercenary Archer]
-\C[2]Posisi：\C[0]Belakang
-\C[2]Tipe Tempur：\C[0]Jarak Jauh, Tembakan Melengkung
-\C[2]Alignment：\C[0]Kriminal (Jahat)
-\C[2]Memusuhi：\C[0]Makhluk Jahat, Penjaga Noer
-\C[2]Biaya：\C[0]2 Bir\i[590]
-\C[2]Durasi：\C[0]2 Hari
-Tentara bayaran jarak jauh biasa yang bisa disewa.
+Lona/Decide_optB
+\m[confused]\c[6]Lona：\c[0]    Ummm? \optB[Batal,Terima]
 
-CompCommon/Comp_disband
-\CBid[-1,20]\c[4]Mercenary Mabuk：\c[0]    Beliin a'u minum lagi nanti... *HUEK*!
+Lona/CompCommand
+\m[confused]\c[6]Lona：\c[0]    Hah?
 
-CompHumanWarrior/Comp_disband
-\CBid[-1,20]\c[4]Mercenary Mabuk：\c[0]    Aku mabok bangeeet... *HUEEEK*!
+Lona/EnterSub
+\m[confused]\c[6]Lona：\c[0]    Haruskah aku masuk? \optB[Pergi,Masuk]
 
-CompHumanBow/Comp_disband
-\CBid[-1,20]\c[4]Mercenary Mabuk：\c[0]    Nggaaak! AKU BUKAN PECANDU ALKOHOL!!!
+Lona/SkipEv
+Lewati event? \optD[Lewati,Mainkan]
 
-CompCommon/Comp_win
-\CBid[-1,20]\c[4]Mercenary Mabuk：\c[0]    *Urp*! Ayo kita lakuin bareng-bareng.
+###################################################################     COMMON NAP RAPE
+#------------------------------------------------- Human
 
-CompCommon/Comp_failed
-\CBid[-1,5]\Lshake\prf\c[4]Mercenary Mabuk：\c[0]    \{Woi! Aku butuh minum sekarang juga!
-\CBct[6]\m[sad]\c[6]Lona：\c[0]    Maaf...
+Noer/NapRape_Human0
+\c[4]Orang Lewat：\c[0]    Ngapain bocah tiduran di sini?
 
-CompCommon/Slave_failed0
-\CBid[-1,5]\Lshake\prf\c[4]Mercenary Mabuk：\c[0]    Omongan bodoh macam apa itu buat seorang budak!
-\CBct[6]\m[sad]\c[6]Lona：\c[0]    Maaf...
+Noer/NapRape_Human1
+\c[4]Orang Lewat：\c[0]    Heh heh, kenapa si manis kecil ini tiduran di sini?
 
-CompCommon/Slave_failed1
-\CBid[-1,5]\Lshake\prf\c[4]Mercenary Mabuk：\c[0]    \{Sama kamu?! \}Budak tuh gunanya cuma buat ngisep k*nt*lku doang!
-\CBct[6]\m[sad]\c[6]Lona：\c[0]    Maaf...
+Noer/NapRape1_Human
+\c[4]Orang Lewat：\c[0]    Eh-heh...
 
-CompCommon/Slave_failed2
-\CBid[-1,5]\Lshake\prf\c[4]Mercenary Mabuk：\c[0]    \{Kamu budak?! Enyah sana! Pergi dari sini!
-\CBct[6]\m[sad]\c[6]Lona：\c[0]    Maaf...
+Noer/NapRape2_Human
+\narr Lona dibawa pergi...
 
-CompWarrior/begin
-\SETpl[MobHumanWarrior]\prf\c[4]Mercenary Mabuk：\c[0]    *Huek*! Butuh apha?
+Noer/NapRape3_Human0
+\c[4]Orang Lewat：\c[0]    Gak apa-apa, aku cuma minta tolong bersihin k*nt*lku kok! Emangnya kamu gak bisa?!
 
-CompArcher/begin
-\SETpl[MobMootBow]\prf\c[4]Mercenary Mabuk：\c[0]    *Huek*! Ada apha?
-CompRogue/OvermapPop0
-Cewek-cewek di gang belakang kelihatan oke banget.
+Noer/NapRape3_Human1
+\c[4]Orang Lewat：\c[0]    Udah bangun? Kenapa gak bantu paman bersenang-senang di sini?!
 
-CompRogue/OvermapPop1
-Aku mau beli budak juga ah.
+Noer/NapRape3_Human2
+\c[4]Orang Lewat：\c[0]    Gak usah banyak tingkah! Bakal gue ent*t lu abis-abisan!
 
-CompRogue/OvermapPop2
-Aku pengen banget bunuh sesuatu.
 
-CompRogue/OvermapPop3
-*HUEEEK*!
 
-####################################################################################################################################################
+Noer/NapRape_Moot0
+\c[4]Orang Lewat：\c[0]    Ngapain bocah tiduran di sini?
 
-CompWarSister/CompData
-\board[War Sister]
-\C[2]Posisi：\C[0]Belakang
-\C[2]Tipe Tempur：\C[0]Melee, Pertahanan, Tembakan Melengkung
-\C[2]Alignment：\C[0]Perkumpulan Santo (Baik)
-\C[2]Memusuhi：\C[0]Manusia Ikan/Deepones, Mayat Hidup, Abomination
-\C[2]Biaya：\C[0]1 Air Suci, Weak kurang dari 100\i[46]
-\C[2]Durasi：\C[0]5 Hari
-Seorang putri Santo dan gadis keadilan.
+Noer/NapRape_Moot1
+\c[4]Orang Lewat：\c[0]    Hehehe! Kenapa si manis kecil tiduran sendirian di sini?
 
-CompWarSister/begin
-\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Sister：\c[0]    Karena Sang Santo adalah ayahku yang pengasih...
+Noer/NapRape1_Moot
+\c[4]Orang Lewat：\c[0]    Ah-Haha! Haaff...
 
-CompWarSister/Comp_disband
-\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Sister：\c[0]    Jangan tinggalkan Santo, karena iman akan menjadi pedangmu!
+Noer/NapRape2_Moot
+\narr Lona dibawa pergi...
 
-CompWarSister/Comp_win
-\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Sister：\c[0]    Sang Santo akan memimpin kita semua menuju surga.
+Noer/NapRape3_Moot0
+\c[4]Orang Lewat：\c[0]    Gadis yang manis! K*nt*lku bakal hancurin kamu! Pelacur bodoh!!
 
-CompWarSister/Comp_failed
-\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Sister：\c[0]    Aku tidak punya belas kasihan lagi untuk orang kafir sepertimu.
-\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Maaf...
+Noer/NapRape3_Moot1
+\c[4]Orang Lewat：\c[0]    Oh? Si jalang baru bangun?
 
-CompWarSister/Weak_failed
-\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Sister：\c[0]    Kamu tidak layak menerima rahmat Santo.
-\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Maaf...
+Noer/NapRape3_Moot2
+\c[4]Orang Lewat：\c[0]    Gak sabar... M*mek asli... Perkosa! Perkosa si jalang bodoh ini!
 
-CompWarSister/End
-\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Maiden：\c[0]    JANGAN BERI MEREKA AMPUN!
 
-CompWarSister/Fated_enemy
-\narr Rekanmu berseru bahwa yang tidak murni harus menghadapi penghakiman!
 
-CompWarSister/OvermapPop0
-Belas kasihan itu untuk yang lemah!
 
-CompWarSister/OvermapPop1
-ATAS NAMA SANTO!
+Noer/NapRape_withSta_Fight2_Human0
+\c[4]Orang Lewat：\c[0]    Keliatannya lu emang mau mati ya! Hah?!
 
-CompWarSister/OvermapPop2
-Tidak ada waktu untuk mengasihani orang yang tidak percaya.
+Noer/NapRape_withSta_Fight2_Human1
+\c[4]Orang Lewat：\c[0]    \{Nih jalang seriusan?!
 
-CompWarSister/OvermapPop3
-BERSIHKAN DAN HANCURKAN!
+Noer/NapRape_withSta_Fight2_Human2
+\c[4]Orang Lewat：\c[0]    \{Lu serius mau coba kabur?!
 
-####################################################################################################################################################
+Noer/NapRape_withSta_NoFight2_Human0
+\m[sad]\c[4]Orang Lewat：\c[0]    Hah! Hah! Hah! ♥
 
-CompOrkindSlayer/CompData
-\board[Orkind Slayer]
-\C[2]Posisi：\C[0]Depan
-\C[2]Tipe Tempur：\C[0]Melee, Pertahanan, Skill Seks
-\C[2]Alignment：\C[0]Sybaris (Netral)
-\C[2]Memusuhi：\C[0]Orkind, Orc. Dan ya, Goblin
-\C[2]Biaya：\C[0]1 Sup Enak\i[110]
-\C[2]Durasi：\C[0]3.5 Hari
-Seorang pembalas dendam yang paranoid... Apa aku sudah bilang dia benci Orc dan Goblin?
+Noer/NapRape_withSta_NoFight2_Human1
+\m[sad]\c[4]Orang Lewat：\c[0]    Hah... Hah... Hah...♥
 
-CompOrkindSlayer/begin
-\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    Mereka membunuh keluargaku...
-\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    AKU HARUS BUNUH SEMUA ORKIND!
+Noer/NapRape_withSta_NoFight2_Human2
+\m[sad]\c[4]Orang Lewat：\c[0]    Gadis pintar! ♥
 
-CompOrkindSlayer/Comp_disband
-\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    Tidak! Aku mau membunuh lebih banyak Orkind!
+#moot.   same like human,  but nibba
 
-CompOrkindSlayer/Comp_win
-\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    Maju! Kita akan bantai banyak Orc dan Goblin bersama-sama!!!
+Noer/NapRape_withSta_Fight2_Moot0
+\c[4]Orang Lewat：\c[0]    Dasar PELACUR! MAU MATI YA?!
 
-CompOrkindSlayer/Comp_failed
-\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    Grrr! Ini tidak ada hubungannya dengan Orkind!
-\CBct[6]\m[sad]\plf\c[6]Lona：\c[0]    Maaf...
+Noer/NapRape_withSta_Fight2_Moot1
+\c[4]Orang Lewat：\c[0]    \{MAU GUE ANCURIN LU?! HAH?!
 
-CompOrkindSlayer/Slave_failed
-\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    Apa yang bisa dilakukan budak, selain jadi umpan?!
-\CBct[6]\m[sad]\plf\c[6]Lona：\c[0]    Maaf...
+Noer/NapRape_withSta_Fight2_Moot2
+\c[4]Orang Lewat：\c[0]    \{NGAPAIN LU?! BANGSAT!
 
-CompOrkindSlayer/OrkindGroup_run
-\SETpl[OrkindSlayer]\Lshake\prf\c[4]Orkind Slayer：\c[0]    TIDAAAK!!! SEMUA ORC DAN GOBLIN HARUS MATI!!!
-CompOrkindSlayer/OvermapPop0
-Aku rindu sup buatan adikku...
+Noer/NapRape_withSta_NoFight2_Moot0
+\m[sad]\c[4]Orang Lewat：\c[0]    Hoo heehee... ♥
 
-CompOrkindSlayer/OvermapPop1
-Ini bukan Orkind!
+Noer/NapRape_withSta_NoFight2_Moot1
+\m[sad]\c[4]Orang Lewat：\c[0]    Ah hahaha! ♥
 
-CompOrkindSlayer/OvermapPop2
-Hancurkan semua tulang Orkind!
+Noer/NapRape_withSta_NoFight2_Moot2
+\m[sad]\c[4]Orang Lewat：\c[0]    Gitu dong jalang... ♥
 
-CompOrkindSlayer/OvermapPop3
-Bunuh semua Orkind!
+#------------------------------------------------- Fishkind
 
-####################################################################################################################################################
+Noer/NapRape_Fishkind0
+\SndLib[FishkindSmSpot]\c[4]Manusia Ikan：\c[0]    Geeeh? Betina!
 
-CompHumanExplorer/CompData
-\board[Jobless Treasure Hunter]
-\C[2]Posisi：\C[0]Belakang
-\C[2]Tipe Tempur：\C[0]Stunner, Counter-trap, Lentera
-\C[2]Alignment：\C[0]Netral
-\C[2]Memusuhi：\C[0]Makhluk Jahat
-\C[2]Biaya：\C[0]1 Sup Daging\i[108]
-\C[2]Durasi：\C[0]2.5 Hari
-\C[2]Catatan：\C[0]Setiap kali peta area diperbarui, -20 untuk Bahaya Lingkungan.
-Seorang petualang yang terjebak di pulau terkutuk ini.
+Noer/NapRape_Fishkind1
+\SndLib[FishkindSmSpot]\c[4]Manusia Ikan：\c[0]    Gooh gooh... Betina... Kawin...
 
-CompHumanExplorer/begin
-\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Aku ingin menjelajahi reruntuhan bawah tanah Sybaris.
-\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Sekarang aku terjebak di sini, buat makan aja gak mampu.
-\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Apa kamu butuh tempat yang perlu dijelajahi?\n Belikan aku makan dulu dan aku akan membantumu.
+Noer/NapRape1_Fishkind
+\SndLib[FishkindSmSpot]\c[4]Manusia Ikan：\c[0]    Guah?!
 
-CompHumanExplorer/Comp_disband
-\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Sialan, gimana makanku buat besok?!
+Noer/NapRape2_Fishkind
+\narr Lona diseret pergi...
 
-CompHumanExplorer/Comp_win
-\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Makasih nak!
+Noer/NapRape3_Fishkind0
+\SndLib[FishkindSmSpot]\c[4]Manusia Ikan：\c[0]    Betina...! Aku mau... Kawin!!!
 
-CompHumanExplorer/Comp_failed
-\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Kamu bercanda ya?!
+Noer/NapRape3_Fishkind1
+\SndLib[FishkindSmSpot]\c[4]Manusia Ikan：\c[0]    Gadis...! Ent*t m*meknya!
 
-CompHumanExplorer/OvermapPop0
-Pernah ke reruntuhan Timur?
+Noer/NapRape3_Fishkind2
+\SndLib[FishkindSmSpot]\c[4]Manusia Ikan：\c[0]    Bertelur di dalam...! Hamil!
 
-CompHumanExplorer/OvermapPop1
-Ular! Aku benci ular!!!
+Noer/NapRape_withSta_Fight2_Fishkind0
+\SndLib[FishkindSmSpot]\c[4]Manusia Ikan：\c[0]    \{Melawan...? Graah! Bunuh dia!!!
 
-CompHumanExplorer/OvermapPop2
-Harusnya ada relik Dewa-dewa lama di pulau ini.
+Noer/NapRape_withSta_Fight2_Fishkind1
+\SndLib[FishkindSmSpot]\c[4]Manusia Ikan：\c[0]    \{Guah guu! Pukul dia! Bunuh gadis!
 
-CompHumanExplorer/OvermapPop3
-Reruntuhan bawah tanah Sybaris itu spektakuler.
+Noer/NapRape_withSta_Fight2_Fishkind2
+\SndLib[FishkindSmSpot]\c[4]Manusia Ikan：\c[0]    \{Guah! Kawini mayatnya!
 
-####################################################################################################################################################
+Noer/NapRape_withSta_NoFight2_Fishkind0
+\SndLib[FishkindSmSpot]\m[sad]\c[4]Manusia Ikan：\c[0]    Goo! Hoo! Hoo! ♥
 
-CompKitten/CompData
-\board[Kitty]
-\C[2]Posisi：\C[0]Belakang
-\C[2]Tipe Tempur：\C[0]Tidak Diketahui
-\C[2]Alignment：\C[0]Hewan
-\C[2]Memusuhi：\C[0]Netral
-\C[2]Biaya：\C[0]1 Ikan\i[292]
-\C[2]Durasi：\C[0]Sesuka hatinya mau pergi kapan.
-\C[2]Catatan：\C[0]Kucing yang tampak jahat.
-Kelihatannya dia meremehkanmu...
+Noer/NapRape_withSta_NoFight2_Fishkind1
+\SndLib[FishkindSmSpot]\m[sad]\c[4]Manusia Ikan：\c[0]    Guah...! Guah! ♥
 
-CompKitten/begin
-\CBid[-1,8]\c[4]Kitty：\c[0]    ........
+Noer/NapRape_withSta_NoFight2_Fishkind2
+\SndLib[FishkindSmSpot]\m[sad]\c[4]Manusia Ikan：\c[0]    Kawin...! M*mek! ♥
 
-CompKitten/Comp_disband
-\CBid[-1,8]\c[4]Kitty：\c[0]   ...Meong!
+#------------------------------------------------- Lona
 
-CompKitten/Comp_win
-\CBid[-1,3]\c[4]Kitty：\c[0]    *Purrrr*... ♥
+Lona/NapRape3
+\Bon[20]\m[tired]\c[6]Lona：\c[0]    Eeeh?!
+\Bon[20]\m[fear]\Rshake\c[6]Lona：\c[0]    Berhenti! Apa yang kamu lakukan?!
 
-CompKitten/Comp_failed
-\CBid[-1,5]\c[4]Kitty：\c[0]    *HISSS*!
+Lona/NapRape_withSta
+\optD[Pasrah<t=3>,Lawan]
 
-CompKitten/Command
-\CBid[-1,5]\c[4]Kitty：\c[0]    *HIIISS*!
+Lona/NapRape_withSta_Fight1_typical
+\Bon[5]\m[shocked]\Rshake\c[6]Lona：\c[0]    Jauh-jauh dariku!
 
-CompKitten/OPT_PURR
-\CBid[-1,3]\c[4]Kitty：\c[0]    *Purr*... Meng...
-\narr\..\..\..\..
-\CBct[8]\narrOFF\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Aku gak tahu kenapa... Tapi tiba-tiba aku merasa jauh lebih bahagia!
+Lona/NapRape_withSta_Fight1_slut
+\Bon[8]\m[flirty]\c[6]Lona：\c[0]    Ara ara...~ Lagi gak mood niiih...
 
-####################################################################################################################################################
+Lona/NapRape_withSta_Fight1_tsundere
+\Bon[20]\m[irritated]\Rshake\c[6]Lona：\c[0]    Gak! Jangan sentuh aku, bangsat!!
 
-CompDoggy/CompData
-\board[Doggy]
-\C[2]Posisi：\C[0]Depan
-\C[2]Tipe Tempur：\C[0]Melee Cepat, Counter-trap
-\C[2]Alignment：\C[0]Hewan
-\C[2]Memusuhi：\C[0]Dipilih oleh Lona
-\C[2]Biaya：\C[0]1 Sup Daging\i[108]
-\C[2]Durasi：\C[0]Tidak Ada
-\C[2]Catatan：\C[0]Setiap kali peta area diperbarui, -20 untuk Bahaya Lingkungan.
-Anjing kampung liar tanpa harga diri. Gampang disogok.
+Lona/NapRape_withSta_Fight1_gloomy
+\Bon[20]\m[terror]\Rshake\c[6]Lona：\c[0]    Kyaaah!!!
 
-CompDoggy/begin
-\CBid[-1,20]\c[4]Doggy：\c[0]    Guk! Guk!
+Lona/NapRape_withSta_NoFight1_typical
+\Bon[8]\m[sad]\c[6]Lona：\c[0]    T-Tidak...
 
-CompDoggy/Comp_disband
-\CBid[-1,20]\SndLib[dogDead]\c[4]Doggy：\c[0]   *Melengking*...~
+Lona/NapRape_withSta_NoFight1_slut
+\Bon[4]\m[lewd]\c[6]Lona：\c[0]    Aku... Aku pasrah...~ ♥
 
-CompDoggy/Comp_win
-\CBid[-1,20]\c[4]Doggy：\c[0]    GUK! ♥
+Lona/NapRape_withSta_NoFight1_tsundere
+\Bon[5]\m[sad]\c[6]Lona：\c[0]    S-Sial...!
 
-CompDoggy/Comp_failed
-\CBid[-1,5]\c[4]Doggy：\c[0]    Grrrrrr!
+Lona/NapRape_withSta_NoFight1_gloomy
+\Bon[6]\m[fear]\c[6]Lona：\c[0]    J-Jangan sakiti aku... *Hiks* T...Tolong...
 
-CompDoggy/Command
-\CBid[-1,20]\SndLib[dogSpot]\c[4]Doggy：\c[0]    Guk guk!
+Lona/NapRape_noSta
+\Bon[8]\m[tired]\c[6]Lona：\c[0]    Nnnighnnn...
 
-CompDoggy/SetupFateEnemy
-Pilih NPC, Makhluk, atau Alignment mana yang harus diserang Doggy saat terlihat!\optD[Tidak Ada,Serang Alignment Jahat,Serang Alignment Baik,Hewan<r=HiddenOPT0>,Orkind<r=HiddenOPT1>,Manusia Ikan/Deepones<r=HiddenOPT2>,Abomination<r=HiddenOPT3>,Mayat Hidup<r=HiddenOPT4>]
+#--------             ---寄生蟲
 
-####################################################################################################################################################
+Lona/PooMoonWorm
+\narr Larvanya menggeliat keluar dari anusnya! Rektum Lona mengalami banyak kerusakan.
 
-CompHumanSpear/CompData
-\board[Drug-addicted Mercenary]
-\C[2]Posisi：\C[0]Depan
-\C[2]Tipe Tempur：\C[0]Melee Cepat
-\C[2]Alignment：\C[0]Netral
-\C[2]Memusuhi：\C[0]Makhluk Jahat
-\C[2]Biaya：\C[0]1 Rumput Naga Putih\i[203]
-\C[2]Durasi：\C[0]3 Hari
-Seorang tentara bayaran yang kecanduan Rumput Naga Putih.
+Lona/PeePotWorm
+\narr Larvanya merangkak keluar dari lubang kencingnya! Uretra Lona mengalami banyak kerusakan.
 
-CompHumanSpear/begin
-\CBid[-1,6]\c[4]Pecandu：\c[0]    Lu punya Rumput Naga Putih? Kumohon! Bagi satu aja! 1 Rumput Naga Putih!
+Lona/PukeHook
+\narr Muntahan Lona penuh dengan cacing tambang.
 
-CompHumanSpear/Comp_disband
-\CBid[-1,6]\c[4]Pecandu：\c[0]    Bagi dikit lagi! Dikit aja!
+Lona/OgrasmPolyp
+\narr Kontraksi vagina Lona mendorong keluar telur parasit yang sudah matang.
 
-CompHumanSpear/Comp_win
-\CBid[-1,6]\c[4]Pecandu：\c[0]    Siniin! Kasih ke aku! Cepetan!
+Lona/BirthedWorms
+\narr Parasit yang baru lahir mulai mencari inang baru.
 
-CompHumanSpear/Comp_failed
-\CBid[-1,6]\c[4]Pecandu：\c[0]    Gak... Rumput Naga Putih! AKU BUTUH ITU!!!
+Lona/ParasiteHit_polyp
+\m[p5shame]\cg[event_PolypWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    Sakiiiit!
+\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{ A-AHHH!
+\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    \{Sesuatu merangkak di dalam diriku!
 
-CompHumanSpear/OvermapPop0
-Punya Rumput?
+Lona/ParasiteHit_hook
+\m[p5shame]\cg[event_HookWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    \{*hiks*
+\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    *hiks* *hiks* *hiks*
+\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{ Ugh... *uhuk*
 
-CompHumanSpear/OvermapPop1
-Huuu hee heeee...
+Lona/ParasiteHit_pot
+\m[p5shame]\cg[event_PotWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    GAK! Jangan masuk! Aku pipis dari situ!
+\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    Nighahh! B-Bisa rusak!!
+\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{KYAAAH!!!
 
-CompHumanSpear/OvermapPop2
-Ooh hee heeee...
+Lona/ParasiteHit_moon
+\m[p5shame]\cg[event_MoonWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    BERHENTI! J-Jangan di lubang pantatku!
+\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    Nighahh! B-Bisa rusak!!
+\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{YIIIAAAH!!
 
-CompHumanSpear/OvermapPop3
-Itu Rumput Naga ya?
+Lona/Parasite_Wakeup
+Parasit di dalam perut Lona terus menggeliat.
+\m[p5shame]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    T-Tiidaaak! Ninngh... *HAH*!
+\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    KYAAAH!!!
+\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{Guuuh...!
+\m[pain]\c[6]Lona：\c[0]    *Haff*... *Huff*... Gak berhasil.
+\m[sad]\c[6]Lona：\c[0]    Harus cepat... Dan keluarkan ini...
 
-####################################################################################################################################################
+#---------------------------------------------------------------------------when overweight
 
-CompElfArcher/CompData
-\board[Elven Archer]
-\C[2]Posisi：\C[0]Belakang
-\C[2]Tipe Tempur：\C[0]Jarak Jauh, Tembakan Melengkung
-\C[2]Alignment：\C[0]Netral
-\C[2]Memusuhi：\C[0]Makhluk Jahat
-\C[2]Biaya：\C[0]600 Poin Dagang
-\C[2]Durasi：\C[0]3 Hari
-\C[2]Catatan：\C[0]Setiap kali peta area diperbarui, -20 untuk Bahaya Lingkungan.
-Seorang Pemanah Elf yang terjebak di pulau ini. Dia tampak kecewa dan bosan.
+Lona/overweight
+\m[pain]\c[6]Lona：\c[0]    Ooof! B-Berat banget! Aku bawa terlalu banyak barang!
+\m[tired]\c[6]Lona：\c[0]    Aku harus buang barang yang gak aku butuhin...
 
-CompElfArcher/begin
-\CBid[-1,20]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Kukira dunia manusia bakal menyenangkan dan penuh petualangan, tapi aku salah...
-\CBid[-1,20]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Ya, aku seorang Elf! ...Dan enggak, kami gak berak!
-\CBid[-1,20]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Aku muak dengan tempat mengerikan ini! Aku harus nabung uang biar bisa pulang ke rumah!
+#---------------------------------------------------------------------------When cuff is on
 
-CompElfArcher/Comp_disband
-\CBid[-1,20]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Senang bekerja sama denganmu.
+Lona/cuff_on_normal
+\m[bereft]\c[6]Lona：\c[0]    Jangan lakukan ini! Lepaskan aku!
 
-CompElfArcher/Comp_win
-\CBid[-1,20]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Akhirnya, waktunya berpetualang!
+Lona/cuff_on_slut
+\m[triumph]\c[6]Lona：\c[0]    I-Ini pasti bercanda kan!
 
-CompElfArcher/Comp_failed
-\CBid[-1,5]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Sudah kuduga! Semua manusia itu PEMBOHONG!
+Lona/cuff_on_tsun
+\m[shocked]\c[6]Lona：\c[0]    Sialan! Gak mau gerak!
 
-CompElfArcher/Comp_failed_slave
-\CBid[-1,5]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Budak kotor? Enyah sana!
+Lona/cuff_on_weak
+\m[sad]\c[6]Lona：\c[0]    Kumohon... J-Jangan! J-Jangan lakukan ini...
 
-CompElfArcher/OvermapPop0
-Kemana perginya semua pria baik?
+Lona/cuff_on_mouth_block
+\m[bereft]\c[6]Lona：\c[0]    Mmmph! Mrrmmph!!
 
-CompElfArcher/OvermapPop1
-Ini murni otot, bukan lemak!
+Lona/cuff_on_overfatigue
+\m[tired]\c[6]Lona：\c[0]    *Huff*... *Haff*...
 
-CompElfArcher/OvermapPop2
-Manusia itu jorok banget!
+###-------when cuff is on , day passed -----------------
+#--------------------------------------------------------------------------when 穴內放尿
 
-CompElfArcher/OvermapPop3
-YES! Kami gak pake toilet!
+narrator/peein_mouth
+\Rshake Batang daging tebal itu berkedut hebat di dalam mulut Lona.
+\Rshake Air seni asam mengalir ke tenggorokan Lona. Mulut kecilnya tidak bisa menampung semuanya saat air kencing mulai tumpah dari bibirnya.
+\Rshake Bau menyengat langsung menjalar dari hidungnya ke otak, membuat pikirannya mati rasa.
 
-CompElfArcher/CompFile
-\SETpl[ElfArcher]...
+narrator/peein_vag
+\Rshake Batang daging tebal yang menembus vagina Lona mulai berkedut.
+\Rshake Air seni bau mengalir deras ke dalam rahim Lona, cairan hangat di dalam vaginanya membuat Lona gemetar seluruh tubuh.
+\Rshake Air seni yang meluap mengalir keluar dari m*meknya dan mulai menetes ke lantai.
 
-####################################################################################################################################################
+narrator/peein_anal
+\Rshake Batang daging tebal jauh di dalam lubang pantat Lona mulai berkedut.
+\Rshake Air seni busuk mengalir ke dalam usus Lona, cairan hangat di dalam perutnya membuatnya kejang.
+\Rshake Air seni yang meluap mengalir ke selangkangannya, membentuk genangan di lantai.
 
-CompHumanScout/CompData
-\board[Guide]
-\C[2]Posisi：\C[0]Depan
-\C[2]Tipe Tempur：\C[0]Melee, Lentera
-\C[2]Alignment：\C[0]Netral
-\C[2]Memusuhi：\C[0]Makhluk Jahat
-\C[2]Biaya：\C[0]600 Poin Dagang
-\C[2]Durasi：\C[0]3 Hari
-Seorang pensiunan tentara, sekarang bekerja sebagai pemandu bagi orang lain.
+#--------------------------------------------------------------------------Orgasm addiction
 
-CompHumanScout/begin
-\CBid[-1,20]\c[4]Pemandu：\c[0]    Keluargaku tinggal di pelabuhan Noer. Lihat, ini potret mereka.
-\CBid[-1,20]\c[4]Pemandu：\c[0]    Aku cuma di sini buat nafkahin keluargaku, di mana kamu butuh bantuanku?
+Lona/Ograsm_addiction_add_a_level
+\narr\m[shy]\c[4]Tubuh Lona perlahan menjadi ketergantungan pada kenikmatan orgasme.
 
-CompHumanScout/Comp_disband
-\CBid[-1,20]\c[4]Pemandu：\c[0]    Oke, aku sebaiknya pulang juga.
+Lona/Ograsm_addiction_almost
+\narr\m[pain]\c[4]Hasrat kuat untuk seks mencegah Lona untuk fokus.
+\narrOFF\m[shy]\c[6]Lona：\c[0]    Aku... Aku pengen banget ngeseks...
 
-CompHumanScout/Comp_win
-\CBid[-1,20]\c[4]Pemandu：\c[0]    Baiklah kalau begitu, ayo lakukan ini.
+Lona/Ograsm_addiction_overLv1
+\narr\m[fear]\Rshake\c[4]Pikiran Lona dipenuhi dengan hal lain selain pikiran tentang seks.
+\narrOFF\m[sexhurt]\c[6]Lona：\c[0]    Haaah... Tubuhku rasanya panaaas banget.~
 
-CompHumanScout/Comp_failed
-\CBid[-1,5]\c[4]Pemandu：\c[0]    Maaf, gak tertarik.
+Lona/Ograsm_addiction_overLv2
+\narr\m[sexhurt]\Rshake\c[4]Lona tidak ingin melakukan apapun selain ngeseks sekarang...
+\narrOFF\m[p5shame]\Rshake\c[6]Lona：\c[0]    Mmnnn...~
+\m[sexhurt]\Rshake\c[6]Lona：\c[0]    Gak mungkin... Rasanya panas banget di bawah sana...~ ♥
 
-CompHumanScout/Comp_failed_slave
-\CBid[-1,5]\c[4]Pemandu：\c[0]    Balik sana ke tuanmu, budak.
+Lona/Ograsm_addiction_overLv3
+\narr\m[terror]\Rshake\c[4]Hasrat akan kenikmatan daging menguasai Lona. Dia merasa sepertinya akan gila!
+\narrOFF\m[sexhurt]\Rshake\c[6]Lona：\c[0]    Ahhh... *Haff*... S-Selamatkan aku!~
+\m[p5shame]\Rshake\c[6]Lona：\c[0]    AHHHNN!!! Siapapun boleh!~
+\m[hurt]\c[6]Lona：\c[0]    ......Siapapun jadi!~ ♥
+\m[sexhurt]\c[6]Lona：\c[0]    Kumohon...! Siapapun c-cepat ent*t aku! Ent*t aku! Aku butuh seks!!!~ ♥
 
-CompHumanScout/OvermapPop0
-Anakku seumuran sama kamu.
+#--------------------------------------------------------------------------Semen addiction
 
-CompHumanScout/OvermapPop1
-Pernah ke Pulau Nelayan?
+Lona/Semen_addiction_add_a_level
+\narr\m[pain]\c[4]Tubuh Lona perlahan menjadi ketergantungan mengonsumsi sperma.
 
-CompHumanScout/OvermapPop2
-Pantai Utara itu indah...
+Lona/Semen_addiction_almost
+\narr\m[pain]\c[4]Hasrat kuat akan sperma mencegah Lona untuk fokus.
+\narrOFF\m[fear]\c[6]Lona：\c[0]    Aku... Aku butuh sperma... Kalau enggak aku gak bakal tahan lebih lama lagi...
 
-CompHumanScout/OvermapPop3
-Lihat, ini anakku.
+Lona/Semen_addiction_overLv1
+\narr\m[fear]\Rshake\c[4]Kebutuhan Lona akan sperma membuatnya sulit menelan.
+\narrOFF\m[sexhurt]\c[6]Lona：\c[0]    *Guk* Butuh... Aku butuh sperma... Seseorang...
 
-####################################################################################################################################################
+Lona/Semen_addiction_overLv2
+\narr\m[sexhurt]\Rshake\c[4]Kebutuhan Lona akan sperma membuatnya sulit menelan bahkan ludahnya sendiri...
+\narrOFF\m[p5shame]\Rshake \c[6]Lona：\c[0]    Nnnigh... *Hah*
+\m[hurt]\Rshake\c[6]Lona：\c[0]    T-Tidak mungkin... Aku... bakal mati... Kalau gak dapet peju di dalam diriku.
 
-CompFishGuard/CompData
-\board[Fishtopia Body Guard]
-\C[2]Posisi：\C[0]Belakang
-\C[2]Tipe Tempur：\C[0]Melee, Grab
-\C[2]Alignment：\C[0]Manusia Ikan
-\C[2]Memusuhi：\C[0]Makhluk Jahat, Perkumpulan Santo
-\C[2]Biaya：\C[0]Sifat Nymphomaniac atau Pelacur
-\C[2]Durasi：\C[0]3 Hari
-Seorang prajurit dari suku Fishtopia. Lajang, ingin kawin.
+Lona/Semen_addiction_overLv3
+\narr\m[terror]\Rshake\c[4]Kebutuhan Lona akan sperma membuatnya sulit menelan apapun sama sekali. Dia mulai kehilangan akal sehatnya!
+\narrOFF\m[sexhurt]\Rshake\c[6]Lona：\c[0]    Guuuh... *Hah*
+\m[p5shame]\Rshake\c[6]Lona：\c[0]    AH! AAH! AHHH!
+\m[sad]\c[6]Lona：\c[0]    ...
+\m[sexhurt]\c[6]Lona：\c[0]    *Haff*... *Huff*... A-Aku gak tahan lagi!
 
-CompFishGuard/begin
-\CBid[-1,4]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    Bau gadis...! Aku harus... Lindungi gadis...!
+#--------------------------------------------------------------------------drug_addiction
 
-CompFishGuard/sex0
-\CBid[-1,4]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    Aku lindungi kamu! Tapi mau... Kawin... Nanti...!!!
+Lona/Drug_addiction_add_a_level
+\narr\m[pain]\c[4]Mengonsumsi terlalu banyak obat, Lona menjadi kecanduan obat tersebut...
 
-CompFishGuard/sex1
-\CBid[-1,4]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    Guu-Huuhee... ♥ Sehat... Gadis... Kawin... ♥♥♥
+Lona/Drug_addiction_almost
+\narr\m[pain]\c[4]Kecanduan obat Lona membuatnya semakin sulit berpikir.
+\narrOFF\m[fear]\c[6]Lona：\c[0]    Aku... B-Butuh obat... Atau aku bakal mati.
 
-CompFishGuard/Comp_disband
-\CBid[-1,6]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    Aku... Masih mau... Kawin...!
+Lona/Drug_addiction_overLv1
+\narr\m[fear]\Rshake\c[4]Lona mulai merasakan sakit di dalam tubuhnya karena kecanduan obat. Kesadarannya perlahan hilang darinya.
+\narrOFF\m[sad]\c[6]Lona：\c[0]   Guuuh... A-Aku butuh c-cari... O-O-Obat......
 
-CompFishGuard/Comp_win
-\CBid[-1,4]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    M*mek gadis... *Endus* M*mek... Bau enak... ♥
+Lona/Drug_addiction_overLv2
+\narr\m[pain]\Rshake\c[4]Tubuh Lona sakit di mana-mana karena kecanduan obat, pikirannya memohon hanya untuk satu dosis lagi...
+\narrOFF\m[p5sta_damage]\Rshake \c[6]Lona：\c[0]    *Hah* Nnnnigh... GAAAHH!!!
+\m[terror]\Rshake \c[6]Lona：\c[0]    T-T-Tidak... Tidak... B-B-Butuh o...o...obat... B-B-Bisa... M... Mati...
 
-CompFishGuard/Comp_failed
-\CBid[-1,5]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    M*mek gadis... *Endus* M*mek... Buruk! BURUK!
+Lona/Drug_addiction_overLv3
+\narr\m[p5sta_damage]\Rshake\c[4]Karena kecanduan obat yang ekstrim, Lona merasa seperti mau gila karena sakau!
+\narrOFF\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    *Haff* Uuu... Aah... Mmnnigh... AHH! AAAAH!!!
+\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    *HAH* GUUH! NNNIGH! AHHHAHH!! YIIAHHHH!!!
+\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    A-Aku m-m-mohon p...padamu!!! A-aku mmm-mau o-o-obat!!! B...-BAGI SINI!
+\m[p5health_damage]\Rshake\c[6]Lona：\c[0]     Aku bakal d-d-dengerin k... kamu... \n Aku bakal la-la-lakuin apa-p-p-pun yang kkk-kamu suruh...!
+\m[p5sta_damage]\Rshake\c[6]Lona：\c[0]     KYAAAH!!!
+\m[terror]\c[6]Lona：\c[0]    ......
+\m[sad]\c[6]Lona：\c[0]    Uuunnnhhh... *Hiks* A-ada a-apa s-sama a-a-aku...?
 
-CompFishGuard/Comp_failed_slave
-\CBid[-1,5]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    Budak... Balik... Desa... Lahirkan... Banyak anak...
 
-CompFishGuard/OvermapPop0
-Aku... Mau... Kawin...
+#--------------------------------------------------------------------------when Dress is out
 
-CompFishGuard/OvermapPop1
-Kamu bakal... Lahirkan banyak
+Lona/Qmsg_dress_out_normal
+Mana bajuku?!
 
-CompFishGuard/OvermapPop2
-M*mek... Mau kawin...
+Lona/Qmsg_dress_out_tsun
+Mereka ambil bajuku!
 
-CompFishGuard/OvermapPop3
-Tujuan gadis cuma... Banyak bayi...
+Lona/Qmsg_dress_out_weak
+Aku merasa saaangat d-d-dingin...
 
-####################################################################################################################################################
+Lona/Qmsg_dress_out_slut
+Aku gak pake apa-apa...
 
-CompFishShaman/CompData
-\board[Novice Fishkind Shaman]
-\C[2]Posisi：\C[0]Belakang
-\C[2]Tipe Tempur：\C[0]Jarak Jauh, Sihir, Tembakan Melengkung
-\C[2]Alignment：\C[0]Manusia Ikan
-\C[2]Memusuhi：\C[0]Makhluk Jahat, Perkumpulan Santo
-\C[2]Biaya：\C[0]Sifat Nymphomaniac atau Pelacur
-\C[2]Durasi：\C[0]3 Hari
-Seorang dukun Manusia Ikan pemula. Ingin sekali menjelajahi dunia.
+Lona/Qmsg_dress_out_overfatigue
+Oooh... D-d-dingin banget...
 
-CompFishShaman/begin
-\CBid[-1,4]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Muda... Kulit gelap... Gadis... Segar... Mau cicip... ♥ Penyihir Laut memberkatimu...♥
+Lona/Qmsg_dress_out_mouth_block
+Mmmmph!
 
-CompFishShaman/sex0
-\CBid[-1,4]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Guu-Hee! ♥ Kawin sama aku... Gadis! Jus benihku... Diberkati oleh Penyihir Laut...
+Lona/dress_out_normal0
+\prh!!!!!!
+\m[pain]\c[6]Lona：\c[0]    Dingin banget! Bajuku...?
 
-CompFishShaman/sex1
-\CBid[-1,4]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Guu ♥ Guu-Heehee! ♥ Benihku... Akan bikin kamu... Hamil!!! ♥
+Lona/dress_out_normal1
+\prh!!!!!!
+\m[fear]\c[6]Lona：\c[0]    Aku harus ambil balik bajuku cepet-cepet!
 
-CompFishShaman/Comp_disband
-\CBid[-1,6]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Jangan pergi... Aku suka... Daging gelap... Gadis... ♥
+Lona/dress_out_normal2
+\prh!!!!!!
+\m[shocked]\c[6]Lona：\c[0]    Mana bajuku?!
 
-CompFishShaman/Comp_win
-\CBid[-1,4]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Puji Penyihir Laut...! Karena dia telah... Memberkatiku dengan... Pasangan!
+Lona/dress_out_tsun0
+\prh!!!!!!
+\m[angry]\c[6]Lona：\c[0]    Apa-apaan...? Kenapa aku telanjang???!!!
 
-CompFishShaman/Comp_failed
-\CBid[-1,5]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Penyihir Laut... Telah meninggalkanku! Vagina jelek...!
+Lona/dress_out_tsun1
+\prh!!!!!!
+\m[irritated]\c[6]Lona：\c[0]    Mereka beneran ambil bajuku! Bajingan!
 
-CompFishShaman/Comp_failed_slave
-\CBid[-1,5]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Budak...! Balik... Ke desa!
+Lona/dress_out_tsun2
+\prh!!!!!!
+\m[angry]\c[6]Lona：\c[0]    Memalukan banget! Awas aja, bakal kubalas mereka!
 
-CompFishShaman/OvermapPop0
-Itu... Gadis...!
+Lona/dress_out_weak0
+\prh!!!!!!
+\m[shy]\c[6]Lona：\c[0]    Kalau aja aku bisa nemu baju... Aku harusnya baik-baik aja...
 
-CompFishShaman/OvermapPop1
-Semua vagina... Aku mau...!
+Lona/dress_out_weak1
+\prh!!!!!!
+\m[sad]\c[6]Lona：\c[0]    D... Dingin... Aku merasa saaangat d-d-dingin...
 
-CompFishShaman/OvermapPop2
-Kulit gelap... Mau cicip...
+Lona/dress_out_weak2
+\prh!!!!!!
+\m[sad]\c[6]Lona：\c[0]    K-Kalau aku gak nemu baju segera...
 
-CompFishShaman/OvermapPop3
-Penyihir Laut... Memberkatiku!
+Lona/dress_out_slut0
+\prh!!!!!!
+\m[pleased]\c[6]Lona：\c[0]    Kayaknya aku gak pake apa-apa nih. Jadi ngerasa agak nakal...
 
-################################## fishkind follower unique sex dialog.
+Lona/dress_out_slut1
+\prh!!!!!!
+\m[triumph]\c[6]Lona：\c[0]    Jantungku mau copot! Ohhh! Aku merinding...
 
-Lona/notWhore0
-\CBct[6]\m[flirty]\c[6]Lona：\c[0]    Ummm... Dipikir-pikir, gak jadi deh.
+Lona/dress_out_slut2
+\prh!!!!!!
+\m[triumph]\c[6]Lona：\c[0]    Aku merasa agak... Bergairah! Kira-kira apa yang bakal terjadi selanjutnya ya?
 
-Lona/notWhore1
-\CBct[6]\m[sad]\c[6]Lona：\c[0]    Maaf...
+Lona/dress_out_overfatigue0
+\prh!!!!!!
+\m[tired]\c[6]Lona：\c[0]    Guh... Oooh... D-d-dingin banget...
 
-CompFish/Extension
-\narr Dia bisa memperpanjang layanannya 2 hari lagi. Hanya jika Lona memuaskan hasrat seksualnya...
+Lona/dress_out_overfatigue1
+\prh!!!!!!
+\m[tired]\c[6]Lona：\c[0]    ......
 
-####################################################################################################################################################
+Lona/dress_out_overfatigue2
+\prh!!!!!!
+\m[tired]\c[6]Lona：\c[0]    Gak mungkin... D-d-dingin banget...
 
-CompFireMage/CompData
-\board[Fire Magician]
-\C[2]Posisi：\C[0]Belakang
-\C[2]Tipe Tempur：\C[0]Jarak Jauh, Sihir
-\C[2]Alignment：\C[0]Netral
-\C[2]Memusuhi：\C[0]Makhluk Jahat
-\C[2]Biaya：\C[0]1 Ramuan Biru atau 2 Rumput Naga Putih\i[213]\i[203]
-\C[2]Durasi：\C[0]2.5 Hari
-Seorang penyihir wanita yang miskin tapi berbakat.
+Lona/dress_out_mouth_block0
+\prh!!!!!!
+\m[shocked]\c[6]Lona：\c[0]    Mmmmph!
+\m[shy]\c[6]Lona：\c[0]    Mnnnnph!
 
-CompFireMage/begin
-\SETpl[FireMageF]\Lshake\CBid[-1,20]\c[4]Penyihir Api：\c[0]    Guh... Aku capek banget.
+Lona/dress_out_mouth_block1
+\prh!!!!!!
+\m[hurt]\c[6]Lona：\c[0]    Guuuuh!
+\m[tired]\c[6]Lona：\c[0]    Mnnnph!
 
-CompFireMage/Comp_disband
-\SETpl[FireMageF]\Lshake\CBid[-1,20]\c[4]Penyihir Api：\c[0]    Hei... Kenapa gak ada tentara bayaran lain yang mau setim sama aku?
+Lona/dress_out_mouth_block2
+\prh!!!!!!
+\m[wtf]\c[6]Lona：\c[0]    Mmmph mmmph!
+\m[shy]\c[6]Lona：\c[0]    Mnnnnn...!
 
-CompFireMage/Comp_win
-\SETpl[FireMageF]\Lshake\CBid[-1,20]\c[4]Penyihir Api：\c[0]    Seriusan?! Makasih banyak ya!
+#------------------------------------- Ext
+Lona/Qmsg_dress_out_ext_normal
+Yah... Siapa juga yang butuh baju?
 
-CompFireMage/Comp_failed
-\SETpl[FireMageF]\Lshake\CBid[-1,20]\c[4]Penyihir Api：\c[0]    Ugh... Capek bangeeet...
+Lona/Qmsg_dress_out_ext_tsun
+Pake baju cuma bikin lambat aja!
 
-CompFireMage/OvermapPop0
-Aku suka banget bau gosong!
+Lona/Qmsg_dress_out_ext_weak
+G-Gak bakal ada yang merhatiin aku kok... Kuharap...
 
-CompFireMage/OvermapPop1
-Aku cuma mau bakar dunia ini... sampai... HANGUS!
+Lona/Qmsg_dress_out_ext_slut
+Telanjang itu kondisi paling seksi bagi wanita!
 
-CompFireMage/OvermapPop2
-Bisa gak sih seluruh dunia ini jadi abu aja? Plis?
+Lona/Qmsg_dress_out_ext_overfatigue
+Fiuuh... Siapa sangka baju bisa seberat iniii...
 
-CompFireMage/OvermapPop3
-Aku pengen banget mainan kembang api...
+Lona/Qmsg_dress_out_ext_mouth_block
+Mmmmmph... Mmmm...
 
-CompFireMage/OvermapPop4
-Gak ada yang bisa memadamkan api di hatiku!
+Lona/dress_out_ext_normal0
+\m[pleased]\c[6]Lona：\c[0]    Yah... Siapa juga yang butuh baju?
 
-####################################################################################################################################################
+Lona/dress_out_ext_normal1
+\m[pleased]\c[6]Lona：\c[0]    Rasanya enaak banget akhirnya bisa bebas!
 
-CompMusketeer/CompData
-\board[Musketeer]
-\C[2]Posisi：\C[0]Belakang
-\C[2]Tipe Tempur：\C[0]Jarak Jauh, Tembakan Melengkung, Stealth
-\C[2]Alignment：\C[0]Penjaga Noer
-\C[2]Memusuhi：\C[0]Makhluk Jahat
-\C[2]Biaya：\C[0]4 Botol Bir\i[361]
-\C[2]Durasi：\C[0]5 Hari
-\C[2]Catatan：\C[0]Bisa gunakan #{$story_stats["HiddenOPT0"]}+#{$story_stats["HiddenOPT1"]} untuk memicu stealth, tidak akan aktif menyerang musuh saat mengendap-endap.
-Seorang prajurit elit transferan dari \c[4]Kerajaan Ingalend\c[0], ahli dalam stealth dan penggunaan musket.
-Sayangnya dia menderita kerusakan otak karena kurang cuti dalam waktu yang sangat lama.
-Yap. Seorang marinir yang kejam, hijau, dan terbelakang mental.
+Lona/dress_out_ext_tsun0
+\m[serious]\c[6]Lona：\c[0]    Hmmph, pake baju cuma bakal bikin aku lambat. Bakal kuhajar siapapun yang berani ngeliatin aku aneh-aneh...
 
-CompMusketeer/begin_nonInGroup
-\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    BERHENTI! APA KATA SANDINYA?!
+Lona/dress_out_ext_tsun1
+\m[serious]\c[6]Lona：\c[0]    Tetap percaya diri tanpa pake baju itu tanda tekad yang kuat!
+\m[shy]\c[6]Lona：\c[0]    Kurasa...?
 
-CompMusketeer/begin
-\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    SIAAAP! HORMAT, PAK!
+Lona/dress_out_ext_weak0
+\m[fear]\c[6]Lona：\c[0]    Ummm... Kenapa i-ini rasanya salah banget... Tapi juga bener...?
 
-CompMusketeer/Comp_disband
-\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    Ambil cuti? TANPA PERMINTAAN DAN WEWENANG YANG SESUAI UNTUK ABSEN?! MENINGGALKAN POS DAN PASUKANKU?!
-\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    \{ITU SANGAT TIDAK MUNGKIN, PAK!
+Lona/dress_out_ext_weak1
+\m[flirty]\c[6]Lona：\c[0]    G-Gak bakal ada yang merhatiin aku kok... Kuharap...
 
-CompMusketeer/Comp_win
-\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    SIAP LAKSANAKAN!
+Lona/dress_out_ext_slut0
+\m[lewd]\c[6]Lona：\c[0]    Yaaah! Keluar kayak gini... Aku emang beneran mesum...~ ♥
 
-CompMusketeer/Comp_failed
-\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    INI TINDAKAN DISIPLIN YANG SALAH! SAYA INGIN BANDING!
+Lona/dress_out_ext_slut1
+\m[lewd]\c[6]Lona：\c[0]    Hihihi! Telanjang itu kondisi paling seksi bagi wanita!~ ♥
 
-CompMusketeer/Weak_failed
-\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    KAMU BERANI MEMBERIKU PERINTAH? PANGKATMU GAK CUKUP!
+Lona/dress_out_ext_overfatigue0
+\m[tired]\c[6]Lona：\c[0]    M-Mungkin bajuku terlalu berat... Kayaknya aku lebih cepet kalau telanjang...
 
-CompMusketeer/CommonPop0
-SIAP LAKSANAKAN, PAK!
+Lona/dress_out_ext_overfatigue1
+\m[flirty]\c[6]Lona：\c[0]    Fiuuh... Siapa sangka baju bisa seberat iniii...
 
-CompMusketeer/CommonPop1
-DIMENGERTI!
+Lona/dress_out_ext_mouth_block0
+\m[tired]\c[6]Lona：\c[0]    Mmmmmph... Mmmm...
 
-CompMusketeer/OvermapPop0
-SATU DUA SATU DUA SATU DUA!
+Lona/dress_out_ext_mouth_block1
+\m[tired]\c[6]Lona：\c[0]    Mmmm... Mhmmmmhm...!
 
-CompMusketeer/OvermapPop1
-KEHORMATAN! KEBERANIAN! KOMITMEN!
 
-CompMusketeer/OvermapPop2
-OORAH! HOOAH!
+#--------------------------------------------------------------------------when collar is on
 
-CompMusketeer/OvermapPop3
-HORMAAAT-! -SENJATAA!
+Lona/collar_on_normal
+\m[bereft]\c[6]Lona：\c[0]    Jangan lakukan ini! Lepasin!
 
-######################################################################## 
+Lona/collar_on_slut
+\m[flirty]\c[6]Lona：\c[0]    Benda ini berat banget!
 
-########################################################################
+Lona/collar_on_tsun
+\m[shocked]\c[6]Lona：\c[0]    Sialan! Gak bisa dilepas!
 
-CompNinjaKiller/CompData
-\board[Myopic Assassin]
-\C[2]Posisi：\C[0]Depan
-\C[2]Tipe Tempur：\C[0]Melee
-\C[2]Alignment：\C[0]Sybaris
-\C[2]Memusuhi：\C[0]Makhluk Jahat
-\C[2]Biaya：\C[0]20 Kunai Lempar\i[58]
-\C[2]Durasi：\C[0]5 Hari
-\C[2]Catatan：\C[0]Bisa gunakan #{$story_stats["HiddenOPT0"]}+#{$story_stats["HiddenOPT1"]}untuk aktifkan mengendap，tidak akan aktif menyerang saat mengendap.\n
-\n
-Seorang prajurit di Sybaris yang jadi besar kepala setelah bersentuhan dengan budaya timur.\n
-Meski dia mungkin punya kepercayaan diri dalam pembunuhan, sayangnya dia rabun jauh.
+Lona/collar_on_weak
+\m[confused]\c[6]Lona：\c[0]    *Merengek*... B-berat banget...
 
-CompNinjaKiller/begin_nonInGroup0
-\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    DOMO!
+Lona/collar_on_mouth_block
+\m[bereft]\c[6]Lona：\c[0]    Mnnnnph! Mrhmnnhnn... Mmmph!
 
-CompNinjaKiller/begin_nonInGroup1
-\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Kacamata？
-\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Namu Amida Butsu！Aku gak rabun jauh！Ini alat sihir buat memindai KEKUATAN-TEMPURU！
+Lona/collar_on_overfatigue
+\m[tired]\c[6]Lona：\c[0]    Uhhnnn.......
 
-CompNinjaKiller/begin
-\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Semua SHUGYO yang kuterima adalah demi hari ini!
+#--------------------------------------------------------------------------when lost her baby
 
-CompNinjaKiller/Comp_disband
-\CBid[-1,6]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Apa kau sudah menyerah pada JINSEI-mu?
+Lona/lost_baby
+\m[shocked]\c[6]Lona：\c[0]    Bayi? Ke mana bayiku pergi?!
+\m[sad]\c[6]Lona：\c[0]    Apa cuma aku yang tersisa...?
 
-CompNinjaKiller/Comp_win
-\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Ayo kita beri pelajaran para ZAKO ini!
+#-----------------------------when lost too many babys
 
-CompNinjaKiller/Comp_failed
-\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Kau belum membuktikan padaku POWER LEVEL-mu.
+Lona/lost_baby_again
+\m[sad]\c[6]Lona：\c[0]    B-Bayi?! Di mana kamu...?
+\m[confused]\c[6]Lona：\c[0]    Bener kan, hilang lagi...
+\m[tired]\c[6]Lona：\c[0]    Lupain aja... Aku tahu ini bakal kejadian lagi... *Hiks*...
 
-CompNinjaKiller/Weak_failed
-\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Orang lemah tidak layak!
+#--------------------------------------------------------------------------when cums too heavy
 
-CompNinjaKiller/CommonPop0
-ME! SA! TSU!
+Lona/heavy_begin
+\narr Perut Lona yang penuh sperma beresiko bocor dari lubangnya kapan saja.
 
-CompNinjaKiller/CommonPop1
-NINJA! TANPA AMPUN!
+Lona/Qmsg_SemenBursting0
+Ada terlalu banyak di dalam diriku. Aku merasa penuh banget...
 
-CompNinjaKiller/OvermapPop0
-Bakana! Para filsuf telah meramalkan ini!
+Lona/Qmsg_SemenBursting1
+Perutku terasa berat banget...
 
-CompNinjaKiller/OvermapPop1
-Timur tidak punya hal seperti ini? Bakana!
+Lona/Qmsg_SemenBursting2
+B-Berat banget... Aku harus istirahat segera......
 
-CompNinjaKiller/OvermapPop2
-Salah pahamku? Bakana!
+Lona/SemenBursting0
+\narrOFF\m[shy]\c[6]Lona：\c[0]    Ada terlalu banyak di dalam diriku. Aku merasa penuh banget...
 
-CompNinjaKiller/OvermapPop3
-Bakana! Ninja pasti ada!
+Lona/SemenBursting1
+\narrOFF\m[shy]\c[6]Lona：\c[0]    Perutku terasa berat banget...
 
-####################################################################################################################################################
+Lona/SemenBursting2
+\narrOFF\m[shy]\c[6]Lona：\c[0]    Aku gak bisa... T-Terlalu berat... Aku harus istirahat segera......
 
-CompHorseCarry/CompData
-\board[Draft Horse]
-\C[2]Posisi：\C[0]Non-tempur
-\C[2]Alignment：\C[0]Hewan
-\C[2]Memusuhi：\C[0]Tidak Ada
-Kamu boleh menyewa hewan ini setiap setengah hari seharga #{$story_stats["HiddenOPT1"]}P.
-Kuda beban memiliki Kapasitas Bawaan yang besar.
-Pastikan untuk mengambil barang simpananmu dari kuda beban sebelum dibubarkan, meninggalkan kelompokmu, atau mati.
-Jika tidak, kamu akan kehilangan semua barang yang disimpan di kuda tersebut.
+#-----------------when cums not heavy anymore
 
+Lona/SemenBursting_regen_begin
+\narr Sensasi kembung yang disebabkan oleh sperma perlahan mereda.
 
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
-*TL note, CompMusketeer/OvermapPop's texts have been rewritten/westernized from CHT to fit western military for ENG readers.
+Lona/Qmsg_SemenBursting_regen0
+Aku merasa jauh lebih baik!
+
+Lona/Qmsg_SemenBursting_regen1
+Perutku sepertinya mulai kembali normal sekarang!
+
+Lona/Qmsg_SemenBursting_regen2
+Aku harus istirahat sedikit lagi biar pulih sepenuhnya.
+
+Lona/SemenBursting_regen0
+\narrOFF\m[shy]\c[6]Lona：\c[0]    Aku merasa jauh lebih baik!
+
+Lona/SemenBursting_regen1
+\narrOFF\m[shy]\c[6]Lona：\c[0]    Perutku sepertinya mulai kembali normal sekarang!
+
+Lona/SemenBursting_regen2
+\narrOFF\m[shy]\c[6]Lona：\c[0]    Aku harus istirahat sedikit lagi biar pulih sepenuhnya.
+
+#-------------------------------------------------------------------------when eat cums
+
+Lona/eat_cums_normal0
+\narr Lona menelan sperma di dalam mulutnya sebagai jalan terakhir.
+\narrOFF\m[pain]\c[6]Lona：\c[0]    *Guk*! Y-Yaiks! ...Rasanya menjijikkan!
+
+Lona/eat_cums_normal1
+\narr Lona memaksakan diri menelan sperma di dalam mulutnya.
+\narrOFF\m[shy]\c[6]Lona：\c[0]    *Guk*! Nnnigh... *Guk*... *Huff*... T-Tenggorokanku sakit!
+
+Lona/eat_cums_tsun0
+\narr Lona ragu-ragu, sebelum akhirnya memaksakan diri menelan apapun yang ada di mulutnya.
+\narrOFF\m[angry]\c[6]Lona：\c[0]    *Guk*... *UWAK*! M-MENJIJIKKAN! ...Gak percaya aku beneran nelen itu!
+
+Lona/eat_cums_tsun1
+\narr Lona mulai tersedak cairan busuk di mulutnya dan menelan semuanya dengan putus asa.
+\narrOFF\m[serious]\c[6]Lona：\c[0]    *Glug*... *GUK*! G-... Gak mungkin. *Uek*! Gak mungkin aku bakal lakuin itu lagi!
+
+Lona/eat_cums_weak0
+\narr Sperma di dalam mulut Lona mengalir ke tenggorokannya tanpa perlawanan.
+\narrOFF\m[pain]\c[6]Lona：\c[0]    ...*Guk* Udahan dong... *Hiks* Kumohon, u-udah...
+
+Lona/eat_cums_weak1
+\narr Sperma mengalir ke tenggorokan Lona dengan mudah.
+\narrOFF\m[pain]\c[6]Lona：\c[0]    ...*Guk*...... *Uhuk*... *Uhuk*......
+
+Lona/eat_cums_slut0
+\narr Lona dengan riang meneguk sperma manis di dalam mulutnya!
+\narrOFF\m[lewd]\c[6]Lona：\c[0]    *GUK*! J-Jus k*nt*l... *Slurp* Enaak...~
+
+Lona/eat_cums_slut1
+\narr Lona dengan rakus meminum sperma lengket di dalam mulutnya dengan sukacita!
+\narrOFF\m[lewd]\c[6]Lona：\c[0]    *GLUG*! ...*GUK*! La-... Lagi! Tolong muncratin lebih banyak di mulutku!~
+
+Lona/eat_cums_mouth_block0
+\narr Lona berusaha sebaik mungkin menelan cairan di dalam mulutnya.
+\narrOFF\m[shy]\c[6]Lona：\c[0]    *Guk* Mmmmmmph!
+
+Lona/eat_cums_mouth_block1
+\narr Lona sedikit kesulitan tapi berhasil menelan apapun yang ada di mulutnya.
+\narrOFF\m[shy]\c[6]Lona：\c[0]    *Guk* Mmmnnnmmmph!
+
+Lona/eat_cums_overfatigue0
+\narr Lona perlahan membiarkan sperma mengalir ke tenggorokannya...
+\narrOFF\m[shy]\c[6]Lona：\c[0]    *Guk*... Mmmnnn... *Huff*... *Haff......
+
+Lona/eat_cums_overfatigue1
+\narr Lona menggunakan sisa kekuatan yang dia miliki untuk memaksa menelan cairan di mulutnya...
+\narrOFF\m[shy]\c[6]Lona：\c[0]    Guk*... Guuuh... *UHUK*! *Hah*... Uuunnngh......
+
+#-------------------------------------------------------------------------WHEN HUNGER
+
+Lona/hunger0
+\narr Perut Lona yang kenyang memungkinkannya pulih secara fisik dan mental.
+\narrOFF\m[triumph]\c[6]Lona：\c[0]    Fiuuh! Beruntung banget bisa makan enak gini.
+
+Lona/hunger1
+\m[confused]\c[6]Lona：\c[0]    Aku belum terlalu lapar, tapi kayaknya tetep harus makan sesuatu...
+
+Lona/hunger2
+\narr Hasrat Lona akan makanan terus bertahan di perutnya yang kelaparan.
+\narrOFF\m[sad]\c[6]Lona：\c[0]    *Krucuk* Nnnighnnn... Laper banget... A... Aku beneran harus makan segera.
+
+Lona/hunger3
+\narr Rasa sakit yang tajam menetap di dalam perut Lona yang lemah dan kurang gizi...
+\narrOFF\m[pain]\c[6]Lona：\c[0]    *Hah*... *Huff*... Kalau... Kalau aku gak makan apapun sekarang, aku bakal m-mati kelaparan!
+
+#-------------------------------------------------------------------------WHEN low sta
+
+Lona/lowsta0
+\m[pain]\c[6]Lona：\c[0]    Nnnighnnn... A... Aku gak bisa gerakin kakiku......
+
+Lona/lowsta1
+\m[pain]\c[6]Lona：\c[0]    Unnnghnnn...　Tubuhku terasa berat banget...
+
+Lona/lowsta2
+\m[pain]\c[6]Lona：\c[0]    Mmmnnnigh...　K-Kakiku sakit, dan tubuhku terasa berat banget...
+
+Lona/lowsta3
+\m[pain]\c[6]Lona：\c[0]    Guuuhhh...　Aku gak kuat berdiri lagi, aku butuh tempat buat istirahat.
+
+Lona/Qmsg_lowsta0
+A... Aku gak bisa gerakin kakiku......
+
+Lona/Qmsg_lowsta1
+Tubuhku terasa berat banget...
+
+Lona/Qmsg_lowsta2
+K-Kakiku sakit...
+
+Lona/Qmsg_lowsta3
+Aku gak kuat berdiri lagi.
+
+#------------------------------------------------------------------------NAP
+
+Lona/nap
+\m[tired]\c[6]Lona：\c[0]    ZZZzzz\}zzz\{......
+
+#--------------------------------------------------------------------況張傷害
+
+Lona/vag_damaged
+\m[shy]M*mek Lona tampak seperti daging panggang yang cacat dan vaginanya tidak bisa berhenti menganga lebar.
+\m[fear]\c[6]Lona：\c[0]    EH?! A-Apa yang terjadi sama tubuhku?
+
+Lona/urinary_damaged
+\m[shy]Aliran air seni yang seolah tak ada habisnya terus mengalir keluar dari lubang kencingnya. Lona sepertinya kehilangan kendali atas kandung kemih dan uretranya.
+\m[fear]\c[6]Lona：\c[0]    Eeyah?! K-Kenapa aku gak bisa berhenti pipis?
+
+Lona/anal_damaged
+\m[shy]Kotoran dan tinja mulai mengalir keluar dari anus Lona. Lona sepertinya kehilangan kendali atas rektum dan buang air besarnya.
+\m[fear]\c[6]Lona：\c[0]    AHHH! Gak! GAK-GAAAKooo! Aku... *Nnninngh* Aku g-gak bisa tahaaan......!
+
+#---------------------------------------------------------Urination
+
+Lona/pee_dialog
+\m[confused]\c[6]Lona：\c[0]    Mnnn... Aku kebelet pipis banget.
+\m[shy]\c[6]Lona：\c[0]    Aku harus cari tempat aman buat buang air.
+
+Lona/scat_dialog
+\m[confused]\c[6]Lona：\c[0]    Nnnighn... A... Aku kayaknya harus ke toilet.
+\m[shy]\c[6]Lona：\c[0]    Aku harus cari tempat aman buat mengosongkan perutku...
+
+Lona/Qmsg_pee_dialog
+Aku kebelet pipis banget.
+
+Lona/Qmsg_scat_dialog
+Kayaknya aku harus ke toilet...
+
+#---------------------------------泌尿系統受損後
+
+Lona/auto_pee
+\m[confused]Air seni tumpah keluar dari uretra Lona. Bau asam dan rasa tidak nyaman membasahi tubuh bagian bawah Lona.
+\m[shy]\c[6]Lona：\c[0]    Eeep! Aku harus... cari tempat buat bersihin diri.
+
+Lona/Qmsg_auto_pee
+Oh tidak... Aku mau pipis...
+
+Lona/auto_pee_nap
+\narr Air seni terus mengalir keluar dari uretra Lona saat dia tidur.
+\narr Lona mengompol di kasur.
+
+Lona/auto_poo
+\m[confused]Tinja dan kotoran mengalir keluar dari anus Lona tanpa terkendali. Bau menjijikkan dan lengket menutupi tubuh bagian bawahnya.
+\m[shy]\c[6]Lona：\c[0]    *Merengek* Aku... Aku butuh cari tempat buat bersihin diri......
+
+Lona/Qmsg_auto_poo
+Oh tidak... Pupku... keluar...
+
+Lona/auto_poo_nap
+\narr Kotoran busuk terus terdorong keluar dari rektum Lona saat dia tertidur.
+
+###############################################################COMMON SEX TRAIT/LURE##############################################################
+
+Lona/lure_normal0
+\m[shy]\c[6]Lona：\c[0]    Tolong... Tolong pakai m*mekku sesukamu.
+
+Lona/lure_normal1
+\m[shy]\c[6]Lona：\c[0]    Aku cuma mainan, tolong ent*t aku sampai kamu puas.
+
+Lona/lure_tsun0
+\m[shy]\c[6]Lona：\c[0]    Cih... A... T-Tolong...... Lakukan apapun yang kamu mau padaku.
+
+Lona/lure_tsun1
+\m[shy]\c[6]Lona：\c[0]    Nnnighnnn. I-Ini... Silakan lakukan apapun yang kamu mau...
+
+Lona/lure_weak0
+\m[shy]\c[6]Lona：\c[0]    Aku peliharaanmu, aku janji bakal jadi anak baik...
+
+Lona/lure_weak1
+\m[shy]\c[6]Lona：\c[0]    Ini... Kamu bisa lakuin apa aja yang kamu mau padaku...
+
+Lona/lure_slut0
+\m[lewd]\c[6]Lona：\c[0]    Tolong... Tolong ent*t m*mek mesumku sebanyak yang kamu mau!~ ♥
+
+Lona/lure_slut1
+\m[lewd]\c[6]Lona：\c[0]    Ent*t aku... Tolong, e-ent*t aku! Aku cuma jalang yang lagi sange!~ ♥
+
+Lona/lure_mouth_block0
+Lona menonjolkan selangkangannya dan memperlihatkan kemaluannya di depan pandangan mereka.
+\m[shy]\c[6]Lona：\c[0]    Mmmmnmnph.....
+
+Lona/lure_mouth_block1
+Lona menonjolkan selangkangannya dan memperlihatkan kemaluannya di depan pandangan mereka.
+\m[shy]\c[6]Lona：\c[0]    Mmmnnnighnnn.....
+
+Lona/lure_overfatigue0
+Lona menonjolkan selangkangannya dan memperlihatkan kemaluannya di depan pandangan mereka.
+\m[shy]\c[6]Lona：\c[0]    ......
+
+Lona/lure_overfatigue1
+Lona menonjolkan selangkangannya dan memperlihatkan kemaluannya di depan pandangan mereka.
+\m[shy]\c[6]Lona：\c[0]    *Huff*......
+
+############################################333EQUIP WOUNDS########################33
+
+Lona/cuff_wound
+\m[pain]\c[4]Belenggu... Klem besi ini melilitku dengan erat......
+\m[fear]\c[4]Aku harus cari cara buat lepasin pengekang ini! Kalau enggak, aku gak bakal bisa ngapa-ngapain...
+
+Lona/collar_wound
+\m[pain]\c[4]Kalung... Kalung leher ini mencekikku, dan permukaan kasarnya terus melukai leherku......
+\m[bereft]\c[4]Tidak! Aku gak mau jadi budak!
+
+###############################################PUKE######################
+
+Lona/puke_cums
+\narr Sperma yang kental dan lengket menempel di tenggorokan dan trakea Lona.
+\narr Dorongan untuk muntah menghantam Lona dengan keras.
+
+Lona/puke_begin1
+\PRF\c[6]Lona：\c[0]    \{*U-UEK*! MmmMMMGLUGH! *HUEK*!!!
+
+Lona/puke_begin2
+\narr Isi perut Lona mulai naik ke tenggorokan, memaksanya untuk memuntahkannya.
+
+Lona/puke1
+\c[6]Lona：\c[0]    \{*Huff*... *HAFF*... *UEK*!!!
+
+Lona/puke2
+\c[6]Lona：\c[0]    \{OOOUGH! *Glurk* UUURRRK! BLUAAAUGH!!!
+
+Lona/puke3
+\c[6]Lona：\c[0]    \{Blugh! *HUEK*! GUH! BLUUURRRUGH!!!
+
+Lona/puke4
+\c[6]Lona：\c[0]    MMMNNNPH! *BAAARF* BLAAAAUGH!!! *Huek*!
+
+Lona/puke5
+\c[6]Lona：\c[0]    *UHUK*!!! *UHUK! *HAH*...! BLAAARUUUGH! *BAAARF*!
+
+Lona/puke_end1
+\c[6]Lona：\c[0]    *Hah*... *Huff*... *Uhuk*... *Haff*......
+
+Lona/puke_end2_normal
+\c[6]Lona：\c[0]    Blugh! *Huek*... Aku... *Huff* Muntahin semuanya......
+
+Lona/puke_end2_preg
+\c[6]Lona：\c[0]    Aku...- *Haff* -merasa gak enak badan......
+
+Lona/Qmsg_Oev_Puke
+Uggghnnn... Aku mau muntah...
+
+###############################################Itch######################
+
+Lona/Qmsg_Oev_Itch0
+G-Gatal banget...
+
+Lona/Qmsg_Oev_Itch1
+Gatel banget... Di bawah sana...
+
+Lona/Qmsg_Oev_Itch2
+Uwuu... G-Gatel...
+
+###########################################SICK################################
+
+Lona/sick
+\m[pain]\c[6]Lona：\c[0]    Urk, unnngh....
+\m[tired]\c[6]Lona：\c[0]    Aku gak enak badan... Sebaiknya jangan memaksakan diri dan segera istirahat.
+
+###########################################3# MILK OVERCHARGE################################
+
+Lona/Milk_feed_notEnough
+\m[confused]\c[6]Lona：\c[0]    \..\..\..
+\m[shocked]\Rshake\c[6]Lona：\c[0]    A-Asinya gak cukup?!
+
+Lona/MilkSpray_overcharge
+\narr Payudara Lona terasa sangat bengkak. Segera, susu mulai memancar keluar dari putingnya.
+\narrOFF\m[shy]\c[6]Lona：\c[0]    Mnnngh ohhh... Aku harus cari tempat buat ngurusin ini.
+
+########################################3####MENSES SYSTEM#######################################
+
+Lona/menses
+\m[pain]\c[6]Lona：\c[0]    Aduh... Ugh... Apa udah waktunya datang bulan lagi...?
+\m[shy]\c[6]Lona：\c[0]    Mending aku cari tempat yang ada airnya buat bersih-bersih.
+\m[tired]\c[6]Lona：\c[0]    Urgh... Blugh... Aku merasa mual.
+
+Lona/menses_bad
+\m[pain]\c[6]Lona：\c[0]    Darah masih ngalir dari bawah sana, dan badanku rasanya berat banget...
+\m[tired]\c[6]Lona：\c[0]    Kayaknya aku harus istirahat hari ini.
+
+Lona/menses_ovulate
+\m[confused]\c[6]Lona：\c[0]    Aku merasakannya lagi......
+\m[shy]\c[6]Lona：\c[0]    Rasanya panas di bawah sana... Dan rasanya tubuhku kayak mengharapkan sesuatu.
+
+################################################ PREG DIALOGS ##################################################
+#########LV1
+
+Lona/preglv1_puke_exped
+\m[sad]\c[6]Lona：\c[0]    Aku pernah denger gejala ini sebelumnya...
+\m[confused]\c[6]Lona：\c[0]    Apa...... Apa aku h-hamil?
+
+Lona/preglv1_Qmsg_puke_exped0
+Aku pernah denger gejala ini sebelumnya...
+
+Lona/preglv1_Qmsg_puke_exped1
+Apa...... Apa aku h-hamil?
+
+#########LV2
+
+Lona/preglv2_puke
+\m[sad]\c[6]Lona：\c[0]    GUH! I-Ini terjadi...-! -La-Lagi!
+
+Lona/preglv2_Qmsg_puke
+GUH! I-Ini- -*HUEK*! K-Keluar!
+
+Lona/preg_lv2
+\m[confused]\c[6]Lona：\c[0]    Perutku rasanya aneh. Dan aku jadi pengen makan lebih banyak...
+
+Lona/preg_lv2_Qmsg
+Perutku rasanya aneh.
+
+Lona/preg_lv2_exped
+\m[shy]\c[6]Lona：\c[0]    Perasaan aneh ini... Aku per-... -nah ngerasain ini sebelumnya.
+\m[fear]\c[6]Lona：\c[0]    Kayaknya aku hamil lagi...
+
+Lona/preg_lv2_exped_Qmsg0
+Aku per-... -nah ngerasain ini sebelumnya.
+
+Lona/preg_lv2_exped_Qmsg1
+Kayaknya aku hamil lagi...
+
+Lona/preglv2_pain
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{EEYAAAH!
+\m[tired]\c[6]Lona：\c[0]    Guuughnnn...
+\m[sad]\c[6]Lona：\c[0]    R-Rasa sakit ini serem banget......
+
+#########LV3
+
+Lona/preglv3
+\m[shocked]\c[6]Lona：\c[0]    Ugh, fiuh... Kapan perutku jadi segede ini?!
+\m[fear]\c[6]Lona：\c[0]    *Hah*... Semua orang pasti bakal nyadar perutku...
+
+Lona/preglv3_Qmsg0
+Kapan perutku jadi segede ini?!
+
+Lona/preglv3_Qmsg1
+Semua orang pasti bakal nyadar perutku...
+
+Lona/preglv3_puke
+\m[sad]\c[6]Lona：\c[0]    UUUGH! *HAH*! G-Gak! Jangan lagi...! BLUGH!
+
+Lona/preglv3_pain
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{KYAAAH!!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{OOOHHH...! NNNIGHnnn...!
+\m[tired]\c[6]Lona：\c[0]    *Haff*... *Huff*...
+\m[sad]\c[6]Lona：\c[0]    Guahhh,.. Sakit kayak gini sereeem banget...
+\m[confused]\c[6]Lona：\c[0]    Aku bisa ngerasain bayinya gerak di dalem perutku......
+
+Lona/preglv3_Qmsg_pain0
+Aku bisa ngerasain bayinya gerak...
+
+Lona/preglv3_Qmsg_pain1
+Sakit kayak gini serem banget...
+
+#########LV4
+
+Lona/preglv4
+\m[pain]\c[6]Lona：\c[0]    Perasaan aneh ini makin kuat tiap kali bayinya gerak...
+\m[fear]\c[6]Lona：\c[0]    Aku mungkin harus ngelahirin segera... Apa yang harus aku lakuin......?
+
+Lona/preglv4_Qmsg0
+Aku mungkin harus ngelahirin segera...
+
+Lona/preglv4_Qmsg1
+Apa yang harus aku lakuin...?
+
+Lona/preglv4_weak
+\m[shy]\c[6]Lona：\c[0]    Kumohon... *Huff* Kumohon jangan gerak lagi...
+\m[bereft]\c[6]Lona：\c[0]    Aku gak mau ngelahirin kamu di dunia yang kejam dan menyakitkan kayak gini...
+
+Lona/preglv4_Qmsg_weak0
+Kumohon... Kumohon jangan gerak lagi!
+
+Lona/preglv4_Qmsg_weak1
+Aku gak mau ngelahirin di dunia yang kejam kayak gini!
+
+Lona/preglv4_pain
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{EEEEEEP!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{KYAAAHHH!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Wuuhhh... *Hah*! EEEK...! AHHH...!!! Aaah......!
+\m[tired]\c[6]Lona：\c[0]    *HUFF*... *Haff*... *Huff*...
+\m[sad]\c[6]Lona：\c[0]    Nnnigh... B-Bayinya nendang lagi.
+\m[confused]\c[6]Lona：\c[0]    ...Jangan takut, Mama bakal ngelindungin kamu...... ♥
+
+Lona/preglv4_pain_Qmsg0
+Nnnigh... B-Bayinya nendang lagi.
+
+Lona/preglv4_pain_Qmsg1
+*HUFF*... *Haff*... *Huff*...
+
+Lona/preglv4_pain_Qmsg2
+Jangan takut, Mama bakal ngelindungin kamu... ♥
+
+#####################birth
+
+Lona/preglv5_ready_to_birth
+!!!!!!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Air! Airnya gak mau berhenti keluar!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Air ketubanku... Ketubanku pecah!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Rasanya kayak ada sesuatu yang mau keluar sebentar lagi!
+\m[pain]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    Itu nyoba buat keluar, aku gak bakal bisa nahan lagi!
+\m[shy]\c[6]Lona：\c[0]    ...Aku harus cari tempat aman segera!
+
+Lona/preglv5_ready_birth_shake0
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Sakit!
+
+Lona/preglv5_ready_birth_shake1
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{GAH! *Huff* OHHH!
+
+Lona/preglv5_ready_birth_shake2
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{AHHH! EEEEEEK!
+
+Lona/preglv5_birth_start
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Sakit!\} Perutku... Bergerak!\}
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Nnngah!\}
+\m[p5sta_damage]\Rshake Rasanya kayak mau keluar bentar lagi!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    EEEP! A-Aku ngerasain itu l-lagi!
+\m[p5sta_damage]\Rshake\{UGH!\{ NNAAHHH!\}\}
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    SAKIT- *Haff* -BANGET!
+\m[p5sta_damage]\Rshake\{*HAH*! AAAHH! GAAAHHH!\}
+
+Lona/preglv5_birth_start_pain0
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{AHHHHUUUUUGHHHH!
+\Rshake\c[6]Lona：\c[0]    \{BERHENTI! *Hiks*... K-Kumohon berhentiii!
+
+Lona/preglv5_birth_start_pain1
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{OhhhOOOUUUGH!
+\Rshake\c[6]Lona：\c[0]    \{*Hah*! AUUUUGHHH!
+\Rshake\c[6]Lona：\c[0]    \{GAAAHHHHHH!
+
+Lona/preglv5_birth_start_pain2
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Sakit...! *Huff*! SAKIIIT!
+\Rshake\c[6]Lona：\c[0]    \{AKU GAK BISA...! *Merintih*... AKU GGAAK BISAAA-!
+
+Lona/preglv5_birth_start_pain3
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{-EEEEEEAAAAAAHHH!
+\Rshake\c[6]Lona：\c[0]    \{UUUGHHHAHHH! *Hiks*! A-AAAAAAHHHHHH!
+
+Lona/preglv5_birth_start_pain4
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{KEEELLUUUAAARRRR!
+\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{GUUUGH-KKKKKKYYYAAAAAAHHHHHH!!!~
+
+######################################流產
+
+Lona/preg_miscarriage_start
+\narr Rasa sakit yang luar biasa dan berdenyut tiba-tiba memenuhi perut bagian bawah Lona!
+\narrOFF\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{\{!!!!!!!!!
+
+Lona/preg_miscarriage_begin0
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Sakit...! *Huff*! SAKIIIT!
+
+Lona/preg_miscarriage_begin1
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{EEEYYYAAAAAAH!
+
+Lona/preg_miscarriage_begin2
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{NGGAAAK! M-Maaf-... -kan aku!
+
+Lona/preg_miscarriage_begin3
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{GAAAHHH!　\{KYAAAHHH!
+
+Lona/preg_miscarriage_end0
+\m[pain]\c[6]Lona：\c[0]    Apa ini-...... -bayiku?
+\m[fear]\c[6]Lona：\c[0]    Bayi... B-Bayiku mati......
+
+Lona/preg_miscarriage_end1
+\m[sad]\c[6]Lona：\c[0]    Uuuuwaaahhh! *Hiks*... Ibu, aku minta maaf... Aku ibu yang gagal......
+
+##_------------------------------異種強制流產　　使用於ｒａｐｅ　ｌｏｏｐ連鎖事件 本事件僅適用ORKIND
+
+Lona/MonsterPregCheckbegin1_unexped
+\narr Mereka mempersiapkan Lona dan menahannya.
+\narrOFF\m[p5shame]\c[6]Lona：\c[0]    *Merengek*... A-Apa yang kalian lakukan?
+\narr Makhluk itu mengendus kemaluan Lona dan sepertinya mencari sesuatu.
+
+Lona/MonsterPregCheckbegin1_exped
+\narr Makhluk itu mulai mencium kemaluan Lona dan sepertinya curiga kalau Lona tidak hamil dari ras yang sama.
+\narrOFF\m[p5shame]\c[6]Lona：\c[0]    *Sniff*... Aku hamil, beneran! Aku gak bohong!
+
+Lona/MonsterPregCheckbegin2_normal
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    T-Tidak...! Jangan-... -jilat di situ...
+
+Lona/MonsterPregCheckbegin2_tsun
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Dasar monster! Berhenti! Jauhin mulut kotormu dari aku!
+
+Lona/MonsterPregCheckbegin2_weak
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Nggaaak! *Merengek*... J-Jangan sakiti aku! *Hiks* Eeeeeek!
+
+Lona/MonsterPregCheckbegin2_slut
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Kyaaah!~ Apa yang kamu lakuin?!
+
+Lona/MonsterPregCheckbegin2_mouth_block
+\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Mmmmph! MMMNNNnnnphhh!
+
+Lona/MonsterPregCheckbegin2_overfatigue
+\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Nnnighnnn... Ahhhhhh......
+
+Lona/MonsterPregCheckbegin3
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Nnnnnn...
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Eeeeeek...!
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Kyaaaaaah!
+
+Lona/MonsterPregChecked_pregnant
+\narr Mereka cukup puas dengan kondisi rahim Lona. Mereka memutuskan untuk mengawininya lagi untuk memastikan.
+\narrOFF\m[fear]\c[6]Lona：\c[0]    Apa yang mau... kalian lakukan......?
+
+Lona/MonsterPregChecked_no_pregnant
+\narr Mereka merasakan bahwa Lona belum dibuahi oleh keturunan mereka, yang berarti Lona harus segera dihamili.
+\narrOFF\m[fear]\c[6]Lona：\c[0]    Apa yang mau... kalian lakukan......?
+
+Lona/MonsterPregChecked_race_error
+\narr Mereka menemukan bahwa Lona tidak hamil dari spesies mereka, dan mereka sangat marah.
+\narrOFF\m[fear]\c[6]Lona：\c[0]    Apa yang mau... kalian lakukan......?
+\narr Mereka bersiap untuk menggugurkan bayi Lona dan membuatnya keguguran dengan metode paling primitif...
+
+
+#-----------------------------
+
+Lona/use_as_MeatToilet_normal
+\m[shocked]\Rshake\c[6]Lona：\c[0]    TIDAAAK!!! Lepaskan aku!!!
+\m[terror]\Rshake\c[6]Lona：\c[0]    \{Seseorang, tolong aku!!!
+
+Lona/use_as_MeatToilet_tsun
+\m[angry]\Rshake\c[6]Lona：\c[0]    LEPASIN AKU! Dasar kotoran menjijikkan!... Nnnighnnn! B-Bangsat!
+\m[hurt\Rshake]\c[6]Lona：\c[0]    \{Eeeeeyaaahhhhhh!
+
+Lona/use_as_MeatToilet_weak
+\m[fear]\Rshake\c[6]Lona：\c[0]    Aku... Aku bakal jadi anak baik... *Merengek* T-Tolong jangan sakiti aku...
+\m[bereft]\Rshake\c[6]Lona：\c[0]    Sakit!! *Hiks*! \{KYAAAH!!!
+
+Lona/use_as_MeatToilet_slut
+\m[flirty]\Rshake\c[6]Lona：\c[0]    Hihihi!~ Kalian beneran mau tubuhku ya?~
+\m[sexhurt]\Rshake\c[6]Lona：\c[0]   Kyaaah! L-Lebih lembut dong!
+
+Lona/use_as_MeatToilet_overfatigue
+\m[tired]\Rshake\c[6]Lona：\c[0]    Unnnghnnn......
+\m[hurt]\Rshake\c[6]Lona：\c[0]    B-Biarkan aku istirahat dulu, kumohon...! \{EEEYAH!!!
+
+Lona/use_as_MeatToilet_mouth_block
+\m[tired]\Rshake\c[6]Lona：\c[0]    Unnnghnnn......
+\m[hurt]\Rshake\c[6]Lona：\c[0]    \{MMMMmmmppphnnnnnn!!!
+
+#-----------------------------  BerserkDrug
+
+Lona/BerserkDrug0
+\m[p5sta_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    \{Ahh... AHHH...... AHHHHHH!!!
+
+Lona/BerserkDrug1
+\m[p5health_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    Aku me-rasa......\n\{GAAAAAAH!!!
+
+Lona/BerserkDrug2
+\cg[event_RipAndTear]\Rflash\SndLib[sound_Heartbeat]Mereka menatap rendah padamu. Dan melihatmu tak lebih dari seekor belatung...
+\Rflash\SndLib[sound_Heartbeat]...Tapi sekarang kau telah berubah.
+\Rflash\SndLib[sound_Heartbeat]Kau akan jadi lebih buruk... LEBIH KUAT!!!
+\Rflash\SndLib[sound_Heartbeat]\{ROBEK DAN CABIK ISI PERUT MEREKA!!! HABISI MEREKA!!!!!!
+
+Lona/BerserkDrug3
+\cgoff\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{RAUGH-AHHAHAHAHA!
+
+Lona/BerserkDrug4
+\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    Satu-satunya yang harus mereka takuti...
+\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{ADALAH AKU!
+
+#-----------------------------  Drunk
+
+Lona/DrunkLv1
+\m[p5sta_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    *HIK*... *CEGUKAN*...
+\m[pleased]\PRF\c[6]Lona：\c[0]    Kyyyahahah!~
+
+Lona/DrunkLv2
+\m[p5sta_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    *HIK*... Guuugh... *Sendawa*......
+\m[confused]\PRF\c[6]Lona：\c[0]    ......
+\m[flirty]\PRF\c[6]Lona：\c[0]    Mu-Mungkin aku g-gak harus min... minum lagiii...... *Hik*!
+
+#-----------------------------  Locked , house or dungeon loot.
+
+Lona/PickLock
+\m[confused]Terkunci, aku harus pakai...#{$story_stats["HiddenOPT1"]}Kekuatanku buat coba membukanya
+
+#-----------------------------  Nightmare(PTSD)
+
+Lona/PTSD_begin0
+\Rflash\SndLib[sound_Heartbeat]!!!
+
+Lona/PTSD_begin1
+\Rflash\SndLib[sound_Heartbeat]!!!!!!
+
+Lona/PTSD_begin2
+\Rflash\SndLib[sound_Heartbeat]!!!!!!!!!
+
+Lona/PTSD_Common_0
+\m[terror]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    Nnnighnnn...
+
+Lona/PTSD_Common_1
+\m[bereft]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{T-Tidak...\} Pergi... sana...
+
+Lona/PTSD_Common_2
+\m[pain]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{Maafkan aku...\} A-Ampuni aku...
+
+Lona/PTSD_Common_3
+\m[hurt]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{Aku salah...\} Tolong... jangan...
+
+Lona/PTSD_CecilyBetray
+\SETpl[CecilyAngryAr]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Cecily：\c[0]    Tega-teganya kamu ngelakuin hal itu...?
+\SETpl[CecilyAngryAr]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Cecily：\c[0]    AKU GAK AKAN PERNAH MAAFIN KAMU!
+\SETpl[CecilyAngryAr]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Cecily：\c[0]    \{MATI KAU!!!
+
+Lona/PTSD_Orkind
+\cg[event_Eyes]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_goblin_spot]!!!
+\cg[map_OrcHappy]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_goblin_spot]!!!!!!
+\cg[event_OrkindGonnaRape]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_goblin_spot]!!!!!!!!!
+
+Lona/PTSD_Fishkind
+\cg[event_Eyes]\Rflash\SndLib[sound_Heartbeat]\SndLib[FishkindLgSpot]!!!
+\cg[map_FishkindGroup]\Rflash\SndLib[sound_Heartbeat]\SndLib[FishkindLgSpot]!!!!!!
+\cg[event_FishkindGonnaRape]\Rflash\SndLib[sound_Heartbeat]\SndLib[FishkindLgSpot]!!!!!!!!!
+
+Lona/PTSD_Abomination
+\cg[event_Eyes]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_ManagerHurt]!!!
+\cg[map_AbominationSpider]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_ManagerHurt]!!!!!!
+\cg[map_AbominationGroup]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_ManagerHurt]!!!!!!!!!
+
+Lona/PTSD_Bandit
+\cg[event_Eyes]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_punch_hit]!!!
+\cg[event_needle_begin]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_punch_hit]!!!!!!
+\cg[event_miscarriage_low]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_punch_hit]!!!!!!!!!
+
+Lona/PTSD_Slave
+\cg[event_captured]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_slap]!!!
+\cg[event_needle_begin]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_slap]!!!!!!
+\cg[event_Eyes]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_slap]!!!!!!!!!
+
+Lona/PTSD_begin4
+\cgoff\m[bereft]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{\{TIDAAAK!!!
+
+Lona/PTSD_begin5_0
+\m[terror]\c[6]Lona：\c[0]    *Hah*... *Huff*......
+\m[tired]\c[6]Lona：\c[0]    Mimpi buruk lagi...?
+
+Lona/PTSD_begin5_1
+\m[terror]\c[6]Lona：\c[0]    ...*Huff*...*Haff*...
+\m[tired]\c[6]Lona：\c[0]    Itu semua cuma mimpi...?
+
+######################### Eat hand
+
+Lona/EatHand0
+\m[confused]\c[6]Lona：\c[0]    Nyam\..Nyam\..Nyam\..
+\m[flirty]\c[6]Lona：\c[0]    Um......Aku yakin ini rasanya gak enak.
+
+Lona/EatHand1
+\m[confused]\c[6]Lona：\c[0]    Nyam\..Nyam\..Nyam\..
+\m[flirty]\c[6]Lona：\c[0]    Apa yang kulakukan?
+\m[confused]\c[6]Lona：\c[0]    Emangnya ini lucu ya?
+
+Lona/EatHand2
+\m[confused]\c[6]Lona：\c[0]    Nyam\..Nyam\..Nyam\..
+\m[flirty]\c[6]Lona：\c[0]    Yah......Mending aku berhenti.
