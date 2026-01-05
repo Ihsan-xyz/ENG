@@ -1,223 +1,223 @@
 Milo/CecilyGroupQmsg0
-Penjaga!
+Guards!
 
 Milo/CecilyGroupQmsg1
-Bunuh mereka!
+Kill them!
 
 Milo/InBarBegin_unknow0
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    Aku Milo Von Rudesind, dan kau siapa?
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Halo, aku Lona Falldin.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..\..\n Lona. Cacing yang tak berarti? Aku tak ingat namamu ada dalam daftar.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    Pergi sana, cacing.
-\CamCT\m[wtf]\plf\PRF\c[6]Lona：\c[0]    Hah?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    I'm Milo Von Rudesind, and you are?
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Hello, I'm Lona Falldin.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..\..\n Lona. An insignificant worm? I don't remember you being on the list.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    Go away, worm.
+\CamCT\m[wtf]\plf\PRF\c[6]Lona：\c[0]    Huh?
 
 Milo/InBarBegin_know
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    Kau tidak diterima di sini.
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Maaf.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    You are not welcome here.
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Sorry.
 
 Milo/elseBegin
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Ada masalah apa? \optB[Batal, Rudesind, Kota Noer, Sybaris]
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Is something the matter? \optB[Cancel, Rudesind, Noer Town, Sybaris]
 
 Milo/elseBegin_Rudesind
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Seperti yang kau tahu, keluarga Rudesind mengendalikan kelas atas.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Jangkauan kami membentang ke seluruh dunia.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Tanpaku, tidak akan ada Kota Noer sekarang.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    As you know, the Rudesind estate controls the upper class.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Our reach stretches all over the world.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Without me, there would be no Noer Town right now.
 
 Milo/elseBegin_Noer
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Seperti nama pulau ini, Pulau Noer.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Ini adalah tempat berpenduduk paling awal di pulau ini, dan dibangun sedikit demi sedikit oleh keluarga kami.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Ini dulunya pelabuhan dagang utama untuk perdagangan laut Timur-Barat.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Sybaris dibangun dengan tujuan menggantikan kota ini.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Dan wabah di Noer beberapa dekade lalu mempercepat hal itu.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Like the name of this island, Noer Island.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    This was the earliest populated place on the island, and it was built bit by bit by our family.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    This used to be the main trading port for the East-West naval trade.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Sybaris was built with the intention of replacing this city.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    And the plague in Noer decades ago accelerated that.
 
 Milo/elseBegin_Sybaris
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Kami tidak punya pelabuhan laut dalam, Kota Noer tidak bisa menanggung permintaan perdagangan laut yang meningkat.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Siapa yang tahu kalau kapal akan jadi makin besar dan besar?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Sekitar 70 tahun lalu sebuah kota didirikan oleh perwakilan bisnis dari seluruh dunia.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Kota Sybaris.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Dan ya, keluarga kami juga terlibat, tapi semuanya sudah jadi debu sekarang.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    We don't have a deep-water port, Noer Town can't bear the increasing sea trade demand.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Who knew that ships would just get bigger and bigger?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Around 70 years ago a city was founded by business representatives all over the world.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    The city of Sybaris.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    And yes, our family was also involved, but everything has gone to dust now.
 
 ######################################################################## Hunting ##################################
 
 Milo/QuestMilo_2to3_1
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Ya? Siapa kau?
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Halo... Aku punya surat undangan di sini. Dari Tuan... Milo?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Aku Milo. Dan kau menyebutkan undangan? Biar kulihat.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Yes? Who might you be?
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Hello... I have an invitation letter here. From Mr... Milo?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    I'm Milo. And you mentioned an invitation? Let me see it.
 \BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    Menarik... Pejuang yang dirumorkan itu ternyata cuma seekor cacing.
-\CamCT\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Aku? Cacing?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Cuma bercanda. Kau kompeten, bukan? Aku yakin kau pasti berbakat.
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Berbakat....？
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Ya, kami butuh orang-orang kompeten.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    Interesting... The rumored warrior is actually just a worm.
+\CamCT\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Me? A worm?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Merely a jest. You're competent, no? I'm sure you must be talented.
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Talented....？
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Yes, we need competent people.
 
 Milo/QuestMilo_3to4_1
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Seperti yang kau tahu, Noer telah dikelilingi oleh gelandangan. Cacing-cacing malang ini ada di seluruh kota.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Aku mengerti, aku tidak menyalahkan mereka.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Setiap dari mereka membawa kisah sedih. Aku sudah muak mendengarnya.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Namun ada beberapa dari mereka yang berani merusak tatanan yang telah kubangun dengan susah payah.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Mereka bermimpi merebut kembali Sybaris... Seolah hal itu mungkin terjadi.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Dan tahukah kau apa yang terjadi jika tatanan runtuh?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Kau akrab dengan itu, kan? Itulah nasib kalian yang lari dari Sybaris.
-\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    Ya, aku pernah melihatnya terjadi....
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Kalau begitu kau mengerti.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Kami menerima laporan tentang seorang pengacau di luar kota.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Mereka memanggilnya... Adam?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Bawakan aku kepalanya, dan aku akan memberimu imbalan besar.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    As you already know, Noer has been surrounded by vagrants. These poor worms are all over the city.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    I understand, I don't blame them.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Each of them carry a sob story. I have grown weary of it.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Yet there are some of them who would dare to undermine the order I have worked so diligently to establish.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    They dream about taking back Sybaris... As if such a thing is possible.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    And do you know what happens when order collapses?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    You're familiar with it, aren't you? Such is the lot of you who fled from Sybaris.
+\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    Yes, I've seen it happen....
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    You understand then.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    We've received a report of a troublemaker outside of town.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    They call him... Adam?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Bring me his head, and I will reward you handsomely.
 
 Milo/QuestMilo_3to4_QuBoard
-\board[Menjaga Ketertiban]
-Tujuan： Bunuh Adam
-Hadiah： 5 Koin Tembaga Besar, Reputasi +5
-Klien： Milo von Rudesind
-Batas Waktu： Sekali
-Mata-mata kami melaporkan dia tinggal di rumah terbengkalai di Timur Laut.
-Aku butuh pembunuh yang cakap untuk menangani ini.
+\board[Preserve Order]
+Goal： Kill Adam
+Reward：5 Large Copper coins, Reputation +5
+Client： Milo von Rudesind
+Term： Single
+Our scouts report he is staying in an abandoned house in the Northeast.
+I need a capable assassin to deal with this.
 
 Milo/QuestMilo_3to4_no
-\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    Aku tidak mau!
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Sayang sekali, jadi kau cuma seekor cacing?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Aku yakin kau akan berubah pikiran.
-\CamCT\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    Aku bukan serangga!
+\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    I won't!
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    What a pity, so you're just a worm?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    I'm sure you'll change your mind.
+\CamCT\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    I am not a worm!
 
 Milo/QuestMilo_3to4_yes
-\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    Aku akan melakukannya! Aku bukan serangga! Aku bisa melakukan ini!
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Bagus! Aku akan menunggu kepulanganmu!
+\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    I'll do it! I'm not a bug! I can do this!
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Good! I'll be waiting for your return!
 
 Milo/QuestMilo_3to4_yes_adamDed0
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uhm... Kurasa dia sudah mati...
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Apa?
-\CamCT\m[confused]\plf\PRF\c[6]Lona：\c[0]    Adam... Aku melihatnya mati...
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Benarkah?
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uhm... I think he's dead...
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    What?
+\CamCT\m[confused]\plf\PRF\c[6]Lona：\c[0]    Adam... I saw him die...
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Really?
 
 Milo/QuestMilo_3to4_yes_adamDed1
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Benar....
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Really....
 \BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Uhm......
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Dunia kita sungguh dipenuhi penderitaan.....
-\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    Ya...
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Our world really is filled with pain.....
+\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    Yes...
 
 Milo/QuestMilo_6to7
-\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    Aku kembali!
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Bagus! Mari bicara.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Apa kau bawa kepalanya?
+\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    I'm back!
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Good! Let's talk.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Did you bring me his head?
 
 Milo/QuestMilo_6to7_withHead0
-\CamCT\m[fear]\plf\PRF\c[6]Lona：\c[0]    Ya..  Eww...
+\CamCT\m[fear]\plf\PRF\c[6]Lona：\c[0]    Yes..  Eww...
 
 Milo/QuestMilo_6to7_withHead1
-\BonMP[Milo,4]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Ah...Adam. Kerja bagus!
-\BonMP[Milo,5]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Cacing nakal ini sudah membuat masalah di seluruh kota.
-\BonMP[Milo,15]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Banyak warga kota dan penjaga mati karenanya.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Tidakkah kau senang sekarang ancaman ini telah tumbang di tanganmu?
+\BonMP[Milo,4]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Ah...Adam. A job well done!
+\BonMP[Milo,5]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    This naughty worm had been causing trouble all over town.
+\BonMP[Milo,15]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Many townspeople and guards died because of him.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Aren't you happy now that this menace was felled by your hand?
 \CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    Uhm....
 
 Milo/QuestMilo_6to7_withHead2
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Jangan sedih, pikirkan orang-orang yang bisa tetap hidup karenamu.
-\CamCT\m[sad]\plf\PRF\c[6]Lona：\c[0]    Baik, Tuan Rudesind.....
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Don't be sad, think of the people who will get to live because of you.
+\CamCT\m[sad]\plf\PRF\c[6]Lona：\c[0]    Yes, Lord Rudesind.....
 
 Milo/QuestMilo_6to7_NoHead0
-\CamCT\m[fear]\plf\PRF\c[6]Lona：\c[0]    Aku tak sengaja menghilangkan kepalanya.....
+\CamCT\m[fear]\plf\PRF\c[6]Lona：\c[0]    I accidentaly lost his head.....
 \BonMP[Milo,8]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..
 \CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    \..\..\..
 \BonMP[Milo,8]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..
-\CamCT\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    Tapi.. Aku sungguh membunuhnya，Aku tidak akan berbohong padamu！
-\CamCT\m[shocked]\plf\PRF\c[6]Lona：\c[0]    Tubuhnya masih di sana！Sungguh！ Kirim seseorang untuk mengecek！
+\CamCT\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    But.. I really did kill him，I wouldn't lie to you！
+\CamCT\m[shocked]\plf\PRF\c[6]Lona：\c[0]    His body's still there！Really！ Send someone to check！
 \BonMP[Milo,8]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..
 \CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    Uhm....
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Tidak apa-apa, aku percaya padamu！
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    It's okay, I believe you！
 
 Milo/QuestMilo_6to7_NoHead1
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Ambillah.
-\CamCT\Bon[1]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Ini\..\..\..
-\CamCT\Bon[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Terima kasih banyak! Terima kasih Tuan Rudesind!
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Tidak perlu bersujud. Aku punya lebih banyak pekerjaan untukmu dalam waktu dekat.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Take it.
+\CamCT\Bon[1]\m[sad]\plf\PRF\c[6]Lona：\c[0]    This\..\..\..
+\CamCT\Bon[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Thank you very much! Thank you Lord Rudesind!
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Don't need to grovel. I have more work for you in the near future.
 
 Milo/QuestMilo_6to7_NoHead2
-\CamCT\Bon[6]\m[pleased]\plf\PRF\c[4]Milo adalah orang hebat！
+\CamCT\Bon[6]\m[pleased]\plf\PRF\c[4]Milo is a great guy！
 \BonMP[Milo,8]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..\..
 
 #################################################################################### betray Cecily? ###########################
 
 Milo/QuestMilo_9_Ignore
-\CBid[-1,20]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    Lona, si serangga kecil, kan?
-\CBid[-1,5]\SETpl[MiloAngry]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    Maaf, kau sudah membuat pilihanmu. Enyahlah.
-\CamCT\m[wtf]\plf\PRF\c[6]Lona：\c[0]    Hah？
+\CBid[-1,20]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    Lona, the little bug, right?
+\CBid[-1,5]\SETpl[MiloAngry]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    I'm sorry, you've made your choice already. Begone.
+\CamCT\m[wtf]\plf\PRF\c[6]Lona：\c[0]    Huh？
 
 Milo/QuestMilo_9to10_1
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ya, halo? Aku menerima surat undanganmu.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Oh! Cacing kecil yang lucu, kau akhirnya kembali.
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ada apa?
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Kau pernah bertemu \c[6]Cecily\c[0] kan？
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Aku pernah bertemu dengannya, dia sangat bersemangat!
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Maukah kau bercerita tentang dia? Aku ingin berteman dengannya.
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uhm....\optD[Tidak,Tentu]
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Yes, hello? I received your invitation letter.
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Oh! Cute little worm, you finally returned.
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    What's wrong?
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    You've met \c[6]Cecily\c[0] right？
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    I've met her, she's very zealous!
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Will you tell me about her? I'd like to be friends with her.
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uhm....\optD[No,Sure]
 
 Milo/QuestMilo_9to10_2_0
-\CBct[20]\m[serious]\plf\PRF\c[6]Lona：\c[0]    Kau bohong! Dia bilang kaulah yang patut disalahkan atas semua ini!
-\CBct[20]\m[angry]\plf\Rshake\c[6]Lona：\c[0]    Kau bertanggung jawab atas perdagangan budak!
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Ini sungguh hanya kesalahpahaman besar.
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Kesalahpahaman?!
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Dengar, aku memberi orang-orang ini jalan keluar. Cara untuk bertahan hidup.
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Jika tidak, mereka akan memakanmu.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Apa kau belum pernah melihatnya? Di jalan keluarmu? Para pengungsi yang berubah jadi kanibal?
+\CBct[20]\m[serious]\plf\PRF\c[6]Lona：\c[0]    You lie! She said you're the one to blame for all of this!
+\CBct[20]\m[angry]\plf\Rshake\c[6]Lona：\c[0]    You are responsible for the slave trade!
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    This is really just a big misunderstanding.
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    A misunderstanding?!
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Listen, I'm giving these people a way out. A way to survive.
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    If I don't, they'll eat you.
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Haven't you seen it before? On your way out? Those refugees who turned into cannibals?
 \CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Uh....
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Ya, kau pernah melihatnya. Mereka tidak berbeda dengan monster.
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Itulah yang terjadi saat mereka tidak punya jalan keluar.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Ya, aku memperbudak mereka, itu membantu mereka, dan menurutmu ke mana perginya keuntungan itu?
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Yes, you've seen them. They're no different from monsters.
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    That's what happens when they have no way out.
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Yes, I enslave them, it helps them, and where do you think the profits go?
 \CBct[20]\m[shy]\plf\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Menurutmu siapa yang membayar para prajurit dan tentara bayaran?
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Who do you think is paying for the soldiers and mercenaries?
 \CBct[20]\m[sad]\plf\PRF\c[6]Lona：\c[0]    \..\..\..
 
 Milo/QuestMilo_9to10_2_1
-\CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Oke...
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Dia bangsawan dari Sybaris.
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Dia Nona bangsawan yang sangat bersemangat.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Begitu melihat masalah, dia langsung terjun duluan.
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Dan dia sebenarnya baik, dia bangsawan yang peduli pada rakyat jelata.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Bagus sekali, terima kasih, tapi aku sudah tahu ini
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    \c[6]Cecily\c[0] berlatih bela diri, aku pernah melihatnya melakukannya di sebuah pesta.
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Sekarang... Bagaimana perasaannya tentang situasi saat ini di Kota Noer?
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uh....\optD[Aku tak bisa bilang,Dia kesal]
+\CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Okay...
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    She's a noble from Sybaris.
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    She's a very passionate noble Lady.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    As soon as we see trouble, she rushes in head first.
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    And she's actually good, she's a noble who cares about the common people.
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Very good, thank you, but I already knew this
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    \c[6]Cecily\c[0]practices martial arts, I've seen her do so in a banquet.
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Now... How does she feel about the current situation in Noer Town?
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uh....\optD[I can't say,She's upset]
 
 Milo/QuestMilo_9to10_3
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Dia terganggu dengan situasi pengungsi, dan mencoba mencari cara untuk membantu mereka.
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Tapi kurasa tidak banyak yang bisa dilakukan.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Baru-baru ini, dia merencanakan serangan terhadap pedagang budak jahat itu!
-\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Dia bangsawan dengan rasa keadilan! Aku mengaguminya!
-\CBmp[Milo,2]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Serangan? Ceritakan lebih banyak.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Aku harap bisa menyelesaikan kesalahpahaman kecil antara aku dan dia.
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ini bukan sesuatu yang bisa diceritakan dengan mudah...
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Kita berada di bawah kiamat yang mengerikan, kita harus saling bantu-
-\cg[event_Coins]\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Apa kau ingin meninggalkan Pulau Noer? Aku bisa menyediakan sarana untuk melakukannya.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    She's troubled with the refugees' situation, and is trying to come up with ways to help them.
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    But I don't think there's much to be done.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Recently, she's been planning an attack on those nasty slave traders!
+\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    She's a noble with a sense of justice! I admire her!
+\CBmp[Milo,2]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Attack? Tell me more.
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    I hope I can resolve this small misunderstanding between me and her.
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    This isn't something to be told easily...
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    We're under a terrible apocalypse, we must help each other-
+\cg[event_Coins]\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Would you like to leave Noer Island? I can provide you with the means to do so.
 
 Milo/QuestMilo_9to10_3board
-\board[Menjaga Ketertiban]
-Tujuan： Beritahu Milo tentang rencana cecily
-Hadiah： 10 Koin Emas
+\board[Preserve Order]
+Goal： Tell Milo about cecily's plan
+Reward： 10 Gold Coins
 
 Milo/QuestMilo_9to10_3opt
-\cgoff\CBct[1]\m[confused]\plf\PRF\c[6]Lona：\c[0]    HAH?! SEBANYAK ITU!??
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Aku melakukan ini demi rakyatku, percayalah padaku \optD[Tidak,Oke]
+\cgoff\CBct[1]\m[confused]\plf\PRF\c[6]Lona：\c[0]    HUH?! THAT MUCH!??
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    I'm doing this for my people, trust me \optD[No,Okay]
 
 Milo/QuestMilo_9to10_yes0
-\CBct[8]\m[shy]\plf\PRF\c[6]Lona：\c[0]    Oke....
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Tapi... Dia tidak memberitahuku banyak... Aku tidak tahu detail rincinya.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Meskipun... dia menyuruhku menemuinya dalam 5 hari? Apa 5 hari? Mungkin? Saya rasa?
-\CBmp[Milo,8]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Lima hari？
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Um... Aku tidak tahu apakah ini sepadan dengan uangnya.
-\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Aku tahu ini tidak berguna, tapi cuma ini yang aku tahu.
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Jangan khawatir, ambil uangnya.
+\CBct[8]\m[shy]\plf\PRF\c[6]Lona：\c[0]    Okay....
+\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    But... She hasn't told me much... I don't know the finer details.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Although... she did tell me to meet her in 5 days? Was it 5 days? Maybe? I think?
+\CBmp[Milo,8]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Five days？
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Um... I don't know if this is worth the money.
+\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    I know it's useless, but this is all I know.
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Don't worry, take the money.
 
 Milo/QuestMilo_9to10_yes1
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Apa kau yakin?!
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Seperti yang kubilang, aku hanya ingin menyelesaikan kesalahpahaman ini.
-\CBct[8]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Terima kasih, Tuan Milo!
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Ngomong-ngomong, jangan beritahu dia kita sudah bertemu, dia agak paranoid, aku lebih suka jika kau tidak membuatnya gelisah...
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Aku akan menangani situasi ini secara pribadi, cacing kecil tidak perlu khawatir tentang urusan bangsawan. Kau boleh pergi sekarang.
-\CBct[8]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Baik, Tuan Milo!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Are you sure?!
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Like I said, I just want to resolve this misundertanding.
+\CBct[8]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Thank you, Lord Milo!
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    By the way, don't tell her we've met, she is a bit of a paranoid, I'd prefer if you would not agitate her...
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    I will personally handle this situation, the little worms need not worry about a noble's business. You may go now.
+\CBct[8]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Yes, Lord Milo!
 
 Milo/QuestMilo_9to10_refuse
-\CBct[6]\m[serious]\plf\PRF\c[6]Lona：\c[0]    Tidak mau! Dia bilang kau orang jahat!
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Wah, itu baru cacing yang jujur.
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Hah?! Kupikir kau bakal marah!
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Aku tidak marah, cacing kecil... Aku membalas...
+\CBct[6]\m[serious]\plf\PRF\c[6]Lona：\c[0]    No way! She says you're a bad guy!
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Well, now that's an honest worm.
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?! I thought you'd be angry!
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    I don't get angry, little worm... I get even...
 \CBmp[Milo,8]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..\..
