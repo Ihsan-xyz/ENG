@@ -1,0 +1,129 @@
+#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+
+UniquePigBobo/CompData
+\board[Bobo si Pejantan]
+\C[2]Posisi：\C[0]Depan
+\C[2]Tipe Tempur：\C[0]Melee
+\C[2]Alignment：\C[0]Hewan
+\C[2]Musuh：\C[0]Netral, Kustom
+\C[2]Syarat：\C[0]Tubuh bagian bawah Lona harus berstatus \C[4]Basah\C[0].
+\C[2]Durasi：\C[0]2 Hari
+\C[2]Unik：\C[0]Tidak respawn setelah mati.
+\C[2]Deskripsi：\C[0]Jika Lona memiliki Trait \C[0]\C[4]Pelacur\C[0] dan/atau \C[4]Nymphomaniac\C[0], dia bisa kawin dengan Bobo untuk meningkatkan durasi pertemanannya.\n
+\n
+Bobo adalah babi pejantan berharga yang telah memenangkan banyak Penghargaan Babi di Sybaris.
+Perawakan dan ukuran penisnya beberapa kali lebih besar dari babi hutan biasa.
+Dia sepertinya percaya bahwa Lona adalah babi betina pembibitan dan sangat ingin kawin dengan babi kecil yang manis dan kurus ini! ♥
+
+UniquePigBobo/begin
+\SETpl[BoboNormal]\Lshake\SndLib[pigQuestion]\CBid[-1,4]\c[4]Bobo：\c[0]    Nguik *SNORT* NGUIK! ♥ NGUIIINK! ♥♥♥
+
+UniquePigBobo/Comp_disband
+\SETpl[BoboNormal]\Lshake\SndLib[SwineDed]\CBid[-1,5]\c[4]Bobo：\c[0]    NGUIIIKK!!!
+
+UniquePigBobo/Comp_win
+\SETpl[BoboYell]\Lshake\SndLib[SwineAtk]\CBid[-1,20]\c[4]Bobo：\c[0]    \{NGUIK!~ ♥♥♥
+
+UniquePigBobo/Comp_failed
+\SETpl[BoboNormal]\Lshake\SndLib[pigQuestion]\CBid[-1,8]\c[4]Bobo：\c[0]    *Snort*... *Snort*...
+
+UniquePigBobo/Extension0_k0_NotMated
+\SETpl[BoboYell]\plf\narrOFF\CBct[2]\m[confused]\Rshake\c[6]Lona：\c[0]    A-Apa yang mau kau lakukan?
+\SETpl[BoboYell]\plf\BonID[-1]\CBct[6]\m[flirty]\Rshake\c[6]Lona：\c[0]    Jijik! Jangan endus aku di bawah sana!
+
+UniquePigBobo/Extension0_k0_MatedB4
+\SETpl[BoboYell]\plf\narrOFF\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    Kau... Mau melakukannya lagi?!
+
+UniquePigBobo/Extension0_k1
+\SETpl[BoboYell]\plf\SndLib[SwineAtk]\narr Pekikan Bobo yang memekakkan telinga bergema di udara, mengungkapkan keinginannya untuk kawin dengan babi kecil yang lucu di depannya.
+\SETpl[BoboYell]\plf\SndLib[SwineAtk]\narr Apa kau yakin? Bobo cukup besar... dan pastinya tidak tahu cara bersikap lembut...
+
+UniquePigBobo/Extension1
+\SETpl[BoboYell]\plf\CBct[6]\m[shy]\plf\c[6]Lona：\c[0]    Ummm......
+
+UniquePigBobo/Extension2
+\SETpl[BoboYell]\plf\CBct[6]\m[fear]\plf\c[6]Lona：\c[0]    Anak pintar... Sini...~ ♥
+
+UniquePigBobo/Extension3_loop
+\SETpl[BoboYell]\Lshake\SndLib[pigQuestion]\CBid[-1,5]\c[4]Bobo：\c[0]    NGUIIIKK! ♥ *SNOOORT*! NGUIIIKK!!! ♥♥♥
+\narr Orgasme dan ejakulasi Bobo yang terus-menerus berlanjut...
+
+UniquePigBobo/OvermapPop0
+Nguiiink!~~~ ♥♥♥
+
+UniquePigBobo/OvermapPop1
+NGUIK NGUIK! NGUIIIK!!!
+
+UniquePigBobo/SetupFateEnemy
+Pilih NPC, Makhluk, atau Alignment mana yang harus diserang Bobo saat terlihat! \optD[Tidak Ada,Serang Alignment Jahat,Serang Alignment Baik,Hewan<r=HiddenOPT0>,Orkind<r=HiddenOPT1>,Bangsa Ikan/Deepone<r=HiddenOPT2>,Kekejian<r=HiddenOPT3>,Undead<r=HiddenOPT4>]
+
+UniquePigBobo/OMbegin
+\narr\SndLib[SwineDed] Jeritan dan pekikan babi yang kesepian terdengar dari kejauhan\..\..\..
+
+#################################################################################################################################################### BanditCamp2
+
+PigBoboQu0/begin0
+\CBct[6]\SETpl[BoboNormal]\plf\m[shocked]\Rshake\c[6]Lona：\c[0]    !!!!!!
+
+PigBoboQu0/begin1
+\CBct[20]\SETpl[BoboYell]\Lshake\m[bereft]\Rshake\c[6]Lona：\c[0]    TIDAK! T-Tolong jangan makan aku!
+
+PigBoboQu0/begin2
+\narr Bobo mulai menjilati luka Lona dengan lembut...
+
+PigBoboQu0/begin3
+\CBct[8]\m[fear]\PRF\c[6]Lona：\c[0]    \..\..\..\m[tired]T-Terima kasih..?
+
+PigBoboQu0/begin4
+\CBct[6]\m[p5sta_damage]\Rshake\c[6]Lona：\c[0]    Ugh...
+\narr Bobo menggunakan giginya untuk merobek ikatan Lona...
+
+PigBoboQu0/follower_0
+\CBct[8]\SETpl[BoboNormal]\plf\m[confused]\PRF\c[6]Lona：\c[0]    Apa......? Apa maumu dariku?
+\SndLib[SwineSpot]\SETpl[BoboYell]\Lshake\prf ....
+\CBct[8]\SETpl[BoboNormal]\plf\m[flirty]\PRF\c[6]Lona：\c[0]    \..\..\..Kau mau aku mengikutimu?
+
+PigBoboQu0/follower_1
+\board[Kawin Lari!]
+Tujuan：Kabur dari tempat ini.
+Hadiah：Tidak ada
+Klien：Babi Pejantan
+Batas Waktu：Sekali
+Bobo si Pejantan merasa simpati pada babi kecil yang manis ini dan ingin membantunya.
+Bobo tahu bahwa dia dan babi muda yang lucu di depannya ini ditakdirkan bersama! Tapi, mereka berdua harus lolos dulu dari cengkeraman kera tak berbulu yang jahat.
+Begitu mereka bebas dan bersama lagi, Bobo dan babi betina ini akan kawin berkali-kali di bawah sinar bulan dan memulai keluarga dengan dia melahirkan banyak anak babi!
+Sayangnya, Bobo yang bodoh tidak sadar bahwa babi betina ini tidak akan bisa mengandung anak-anaknya dan membuat keluarga bahagia...
+
+PigBoboQu1/accept0
+\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    Oke......
+
+PigBoboQu1/accept1
+\CBct[20]\SETpl[BoboNormal]\plf\m[shocked]\Rshake\c[6]Lona：\c[0]    !!!!!!
+\CBct[20]\SETpl[BoboNormal]\plf\m[triumph]\PRF\c[6]Lona：\c[0]    T-Terima kasih...?
+
+PigBoboQu1/ExitFailedQmsg
+Bobo harus berada di dekat pintu keluar.
+
+PigBoboQu1/ExitEnd0
+\SETpl[MobHumanCommoner]\Lshake\C[4]Bandit：\C[0]    Cepat! Jangan biarkan jalang itu kabur!
+\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    !!!
+
+PigBoboQu1/ExitEnd1
+\narr Bobo menatap babi kecil itu, matanya mengatakan dia akan menghalangi kera tak berbulu sialan itu menangkapnya.
+\narr Keduanya ditakdirkan untuk bertemu lagi...
+\narrOFF\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    ......
+
+PigBoboQu0/WhenPlayerNotCap0
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    \..\..\..
+\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    Babi yang besar sekali!
+
+PigBoboQu0/WhenPlayerNotCap1
+\CBct[6]\SETpl[BoboYell]\plf\m[hurt]\Rshake\c[6]Lona：\c[0]    APA-?! A-Apa yang kau lakukan?! Lepaskan aku!
+
+PigBoboQu0/WhenPlayerNotCap2
+\CBct[6]\SETpl[BoboYell]\plf\m[hurt]\Rshake\c[6]Lona：\c[0]    Aku benci ini! Kumohon! B-Berhenti menjilatiku!
+
+PigBoboQu0/WhenPlayerNotCap3
+\CBct[8]\SETpl[BoboYell]\plf\m[confused]\PRF\c[6]Lona：\c[0]    Apa yang terjadi...?
+
+#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
