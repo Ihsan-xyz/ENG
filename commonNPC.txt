@@ -1,0 +1,888 @@
+#return _slave			if $lona_stats[SlaveBrand] ==1
+#return _maggot		if $game_actors[1].dirt >= 200 <r=HiddenOPT1>
+#return _sexy			if $game_actors[1].sexy >= 100
+#return _weaker		if $game_actors[1].weak >= 100
+#return _moot			if $lona_stats[moot] ==1
+#return _lona
+
+RandomNpc/OptUsed
+Already done it.
+
+RandomNpc/choosed
+\ph\..\..\..\WF[10]
+
+#--------------------------------------------------------------------------- Overmap NoerHomeless
+
+NoerHomeless/beginM0
+\c[4]Refugee：\c[0]    Sedekahnya... Apa saja... Nona...
+
+NoerHomeless/beginM1
+\c[4]Refugee：\c[0]    Lapar sekali... Tolong aku...
+
+NoerHomeless/beginM2
+\c[4]Refugee：\c[0]    Nona... Tolong... Bermurah hatilah...
+
+NoerHomeless/beginF0
+\c[4]Refugee：\c[0]    Berikan aku sesuatu...
+
+NoerHomeless/beginF1
+\c[4]Refugee：\c[0]    Aku sangat lapar...
+
+NoerHomeless/beginF2
+\c[4]Refugee：\c[0]    Tolong berbaik hatilah...
+
+NoerHomeless/Begin2
+\c[4]Refugee：\c[0]    .........
+
+NoerHomeless/END_Good0
+\c[4]Refugee：\c[0]    Aku akan mengingat kebaikanmu!
+
+NoerHomeless/END_Good1
+\c[4]Refugee：\c[0]    Terima kasih banyak!
+
+NoerHomeless/END_Good2
+\c[4]Refugee：\c[0]    Terima kasih atas kemurahan hatimu!
+
+NoerHalp/get_reward0
+\c[4]Refugee：\c[0]    Oh terima kasih! Terima kasih banyak sudah menolongku! Ini, ambillah!
+
+NoerHalp/get_reward1_0
+\c[4]Refugee：\c[0]    Semoga Santo menyertaimu!
+
+NoerHalp/get_reward1_1
+\c[4]Refugee：\c[0]    Sekali lagi terima kasih banyak!!!
+
+#--------------------------------------------------------------------------- Overmap NoerMissionary
+
+NoerMissionary/Begin0
+\c[4]Missionary：\c[0]    Biarkan Sang Santo membimbingmu!
+
+NoerMissionary/Begin1
+\board[Donate for public morals]
+Setiap 1,000 Trade Points akan mengurangi sedikit tingkat kesulitan dunia, sampai dengan 10.
+Sang Santo akan menyucikan dosa dan kejahatan dunia! Pujilah Sang Santo!
+The current World Difficulty is \c[4] #{$story_stats["WorldDifficulty"].round(2)} \c[0].
+
+NoerMissionary/END_Good
+\c[4]Missionary：\c[0]    Sang Santo akan menuntun jalanmu!
+
+NoerMissionary/END_Bad
+\c[4]Missionary：\c[0]    PENDOSA!!! Sang Santo akan menyucikanmu!
+\m[shocked]\plf\PRF\c[6]Lona：\c[0]    Apa?! T-Tidak mungkin!
+
+NoerMissionary/Qmsg
+Puji Sang Santo!
+
+#--------------------------------------------------------------------------- Overmap Quest Giver
+
+Qgiver/ConvoyToNoer_begin0
+\c[4]Refugee：\c[0]    Kuharap kau bisa membantu kami.
+
+Qgiver/ConvoyToNoer_begin1
+\c[4]Refugee：\c[0]    Antarkan mereka dengan selamat ke Noer.
+
+Qgiver/ConvoyToNoer_board
+\board[Escort to the Town of Noer]
+Objective：Kawal para pengungsi ke jalan-jalan Kota Noer.
+Reward：Big Copper Coin x1, Morality +5
+Client：Pengungsi
+Duration：5 days
+
+Qgiver/ConvoyToHobo_begin1
+\c[4]Refugee：\c[0]    Tolong pastikan mereka sampai di kamp pengungsi dengan selamat.
+
+Qgiver/ConvoyToHobo_board
+\board[Escort refugees to a refugee camp]
+Objective：Antar para pengungsi ke Kamp Pengungsi atau Permukiman Kumuh.
+Reward：Small Copper Coins x5, Morality +2
+Client：Pengungsi
+Duration：5 days
+
+Qgiver/ConvoyToNoer_accept
+\prf\c[4]Refugee：\c[0]    Terima kasih.
+
+Qtarget/Arrivel
+\prf\c[4]Refugee：\c[0]    Terima kasih, kami akan menyebarkan kabar tentang perbuatan baikmu.
+
+#-------------------#------COMMON CONVOY TARGET(victim)
+
+victim/Convoy_opt
+\plf\c[4]Wounded：\c[0]    *Sniff*... Apa kau di sini untuk menyelamatkanku? \optB[No,Yes]
+
+victim/Convoy_start0
+\plf\c[4]Wounded：\c[0]    Oke... Aku akan mengikutimu.
+
+victim/Convoy_start1
+\board[Escorting the Wounded]
+Kawal target dalam radius 3x3 dari pintu keluar dan ajak mereka bicara.
+Lona tidak boleh tidur dan target tidak boleh mati selama proses tersebut.
+
+victim/Convoy_start2
+\board[Escort to the Town of Noer]
+Objective：Kawal para korban luka ke jalan-jalan Kota Noer.
+Target tidak boleh mati selama proses tersebut.
+
+############################## COMMON EXT Convoy
+
+
+NPC/CommonConvoyTarget0
+\prf\c[4]Refugee：\c[0]    Apa kita sudah sampai?
+
+NPC/CommonConvoyTarget1
+\prf\c[4]Refugee：\c[0]    Lebih cepat!
+
+NPC/CommonConvoyTarget2
+\prf\c[4]Refugee：\c[0]    "Lakukan sesuatu...
+
+
+##------------------------------------------common---------------------------------------------------sex trade
+
+RandomNpc/WhoreWork_normal
+\CBct[20]\cg[event_WhoreWork]\m[shy]\c[6]Lona：\c[0]    Permisi, T-Tuan... Apa kau tertarik padaku...?
+
+RandomNpc/WhoreWork_tsun
+\CBct[6]\cg[event_WhoreWork]\m[terror]\c[6](Tak ada pilihan... Aku butuh uang...)
+\CBct[6]\m[bereft]\Rshake\c[6](Jalan terakhir!)\c[0] Hei. J-Jika kau membayarku... Kita bisa...
+
+RandomNpc/WhoreWork_weak
+\CBct[8]\cg[event_WhoreWork]\m[fear]\c[6]Lona：\c[0]    T-Tuan... A-A-Apa kau... mau... aku......?
+
+RandomNpc/WhoreWork_slut
+\CBct[4]\cg[event_WhoreWork]\m[triumph]\c[6]Lona：\c[0]    Fufu.~ ♫ Hei Tampan! Mau bersenang-senang sedikit ala orang dewasa...?~ ♥
+
+RandomNpc/WhoreWork_overfatigue
+\CBct[8]\cg[event_WhoreWork]\m[tired]\c[6]Lona：\c[0]    ......
+
+RandomNpc/WhoreWork_mouth_block
+\CBct[8]\cg[event_WhoreWork]\m[sad]\c[6]Lona：\c[0]    ...Mmmmph...
+
+RandomNpc/WhoreWork_win
+\BonID[-1,4]\m[shy]\cgoff\narr Success.
+
+RandomNpc/WhoreWork_failed
+\BonID[-1,4]\m[sad]\cgoff Gagal, Mereka tidak tertarik pada Lona.
+
+RandomNpc/WhoreWork_win_opt_win
+\CBct[8]\m[shy]\c[6]Lona：\c[0]    Ummm...
+
+prostituation/CustomerPick0
+Mereka Meminta Lona untuk sebuah 
+
+prostituation/CustomerPick1
+ Layanan.
+
+prostituation/CustomerPick2_CumInside
+ Dan mereka mau keluar di dalam Lona.
+
+prostituation/CustomerPick2_CumOutside
+ Dan mereka berjanji keluar di luar.
+
+prostituation/reward0
+ Mereka akan membayar Lona 
+
+prostituation/reward1
+ times the amount of Trade Points.
+
+prostituation/Handjob
+Handjob
+
+prostituation/Blowjob
+Blowjob
+
+prostituation/Anal
+Anal
+
+prostituation/Virgin
+(Katakan bahwa kamu perawan.)
+
+prostituation/Vaginal
+Vaginal
+
+prostituation/SemiAuto
+Manual QTE
+
+prostituation/FullAuto
+Passive
+
+prostituation/Repent
+Repent
+
+prostituation/Wisdom
+(Minta lebih.)
+
+prostituation/Full
+Full service
+
+prostituation/CumInside
+Biarkan dia keluar di dalam.
+
+prostituation/CumOutside
+Beritau dia untuk keluar di luar.
+
+prostituation/Nymph
+(Sex gratis.)
+
+prostituation/CumInside_dialog_typical
+\m[shy]\Rshake\c[6]Lona：\c[0]    Kau... Kau boleh keluar di dalam...
+
+prostituation/CumInside_dialog_tsundere
+\m[sad]\Rshake\c[6]Lona：\c[0]   Di dalam... Kubilang di dalam! K-Kau beruntung aku memberimu izin!
+
+prostituation/CumInside_dialog_gloomy
+\m[shy]\Rshake\c[6]Lona：\c[0]    Ummm...... D-Di dalam sepertinya... boleh...
+
+prostituation/CumInside_dialog_slut
+\m[lewd]\Rshake\c[6]Lona：\c[0]    Di dalam...! Keluar di dalamku! Aku ingin merasakan cairan panasmu di tubuhku!!!
+
+prostituation/CumOutside_dialog_typical
+\m[terror]\Rshake\c[6]Lona：\c[0]    Kau tak boleh keluar di dalam! Kumohon, kau harus keluar di luar! O-Oke?
+
+prostituation/CumOutside_dialog_tsundere
+\m[wtf]\Rshake\c[6]Lona：\c[0]    Di luar! K-Kau lebih baik keluar di luar atau aku akan-... K-Kumohon keluar di luar!!!
+
+prostituation/CumOutside_dialog_gloomy
+\m[bereft]\Rshake\c[6]Lona：\c[0]    T-Tidak! J-Jangan di dalam! Kau harus ke-... keluar di l-luar...! K-Kumohon......
+
+prostituation/CumOutside_dialog_slut
+\m[flirty]\Rshake\c[6]Lona：\c[0]    Ahh! Cabut dan tembakkan cairanmu padaku! Aku ingin merasakan spermamu di seluruh tubuhku!
+
+prostituation/CumOutside_dialog_CustomerHappy
+\narr They says that cumming outside is his favorite, and he's very happy about it...
+
+prostituation/CumOutside_dialog_CustomerMad
+\narr They says that cumming outside is his favorite, and he's really mad about it...
+
+###############
+
+prostituation/Virgin_dialog_typical
+\m[shy]\Rshake\c[6]Lona：\c[0]    Ummm\.... A-Aku masih perawan.......
+
+prostituation/Virgin_dialog_tsundere
+\m[shy]\Rshake\c[6]Lona：\c[0]    *Ahem* Aku\.... Err\.... Aku b-belum pernah melakukan ini sebelumnya... Melakukan s-seks...
+
+prostituation/Virgin_dialog_gloomy
+\m[shy]\Rshake\c[6]Lona：\c[0]    ...T\.... Tunggu\....! aku\.... m-masih punya\.... s-selaput daraku\.......
+
+prostituation/Virgin_dialog_slut
+\m[shy]\Rshake\c[6]Lona：\c[0]    Omong-omong, aku belum diperawanin lho! Kau bisa jadi yang pertama memecahkan segelku...~ ♥
+
+prostituation/Virgin_dialog_ans
+\narr The customer smiled with glee and excitement when Lona informed them she was a virgin.
+
+prostituation/Virgin_dialog_faggot
+\narr The customer told Lona she should save her virginity for her husband.
+
+################
+
+prostituation/Nymph_dialog
+\m[lewd]\c[6]Lona：\c[0]    Lupakan saja, kau tak perlu membayarku... Aku hanya ingin ngeseks! ♥
+\narr The customer was delighted to hear what Lona just said!
+
+prostituation/Wisdom_dialog
+\m[shy]\c[6]Lona：\c[0]    Hei, apa kau tidak mau kuberikan pengalaman VIP? Hanya dengan sedikit tambahan...
+
+prostituation/Wisdom_dialog_more
+\m[shy]\c[6]Lona：\c[0]    Mmmm... Layanan seperti itu butuh bayaran lebih banyak...
+
+prostituation/Wisdom_dialog_angry
+\narr They're beginning to lose their patience...
+
+prostituation/Repent_dialog
+\m[flirty]\c[6]Lona：\c[0]    Umm... Dipikir-pikir, lupakan saja...
+
+prostituation/Repent_dialog_aggro
+\narr Lona has changed her mind, but the customer looks pissed off now!
+
+prostituation/Repent_blocked_slot
+\narr The slot does not allow to plugin.
+\narr Customer looks pissed off now!
+
+prostituation/Aggro
+\narr The customer looks pissed off now! They attack Lona in anger!
+\narrOFF\m[terror]\Rshake\c[6]Lona：\c[0]    Ehhh?! T-Tunggu...!
+
+RandomNpc/WhoreWork_win_opt_lose
+\narr Lona is too weak, and can only do what the other person wants...
+
+RandomNpc/WhoreWork_GotoPoint
+\narr Lona is forced into a dark corner by the other person...
+
+RandomNpc/WhoreWork_failed_GuardWrongPlace
+Don't mess around here!
+
+#---------------------#-------------------#---------------------Static Goblin-------------------------------
+#---------------------#-------------------#---------------------Static Goblin-------------------------------
+
+GoblinRandomNpc/CommonGoblin_begin1_0
+\SndLib[sound_goblin_roar]\SETpl[goblin]\Lshake\prf\c[4]Goblin：\c[0]    Gu-guwee... Daging... Lubang?
+
+GoblinRandomNpc/CommonGoblin_begin1_1
+\SndLib[sound_goblin_roar]\SETpl[goblin]\Lshake\prf\c[4]Goblin：\c[0]    Gu-cha! Gu-bu-wa-dah lubang daging?
+
+GoblinRandomNpc/CommonGoblin_begin1_2
+\SndLib[sound_goblin_roar]\SETpl[goblin]\Lshake\prf\c[4]Goblin：\c[0]    Gu-bu-dah?!
+
+GoblinRandomNpc/CommonGoblin_CommonNpcOpt
+\SndLib[sound_goblin_roar]\SETpl[goblin]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm...?
+
+#---------------------#-------------------#---------------------Static Orc-------------------------------
+#---------------------#-------------------#---------------------Static Orc-------------------------------
+
+OrcRandomNpc/CommonOrc_begin1_0
+\SndLib[sound_OrcQuestion]\SETpl[ogre_penis]\Lshake\prf\c[4]Orc：\c[0]    Haa-hee-hee!! Daging!!
+
+OrcRandomNpc/CommonOrc_begin1_1
+\SndLib[sound_OrcQuestion]\SETpl[ogre_penis]\Lshake\prf\c[4]Orc：\c[0]    Makan daging! Lubang daging! Heehee!
+
+OrcRandomNpc/CommonOrc_begin1_2
+\SndLib[sound_OrcQuestion]\SETpl[ogre_penis]\Lshake\prf\c[4]Orc：\c[0]    Haa-hee! Lubang daging! LUBANG DAGING!
+
+OrcRandomNpc/CommonOrc_CommonNpcOpt
+\SndLib[sound_OrcQuestion]\SETpl[ogre_penis]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Errr...?
+
+#---------------------#-------------------#---------------------RandomNpc-------------------------------
+#---------------------#-------------------#---------------------RandomNpc-------------------------------
+#---------------------#-------------------#---------------------RandomNpc-------------------------------
+#---------------------#-------------------#---------------------RandomNpc-------------------------------
+
+MaleHumanRandomNpc/CommonHuman_begin1_slave
+\c[4]Passerby：\c[0]    Minggir! Budak kotor.
+
+MaleHumanRandomNpc/CommonHuman_begin1_maggot
+\c[4]Passerby：\c[0]    Jijik, menjauhlah!
+
+MaleHumanRandomNpc/CommonHuman_begin1_sexy
+\c[4]Passerby：\c[0]    Oh? A-Ada yang bisa kubantu Nona?
+
+MaleHumanRandomNpc/CommonHuman_begin1_weaker
+\c[4]Passerby：\c[0]    Pengemis? Tinggalkan aku sendiri.
+
+MaleHumanRandomNpc/CommonHuman_begin1_moot
+\c[4]Passerby：\c[0]    Tikus kotor, mau apa kau?!
+
+MaleHumanRandomNpc/CommonHuman_begin1_lona
+\c[4]Passerby：\c[0]    Butuh sesuatu?
+
+#---------------------#-------------------#---------------------RandomNpc-------------------------------
+
+MaleGuardWild/CommonHuman_begin1_slave
+\c[4]Mercenary：\c[0]    Seorang budak? Biarkan aku menyegarkan diri denganmu!
+
+MaleGuardWild/CommonHuman_begin1_maggot
+\c[4]Mercenary：\c[0]    Menjijikkan! Menjauh dariku!
+
+MaleGuardWild/CommonHuman_begin1_sexy
+\c[4]Mercenary：\c[0]    Hei, kau! Apa kau budak seks baru?
+
+MaleGuardWild/CommonHuman_begin1_weaker
+\c[4]Mercenary：\c[0]    Pengemis sialan! Pergi! Hus!
+
+MaleGuardWild/CommonHuman_begin1_moot
+\c[4]Mercenary：\c[0]    Tikus kotor! Berhenti menatap! Pergi sana!
+
+MaleGuardWild/CommonHuman_begin1_lona
+\c[4]Mercenary：\c[0]    Apa? Tak lihat aku sedang sibuk?!
+
+#---------------------#-------------------#---------------------RandomNpc-------------------------------
+
+MaleDoomed/CommonHuman0
+\c[4]Passerby：\c[0]    *Sigh* Dunia akan berakhir...
+
+MaleDoomed/CommonHuman1
+\c[4]Passerby：\c[0]    Dunia akan segera kiamat, biarkan aku bersenang-senang denganmu sebelum kita mati!
+
+MaleDoomed/CommonHuman2
+\c[4]Passerby：\c[0]    Percuma saja... Sang Santo telah menelantarkan kita semua!
+
+#---------------------#-------------------#---------------------Sailer-------------------------------
+
+MaleNoerDockNpc/Sailer_slave
+\c[4]Sailor：\c[0]    Itu budak! Hehehee...
+
+MaleNoerDockNpc/Sailer_maggot
+\c[4]Sailor：\c[0]    Sialan! Kau bau mayat, menjauhlah babi.
+
+MaleNoerDockNpc/Sailer_sexy
+\c[4]Sailor：\c[0]    Oi nona! Mau merasa enak?! Akan kutunjukkan waktu yang indah...
+
+MaleNoerDockNpc/Sailer_weaker
+\c[4]Sailor：\c[0]    Hei! Gimana kalau kau membantuku di sini dengan mulut cantikmu itu?
+
+MaleNoerDockNpc/Sailer_moot
+\c[4]Sailor：\c[0]    Jangan menggangguku! Enyah sana!
+
+MaleNoerDockNpc/Sailer_lona
+\c[4]Sailor：\c[0]    Apa? Tak lihat aku sedang kerja?!
+
+#---------------------#-------------------#---------------------BS GAng-------------------------------
+
+CommonGangMember/commonBegin_lona
+\CBid[0,20]\SETpl[MobHumanCommoner]\Lshake\c[4]Gangster：\c[0]    Apa lihat-lihat?
+
+CommonGangMember/commonBegin_maggot
+\CBid[0,20]\SETpl[MobHumanCommoner]\Lshake\c[4]Gangster：\c[0]    Cari masalah?
+
+CommonGangMember/commonBegin_sexy
+\CBid[0,2]\SETpl[MobHumanCommoner]\Lshake\c[4]Gangster：\c[0]    Um？
+\CBid[0,4]\SETpl[MobHumanCommoner]\Lshake\c[4]Gangster：\c[0]    \..\..\.. Heh♥
+
+CommonGangMember/commonBegin_weaker
+\CBid[0,2]\SETpl[MobHumanCommoner]\Lshake\c[4]Gangster：\c[0]    Apa kau budak seks baru?
+
+CommonGangMember/commonBegin_moot
+\CBid[0,5]\SETpl[MobHumanCommoner]\Lshake\c[4]Gangster：\c[0]    Dari mana datangnya NIGGER ini? Enyah!
+
+CommonGangMember/commonBegin_slave
+\CBid[0,5]\SETpl[MobHumanCommoner]\Lshake\c[4]Gangster：\c[0]    Balik ke dapur dan buatkan lelakimu sandwich!
+
+#---------------------#-------------------#---------------------
+
+MaleHumanRandomNpc/CommonHuman_CommonNpcOpt
+\m[confused]\c[6]Lona：\c[0]    Ummm...
+
+commonNPC/Cancel
+Never mind
+
+commonNPC/Barter
+Barter
+
+commonNPC/Prostitution
+Prostitution
+
+commonNPC/SexService
+Sexual service
+
+commonNPC/Talk
+Talk
+
+commonNPC/Threaten
+Threaten
+
+commonNPC/Begging
+Beg
+
+commonNPC/About
+About
+
+commonNPC/Work
+Work
+
+commonNPC/Convoy
+Mercenary
+
+commonNPC/Slave
+Slave
+
+commonNPC/Steal
+Burglarize
+
+commonNPC/Deceive
+Deceive
+
+commonNPC/Yes
+Yes
+
+commonNPC/Storage
+Deposit/Withdraw
+
+commonNPC/Chat
+Talk
+
+commonNPC/opt_ex_LoanInfo
+Loan information
+
+commonNPC/opt_ex_Loan
+Loan
+
+commonNPC/opt_ex_Repayment
+Repayment
+
+commonNPC/opt_ex_Donation
+Donation
+
+commonNPC/opt_ex_Employee
+Become an Employee
+
+commonNPC/work_opt_ex_nothing
+Do nothing
+
+commonNPC/work_opt_ex_whore
+Backstreet Hooker
+
+commonNPC/opt_PawnItems
+Pawn items
+
+#---------------------#-------------------#---------------------RandomNpc-------------------------------
+#---------------------#-------------------#---------------------RandomNpc-------------------------------
+#---------------------#-------------------#---------------------RandomNpc-------------------------------
+#---------------------#-------------------#---------------------RandomNpc-------------------------------
+#---------------------#-------------------#---------------------RandomNpc-------------------------------
+
+MaleHumanRandomNpc/HoboM_begin1_slave
+\c[4]Beggar：\c[0]    Guh! Jangan sentuh aku!
+
+MaleHumanRandomNpc/HoboM_begin1_maggot
+\c[4]Beggar：\c[0]    Agh! Menjauh dariku!
+
+MaleHumanRandomNpc/HoboM_begin1_sexy
+\c[4]Beggar：\c[0]    Oh ho ho ho...
+
+MaleHumanRandomNpc/HoboM_begin1_weaker
+\c[4]Beggar：\c[0]    APA?!
+
+MaleHumanRandomNpc/HoboM_begin1_moot
+\c[4]Beggar：\c[0]    Jangan ganggu aku!
+
+MaleHumanRandomNpc/HoboM_begin1_lona
+\c[4]Beggar：\c[0]    Hah? Kamu mau apa? Beri sedikit uang receh?
+
+
+MaleHumanRandomNpc/HoboF_begin1_slave
+\c[4]Beggar：\c[0]    Seorang budak? Mungkin aku juga harus menjual diriku...
+
+MaleHumanRandomNpc/HoboF_begin1_maggot
+\c[4]Beggar：\c[0]    Sepertinya kamu juga menderita seperti aku.
+
+MaleHumanRandomNpc/HoboF_begin1_sexy
+\c[4]Beggar：\c[0]    Menjual tubuhmu juga? Di masa-masa seperti ini, itu satu-satunya cara untuk bertahan hidup...
+
+MaleHumanRandomNpc/HoboF_begin1_weaker
+\c[4]Beggar：\c[0]    Kelihatannya kamu habis disiksa, Aku tau gimana rasanya...
+
+MaleHumanRandomNpc/HoboF_begin1_moot
+\c[4]Beggar：\c[0]    Kira-kira hari ini bisa makan nggak, ya...
+
+MaleHumanRandomNpc/HoboF_begin1_lona
+\c[4]Beggar：\c[0]    Lapar banget... Bisa bantu aku...?
+
+
+MaleHumanNoerNpc/PplM_begin1_slave
+\c[4]Citizen：\c[0]    Budak kotor! Menyingkir!
+
+MaleHumanNoerNpc/PplM_begin1_maggot
+\c[4]Citizen：\c[0]    Sana pergi! Dasar bocah kotor!
+
+MaleHumanNoerNpc/PplM_begin1_sexy
+\c[4]Citizen：\c[0]    Hehe... Ya?
+
+MaleHumanNoerNpc/PplM_begin1_weaker
+\c[4]Citizen：\c[0]    Apa? Aku tidak punya uang untukmu!
+
+MaleHumanNoerNpc/PplM_begin1_moot
+\c[4]Citizen：\c[0]    Pergi sana! Dasar anjing menjijikkan!
+
+MaleHumanNoerNpc/PplM_begin1_lona
+\c[4]Citizen：\c[0]    Hah? Ada apa?
+
+
+MaleHumanGangNpc/PplM_begin1_slave
+\c[4]Rogue：\c[0]    Hei, sialan! Pergi sana! Budak bodoh!
+
+MaleHumanGangNpc/PplM_begin1_maggot
+\c[4]Rogue：\c[0]    Pergi sana! Dasar menjijikkan!
+
+MaleHumanGangNpc/PplM_begin1_sexy
+\c[4]Rogue：\c[0]    Oohhuhu... Kamu berbicara denganku?
+
+MaleHumanGangNpc/PplM_begin1_weaker
+\c[4]Rogue：\c[0]    Apa? Aku tidak punya uang! Pergi sana!
+
+MaleHumanGangNpc/PplM_begin1_moot
+\c[4]Rogue：\c[0]    Pergi sana! Dasar anak haram tikus!
+
+MaleHumanGangNpc/PplM_begin1_lona
+\c[4]Rogue：\c[0]    Hah? Mau apa kamu, sialan?
+
+
+MaleHumanNoerNpc/PplF_begin1_slave
+\c[4]Citizen：\c[0]    Budak kotor! Guh!
+
+MaleHumanNoerNpc/PplF_begin1_maggot
+\c[4]Citizen：\c[0]    Sangat bau! A-Apa?!
+
+MaleHumanNoerNpc/PplF_begin1_sexy
+\c[4]Citizen：\c[0]    Pelacur? Di tempat ini?! Mau apa kamu?
+
+MaleHumanNoerNpc/PplF_begin1_weaker
+\c[4]Citizen：\c[0]    Aku tidak punya uang untukmu! Menyingkir!
+
+MaleHumanNoerNpc/PplF_begin1_moot
+\c[4]Citizen：\c[0]    Darah campuran? Mau apa ke sini?
+
+MaleHumanNoerNpc/PplF_begin1_lona
+\c[4]Citizen：\c[0]    Ya?
+
+
+MaleHumanGuardM/begin1_slave
+\c[4]Guard：\c[0]    Balik sana ke majikanmu! Dasar budak-budak kotor...
+
+MaleHumanGuardM/begin1_maggot
+\c[4]Guard：\c[0]    Pergi sana! Hus!
+
+MaleHumanGuardM/begin1_sexy
+\c[4]Guard：\c[0]    Eeeh? Iya, Nyonya...?
+
+MaleHumanGuardM/begin1_weaker
+\c[4]Guard：\c[0]    Apa?! Aku tidak punya Waktu untuk ngeladenin kamu!
+
+MaleHumanGuardM/begin1_moot
+\c[4]Guard：\c[0]    Ngapain lihat-lihat?!\n Jika kau menggangguku lagi, akan kukirim kau ke penjara!
+
+MaleHumanGuardM/begin1_lona
+\c[4]Guard：\c[0]    Ada apa, warga? Perlu sesuatu?
+
+
+MaleFishKindM/begin1_slave
+\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Budak... Hamil... Gadis... Mau... Bersetubuh...
+
+MaleFishKindM/begin1_maggot
+\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Bau...! Jauh-jauh... Dasar bau...
+
+MaleFishKindM/begin1_sexy
+\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    \{Gadis...! Aku mau... Bersetubuh...!
+
+MaleFishKindM/begin1_weaker
+\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Gadis... Sini... Aku tidak akan... Melukaimu...
+
+MaleFishKindM/begin1_moot
+\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Mengganggu... Pergi sana... 
+
+MaleFishKindM/begin1_lona
+\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Apa... Manusia... Apa yang kamu... Inginkan...?
+
+
+MaleFishKindGuard/begin1_slave
+\SndLib[FishkindSmSpot]\c[4]Fishman Guard：\c[0]    Budak... Kembali... Ke kamp...!
+
+MaleFishKindGuard/begin1_maggot
+\SndLib[FishkindSmSpot]\c[4]Fishman Guard：\c[0]    Gadis bau...! Menjauh...!
+
+MaleFishKindGuard/begin1_sexy
+\SndLib[FishkindSmSpot]\c[4]Fishman Guard：\c[0]    Gadis... Apakah kamu... Sendiri?
+
+MaleFishKindGuard/begin1_weaker
+\SndLib[FishkindSmSpot]\c[4]Fishman Guard：\c[0]    Gadis cantik... Mau bersetubuh...
+
+MaleFishKindGuard/begin1_moot
+\SndLib[FishkindSmSpot]\c[4]Fishman Guard：\c[0]    Tikus... Kotor...! Kembali...
+
+MaleFishKindGuard/begin1_lona
+\SndLib[FishkindSmSpot]\c[4]Fishman Guard：\c[0]    Manusia... Bodoh... *Snort* Apa yang kamu mau...?!
+
+
+
+WencherM/begin0
+\c[4]\c[4]Wencher：\c[0]    Ehehe... Berapa Harga untuk tubuhmu?
+
+WencherM/begin1
+\c[4]\c[4]Wencher：\c[0]    Heehee! Hey Gadis! Ingin bersetubuh layaknya hewan?!
+
+WencherM/begin2
+\c[4]\c[4]Wencher：\c[0]    Hey! Hey Gadis! Mau isap penis ku?! Heehee!!!
+
+#-------------------#-------------------#-------------------#-------------------RandomNpc商人
+#-------------------#-------------------#-------------------#-------------------RandomNpc商人
+#-------------------#-------------------#-------------------#-------------------RandomNpc商人
+#-------------------#-------------------#-------------------#-------------------RandomNpc商人
+#-------------------#-------------------#-------------------#-------------------RandomNpc商人
+
+MaleHumanRandomNpc/CommonMerchant_begin1_slave
+\m[normal]\c[4]Wild Merchant：\c[0]    Seorang budak? Heehee...
+
+MaleHumanRandomNpc/CommonMerchant_begin1_maggot
+\m[normal]\c[4]Wild Merchant：\c[0]    JIJIK! Kotor sekali... Menjauhlah dariku.
+
+MaleHumanRandomNpc/CommonMerchant_begin1_sexy
+\m[normal]\c[4]Wild Merchant：\c[0]    Heehee... Mau beli apa? Aku punya semuanya!
+
+MaleHumanRandomNpc/CommonMerchant_begin1_weaker
+\m[normal]\c[4]Wild Merchant：\c[0]    Tak ada yang gratis, beli sesuatu atau pergi sana!
+
+MaleHumanRandomNpc/CommonMerchant_begin1_moot
+\m[normal]\c[4]Wild Merchant：\c[0]    Belanja? Aku jual ke semua pelanggan!
+
+MaleHumanRandomNpc/CommonMerchant_begin1_lona
+\m[normal]\c[4]Wild Merchant：\c[0]    Salam! Aku punya banyak barang untukmu kalau kau punya uangnya!
+
+MaleHumanRandomNpc/CommonMerchant_CommonNpcOpt
+\m[confused]\c[6]Lona：\c[0]    Ummm...
+
+#----------------------------溝通
+
+MaleHumanRandomNpc/CommonMerchant_comm
+\m[flirty]\c[6]Lona：\c[0]    Hei, lihat ini...
+\m[pleased]\cg[temp](Lona berbagi informasi dengan orang lain.)
+
+MaleHumanRandomNpc/CommonMerchant_comm_win
+\c[4]Merchant：\c[0]\n\prf\cgoff    Ini sangat membantuku, terima kasih banyak.
+\m[normal]\c[6]Lona：\c[0]\n\PRF    Tidak masalah, tentu saja.
+
+MaleHumanRandomNpc/CommonMerchant_comm_failed
+\c[4]Merchant：\c[0]\n\prf\cgoff    Aku sudah tau tentang ini.
+\m[confused]\c[6]Lona：\c[0]\n\PRF    Oh... baiklah kalau begitu.
+
+#----------------------------威脅
+
+MaleHumanRandomNpc/CommonMerchant_threaten_normal
+\m[overkill]\c[6]Lona：\c[0]\n\Rshake\cg[temp]    Berikan semua yang kau punya, dan aku akan membiarkanmu hidup!
+
+MaleHumanRandomNpc/CommonMerchant_threaten_tsun
+\m[angry]\c[6]Lona：\c[0]\n\Rshake\cg[temp]    Dengar, bajingan! Serahkan semuanya dalam lima detik, atau aku akan MEROBEK PERUTMU SAMPAI HANCUR!!!
+
+MaleHumanRandomNpc/CommonMerchant_threaten_weak
+\m[fear]\c[6]Lona：\c[0]\n\Rshake\cg[temp]    Umm... M-Maaf... T-Tolong berikan apa yang k-kamu punya! K... Kumohon......?
+
+MaleHumanRandomNpc/CommonMerchant_threaten_slut
+\m[overkill]\c[6]Lona：\c[0]\n\Rshake\cg[temp]    Hehe!~ ♫ Jadilah anak baik dan berikan semua yang kau punya padaku! Jika kamu menurut... mungkin aku akan membiarkanmu hidup! ♥
+
+MaleHumanRandomNpc/CommonMerchant_threaten_overfatigue
+\m[tired]\c[6]Lona：\c[0]\n\Rshake\cg[temp]    ...Serahkan... Semua yang kamu bawa... Sekarang...
+
+MaleHumanRandomNpc/CommonMerchant_threaten_mouth_block
+\m[confused]\c[6]Lona：\c[0]\n\Rshake\cg[temp]    MMMMM! MMMPHMM HMMPHMM!!!
+
+MaleHumanRandomNpc/CommonMerchant_threaten_win
+\c[4]Merchant：\c[0]\n\prf\cgoff    Baik, baik! Ambil saja semuanya! Tolong biarkan aku hidup! Kumohon, jangan bunuh aku!!!
+\m[triumph]\c[6]Lona：\c[0]\n\PRF    Hmmph, begitu saja ternyata.
+
+MaleHumanRandomNpc/CommonMerchant_threaten_failed
+\c[4]Merchant：\c[0]\n\prf\cgoff    Bocah ingusan sepertimu berani mengancamku?! SALAH CARI LAWAN KAMU, BODOH! Mati kamu, bangsat!!!
+\m[shocked]\c[6]Lona：\c[0]\n\PRF\Rshake    Ehh?! T-Tunggu!!!
+
+#-------------------#-------------------#-------------------#-------------------Random Noer House
+#-------------------#-------------------#-------------------#-------------------Random Noer House
+#-------------------#-------------------#-------------------#-------------------Random Noer House
+#-------------------#-------------------#-------------------#-------------------Random Noer House
+#-------------------#-------------------#-------------------#-------------------Random Noer House
+
+NoerHouse/HouseOpt
+\m[confused] Rumah di Noer
+
+NoerHouse/WarehouseOpt
+\m[confused] Gudang
+
+NoerHouse/Tent
+\m[confused] Ini hanya sebuah tenda.
+
+NoerHouse/HouseOpt_beg
+\narr\SndLib[sys_KnockDoor] ...........
+\narrOFF\c[4]Unknown：\c[0]    Siapa itu?
+\m[shy]\c[6]Lona：\c[0]    P-Permisi... Bolehkah aku meminta tolong...? Kumohon......
+\narr \..\..\..\..\..\..
+
+NoerHouse/HouseOpt_beg_win
+\c[4]Unknown：\c[0]    Anak yang malan, terimalah ini.
+\m[flirty]\c[6]Lona：\c[0]    Terima kasih, terima kasih banyak untuk kebaikanmu!
+
+NoerHouse/HouseOpt_fail_night
+\c[4]Unknown：\c[0]    Ini sudah malam, kamu tau itu kan?
+
+NoerHouse/Tent_beg_fail0
+\c[4]Unknown：\c[0]    Saya juga tidak punya apa-apa！ Pergi sana！
+\m[sad]\c[6]Lona：\c[0]    Ma-maaf... Maafkan aku......
+
+NoerHouse/HouseOpt_beg_fail0
+\c[4]Unknown：\c[0]    Kamu datang dari Sybaris... kan? Dulu, hidupmu sangat mewah ya?
+\m[sad]\c[6]Lona：\c[0]    I-Itu tidak benar... Aku benar-benar butuh...
+\c[4]Unknown：\c[0]\n\Lshake\RShake    \{MENYINGKIR!
+
+NoerHouse/HouseOpt_beg_fail1
+\c[4]Unknown：\c[0]    Apa kamu serius? Lihat penampilanmu saja, aku bisa salah sangka dan mengiramu anggota bangsawan!
+\m[sad]\c[6]Lona：\c[0]    Ummm... Jadi begini......
+\c[4]Unknown：\c[0]\n\Lshake\RShake    \{PERGI SANA! Dan jangan berani kembali lagi!
+
+NoerHouse/TentOpt_lie_begin1
+\m[sad]\c[6]Lona：\c[0]    Ummm... Apakah ada orang disana?
+
+NoerHouse/HouseOpt_lie_begin1
+\narr\SndLib[sys_KnockDoor] ...........
+
+NoerHouse/HouseOpt_lie_begin1_1
+\narrOFF\c[4]Unknown：\c[0]    Siapakah dia?
+
+NoerHouse/HouseOpt_lie_begin2_0
+\narr \..\..\..
+\narrOFF\m[confused]\c[6]Lona：\c[0]    Ya, tolong tinggalkan barang-barang itu bersamaku.
+
+NoerHouse/HouseOpt_lie_begin2_1
+\narr \..\..\..
+\narrOFF\m[serious]\c[6]Lona：\c[0]    Kalau kamu menolak, aku tidak bisa menjamin apa yang akan terjadi selanjutnya...
+
+NoerHouse/HouseOpt_lie_begin3
+\narr \..\..\..
+
+NoerHouse/HouseOpt_lie_win
+\c[4]Unknown：\c[0]    Begitu ya... Baiklah kalau begitu.
+\m[flirty]\c[6]Lona：\c[0]    Fiuuh...
+
+NoerHouse/HouseOpt_lie_fail
+\c[4]Unknown：\c[0]    \{Kau pikir aku akan percaya hal seperti itu?!
+\m[shocked]\Rshake Kamu telah ketahuan
+
+NoerHouse/HouseOpt_steal
+\SND[SE/sneak_in.ogg]\narr \..\..\..
+
+
+NoerHouse/HouseOpt_steal_win
+\m[flirty]\c[6]Lona：\c[0]    Bagus...
+
+NoerHouse/HouseOpt_steal_fail
+\c[4]Unknown：\c[0]\n\Lshake\RShake    \{SIAPA DISANA?!
+\m[shocked]\Rshake\c[6]Lona：\c[0]    oh tidak!
+
+#-------------------#-------------------#-------------------#------------------- Begging
+
+Begging/Win
+\narr Mereka menatap Lona dengan rasa iba dan empati...
+
+Begging/Aggro0
+\narr Mereka merasa terganggu oleh Lona dan mengabaikan teriakan minta tolongnya......
+
+Begging/Aggro1
+\narr Mereka kesal karena Lona terus mengemis dan memutuskan untuk memberinya pelajaran!
+
+Begging/Win_End
+\m[shy]\c[6]Lona：\c[0]    Terimakasih bannyak!
+
+Begging/check
+\m[shy]\c[6]Lona：\c[0]    P-Permisi... Boleh aku minta tolong...? Kumohon......
+\narr\..\..\..
+
+BeggingBandit/BlowJob
+\narr Dia menawarkan jika Lona membersihkan penisnya yang kotor itu,
+\narr Dia mungkin akan memerinya makanan sebagai imbalan.
+
+BeggingBandit/Kneel
+\narr Dia meminta Lona berlutut dan mulai memohon...
+
+BeggingBandit/DeepThroat
+\narr Dia menjambak rambut Lona, lalu menggesek-gesekkan penisnya ke pipi Lona...
+
+BeggingBandit/DrinkPee
+\narr Dia mengeluarkan penisnya...
+
+BeggingBandit/Beaten
+\narr Dia merasa terhibur melihat ekspresi kesakitan Lona. Lona pantas mendapatkan sesuatu untuk dimakan.
+
+#-------------------#-------------------#-------------------#------------------- NPC Thx to Lona
+
+refVsExt/WinDialog0
+\CBid[-1,3]\c[4]Refugee：\c[0]    Terima kasih banyak! Kalau kamu tidak muncul, aku pasti sudah tamat!
+
+refVsExt/WinDialog1
+\CBid[-1,3]\c[4]Refugee：\c[0]    Terpujilah Sang Santo!
+
+refVsExt/WinDialog2
+\CBid[-1,3]\c[4]Refugee：\c[0]    Terima kasih, kamu layak menerima ini!
+
+refVsExt/Help0
+\CBid[-1,20]\c[4]Refugee：\c[0]    TOLONG KAMI! ME-MEREKA DATANG!
+
+refVsExt/Help1
+\CBid[-1,20]\c[4]Refugee：\c[0]    TIDAAAK! AKU TIDAK MAU MATI!!!
+
+refVsExt/Help2
+\CBid[-1,20]\c[4]Refugee：\c[0]    Wahai Sang Santo! SELAMATKAN AKU!
+
+
+#Translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

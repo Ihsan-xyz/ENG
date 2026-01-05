@@ -1,0 +1,3114 @@
+###############################################################normal ####################################
+
+
+#--------             ---when Lona getting wet
+
+Lona/wet_normal0
+\c[6]Lona：\c[0]    Rasanya basah banget di bawah sana...
+
+Lona/wet_normal1
+\c[6]Lona：\c[0]    Sepertinya perut bagian bawahku menginginkan sesuatu...?
+
+Lona/wet_normal2
+\c[6]Lona：\c[0]    Gawat! Aku gak bisa tahan... Mau bocor keluar!
+
+Lona/wet_normal3
+\c[6]Lona：\c[0]    Ini buruk... Kakiku basah kuyup......
+
+Lona/Qmsg_wet_normal0
+Rasanya basah banget di bawah sana...
+
+Lona/Qmsg_wet_normal1
+Sepertinya perut bagian bawahku menginginkan sesuatu...?
+
+Lona/Qmsg_wet_normal2
+Gawat! Aku gak bisa tahan...
+
+Lona/Qmsg_wet_normal3
+Kakiku basah kuyup......
+
+#---------------    -- when Lona getting grab *DONE
+
+Lona/grab_normal0
+\c[6]Lona：\c[0]    Berhenti!
+Jangan-...!
+
+Lona/grab_normal1
+\c[6]Lona：\c[0]    Pergi sana!
+
+Lona/grab_normal2
+\c[6]Lona：\c[0]    L-Lepaskan aku!
+
+####frist time on###################### *DONE
+
+Lona/vag_taken_normal0
+\c[6]Lona：\c[0]    KYAAAH!!! S-Sakit! Tubuhku rasanya seperti dibelah dua!
+
+Lona/vag_taken_normal1
+\c[6]Lona：\c[0]    Kumohon! ...B-Berhenti!
+
+Lona/vag_taken_normal2
+\c[6]Lona：\c[0]    D... Darah?! Tidak!
+
+Lona/vag_taken_normal3
+\c[6]Lona：\c[0]    Berhenti-...! *Hiks* Jangan!
+
+Lona/vag_taken_normal4
+\c[6]Lona：\c[0]    Guuuh... *Hiks* Ahhh...! Tolong b-berhenti... Aku mohon...
+
+#------------------###frist time on ANAL ###done
+
+Lona/anal_taken_normal0
+\c[6]Lona：\c[0]    Jangan-!
+
+Lona/anal_taken_normal1
+\c[6]Lona：\c[0]    Jangan di situ!
+
+Lona/anal_taken_normal2
+\c[6]Lona：\c[0]    T-Tolong berhenti! Gak bakal muat di situ!
+
+Lona/anal_taken_normal3
+\c[6]Lona：\c[0]    Itu punyaku-... GAAAH! B-Berhenti!
+
+Lona/anal_taken_normal4
+\c[6]Lona：\c[0]    EEYAAAH! Tolong... Bberhenti... Aku mohon...
+
+#------------------###出産 起始###done
+
+Lona/brith_begin_normal0
+\c[6]Lona：\c[0]    Nighnnn... *Hah*... A-AHHH...!
+
+Lona/brith_begin_normal1
+\c[6]Lona：\c[0]    Keluar-... FUUUH...! I-Itu mau keluar!
+
+Lona/brith_begin_normal2
+\c[6]Lona：\c[0]    I-... *HAH*! K-KELUAR... Oooouuut!!
+
+Lona/brith_begin_normal3
+\c[6]Lona：\c[0]    Aku... *Hah* m-melahirkan! A-AKU PUNYA BAYIIIII!!!
+
+Lona/brith_begin_normal4
+\c[6]Lona：\c[0]    HIGIIIH!!! ...P-PECAAAH! PERUTKU RASANYA MAU PECAAAHHH!!!!!!
+
+#-------------------          each frame or turn### DONE
+
+Lona/frame_normal0
+\c[6]Lona：\c[0]    Ahhh......
+
+Lona/frame_normal1
+\c[6]Lona：\c[0]    Uhnnngh... Haaah...
+
+Lona/frame_normal2
+\c[6]Lona：\c[0]    Ahhh... Uwuuuah...
+
+Lona/frame_normal3
+\c[6]Lona：\c[0]    Aaaah......
+
+Lona/frame_normal4
+\c[6]Lona：\c[0]    J-Jangan......
+
+Lona/frame_normal5
+\c[6]Lona：\c[0]    Haaah... Aaahnnn......
+
+Lona/frame_normal6
+\c[6]Lona：\c[0]    Nnngh... Haaannngh...
+
+Lona/frame_normal7
+\c[6]Lona：\c[0]    Haaah... Hnnngh...
+
+Lona/frame_normal8
+\c[6]Lona：\c[0]    Nnnnnn...
+
+Lona/frame_normal9
+\c[6]Lona：\c[0]    Auuughhh...
+
+Lona/frame_normal10
+\c[6]Lona：\c[0]    Ahhh...! Ahhhnnn...
+
+#----------------------         --#when cuming DONE
+
+Lona/cumming_normal0
+\c[6]Lona：\c[0]    Nnnghnn! Uwaaah...!
+
+Lona/cumming_normal1
+\c[6]Lona：\c[0]    T-Tidak! Tidaaak...!
+
+Lona/cumming_normal2
+\c[6]Lona：\c[0]    Haaah... Ahhh!
+
+Lona/cumming_normal3
+\c[6]Lona：\c[0]    Guuuh... Iik!
+
+Lona/cumming_normal4
+\c[6]Lona：\c[0]    Haaaff! Hnngh..!
+
+Lona/cumming_normal5
+\c[6]Lona：\c[0]    Ahaahhh......!
+
+Lona/cumming_normal6
+\c[6]Lona：\c[0]    Nnnaaah...!
+
+Lona/cumming_normal7
+\c[6]Lona：\c[0]    Uwuuuah! Haahnnn...!
+
+Lona/cumming_normal8
+\c[6]Lona：\c[0]    Aaah... Hngnnn!
+
+Lona/cumming_normal9
+\c[6]Lona：\c[0]    Nnghnn! Ahhh...
+
+Lona/cumming_normal10
+Ooohhh... Haaah...!
+
+Lona/Qmsg_cumming_normal0
+Nnnghnn! Uwaaah...!
+
+Lona/Qmsg_cumming_normal1
+T-Tidak! Tidaaak...!
+
+Lona/Qmsg_cumming_normal2
+Haaah... Ahhh!
+
+Lona/Qmsg_cumming_normal3
+Guuuh... Iik!
+
+Lona/Qmsg_cumming_normal4
+Haaaff! Hnngh..!
+
+Lona/Qmsg_cumming_normal5
+Ahaahhh......!
+
+Lona/Qmsg_cumming_normal6
+Nnnaaah...!
+
+Lona/Qmsg_cumming_normal7
+Uwuuuah! Haahnnn...!
+
+Lona/Qmsg_cumming_normal8
+Aaah... Hngnnn!
+
+Lona/Qmsg_cumming_normal9
+Nnghnn! Ahhh...
+
+Lona/Qmsg_cumming_normal10
+Ooohhh... Haaah...!
+
+#----------------------         --#when over cuming DONE
+
+Lona/over_cumming_normal0
+\c[6]Lona：\c[0]    K-Keluar! ...Aku keluaaar! \{KYAAAH!
+
+Lona/over_cumming_normal1
+\c[6]Lona：\c[0]    Gak bisa berhentiii...! Nnnyaaah!~ Aku g-gak bisa berhenti keluaaar!
+
+Lona/over_cumming_normal2
+\c[6]Lona：\c[0]    \{Gak, aku g-gak mau kkkellluuuar lagiii!
+
+Lona/over_cumming_normal3
+\c[6]Lona：\c[0]    Berhentiii! \{J-JANGAN LAGI!
+
+Lona/over_cumming_normal4
+\c[6]Lona：\c[0]    K-... Kumohon...
+
+Lona/over_cumming_normal5
+\c[6]Lona：\c[0]    HHNNGHNN! \{AAAHHH...!
+
+Lona/over_cumming_normal6
+\c[6]Lona：\c[0]    EEYAHHH...! \{ENGGAAAK!
+
+Lona/over_cumming_normal7
+\c[6]Lona：\c[0]    Hahhh... Iiiik...!
+
+Lona/over_cumming_normal8
+\c[6]Lona：\c[0]    Nyaaah......
+
+Lona/over_cumming_normal9
+\c[6]Lona：\c[0]    Haaah! \{Aaah...
+
+Lona/over_cumming_normal10
+\c[6]Lona：\c[0]    Hnnghaa...! Ahhh...
+
+Lona/Qmsg_over_cumming_normal0
+K-Keluar! ...Aku keluaaar!
+
+Lona/Qmsg_over_cumming_normal1
+Nnnyaaah!~ Aku g-gak bisa berhenti keluaaar!
+
+Lona/Qmsg_over_cumming_normal2
+Gak, aku g-gak mau kkkellluuuar lagiii!
+
+Lona/Qmsg_over_cumming_normal3
+Berhentiii! J-JANGAN LAGI!
+
+Lona/Qmsg_over_cumming_normal4
+K-... Kumohon...
+
+Lona/Qmsg_over_cumming_normal5
+HHNNGHNN! AAAHHH...!
+
+Lona/Qmsg_over_cumming_normal6
+EEYAHHH...! ENGGAAAK!
+
+Lona/Qmsg_over_cumming_normal7
+Hahhh... Iiiik...!
+
+Lona/Qmsg_over_cumming_normal8
+Nyaaah......
+
+Lona/Qmsg_over_cumming_normal9
+Haaah! Aaah...
+
+Lona/Qmsg_over_cumming_normal10
+Hnnghaa...! Ahhh...
+
+#-------------------------------#Brith normal
+
+Lona/brith_normal0
+\c[6]Lona：\c[0]    \{KKKELLLUUUAAARRR!!! ITU KELUUUAAARRR!!!
+
+Lona/brith_normal1
+\c[6]Lona：\c[0]    \{BAYIKU-...! -LAHIRRR!!!
+
+Lona/brith_normal2
+\c[6]Lona：\c[0]    \{GAAAH!!! KELUUUAAARRR
+
+Lona/brith_normal3
+\c[6]Lona：\c[0]    \{FUGOOOH! BER-BERHENTIIII!!!
+
+Lona/brith_normal4
+\c[6]Lona：\c[0]    \{EEEYAAAAAAH!!! TIDAAAK!!!
+
+Lona/brith_normal5
+\c[6]Lona：\c[0]    \{SAKIIIT BANGET!
+
+Lona/brith_normal6
+\c[6]Lona：\c[0]    \{FUUUWUUUAHHH! ...IGIIIH!!!
+
+Lona/brith_normal7
+\c[6]Lona：\c[0]    \{GAAAAAAAH!
+
+Lona/brith_normal8
+\c[6]Lona：\c[0]    \{KYAAAAAAHHHHHH... AHHHHHH!~
+
+Lona/brith_normal9
+\c[6]Lona：\c[0]    \{Nnnnighaaah...! Aaaaaahhh...!
+
+Lona/brith_normal10
+\c[6]Lona：\c[0]    \{Uuwuuuuuu... *Hiks* Fuuuguuuuuuuh......!
+
+################################################################tsun####################################
+#--------             ---when Lona getting wet
+
+Lona/wet_tsun0
+\c[6]Lona：\c[0]    \c[4](Sial... Kotor banget di bawah sana......)
+
+Lona/wet_tsun1
+\c[6]Lona：\c[0]    \c[4](Guh... Terasa panas di bawah sana.)
+
+Lona/wet_tsun2
+\c[6]Lona：\c[0]    \c[4](Gak! Bocornya cepet banget...)
+
+Lona/wet_tsun3
+Ugh... Netes...
+
+Lona/Qmsg_wet_tsun0
+Sial... Kotor banget di bawah sana...
+
+Lona/Qmsg_wet_tsun1
+Guh... Terasa panas di bawah sana.
+
+Lona/Qmsg_wet_tsun2
+Gak! Bocornya cepet banget...
+
+Lona/Qmsg_wet_tsun3
+Ugh... Netes...
+
+#---------------    -- when Lona getting grab
+
+Lona/grab_tsun0
+\c[6]Lona：\c[0]    Jauh-jauh dariku!
+
+Lona/grab_tsun1
+\c[6]Lona：\c[0]    Jangan sentuh aku!
+
+Lona/grab_tsun2
+\c[6]Lona：\c[0]    Hentikan!
+
+####frist time on######################
+
+Lona/vag_taken_tsun0
+\c[6]Lona：\c[0]    GAAAHHH!
+L-Lubangku...! I-Itu... Sakit!
+
+Lona/vag_taken_tsun1
+\c[6]Lona：\c[0]    Tolong...! Tarik keluar!
+
+Lona/vag_taken_tsun2
+\c[6]Lona：\c[0]    Darah! HENTIKAN...!
+
+Lona/vag_taken_tsun3
+\c[6]Lona：\c[0]    Guuuh...! S-Sakiiit!
+
+Lona/vag_taken_tsun4
+\c[6]Lona：\c[0]    Nnnghnnn...
+
+#------------------###frist time on ANAL ###
+
+Lona/anal_taken_tsun0
+\c[6]Lona：\c[0]    Jangan-...!
+Tempat itu kotor!
+
+Lona/anal_taken_tsun1
+\c[6]Lona：\c[0]    Gak! Jangan sentuh situ! BERHENTI-...!
+
+Lona/anal_taken_tsun2
+\c[6]Lona：\c[0]    -EEEYAAAAAAH!!!
+
+Lona/anal_taken_tsun3
+\c[6]Lona：\c[0]    ...Kamu... m-menjijikkan-...!
+
+Lona/anal_taken_tsun4
+\c[6]Lona：\c[0]    Guuuaaah! Itu... sakit...!
+
+#------------------###出産 起始###done
+
+Lona/brith_begin_tsun0
+\c[6]Lona：\c[0]    Gak! Jangan...!
+
+Lona/brith_begin_tsun1
+\c[6]Lona：\c[0]    AHHGH...! Aku gak mau melahirkan! B-Beri aku jeda!
+
+Lona/brith_begin_tsun2
+\c[6]Lona：\c[0]    Sakit! Sakiiit...!
+
+Lona/brith_begin_tsun3
+\c[6]Lona：\c[0]    GAAAH! Tolong aku!
+
+Lona/brith_begin_tsun4
+\c[6]Lona：\c[0]    NNNIGHNNN...! EEYAAAH!
+
+#-------------------          each frame or turn### 
+
+Lona/frame_tsun0
+\c[6]Lona：\c[0]    Gak... Berhenti gerak...!
+
+Lona/frame_tsun1
+\c[6]Lona：\c[0]    Hngnnn... Ahhh...
+
+Lona/frame_tsun2
+\c[6]Lona：\c[0]    Guh! Hnnghnn!
+
+Lona/frame_tsun3
+\c[6]Lona：\c[0]    Ah... L-Lepasin aku... Gah!
+
+Lona/frame_tsun4
+\c[6]Lona：\c[0]    Jangan... Dorong... masuk... Nnnigh ahhh!
+
+Lona/frame_tsun5
+\c[6]Lona：\c[0]    Gaaahhh... Aahh!
+
+Lona/frame_tsun6
+\c[6]Lona：\c[0]    Aahh... B-Berhenti...! Uhaaah!
+
+Lona/frame_tsun7
+\c[6]Lona：\c[0]    Ahhh... Aaah...
+
+Lona/frame_tsun8
+\c[6]Lona：\c[0]    Haaah... Ahhh...
+
+Lona/frame_tsun9
+\c[6]Lona：\c[0]    Nnnighnnn...
+
+Lona/frame_tsun10
+\c[6]Lona：\c[0]    S-Sialan... Guuugh...
+
+#----------------------         --#when cuming 
+
+Lona/cumming_tsun0
+\c[6]Lona：\c[0]    *Hah* Haaahnnngh... G-Gak...!
+
+Lona/cumming_tsun1
+\c[6]Lona：\c[0]    GAK! AAAHHH!
+
+Lona/cumming_tsun2
+\c[6]Lona：\c[0]    NYAAA-aaah!
+
+Lona/cumming_tsun3
+\c[6]Lona：\c[0]    K-Keluar! Ahhh!
+
+Lona/cumming_tsun4
+\c[6]Lona：\c[0]    Nnmmpgh... Haaah...
+
+Lona/cumming_tsun5
+\c[6]Lona：\c[0]    Yihhnnngh...
+
+Lona/cumming_tsun6
+\c[6]Lona：\c[0]    Yiahh....
+
+Lona/cumming_tsun7
+\c[6]Lona：\c[0]    Hhuahh!
+
+Lona/cumming_tsun8
+\c[6]Lona：\c[0]    Aahh!
+
+Lona/cumming_tsun9
+\c[6]Lona：\c[0]    Yiahh... Ahhh!
+
+Lona/cumming_tsun10
+\c[6]Lona：\c[0]    Guh...
+
+Lona/Qmsg_cumming_tsun0
+*Hah* Haaahnnngh... G-Gak...!
+
+Lona/Qmsg_cumming_tsun1
+GAK! AAAHHH!
+
+Lona/Qmsg_cumming_tsun2
+NYAAA-aaah!
+
+Lona/Qmsg_cumming_tsun3
+K-Keluar! Ahhh!
+
+Lona/Qmsg_cumming_tsun4
+Nnmmpgh... Haaah...
+
+Lona/Qmsg_cumming_tsun5
+Yihhnnngh...
+
+Lona/Qmsg_cumming_tsun6
+Yiahh....
+
+Lona/Qmsg_cumming_tsun7
+Hhuahh!
+
+Lona/Qmsg_cumming_tsun8
+Aahh!
+
+Lona/Qmsg_cumming_tsun9
+Yiahh... Ahhh!
+
+Lona/Qmsg_cumming_tsun10
+Guh...
+
+#----------------------         --#when over cuming 
+
+Lona/over_cumming_tsun0
+\c[6]Lona：\c[0]    K-Kkkeluaaar l-lagi! \{Ahhh! AHHH!! AAAH!!!
+
+Lona/over_cumming_tsun1
+\c[6]Lona：\c[0]    Aku harus-... \{-Berhentiii k-k-keLUAAAR! NYAAAH!!!
+
+Lona/over_cumming_tsun2
+\c[6]Lona：\c[0]    Berhenti keluar! Berhenti! \{AhhhAhAh!
+
+Lona/over_cumming_tsun3
+\c[6]Lona：\c[0]    Berhentiii...! Aku gak bisa k-keluuar lagiii...!
+
+Lona/over_cumming_tsun4
+\c[6]Lona：\c[0]    K-K-Kenapa-...? \{Yiaaahh!
+
+Lona/over_cumming_tsun5
+\c[6]Lona：\c[0]    Yiiihhghhah! \{Ahhh!!!
+
+Lona/over_cumming_tsun6
+\c[6]Lona：\c[0]    Wuhguhyiaaahh!!! \{Yiaaahhaaahhh!
+
+Lona/over_cumming_tsun7
+\c[6]Lona：\c[0]    Guaaah! \{AHHHHHH!!!
+
+Lona/over_cumming_tsun8
+\c[6]Lona：\c[0]    \{NYAAAH!
+
+Lona/over_cumming_tsun9
+\c[6]Lona：\c[0]    \{Huuugaaah! ...Nighnnnahhh!
+
+Lona/over_cumming_tsun10
+\c[6]Lona：\c[0]    \{*Hah*... Nnnnighnnahhh......
+
+Lona/Qmsg_over_cumming_tsun0
+K-Kkkeluaaar l-lagi!
+
+Lona/Qmsg_over_cumming_tsun1
+-Berhentiii k-k-keLUAAAR! NYAAAH!!!
+
+Lona/Qmsg_over_cumming_tsun2
+Berhenti keluar! Berhenti! AhhhAhAh!
+
+Lona/Qmsg_over_cumming_tsun3
+Berhentiii...! Aku gak bisa k-keluuar lagiii...!
+
+Lona/Qmsg_over_cumming_tsun4
+K-K-Kenapa-...? Yiaaahh!
+
+Lona/Qmsg_over_cumming_tsun5
+Yiiihhghhah! Ahhh!!!
+
+Lona/Qmsg_over_cumming_tsun6
+Wuhguhyiaaahh!!! Yiaaahhaaahhh!
+
+Lona/Qmsg_over_cumming_tsun7
+Guaaah! AHHHHHH!!!
+
+Lona/Qmsg_over_cumming_tsun8
+NYAAAH!
+
+Lona/Qmsg_over_cumming_tsun9
+Huuugaaah! ...Nighnnnahhh!
+
+Lona/Qmsg_over_cumming_tsun10
+*Hah*... Nnnnighnnahhh......
+
+#-------------------------------#Brith tsun
+
+Lona/brith_tsun0
+\c[6]Lona：\c[0]    K-Keluar! \{Bayinya keluar...!
+
+Lona/brith_tsun1
+\c[6]Lona：\c[0]    J-JANGAN-! \{SAKIIIT! AHHH!!!
+
+Lona/brith_tsun2
+\c[6]Lona：\c[0]    GAAAHHH! \{ITU KELUAAAR!
+
+Lona/brith_tsun3
+\c[6]Lona：\c[0]    M-MATI...! \{AKU BAKAL MATIII!
+
+Lona/brith_tsun4
+\c[6]Lona：\c[0]    \{BERHENTI! J-J-JANGAN...! GAAAAK-AAAHHHHHH!!!
+
+Lona/brith_tsun5
+\c[6]Lona：\c[0]    \{KYAAAHHHHHH! SAKIIIIT!
+
+Lona/brith_tsun6
+\c[6]Lona：\c[0]    AKU G-GAK BISA...! T-TOLONG BERHENTI! Bberhenti k-k-keluar...!
+
+Lona/brith_tsun7
+\c[6]Lona：\c[0]    \{GUUUAH!
+
+Lona/brith_tsun8
+\c[6]Lona：\c[0]    \{NNNUUUUUUOOOHHH!
+
+Lona/brith_tsun9
+\c[6]Lona：\c[0]    \{AAAHHHHHH... Uuuaaaghhh...
+
+Lona/brith_tsun10
+\c[6]Lona：\c[0]    \{Uwaaah...!
+
+################################################################WEAK####################################
+#--------             ---when Lona getting wet
+
+Lona/wet_weak0
+\c[6]Lona：\c[0]    \c[4](Perutku... Terasa panas...)
+
+Lona/wet_weak1
+\c[6]Lona：\c[0]    \c[4](Tubuhku... Aku mau keluar...)
+
+Lona/wet_weak2
+\c[6]Lona：\c[0]    \c[4](Nnnghnnn... K-Keluar...!)
+
+Lona/wet_weak3
+\c[6]Lona：\c[0]    \c[4](*Merengek*... Aku gak bisa t-... tahan...)
+
+Lona/Qmsg_wet_weak0
+Perutku... Terasa panas...
+
+Lona/Qmsg_wet_weak1
+Tubuhku... Aku mau keluar...
+
+Lona/Qmsg_wet_weak2
+Nnnghnnn... K-Keluar...!
+
+Lona/Qmsg_wet_weak3
+Aku gak bisa t-... tahan...
+
+#---------------    -- when Lona getting grab ***done
+
+Lona/grab_weak0
+\c[6]Lona：\c[0]    Jangan sakiti aku...
+
+Lona/grab_weak1
+\c[6]Lona：\c[0]    Tolong... Jangan.....
+
+Lona/grab_weak2
+\c[6]Lona：\c[0]    Iiiik...!
+
+####frist time on######################  done
+
+Lona/vag_taken_weak0
+\c[6]Lona：\c[0]    G-Gak... K-Kumohon jangan...! Aku mohon padamu-...!
+
+Lona/vag_taken_weak1
+\c[6]Lona：\c[0]    \{-IIIIIKKK!!!
+
+Lona/vag_taken_weak2
+\c[6]Lona：\c[0]    ...S-Sakit...! Lubangku s-sakit...
+
+Lona/vag_taken_weak3
+\c[6]Lona：\c[0]    Guaah... Aaahh! Itu merobekku-k... Uwaaah...!
+
+Lona/vag_taken_weak4
+\c[6]Lona：\c[0]    Ahhhhhh...! *Hiks*...
+
+#------------------###frist time on ANAL ###
+
+Lona/anal_taken_weak0
+\c[6]Lona：\c[0]    Gak! Gak gak gak gaaak...! Itu tempat-...
+
+Lona/anal_taken_weak1
+\c[6]Lona：\c[0]    \{-EEEEEEYAAAH!!! S-SAKIT!!!
+
+Lona/anal_taken_weak2
+\c[6]Lona：\c[0]    Tarik k-keluaaar! Aaah... Itu k-kotor...!
+
+Lona/anal_taken_weak3
+\c[6]Lona：\c[0]    Uwaaah!!! *Hiks* Lubang pantatku bakal rusak...!
+
+Lona/anal_taken_weak4
+\c[6]Lona：\c[0]    Kyaaaaaah!!!
+
+#------------------###出産 起始###done
+
+Lona/brith_begin_weak0
+\c[6]Lona：\c[0]    Bayinya k-keluar... Bayiku...
+
+Lona/brith_begin_weak1
+\c[6]Lona：\c[0]    IIIIIK!!! Tolong j-jangan nendang! Mama bakal jadi anak baik...!
+
+Lona/brith_begin_weak2
+\c[6]Lona：\c[0]    Aaahhh! Keluar k-keluar... Aaah!
+
+Lona/brith_begin_weak3
+\c[6]Lona：\c[0]    EEEYAAAAAAH!
+
+Lona/brith_begin_weak4
+\c[6]Lona：\c[0]    GUUUAAAGHHH!
+
+#-------------------          each frame or turn### 
+
+Lona/frame_weak0
+\c[6]Lona：\c[0]    Iiiiiip...
+
+Lona/frame_weak1
+\c[6]Lona：\c[0]    Uwuuuah... Nnnah..
+
+Lona/frame_weak2
+\c[6]Lona：\c[0]    Hinnnghhnnn... Nnnnah...
+
+Lona/frame_weak3
+\c[6]Lona：\c[0]    Haaah...
+
+Lona/frame_weak4
+\c[6]Lona：\c[0]    Haaahhh... Aaahhh...
+
+Lona/frame_weak5
+\c[6]Lona：\c[0]    Eeeyaaah...!
+
+Lona/frame_weak6
+\c[6]Lona：\c[0]    J-Jangan... Aaah...
+
+Lona/frame_weak7
+\c[6]Lona：\c[0]    T-Tolong berhenti... Aku t-takut sakit...
+
+Lona/frame_weak8
+\c[6]Lona：\c[0]    Hiiiiyaaah...!
+
+Lona/frame_weak9
+\c[6]Lona：\c[0]    ........
+
+Lona/frame_weak10
+\c[6]Lona：\c[0]    Unnnghnnn... Fuwaaahhh...
+
+#----------------------         --#when cuming
+
+Lona/cumming_weak0
+\c[6]Lona：\c[0]    Nnnyaaah!
+
+Lona/cumming_weak1
+\c[6]Lona：\c[0]    Gak gak gak...! J-Jangan...
+
+Lona/cumming_weak2
+\c[6]Lona：\c[0]    Huuuaaah!
+
+Lona/cumming_weak3
+\c[6]Lona：\c[0]    Uwuuyiaah... Aku k-k-keluar...!
+
+Lona/cumming_weak4
+\c[6]Lona：\c[0]    Haaah... Nnnighnnnahhh...
+
+Lona/cumming_weak5
+\c[6]Lona：\c[0]    Yiaaahh...!
+
+Lona/cumming_weak6
+\c[6]Lona：\c[0]    Berhentiii... Aaah...
+
+Lona/cumming_weak7
+\c[6]Lona：\c[0]    Oooohnnngh... Uwuuahhh...
+
+Lona/cumming_weak8
+\c[6]Lona：\c[0]    Ahhh....
+
+Lona/cumming_weak9
+\c[6]Lona：\c[0]    ........
+
+Lona/cumming_weak10
+\c[6]Lona：\c[0]    Fuwaaahhh... Haaahhh....
+
+Lona/Qmsg_cumming_weak0
+Nnnyaaah!
+
+Lona/Qmsg_cumming_weak1
+Gak gak gak...! J-Jangan...
+
+Lona/Qmsg_cumming_weak2
+Huuuaaah!
+
+Lona/Qmsg_cumming_weak3
+Uwuuyiaah... Aku k-k-keluar...!
+
+Lona/Qmsg_cumming_weak4
+Haaah... Nnnighnnnahhh...
+
+Lona/Qmsg_cumming_weak5
+Yiaaahh...!
+
+Lona/Qmsg_cumming_weak6
+Berhentiii... Aaah...
+
+Lona/Qmsg_cumming_weak7
+Oooohnnngh... Uwuuahhh...
+
+Lona/Qmsg_cumming_weak8
+Ahhh....
+
+Lona/Qmsg_cumming_weak9
+........
+
+Lona/Qmsg_cumming_weak10
+Fuwaaahhh... Haaahhh....
+
+#----------------------         --#when over cuming 
+
+Lona/over_cumming_weak0
+\c[6]Lona：\c[0]    Kkkeluarrr l-lagi!
+\{Aaah!
+
+Lona/over_cumming_weak1
+\c[6]Lona：\c[0]    \{Jangan... \} G-Gak bisa berhenti... Aaahh...
+
+Lona/over_cumming_weak2
+\c[6]Lona：\c[0]    Aku g-gak bisa berhenti... \{Ahhh!
+
+Lona/over_cumming_weak3
+\c[6]Lona：\c[0]    Huuyah... K-Kumohon... ampun... Aku gak mau keluar lagi...! \{KYAAAH!
+
+Lona/over_cumming_weak4
+\c[6]Lona：\c[0]    ...\{Iiiikkk!
+
+Lona/over_cumming_weak5
+\c[6]Lona：\c[0]    \{Yhhhguhhaaah!
+
+Lona/over_cumming_weak6
+\c[6]Lona：\c[0]    \{Guhyiaah! Iiiikkk...
+
+Lona/over_cumming_weak7
+\c[6]Lona：\c[0]    T-Tunggu... Tunggu sebenta-... \{Ahhh!
+
+Lona/over_cumming_weak8
+\c[6]Lona：\c[0]    \{Huuuwah!
+
+Lona/over_cumming_weak9
+\c[6]Lona：\c[0]    Iiiik... \{Kyaaah!
+
+Lona/over_cumming_weak10
+\c[6]Lona：\c[0]    Guuuwaaah... \{...Gak... G-... Gak lagi...!
+
+Lona/Qmsg_over_cumming_weak0
+Kkkeluarrr l-lagi! Aaah!
+
+Lona/Qmsg_over_cumming_weak1
+Jangan...G-Gak bisa berhenti... Aaahh...
+
+Lona/Qmsg_over_cumming_weak2
+Aku g-gak bisa berhenti...Ahhh!
+
+Lona/Qmsg_over_cumming_weak3
+Huuyah...Aku gak mau keluar lagi...!
+
+Lona/Qmsg_over_cumming_weak4
+...Iiiikkk!
+
+Lona/Qmsg_over_cumming_weak5
+Yhhhguhhaaah!
+
+Lona/Qmsg_over_cumming_weak6
+Guhyiaah! Iiiikkk...
+
+Lona/Qmsg_over_cumming_weak7
+T-Tunggu... Tunggu sebenta-... Ahhh!
+
+Lona/Qmsg_over_cumming_weak8
+Huuuwah!
+
+Lona/Qmsg_over_cumming_weak9
+Iiiik... Kyaaah!
+
+Lona/Qmsg_over_cumming_weak10
+Gak... G-... Gak lagi...!
+
+#-------------------------------#Brith weak
+
+Lona/brith_weak0
+\c[6]Lona：\c[0]    HNNNIGHNNN... K-KELUAR...!
+\{BAYINYA K-KELUAR!
+
+Lona/brith_weak1
+\c[6]Lona：\c[0]    \{IIIIIK!
+
+Lona/brith_weak2
+\c[6]Lona：\c[0]    \{HIIIYAAAAAAH!
+
+Lona/brith_weak3
+\c[6]Lona：\c[0]    \{K-KUMOHON...! AMPUUUN!
+
+Lona/brith_weak4
+\c[6]Lona：\c[0]    SAKIT! Mau sobek! \{SAKIIIT!
+
+Lona/brith_weak5
+\c[6]Lona：\c[0]    \{GYAAAHHH! S-Seseorang...! Tolong... aku!
+
+Lona/brith_weak6
+\c[6]Lona：\c[0]    Tolong aku! IIIIIKKK! Aku mohon! \{S-SSESEORANG TOLOOONG AKUUU!
+
+Lona/brith_weak7
+\c[6]Lona：\c[0]    EEEYAAAAH...! KYAAAAAAH...! \{HIGIIIAAAH!
+
+Lona/brith_weak8
+\c[6]Lona：\c[0]    \{NYAAAAAAHHH!
+
+Lona/brith_weak9
+\c[6]Lona：\c[0]    \{WUUU-uuuaaagh...!
+
+Lona/brith_weak10
+\c[6]Lona：\c[0]    Ahhh! *Hiks* \{Aaah...! Ahhh...!
+
+#-------------------------------------------------------------------
+################################################################slut####################################
+#--------             ---when Lona getting wet SLUT VER
+
+Lona/wet_slut0
+\c[6]Lona：\c[0]    Hihihi... M*mekku basah banget lagi nih...
+
+Lona/wet_slut1
+\c[6]Lona：\c[0]    Nnn... Hahhh... Aku butuh k*nt*l cowok di dalemku.
+♥
+
+Lona/wet_slut2
+\c[6]Lona：\c[0]    Ohhh... Basah kuyup di bawah sana.~
+
+Lona/wet_slut3
+\c[6]Lona：\c[0]    Aku g-gak tahan lagi! Aku butuh seseorang buat ent*t aku!!!~ ♥
+
+Lona/Qmsg_wet_slut0
+Hihihi... M*mekku basah banget lagi nih...
+
+Lona/Qmsg_wet_slut1
+Aku butuh k*nt*l cowok di dalemku.♥
+
+Lona/Qmsg_wet_slut2
+Ohhh... Basah kuyup di bawah sana.~
+
+Lona/Qmsg_wet_slut3
+Aku g-gak tahan lagi♥
+
+#---------------    -- when Lona getting grab SLUT MODE
+
+Lona/grab_slut0
+\c[6]Lona：\c[0]    Uh-oh! Lepasin aku!
+
+Lona/grab_slut1
+\c[6]Lona：\c[0]    Pergi sana!
+
+Lona/grab_slut2
+\c[6]Lona：\c[0]    Turunin aku!
+
+####frist time on###################### *DONE
+
+Lona/vag_taken_slut0
+\c[6]Lona：\c[0]    Iik! M-M*mekku...! R-Rusak!
+
+Lona/vag_taken_slut1
+\c[6]Lona：\c[0]    KYAAAH!!!~ ♥ Selaput daraku... robek!
+
+Lona/vag_taken_slut2
+\c[6]Lona：\c[0]    Guuuaaah! Darah! Aku ber-berdarah!
+
+Lona/vag_taken_slut3
+\c[6]Lona：\c[0]    Ahhhaaah!
+
+Lona/vag_taken_slut4
+\c[6]Lona：\c[0]    Nnniiinnngh! Nyaaah!~ ♥
+
+#------------------###frist time on ANAL ###done
+
+Lona/anal_taken_slut0
+\c[6]Lona：\c[0]    Lubang pantatku... bakal rusak...!
+
+Lona/anal_taken_slut1
+\c[6]Lona：\c[0]    Gak gak gaaak! Lubang itu gak seharusnya di-...!
+
+Lona/anal_taken_slut2
+\c[6]Lona：\c[0]    -KYAAAAAAH!!!~ ♥
+
+Lona/anal_taken_slut3
+\c[6]Lona：\c[0]    S-Sakiiit! Pantatku... R-Rusak...!
+
+Lona/anal_taken_slut4
+\c[6]Lona：\c[0]    Haaah! Ahhh!! AAAHHH!!!~ ♥
+
+#------------------###出産 起始###done
+
+Lona/brith_begin_slut0
+\c[6]Lona：\c[0]    Aaahhh...! Keluar! Bayi kecilku mau keluar!
+
+Lona/brith_begin_slut1
+\c[6]Lona：\c[0]    Uwuuu! Aku m-melahirkan...! Gaaahhh!
+
+Lona/brith_begin_slut2
+\c[6]Lona：\c[0]    Ampun! Ampun!
+
+Lona/brith_begin_slut3
+\c[6]Lona：\c[0]    Pelan-pelan! Lebih pelan! M*mekku bakal rusak!
+
+Lona/brith_begin_slut4
+\c[6]Lona：\c[0]    UUUWAAAAAAHHH!!!~ ♥
+
+#----------------------------------#SLUT--------done-----------------------------------------------
+
+Lona/frame_slut0
+\c[6]Lona：\c[0]    Ah! ♥ Aaahhh! ♥
+
+Lona/frame_slut1
+\c[6]Lona：\c[0]    Hah! ♥ Nnnnnn... Ahhh! ♥
+
+Lona/frame_slut2
+\c[6]Lona：\c[0]    Iik! ♥ Nyaaah! ♥
+
+Lona/frame_slut3
+\c[6]Lona：\c[0]    Haaah!~ ♥ L-Lagi! ♥ J-Jangan... Jangan berhenti!~ ♥
+
+Lona/frame_slut4
+\c[6]Lona：\c[0]    Ahhh! ♥ Ahhhgh! ♥
+
+Lona/frame_slut5
+\c[6]Lona：\c[0]    Haaah! ♥ Nyaaah!~ ♥
+
+Lona/frame_slut6
+\c[6]Lona：\c[0]    Uhnngh! Nnn... Aaah! ♥ Ahhh... Ahhh! ♥
+
+Lona/frame_slut7
+\c[6]Lona：\c[0]    Lebih keras! ♥ E-Ent*t aku lebih keras! ♥
+
+Lona/frame_slut8
+\c[6]Lona：\c[0]    Dalem banget! ♥ Kyaaah!~ ♥
+
+Lona/frame_slut9
+\c[6]Lona：\c[0]    Enak banget!~ ♥ Rasanya u-uuhh enaak bangeeet!~ ♥
+
+Lona/frame_slut10
+\c[6]Lona：\c[0]    Aaaah! ♥ Haaahhh! ♥ Nyaaah!~ ♥
+
+#----------------------         --#when cuming
+
+Lona/cumming_slut0
+\c[6]Lona：\c[0]    Kyaaah!~ ♥  Kel... Keluar!~ ♥
+
+Lona/cumming_slut1
+\c[6]Lona：\c[0]    Keluar! ♥ AKU KELUUUAAARRR!!!~ ♥
+
+Lona/cumming_slut2
+\c[6]Lona：\c[0]    Ahhhhhh!~ ♥
+
+Lona/cumming_slut3
+\c[6]Lona：\c[0]    Nnooohhh! ♥ Keluar! ♥ Kkkeeluuuarrr!~ ♥
+
+Lona/cumming_slut4
+\c[6]Lona：\c[0]    Hhngh! ♥ Rrrasanya eenak!~ ♥ Eeeyaaah!~ ♥
+
+Lona/cumming_slut5
+\c[6]Lona：\c[0]    Eheeeh! K-Kkeluaaar lagiii!!!~ ♥
+
+Lona/cumming_slut6
+\c[6]Lona：\c[0]    Enak bangeeet! ♥ Rrrasanya u-uuuh enaak bangeeet!!!~ ♥
+
+Lona/cumming_slut7
+\c[6]Lona：\c[0]    Annngh! ♥ Hhhngh! ♥
+
+Lona/cumming_slut8
+\c[6]Lona：\c[0]    Ooohhhhhh!~ ♥
+
+Lona/cumming_slut9
+\c[6]Lona：\c[0]    Uuuwuuunnngh! ♥ Nnnnn! Haaah!~ ♥
+
+Lona/cumming_slut10
+\c[6]Lona：\c[0]    Aaahh! ♥ M-M*mekku rasanya enak bangeeet...~ ♥
+
+Lona/Qmsg_cumming_slut0
+Kyaaah!~ ♥  Kel... Keluar!~ ♥
+
+Lona/Qmsg_cumming_slut1
+Keluar! ♥ AKU KELUUUAAARRR!!!~ ♥
+
+Lona/Qmsg_cumming_slut2
+Ahhhhhh!~ ♥
+
+Lona/Qmsg_cumming_slut3
+Nnooohhh! ♥ Keluar! ♥ Kkkeeluuuarrr!~ ♥
+
+Lona/Qmsg_cumming_slut4
+Hhngh! ♥ Rrrasanya eenak!~ ♥ Eeeyaaah!~ ♥
+
+Lona/Qmsg_cumming_slut5
+Eheeeh! K-Kkeluaaar lagiii!!!~ ♥
+
+Lona/Qmsg_cumming_slut6
+Enak bangeeet! ♥ Rrrasanya u-uuuh enaak bangeeet!!!~ ♥
+
+Lona/Qmsg_cumming_slut7
+Annngh! ♥ Hhhngh! ♥
+
+Lona/Qmsg_cumming_slut8
+Ooohhhhhh!~ ♥
+
+Lona/Qmsg_cumming_slut9
+Uuuwuuunnngh! ♥ Nnnnn! Haaah!~ ♥
+
+Lona/Qmsg_cumming_slut10
+Aaahh! ♥ M-M*mekku rasanya enak bangeeet...~ ♥
+
+#----------------------         --#when over cuming
+
+Lona/over_cumming_slut0
+\c[6]Lona：\c[0]    KELUAAARRR! ♥ \{KELUAR KENCENG BANGEEET!~ ♥
+
+Lona/over_cumming_slut1
+\c[6]Lona：\c[0]    EEYAAAH!~ ♥ ENAK BANGET! ♥ \{G-GAK BISA BERHENTI KELUAR!~ ♥
+
+Lona/over_cumming_slut2
+\c[6]Lona：\c[0]    AKU GAK BISA BERHENTI! ♥ GAK BISA BERHENTI KELUUUAAARRR! ♥ \{YIIIAAAHHH!~ ♥
+
+Lona/over_cumming_slut3
+\c[6]Lona：\c[0]    M-MASIH KELUAR! ♥ K-KELUUUAAAR LAGIII! ♥ \{AHHH!~ ♥
+
+Lona/over_cumming_slut4
+\c[6]Lona：\c[0]    ENAAAK BANGEEET! ♥\n \{LAGI! ENT*T AKU LAGI!~ ♥♥♥
+
+Lona/over_cumming_slut5
+\c[6]Lona：\c[0]    IIIP! ♥ HHHNNNGH! ♥ \{O-OTAKKU MELELEH!~ ♥
+
+Lona/over_cumming_slut6
+\c[6]Lona：\c[0]    KYAAAH!~ ♥ \{HHHNNNGH!~ ♥
+
+Lona/over_cumming_slut7
+\c[6]Lona：\c[0]    KELUAR! ♥ KELUUUAAARRR! ♥ \{OOOHHHHHH!!!~
+
+Lona/over_cumming_slut8
+\c[6]Lona：\c[0]    MELELEH!~ ♥ \{TUBUHKU MELELEEEEHHH!!!~ ♥
+
+Lona/over_cumming_slut9
+\c[6]Lona：\c[0]    S-Santo... ♥ A-Aku liihat kamu... ♥ Aaahaaahhh...~ ♥
+
+Lona/Qmsg_over_cumming_slut0
+KELUAR KENCENG BANGEEET!~ ♥
+
+Lona/Qmsg_over_cumming_slut1
+G-GAK BISA BERHENTI KELUAR!~ ♥
+
+Lona/Qmsg_over_cumming_slut2
+AKU GAK BISA BERHENTI! YIIIAAAHHH!~ ♥
+
+Lona/Qmsg_over_cumming_slut3
+K-KELUUUAAAR LAGIII! ♥ AHHH!~ ♥
+
+Lona/Qmsg_over_cumming_slut4
+LAGI! ENT*T AKU LAGI!~ ♥♥♥
+
+Lona/Qmsg_over_cumming_slut5
+O-OTAKKU MELELEH!~ ♥
+
+Lona/Qmsg_over_cumming_slut6
+KYAAAH!~ ♥ HHHNNNGH!~ ♥
+
+Lona/Qmsg_over_cumming_slut7
+KELUUUAAARRR! ♥ OOOHHHHHH!!!~
+
+Lona/Qmsg_over_cumming_slut8
+TUBUHKU MELELEEEEHHH!!!~ ♥
+
+Lona/Qmsg_over_cumming_slut9
+Aaahaaahhh...~ ♥
+
+#-------------------------------#Brith slut
+
+Lona/brith_slut0
+\c[6]Lona：\c[0]    \{Bayi! BAYIKU KELUUUAAARRR!
+
+Lona/brith_slut1
+\c[6]Lona：\c[0]    UWAAAHHH! \{P-PECAAAH!
+
+Lona/brith_slut2
+\c[6]Lona：\c[0]    P-... Pelan-pelan sedikit! Hei! B-Berhenti nendang! \{AHHH!
+
+Lona/brith_slut3
+\c[6]Lona：\c[0]    Eeeeaaah! \{NNNAAAAGH!
+
+Lona/brith_slut4
+\c[6]Lona：\c[0]    Sakit! Sakiiit! \{T-TOLONG AKU!
+
+Lona/brith_slut5
+\c[6]Lona：\c[0]    Ahhh! \{S... SESEORANG TOLONG AKUUU!
+
+Lona/brith_slut6
+\c[6]Lona：\c[0]    K-KELUAR! Aaa-...\{-EEEAAAH!
+
+Lona/brith_slut7
+\c[6]Lona：\c[0]    \{EEEIIIYAAAAAAH!
+
+Lona/brith_slut8
+\c[6]Lona：\c[0]    \{UWAUUUAAAGHHH!
+
+Lona/brith_slut9
+\c[6]Lona：\c[0]    Nnnighnnn-aaahhh! \{AAAHHH!
+
+Lona/brith_slut10
+\c[6]Lona：\c[0]    T-TUNGGU... SEBENTAR...! \{TOLONG BERHENTIII...!
+
+#-----------------------------------when mouth got something-----done---------------------------------------------
+#------------------------------------------wet--------------------------------------------------
+
+Lona/wet_mouth_block0
+\c[6]Lona：\c[0]    Whhhnnn... Nnnmmminph...
+
+Lona/wet_mouth_block1
+\c[6]Lona：\c[0]    Nnnuwhhh...
+
+Lona/wet_mouth_block2
+\c[6]Lona：\c[0]    Mmmnnnph... Nnnmmmnnnph...
+
+Lona/wet_mouth_block3
+\c[6]Lona：\c[0]    Aaaawuuuph... Wuunnnmmmph...
+
+Lona/Qmsg_wet_mouth_block0
+Whhhnnn... Nnnmmminph...
+
+Lona/Qmsg_wet_mouth_block1
+Nnnuwhhh...
+
+Lona/Qmsg_wet_mouth_block2
+Mmmnnnph... Nnnmmmnnnph...
+
+Lona/Qmsg_wet_mouth_block3
+Aaaawuuuph... Wuunnnmmmph...
+
+#---------------    -- GRAB MOUTh BLOCK
+
+Lona/grab_mouth_block0
+\c[6]Lona：\c[0]    Mmmmmm!
+MMMNNNPH!!!
+
+Lona/grab_mouth_block1
+\c[6]Lona：\c[0]    Nnnnmmmph!
+
+Lona/grab_mouth_block2
+\c[6]Lona：\c[0]    Aaahnnnmmmph! NNNMMMPH!!!
+
+####frist time on VAG###################### *DONE
+
+Lona/vag_taken_mouth_block0
+\c[6]Lona：\c[0]    Aawmmmph! Wuuyirrmmph!
+
+Lona/vag_taken_mouth_block1
+\c[6]Lona：\c[0]    Mmmnnnph! Wuuyirrmmph!
+
+Lona/vag_taken_mouth_block2
+\c[6]Lona：\c[0]    MMMMNNNPHHH!! Nnyirrhhwuu!
+
+Lona/vag_taken_mouth_block3
+\c[6]Lona：\c[0]    Hnngnn! Mmmnph! Mmmnnnppphhh!
+
+Lona/vag_taken_mouth_block4
+\c[6]Lona：\c[0]    Nnnmmmphhh!
+
+####frist time on ANAL###################### *DONE
+
+Lona/anal_taken_mouth_block0
+\c[6]Lona：\c[0]    Aaahwuuu... Mmmguhnnnph!
+
+Lona/anal_taken_mouth_block1
+\c[6]Lona：\c[0]    NYAAAHHHH! Nnrrynnph! Rrrrnnnph!
+
+Lona/anal_taken_mouth_block2
+\c[6]Lona：\c[0]    Nyrrrh! Wuuurrrmph!
+
+Lona/anal_taken_mouth_block3
+\c[6]Lona：\c[0]    Nnnahhh! Whnnrrrmph!
+
+Lona/anal_taken_mouth_block4
+\c[6]Lona：\c[0]    Mmmuuuguhmmmph!
+
+#------------------###出産 起始###done
+
+Lona/brith_begin_mouth_block0
+\c[6]Lona：\c[0]    MMMNNNPH!
+
+Lona/brith_begin_mouth_block1
+\c[6]Lona：\c[0]    GUWUUUNNN! HNNGHPH!
+
+Lona/brith_begin_mouth_block2
+\c[6]Lona：\c[0]    Guhwuurrhmmmph!
+
+Lona/brith_begin_mouth_block3
+\c[6]Lona：\c[0]    Hnguuhwwwrrrhhh!
+
+Lona/brith_begin_mouth_block4
+\c[6]Lona：\c[0]    YIIIIAAAMMMPH!!!
+
+#-----------------------COMMON FRAME
+
+Lona/frame_mouth_block0
+\c[6]Lona：\c[0]    Mmmuguuhmph... Wuuahaaa...
+
+Lona/frame_mouth_block1
+\c[6]Lona：\c[0]    Wuuyirrhnnnigh... Wuuummmph...
+
+Lona/frame_mouth_block2
+\c[6]Lona：\c[0]    Mmmnnguhph! Aaaannnmmmph!
+
+Lona/frame_mouth_block3
+\c[6]Lona：\c[0]    Nnwhnnnph!
+
+Lona/frame_mouth_block4
+\c[6]Lona：\c[0]    Guh-Wuummph! Hngnnuguuuh!
+
+Lona/frame_mouth_block5
+\c[6]Lona：\c[0]    Aaawuuuh! Wuuaahh...
+
+Lona/frame_mouth_block6
+\c[6]Lona：\c[0]    Guhnnmmph... Whuunnmph!
+
+Lona/frame_mouth_block7
+\c[6]Lona：\c[0]    Guhaaahhh...
+
+Lona/frame_mouth_block8
+\c[6]Lona：\c[0]    Nnwuuuaa! Hnnghnnph!
+
+Lona/frame_mouth_block9
+\c[6]Lona：\c[0]    Guhluuummph... Wuuuaahhh...
+
+Lona/frame_mouth_block10
+\c[6]Lona：\c[0]    Nnnnn... Huhnnnmph...
+
+#-----------------------CUMMING
+
+Lona/cumming_mouth_block0
+\c[6]Lona：\c[0]    Huiiighnnnph!
+
+Lona/cumming_mouth_block1
+\c[6]Lona：\c[0]    Wuuaaah! Nnn-Wuuaahhh!
+
+Lona/cumming_mouth_block2
+\c[6]Lona：\c[0]    Nnnhuugh! Wuuaahhhmmmph!
+
+Lona/cumming_mouth_block3
+\c[6]Lona：\c[0]    Whnnnghnnn!!!
+
+Lona/cumming_mouth_block4
+\c[6]Lona：\c[0]    Wuuhahh! Mmmnnnph!
+
+Lona/cumming_mouth_block5
+\c[6]Lona：\c[0]    Aaahhhwuuh! Nnnwuughah!
+
+Lona/cumming_mouth_block6
+\c[6]Lona：\c[0]    Guhmmmuunngh! Wuuhaaah!
+
+Lona/cumming_mouth_block7
+\c[6]Lona：\c[0]    Huaahnngh! Kkkiiinnnmmmph!
+
+Lona/cumming_mouth_block8
+\c[6]Lona：\c[0]    Wuuhnnngh! Whnnnph!
+
+Lona/cumming_mouth_block9
+\c[6]Lona：\c[0]    Nnnwuuuhaaah! Mmmnnnghaaah!
+
+Lona/cumming_mouth_block10
+\c[6]Lona：\c[0]    Nnnighnnn... Highuuugh...!
+
+Lona/Qmsg_cumming_mouth_block0
+Huiiighnnnph!
+
+Lona/Qmsg_cumming_mouth_block1
+Wuuaaah! Nnn-Wuuaahhh!
+
+Lona/Qmsg_cumming_mouth_block2
+Nnnhuugh! Wuuaahhhmmmph!
+
+Lona/Qmsg_cumming_mouth_block3
+Whnnnghnnn!!!
+
+Lona/Qmsg_cumming_mouth_block4
+Wuuhahh! Mmmnnnph!
+
+Lona/Qmsg_cumming_mouth_block5
+Aaahhhwuuh! Nnnwuughah!
+
+Lona/Qmsg_cumming_mouth_block6
+Guhmmmuunngh! Wuuhaaah!
+
+Lona/Qmsg_cumming_mouth_block7
+Huaahnngh! Kkkiiinnnmmmph!
+
+Lona/Qmsg_cumming_mouth_block8
+Wuuhnnngh! Whnnnph!
+
+Lona/Qmsg_cumming_mouth_block9
+Nnnwuuuhaaah! Mmmnnnghaaah!
+
+Lona/Qmsg_cumming_mouth_block10
+Nnnighnnn... Highuuugh...!
+
+#-----------------------OVER CUMMING!!
+
+Lona/over_cumming_mouth_block0
+\c[6]Lona：\c[0]    \{Huhnnngh!
+
+Lona/over_cumming_mouth_block1
+\c[6]Lona：\c[0]    Wuu-aah! \{NNNWUAAAMMMPH!
+
+Lona/over_cumming_mouth_block2
+\c[6]Lona：\c[0]    NNHUAH! \{MMMGUHMMMPH!
+
+Lona/over_cumming_mouth_block3
+\c[6]Lona：\c[0]    \{UWUUUNNNMPH!!!
+
+Lona/over_cumming_mouth_block4
+\c[6]Lona：\c[0]    \{WUUGUNNNMMM! GUHMMMNNNPH!
+
+Lona/over_cumming_mouth_block5
+\c[6]Lona：\c[0]    AAHHHWUHHHMMMPH! \{NNNWUHHHAHH!
+
+Lona/over_cumming_mouth_block6
+\c[6]Lona：\c[0]    Guhwuuuhhh! \{MMMGUUUNNNPH!
+
+Lona/over_cumming_mouth_block7
+\c[6]Lona：\c[0]    Huaahnnn! \{GEEYIIIMMPH!
+
+Lona/over_cumming_mouth_block8
+\c[6]Lona：\c[0]    Wuuhnnghnn! \{Whnnnighnnn!
+
+Lona/over_cumming_mouth_block9
+\c[6]Lona：\c[0]    Nnwuuhaaah! \{Mmmmguhhhph!
+
+Lona/over_cumming_mouth_block10
+\c[6]Lona：\c[0]    Nnnmmmph... \{Huuwaaah...
+
+Lona/Qmsg_over_cumming_mouth_block0
+Huhnnngh!
+
+Lona/Qmsg_over_cumming_mouth_block1
+Wuu-aah! NNNWUAAAMMMPH!
+
+Lona/Qmsg_over_cumming_mouth_block2
+NNHUAH! MMMGUHMMMPH!
+
+Lona/Qmsg_over_cumming_mouth_block3
+UWUUUNNNMPH!!!
+
+Lona/Qmsg_over_cumming_mouth_block4
+WUUGUNNNMMM! GUHMMMNNNPH!
+
+Lona/Qmsg_over_cumming_mouth_block5
+AAHHHWUHHHMMMPH! NNNWUHHHAHH!
+
+Lona/Qmsg_over_cumming_mouth_block6
+Guhwuuuhhh! MMMGUUUNNNPH!
+
+Lona/Qmsg_over_cumming_mouth_block7
+Huaahnnn! GEEYIIIMMPH!
+
+Lona/Qmsg_over_cumming_mouth_block8
+Wuuhnnghnn! Whnnnighnnn!
+
+Lona/Qmsg_over_cumming_mouth_block9
+Nnwuuhaaah! Mmmmguhhhph!
+
+Lona/Qmsg_over_cumming_mouth_block10
+Nnnmmmph... Huuwaaah...
+
+#-------------------------------#Brith mouth_block
+
+Lona/brith_mouth_block0
+\c[6]Lona：\c[0]    \{Huhnnnmmmph!
+
+Lona/brith_mouth_block1
+\c[6]Lona：\c[0]    Wuuugaaah! \{Nnnuughahh!
+
+Lona/brith_mouth_block2
+\c[6]Lona：\c[0]    Nnnghuuu! \{Wuu-NNNIGHHNNMMPH!!!
+
+Lona/brith_mouth_block3
+\c[6]Lona：\c[0]    \{WHNNGHNNN!!!
+
+Lona/brith_mouth_block4
+\c[6]Lona：\c[0]    \{MMMGUHMMMPH! NNNWUHHHAHH!
+
+Lona/brith_mouth_block5
+\c[6]Lona：\c[0]    AAANNNGUHMMPH! \{NNNYAAAAAAH!
+
+Lona/brith_mouth_block6
+\c[6]Lona：\c[0]    GUHMMMNNNPH! \{WUUGUNNNMMM!
+
+Lona/brith_mouth_block7
+\c[6]Lona：\c[0]    HUUWAAAH! \{KKKINNNMMMPH!
+
+Lona/brith_mouth_block8
+\c[6]Lona：\c[0]    Mmmnnnph! \{HNNGHNN!
+
+Lona/brith_mouth_block9
+\c[6]Lona：\c[0]    Nnn-Wuu... Aaahh! \{Nnnyiaaahh!
+
+Lona/brith_mouth_block10
+\c[6]Lona：\c[0]    NnNnWuu... \{HNNGHMMMPH!
+
+#----------------------------WHEN overfatigue--------- done----------------------------------------
+#------------------------------------------wet--------------------------------------------------
+
+Lona/wet_overfatigue0
+\c[6]Lona：\c[0]    Nnnighnnn... Kakiku...
+
+Lona/wet_overfatigue1
+\c[6]Lona：\c[0]    ......
+
+Lona/wet_overfatigue2
+\c[6]Lona：\c[0]    Aaahhh... Haaah...
+
+Lona/wet_overfatigue3
+\c[6]Lona：\c[0]    Aaauwuugh...
+
+Lona/Qmsg_wet_overfatigue0
+Nnnighnnn... Kakiku...
+
+Lona/Qmsg_wet_overfatigue1
+......
+
+Lona/Qmsg_wet_overfatigue2
+Aaahhh... Haaah...
+
+Lona/Qmsg_wet_overfatigue3
+Aaauwuugh...
+
+#---------------    -- GRAB MOUTh BLOCK
+
+Lona/grab_overfatigue0
+\c[6]Lona：\c[0]    Guaah...
+
+Lona/grab_overfatigue1
+\c[6]Lona：\c[0]    Mmmnnph...
+
+Lona/grab_overfatigue2
+\c[6]Lona：\c[0]    Nnnighnnn...
+
+####frist time on VAG###################### *DONE
+
+Lona/vag_taken_overfatigue0
+\c[6]Lona：\c[0]    ...
+
+Lona/vag_taken_overfatigue1
+\c[6]Lona：\c[0]    ......Aww!
+
+Lona/vag_taken_overfatigue2
+\c[6]Lona：\c[0]    KYAAAH... A-Aku r-rusak...
+
+Lona/vag_taken_overfatigue3
+\c[6]Lona：\c[0]    Aaahhh... S-Sakiiit...
+
+Lona/vag_taken_overfatigue4
+\c[6]Lona：\c[0]    Ughaaah... Aaahhh...
+
+####frist time on ANAL###################### *DONE
+
+Lona/anal_taken_overfatigue0
+\c[6]Lona：\c[0]    ...
+
+Lona/anal_taken_overfatigue1
+\c[6]Lona：\c[0]    ... G-Gak...
+
+Lona/anal_taken_overfatigue2
+\c[6]Lona：\c[0]    Nnnughnn...! L-Lubangku... bakal... r-rusak-...
+
+Lona/anal_taken_overfatigue3
+\c[6]Lona：\c[0]    -G-GAAAH-Aaahhh... I... Itu s-sakiiit... J-Jangan...
+
+Lona/anal_taken_overfatigue4
+\c[6]Lona：\c[0]    Eeeyaaah...! Ahhh......
+
+#------------------###出産 起始###done
+
+Lona/brith_begin_overfatigue0
+\c[6]Lona：\c[0]    Ughhhnnn... Sakit... Bayinya... mau keluar...
+
+Lona/brith_begin_overfatigue1
+\c[6]Lona：\c[0]    Gak... k-kuat lagi...
+
+Lona/brith_begin_overfatigue2
+\c[6]Lona：\c[0]    GUHIIIyyyaaah...!
+
+Lona/brith_begin_overfatigue3
+\c[6]Lona：\c[0]    M-Mama gak punya tenaga...
+
+Lona/brith_begin_overfatigue4
+\c[6]Lona：\c[0]    Hnnighnnaaah....
+
+#-------------------------------frame
+
+Lona/frame_overfatigue0
+\c[6]Lona：\c[0]    Ughnnn.. Haaah... Ahhh....
+
+Lona/frame_overfatigue1
+\c[6]Lona：\c[0]    Ahhh... A-Ampuni aku...
+
+Lona/frame_overfatigue2
+\c[6]Lona：\c[0]    Tolong... B-Biarkan aku... istirahat...
+
+Lona/frame_overfatigue3
+\c[6]Lona：\c[0]    Biarkan aku napas... K-Kumohon... Nnnighnnn...
+
+Lona/frame_overfatigue4
+\c[6]Lona：\c[0]    Guuahhh! Kyaaah...!
+
+Lona/frame_overfatigue5
+\c[6]Lona：\c[0]    Nnnighnnn... Lepasin aku... Kumohon...
+
+Lona/frame_overfatigue6
+\c[6]Lona：\c[0]    Tolong b-berhenti... Mnnnighnnn....
+
+Lona/frame_overfatigue7
+\c[6]Lona：\c[0]    *Hah*... *Hah*...
+
+Lona/frame_overfatigue8
+\c[6]Lona：\c[0]    Nnnn... Aaah...
+
+Lona/frame_overfatigue9
+\c[6]Lona：\c[0]    Wuunnighn... Uwuuahhh...
+
+Lona/frame_overfatigue10
+\c[6]Lona：\c[0]    ...... *Hah* Aahh...
+
+#-----------------------------CUMING
+
+Lona/cumming_overfatigue0
+\c[6]Lona：\c[0]    Guuughnn... K-Keluar...
+
+Lona/cumming_overfatigue1
+\c[6]Lona：\c[0]    Mnnnighnnn... Wuunnighn...
+
+Lona/cumming_overfatigue2
+\c[6]Lona：\c[0]    Keluar... Aku k-keluaaar...
+
+Lona/cumming_overfatigue3
+\c[6]Lona：\c[0]    ... Wuunnighn...
+
+Lona/cumming_overfatigue4
+\c[6]Lona：\c[0]    Haaah... Eee... Ahhh-aaah...
+
+Lona/cumming_overfatigue5
+\c[6]Lona：\c[0]    B-Bberhentiii... Nggaaak... Aaah...
+
+Lona/cumming_overfatigue6
+\c[6]Lona：\c[0]    ......
+
+Lona/cumming_overfatigue7
+\c[6]Lona：\c[0]    Huwaaah...
+
+Lona/cumming_overfatigue8
+\c[6]Lona：\c[0]    Yiahhh...
+
+Lona/cumming_overfatigue9
+\c[6]Lona：\c[0]    Mmmughnn...
+
+Lona/cumming_overfatigue10
+\c[6]Lona：\c[0]    ... Nnnighnnn...
+
+Lona/Qmsg_cumming_overfatigue0
+Guuughnn... K-Keluar...
+
+Lona/Qmsg_cumming_overfatigue1
+Mnnnighnnn... Wuunnighn...
+
+Lona/Qmsg_cumming_overfatigue2
+Keluar... Aku k-keluaaar...
+
+Lona/Qmsg_cumming_overfatigue3
+... Wuunnighn...
+
+Lona/Qmsg_cumming_overfatigue4
+Haaah... Eee... Ahhh-aaah...
+
+Lona/Qmsg_cumming_overfatigue5
+B-Bberhentiii... Nggaaak... Aaah...
+
+Lona/Qmsg_cumming_overfatigue6
+......
+
+Lona/Qmsg_cumming_overfatigue7
+Huwaaah...
+
+Lona/Qmsg_cumming_overfatigue8
+Yiahhh...
+
+Lona/Qmsg_cumming_overfatigue9
+Mmmughnn...
+
+Lona/Qmsg_cumming_overfatigue10
+... Nnnighnnn...
+
+#-----------------------------OVERCUMING
+
+Lona/over_cumming_overfatigue0
+\c[6]Lona：\c[0]    \{Wuunnighn... Keluar... K-Keluar lagi...
+
+Lona/over_cumming_overfatigue1
+\c[6]Lona：\c[0]    \{Yiaiy... WuuAa...
+
+Lona/over_cumming_overfatigue2
+\c[6]Lona：\c[0]    \{Keluar... ah, keluar...
+
+Lona/over_cumming_overfatigue3
+\c[6]Lona：\c[0]    \{... Huyiaaah...
+
+Lona/over_cumming_overfatigue4
+\c[6]Lona：\c[0]    \{Haaah... Hnnghn... Ahhh-aaah...
+
+Lona/over_cumming_overfatigue5
+\c[6]Lona：\c[0]    \{Berhenti... G-Gak mau ber-hentiii...
+
+Lona/over_cumming_overfatigue6
+\c[6]Lona：\c[0]    \{...
+
+Lona/over_cumming_overfatigue7
+\c[6]Lona：\c[0]    \{Huahhhyaah....
+
+Lona/over_cumming_overfatigue8
+\c[6]Lona：\c[0]    \{Kyaaah...
+
+Lona/over_cumming_overfatigue9
+\c[6]Lona：\c[0]    \{Wuunnnughnnn....
+
+Lona/over_cumming_overfatigue10
+\c[6]Lona：\c[0]    \{... Nnnighnnn...
+
+Lona/Qmsg_over_cumming_overfatigue0
+Wuunnighn... K-Keluar lagi...
+
+Lona/Qmsg_over_cumming_overfatigue1
+Yiaiy... WuuAa...
+
+Lona/Qmsg_over_cumming_overfatigue2
+Keluar... ah, keluar...
+
+Lona/Qmsg_over_cumming_overfatigue3
+... Huyiaaah...
+
+Lona/Qmsg_over_cumming_overfatigue4
+Haaah... Hnnghn... Ahhh-aaah...
+
+Lona/Qmsg_over_cumming_overfatigue5
+Berhenti... G-Gak mau ber-hentiii...
+
+Lona/Qmsg_over_cumming_overfatigue6
+...
+
+Lona/Qmsg_over_cumming_overfatigue7
+Huahhhyaah....
+
+Lona/Qmsg_over_cumming_overfatigue8
+Kyaaah...
+
+Lona/Qmsg_over_cumming_overfatigue9
+Wuunnnughnnn....
+
+Lona/Qmsg_over_cumming_overfatigue10
+... Nnnighnnn...
+
+#-------------------------------#Brith overfatigue
+
+Lona/brith_overfatigue0
+\c[6]Lona：\c[0]    Nnnighnnn... \{A-AHHH!
+
+Lona/brith_overfatigue1
+\c[6]Lona：\c[0]    \{B-BERHENTI... T... TIDAK!
+
+Lona/brith_overfatigue2
+\c[6]Lona：\c[0]    GAK... L-LAGI! \{AKU GAK... KUAT LAGI...!
+
+Lona/brith_overfatigue3
+\c[6]Lona：\c[0]    Maafkan aku... M-MAAFKAN \{AAAKUUU!!!
+
+Lona/brith_overfatigue4
+\c[6]Lona：\c[0]    GAAAHHH...! \{HAAAHHH!
+
+Lona/brith_overfatigue5
+\c[6]Lona：\c[0]    B-Berhen-tiii...! \{Jangan... Sekarang...!
+
+Lona/brith_overfatigue6
+\c[6]Lona：\c[0]    EEEYYY- \{GAAAHHH!
+
+Lona/brith_overfatigue7
+\c[6]Lona：\c[0]    Rusak...! Aku r-rusak! \{EYAAAHHH!
+
+Lona/brith_overfatigue8
+\c[6]Lona：\c[0]    WUUUAHHH! \{KYAAAHHH!
+
+Lona/brith_overfatigue9
+\c[6]Lona：\c[0]    NNNIGHNNNGAAAH! \{FUUUWUUUAHHH!
+
+Lona/brith_overfatigue10
+\c[6]Lona：\c[0]    Hnnnghnnn...! \{KYAAAHHH...!
+
+#######################################################################COMMON H OTHERS ###################################################################
+#------------------------------BEATEN
+
+Lona/beaten0
+\c[6]Lona：\c[0]    \{Ahhhhhh!
+
+Lona/beaten1
+\c[6]Lona：\c[0]    \{Guuuhaaagh!
+
+Lona/beaten2
+\c[6]Lona：\c[0]    Iiiiiik! Kyaaah!! \{EEYAAAAAAHHH!!!
+
+Lona/beaten3
+\c[6]Lona：\c[0]    \{Gyaaah!
+
+Lona/beaten3
+\c[6]Lona：\c[0]    \{Kyaaahhh!
+
+Lona/beaten4
+\c[6]Lona：\c[0]    \{Uuuwaaahhh!
+
+Lona/beaten5
+\c[6]Lona：\c[0]    \{Uwuuahhh!
+
+Lona/beaten6
+\c[6]Lona：\c[0]    \{Nnnghnnn!
+
+Lona/beaten7
+\c[6]Lona：\c[0]    \{GAAAHHH!
+
+Lona/beaten8
+\c[6]Lona：\c[0]    \{Hnnnighnn!
+
+Lona/beaten9
+\c[6]Lona：\c[0]    \{Eeyaaah!
+
+Lona/beaten10
+\c[6]Lona：\c[0]    \{Fuuuguwaah!
+
+Lona/Qmsg_beaten0
+Ahhhhhh!
+
+Lona/Qmsg_beaten1
+Guuuhaaagh!
+
+Lona/Qmsg_beaten2
+Iiiiiik! Kyaaah!! EEYAAAAAAHHH!!!
+
+Lona/Qmsg_beaten3
+Gyaaah!
+
+Lona/Qmsg_beaten3
+Kyaaahhh!
+
+Lona/Qmsg_beaten4
+Uuuwaaahhh!
+
+Lona/Qmsg_beaten5
+Uwuuahhh!
+
+Lona/Qmsg_beaten6
+Nnnghnnn!
+
+Lona/Qmsg_beaten7
+GAAAHHH!
+
+Lona/Qmsg_beaten8
+Hnnnighnn!
+
+Lona/Qmsg_beaten9
+Eeyaaah!
+
+Lona/Qmsg_beaten10
+Fuuuguwaah!
+
+#-------------------Standard plugging
+
+Lona/EventVag_begin
+Penis itu berkedut keras di dalam m*mek Lona dan mulai ejakulasi.
+
+Lona/EventAnal_begin
+K*nt*l itu berkedut keras di dalam pantat Lona dan mulai ejakulasi.
+
+Lona/EventMouth_begin
+Batang itu berkedut keras di dalam mulut Lona dan mulai ejakulasi.
+
+Lona/EventFapper_begin
+Mereka berdiri di sebelah Lona sambil mengocok k*nt*l mereka dan mengerang mesum. Penis itu diarahkan ke Lona, dengan niat untuk muncrat padanya.
+
+#-------------------高潮前尾形容
+
+Lona/orgasm_begin
+!!!!!!
+
+Lona/orgasm_end
+......
+
+Lona/over_orgasm_begin
+!!!!!!!!!!!!
+
+Lona/over_orgasm_end
+.........
+
+#--------------------處女起始 初次體驗
+
+Lona/FristKiss_begin
+Rasa tidak nyaman memenuhi mulut mungil Lona.
+
+Lona/FristKiss_end
+Lona kehilangan ciuman pertamanya.
+
+Lona/VirginTaken_begin
+Selaput dara Lona robek.\n Rasa sakit yang tajam dan merobek memenuhi seluruh lubang Lona.
+
+Lona/VirginTaken_end
+Lona kehilangan kesuciannya.
+
+Lona/AnalTaken_begin
+Benda asing itu menerobos masuk ke anus Lona untuk pertama kalinya.\n Rasa sakit merobek memenuhi tubuh bagian bawah Lona.
+
+Lona/AnalTaken_end
+Pengalaman pertama Lona dengan anusnya telah diambil.
+
+#-------------------噴乳前尾形容
+
+Lona/MilkSpray_begin
+Payudara Lona penuh, menyemprotkan susu ke mana-mana.
+
+Lona/MilkSpray_begin_pro
+Payudara Lona penuh, menyemprotkan susu ke mana-mana.\n Sensasi itu memenuhi tubuh Lona dengan nafsu.
+
+Lona/MilkSpray0
+\c[6]Lona：\c[0]    Ughnnngh...
+
+Lona/MilkSpray1
+\c[6]Lona：\c[0]    Oooh...
+
+Lona/MilkSpray2
+\c[6]Lona：\c[0]    ...
+
+Lona/MilkSpray3
+\c[6]Lona：\c[0]    Nnnighnnn......
+
+Lona/MilkSpray4
+\c[6]Lona：\c[0]    Haaahnnn......
+
+Lona/Qmsg_MilkSpray0
+Ughnnngh...
+
+Lona/Qmsg_MilkSpray1
+Oooh...
+
+Lona/Qmsg_MilkSpray2
+...
+
+Lona/Qmsg_MilkSpray3
+Nnnighnnn...
+
+Lona/Qmsg_MilkSpray4
+Haaahnnn...
+
+Lona/Qmsg_Oev_Milk
+Ugh... Payudaraku bengkak banget...
+
+#-------------------放尿前尾形容
+
+Lona/pee_begin
+\narr Lona tidak bisa menahannya lagi saat air seni menyemprot keluar dari uretranya.
+
+Lona/pee_begin_pro
+\narr Lona tidak bisa menahannya lagi saat air seni menyemprot keluar dari uretranya.\n Perasaan melegakan kandung kemihnya memenuhi tubuh Lona dengan nafsu.
+
+Lona/pee0
+\c[6]Lona：\c[0]    ...
+
+Lona/pee1
+\c[6]Lona：\c[0]    Fiuh...
+
+Lona/pee2
+\c[6]Lona：\c[0]    ...
+
+Lona/pee3
+\c[6]Lona：\c[0]    Nnnnighnn...
+
+Lona/pee4
+\c[6]Lona：\c[0]    Haaah......
+
+Lona/Qmsg_pee0
+...
+
+Lona/Qmsg_pee1
+Fiuh...
+
+Lona/Qmsg_pee2
+...
+
+Lona/Qmsg_pee3
+Nnnnighnn...
+
+Lona/Qmsg_pee4
+Haaah......
+
+Lona/Qmsg_Oev_Pee
+Oh tidak... Aku mau pipis...
+
+Lona/Qmsg_PeePotWorm0
+Itu mau bocor keluar!!!
+
+Lona/Qmsg_PeePotWorm1
+Serangga keluar dari lubang kencingku!!!
+
+Lona/Qmsg_PeePotWorm2
+Sakit!!!
+
+#-------------------便便前尾形容
+
+Lona/poo_begin
+\narr Lona tidak bisa menahan perutnya lagi saat kotoran mulai keluar dari anusnya.
+
+Lona/poo_begin_pro
+\narr Lona tidak bisa menahan perutnya lagi saat kotoran mulai keluar dari anusnya.\n Kebebasan buang air besar dan sensasi stimulasi anal memenuhinya dengan nafsu.
+
+Lona/poo5_auto_end
+\narr Pantat dan kaki Lona tertutup kotoran dan tinjanya.
+
+Lona/poo0
+\c[6]Lona：\c[0]    \{Haaa... *Erang*...
+
+Lona/poo1
+\c[6]Lona：\c[0]    \{Hinnnghnnn...
+
+Lona/poo2
+\c[6]Lona：\c[0]    \{*Hah* Nnnnighnnn...
+
+Lona/poo3
+\c[6]Lona：\c[0]    \{Hinnnughnnn...
+
+Lona/poo4
+\c[6]Lona：\c[0]    \{Guuuunnngh...
+
+Lona/Qmsg_poo0
+Haaa... *Erang*...
+
+Lona/Qmsg_poo1
+Hinnnghnnn...
+
+Lona/Qmsg_poo2
+*Hah* Nnnnighnnn...
+
+Lona/Qmsg_poo3
+Hinnnughnnn...
+
+Lona/Qmsg_poo4
+Guuuunnngh...
+
+Lona/Qmsg_Oev_Poo
+Ughnnn... Aku harus p-pup sebentar lagi...
+
+Lona/Qmsg_PooPotWorm0
+Tolong berhenti keluar!!!
+
+Lona/Qmsg_PooPotWorm1
+Serangga keluar dari pantatku!!!
+
+Lona/Qmsg_PooPotWorm2
+EEEYAHHH!!!
+
+##_------------------------------ NEEDLE 針刺 小穴與胸部
+
+Lona/Piercing_begin
+Dia menatap tubuh Lona, memegang berbagai tindikan di tangannya dengan senyum jahat.
+
+Lona/VagNeedle_begin
+Memegang jarum besar di tangannya, dia melihat dada Lona yang belum berkembang dengan seringai jahat.
+
+Lona/VagNeedle_begin2
+Tidak ada tempat lain di dadanya untuk menempatkannya, dia melihat ke lubang Lona sebagai gantinya.
+
+Lona/VagNeedle_end
+Lubang dan tubuh Lona tertutup jarum dan darah. Mereka terkekeh dan tampaknya cukup puas dengan toilet daging hidup itu.
+
+Lona/VagNeedle_end_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah...!
+
+Lona/VagNeedle_end_tsun
+\c[6]Lona：\c[0]    Guuuaaagh...! K-Kenapa kamu... lakuin ini...?
+
+Lona/VagNeedle_end_weak
+\c[6]Lona：\c[0]    *Hiks*... Uwaaahhh...! *Merengek*...
+
+Lona/VagNeedle_end_slut
+\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+
+Lona/VagNeedle_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/VagNeedle_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------ NEEDLE 針刺 屁股
+
+Lona/AnalNeedle_begin
+Dia memegang jarum besar di tangannya dan tersenyum jahat saat menatap pinggul Lona.
+
+Lona/AnalNeedle_begin2
+Seluruh pinggulnya tertutup jarum, tapi mereka tidak berniat berhenti di situ.
+
+Lona/AnalNeedle_end
+Pinggul Lona tertutup jarum dan darah. Mereka terkekeh dan tampaknya cukup puas dengan bantalan jarum hidup itu.
+
+Lona/AnalNeedle_end_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah...
+
+Lona/AnalNeedle_end_tsun
+\c[6]Lona：\c[0]    Guuuaaagh...! K-Kenapa kamu... lakuin ini...?
+
+Lona/AnalNeedle_end_weak
+\c[6]Lona：\c[0]    Uwaaahhh...! *Merengek*...
+
+Lona/AnalNeedle_end_slut
+\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+
+Lona/AnalNeedle_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/AnalNeedle_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------ Vaginal dilation uses limbs because there are tentacles in addition to humanoids
+
+Lona/VagDilatation_begin1
+Mereka mengangkat anggota tubuh tebal mereka dan meletakkannya di atas lubang Lona.
+Sepertinya mereka berniat menjejalkan semuanya ke dalam dirinya...
+
+Lona/VagDilatation_begin2
+(Apa dia... berencana masukin itu ke dalam diriku?!)
+(GAK MUNGKIN! GAK BAKAL MUAT DI DALAMKU!!!)
+
+Lona/VagDilatation_begin3_normal
+Lubang mungil Lona meregang, melebar, dan robek akibat penyiksaan itu.
+Darah, cairan, dan berbagai cairan lainnya terus-menerus bocor keluar.
+Sepertinya vaginanya sekarang mengalami kerusakan dan longgar.
+
+Lona/VagDilatation_begin3_damaged
+Vagina Lona meregang, melebar, dan robek akibat penyiksaan itu.
+Darah, cairan, dan berbagai cairan lainnya terus-menerus bocor keluar.
+Tapi, Lona sudah terbiasa dengan serangan pada alat kelaminnya.
+
+Lona/VagDilatation_end
+Lubang yang dulunya kecil sekarang tampak seperti daging cincang...\n Tubuh Lona terus berkedut karena rasa sakit.
+Mereka terus menertawakan Lona, k*nt*l mereka mengeras melihat pemandangan itu.
+
+Lona/VagDilatation_end_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah...
+
+Lona/VagDilatation_end_tsun
+\c[6]Lona：\c[0]    Guuuaaagh...!
+K-Kenapa kamu... lakuin ini...?
+
+Lona/VagDilatation_end_weak
+\c[6]Lona：\c[0]    *Hiks*... Uwaaahhh...! *Merengek*...
+
+Lona/VagDilatation_end_slut
+\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+
+Lona/VagDilatation_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/VagDilatation_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------ Anal expansion uses limbs because there are tentacles in addition to humanoids
+
+Lona/AnalDilatation_begin1
+Mereka mengangkat anggota tubuh tebal mereka dan meletakkannya di atas lubang pantat Lona.
+Sepertinya mereka berencana mendorong semuanya ke dalam anus Lona...
+
+Lona/AnalDilatation_begin2
+(Apa dia... berencana masukin itu ke pantatku?!)
+(GAK MUNGKIN! GAK BAKAL MUAT DI DALAMKU!!!)
+
+Lona/AnalDilatation_begin3_normal
+Lubang pantat kecil Lona meregang, melebar, dan robek akibat penyiksaan itu.
+Darah, kotoran, dan berbagai cairan lainnya terus-menerus bocor keluar.
+Sepertinya anusnya sekarang mengalami kerusakan dan longgar.
+
+Lona/AnalDilatation_begin3_damaged
+Anus Lona meregang, melebar, dan robek akibat penyiksaan itu.
+Darah, kotoran, dan berbagai cairan asing lainnya terus-menerus dikeluarkan.
+Tapi, Lona sudah terbiasa dengan serangan pada rektumnya.
+
+Lona/AnalDilatation_end
+Lubang pantat yang dulunya kecil sekarang tampak seperti jurang yang menganga...\n Tubuh Lona terus gemetar karena rasa sakit.
+Mereka terus menertawakan Lona, k*nt*l mereka mengeras melihat pemandangan itu.
+
+Lona/AnalDilatation_end_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah...
+
+Lona/AnalDilatation_end_tsun
+\c[6]Lona：\c[0]    Guuuaaagh...!
+K-Kenapa kamu... lakuin ini...?
+
+Lona/AnalDilatation_end_weak
+\c[6]Lona：\c[0]    *Hiks*... Uwaaahhh...! *Merengek*...
+
+Lona/AnalDilatation_end_slut
+\c[6]Lona：\c[0]    Haaah...!
+Ohhh... Ooooh...~
+
+Lona/AnalDilatation_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/AnalDilatation_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------ 肛門球 無RACE差分
+
+Lona/AnalBeads_begin1
+Mereka meletakkan batang besar manik-manik besi di sebelah lubang pantat Lona.
+
+Lona/AnalBeads_begin2
+(Apa dia... berencana masukin itu ke pantatku?!)
+(GAK MUNGKIN! GAK BAKAL MUAT DI DALAMKU!!!)
+
+Lona/AnalBeads_begin3_normal
+Darah, kotoran, dan berbagai cairan lainnya terus-menerus bocor keluar.
+
+Lona/AnalBeads_begin3_damaged
+Permukaan kasar manik-manik besi terus-menerus merangsang dinding usus Lona.
+Kotoran dan cairan anal terus menyemprot keluar.
+Tapi, Lona sudah terbiasa dengan serangan pada rektumnya.
+
+Lona/AnalBeads_begin4
+Rektum Lona menelan seluruh rangkaian manik-manik besi itu.
+Dari obrolan pelan mereka, sepertinya mereka sedang mendiskusikan cara bermain dengan Lona selanjutnya.
+
+Lona/AnalBeads_begin5
+Dia menarik rantai besi itu dengan kuat, mencoba menarik bola-bola besi keluar dari anus Lona.
+Tapi itu pas sekali di dalam rektum Lona.
+
+Lona/AnalBeads_begin6
+Dia menariknya dengan sekuat tenaga!
+Lona merasa seperti organ dalamnya mau ditarik keluar!
+
+Lona/AnalBeads_end
+Lubang pantat yang dulunya kecil sekarang tampak seperti jurang yang menganga...\n Tubuh Lona terus gemetar karena rasa sakit.
+Mereka terus menertawakan Lona, k*nt*l mereka mengeras melihat pemandangan itu.
+
+Lona/AnalBeads_end_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah...
+
+Lona/AnalBeads_end_tsun
+\c[6]Lona：\c[0]    Guuuaaagh...! K-Kenapa kamu... lakuin ini...?
+
+Lona/AnalBeads_end_weak
+\c[6]Lona：\c[0]    *Hiks*... Uwaaahhh...! *Merengek*...
+
+Lona/AnalBeads_end_slut
+\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+
+Lona/AnalBeads_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/AnalBeads_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------UrethraDilatation 尿道擴張 本PLAY會大量追加尿意 正常來說PLAY一結束都會放尿 #BEGIN的部分我採用適用任何個性的處理法
+
+Lona/UrethraDilatation_begin1
+Mereka menyentuh lubang kencing Lona dan mulai memasukkan diri mereka ke dalam uretra Lona.
+(Tapi aku pipis dari situ!)
+
+Lona/UrethraDilatation_begin2
+Lubang kencing itu diinvasi oleh benda asing.
+Sensasi tajam dan geli memenuhi uretranya.
+\c[6]Lona：\c[0]    !!!!!!
+
+Lona/UrethraDilatation_begin3_normal
+Anggota tubuh itu dengan kasar keluar masuk uretra Lona, memenuhi lubang kencingnya dengan rasa sakit yang tajam dan panas.
+
+Lona/UrethraDilatation_begin3_damaged
+Anggota tubuh itu dengan kasar keluar masuk uretra Lona, memenuhi lubang kencingnya dengan rasa sakit yang tajam dan panas.
+Tapi, Lona sudah terbiasa diperlakukan sekasar itu.
+
+Lona/UrethraDilatation_end
+Aliran air seni yang besar menyemprot keluar.
+\c[6]Lona：\c[0]    Keluar! Itu keluaaarrr!
+
+Lona/UrethraDilatation_end_normal
+\c[6]Lona：\c[0]    Guuuaaahhh...!
+
+Lona/UrethraDilatation_end_tsun
+\c[6]Lona：\c[0]    Nnnghnnn...! Aku... b-benci... ini...
+
+Lona/UrethraDilatation_end_weak
+\c[6]Lona：\c[0]    Iiiip...! *Merengek*...
+
+Lona/UrethraDilatation_end_slut
+\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+
+Lona/UrethraDilatation_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/UrethraDilatation_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------ 踩肚子
+
+Lona/PunchEvent_begin
+Mereka mengangkat anggota tubuh mereka tinggi-tinggi.
+Sepertinya mereka siap memberi Lona pukulan keras!
+
+Lona/PunchEvent_end
+Tubuh Lona dipenuhi memar dan luka.
+Mereka tertawa sadis saat Lona menggeliat di tanah kesakitan.
+
+Lona/PunchEvent_end_normal
+\c[6]Lona：\c[0]    *HAH*... Guuugggh... *Erang*...
+
+Lona/PunchEvent_end_tsun
+\c[6]Lona：\c[0]    Guuuh... *Hah*! Nnnighnnn... B-Bajingan......
+
+Lona/PunchEvent_end_weak
+\c[6]Lona：\c[0]    Nnnguuuahhh... *Hiks*... *Merengek*...
+
+Lona/PunchEvent_end_slut
+\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...
+
+Lona/PunchEvent_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... *Uhuk*... Ahhh...... ..........
+
+Lona/PunchEvent_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnppphhh... *Hah*...
+
+##_------------------------------ 打臉
+
+Lona/FacePunch_begin
+Mereka sangat kesal karena Lona tidak bisa mengambil pelajaran.\n Lona bersiap untuk apa yang akan terjadi selanjutnya...
+
+Lona/FacePunch_end
+Hidung Lona menyemprotkan dan membocorkan darah ke seluruh wajahnya.
+Mereka tertawa terbahak-bahak melihat Lona. Melihat ekspresi ketakutannya sangat menghibur bagi mereka.
+
+Lona/FacePunch_end2_normal
+\c[6]Lona：\c[0]    Uuuwuuunnngh... (K-Kenapa ini terjadi padaku...?)
+
+Lona/FacePunch_end2_tsun
+\c[6]Lona：\c[0]    Nnnighnnn... *Hah*! Mmmnnnph... H-Hidungku......
+
+Lona/FacePunch_end2_weak
+\c[6]Lona：\c[0]    Ughnnngh... *Hiks*... W-Waaaaaah!
+
+Lona/FacePunch_end2_slut
+\c[6]Lona：\c[0]    Haaah...! *Hiks* Ohhh... Ooooh...
+
+Lona/FacePunch_end2_overfatigue
+\c[6]Lona：\c[0]    Guuuh... *Hiks* Ahhh......
+
+Lona/FacePunch_end2_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph... *Hah*...
+
+##_------------------------------ 打屁屁
+
+Lona/ButtSlap_begin
+Mereka mengangkat anggota tubuh mereka tinggi-tinggi.
+Sepertinya mereka bersiap memberi Lona pukulan keras!
+
+Lona/ButtSlap_end
+Pinggul Lona dipenuhi memar.
+Mereka tertawa terbahak-bahak melihat Lona. Melihatnya mundur di tanah kesakitan terlihat sangat konyol bagi mereka.
+
+Lona/ButtSlap_end_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah...
+
+Lona/ButtSlap_end_tsun
+\c[6]Lona：\c[0]    Guuuaaagh...! K-Kenapa kamu... lakuin ini...?
+
+Lona/ButtSlap_end_weak
+\c[6]Lona：\c[0]    *Hiks*... Uwaaahhh...! *Merengek*...
+
+Lona/ButtSlap_end_slut
+\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+
+Lona/ButtSlap_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/ButtSlap_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------ 灌腸 本事件自動將大便排泄等級拉至最高 事件結束將由超越事件自動連接至排泄事件
+
+Lona/Enema_begin
+Mereka mengarahkan nosel karung berisi cairan ke dekat lubang pantat Lona.
+
+Lona/Enema_begin2
+(Apa mereka... bakal nuangin semuanya ke dalam diriku?!)
+
+Lona/Enema_begin3
+Mereka memasukkan ujungnya ke dalam anus Lona dan memiringkan karungnya.
+
+Lona/Enema_common
+Perut Lona membesar.
+
+Lona/Enema_end1_normal
+\c[6]Lona：\c[0]    Hinnnghnnn... Itu... Itu k-keluar...!
+
+Lona/Enema_end1_tsun
+\c[6]Lona：\c[0]    G-Gak mungkin... Itu b-bakal bocor keluar...
+
+Lona/Enema_end1_weak
+\c[6]Lona：\c[0]    *Hiks*... Uwaaahhh...! *Merengek*...
+
+Lona/Enema_end1_slut
+\c[6]Lona：\c[0]    Iik...! Nyaaah! Itu kkeluar...!
+
+Lona/Enema_end1_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Niiinnnghnnn... Ahhh......
+
+Lona/Enema_end1_mouth_block
+\c[6]Lona：\c[0]    MMMNNNMMMPH!!!
+
+Lona/Enema_end2
+Cairan di dalam perut Lona terus-menerus berguncang dan merangsang dinding ususnya. Lona tidak bisa menahannya lagi.
+
+Lona/Enema_end3_normal
+\c[6]Lona：\c[0]    \{Aku gak bisa-... KYAAAH!!!
+
+Lona/Enema_end3_tsun
+\c[6]Lona：\c[0]    \{J-Jangan lihat...! UWAUUUAAAGHHH!
+
+Lona/Enema_end3_weak
+\c[6]Lona：\c[0]    \{IIIIIIKKK!!!
+
+Lona/Enema_end3_slut
+\c[6]Lona：\c[0]    \{OOOHHH-NNNYAAAAAAH!!!~
+
+Lona/Enema_end3_overfatigue
+\c[6]Lona：\c[0]    G-... GUUUH......
+
+Lona/Enema_end3_mouth_block
+\c[6]Lona：\c[0]    \{MMMGUUUHHHNNNPH!!!!!!
+
+##_------------------------------PEEON 尿浴 
+
+Lona/PeeonHead_begin
+Mereka mengelilingi Lona dan menuntut Lona untuk meminum air kencing mereka.
+
+Lona/PeeonHead_choice1
+(Apa yang harus kulakukan...?) \optD[Minum...<t=5>,Jangan lakukan!]
+
+Lona/PeeonHead_choice2
+\c[6]Lona：\c[0]    Uwaaah... Tolong... jangan pukul aku l-lagi...
+(Apa yang harus kulakukan...?) \optD[Minum...<t=5>,Gak mungkin... Aku gak bisa!]
+
+Lona/PeeonHead_choice3
+\c[6]Lona：\c[0]    Uwaaahhh...
+(...) \optD[Patuhi mereka...<t=5>,Aku menolak!
+Biarpun mereka bakal bunuh aku!!!]
+
+Lona/PeeonHead_choice_no
+Lona menggelengkan kepalanya dengan air mata berlinang.
+
+Lona/PeeonHead_testLOSE
+Mereka marah atas ketidakpatuhan Lona...
+
+Lona/PeeonHead_testLOSE_end
+\c[6]Lona：\c[0]    Uwuuahhh... Ahhh...
+Mereka puas dengan penyiksaan itu, jadi gak masalah kalau Lona tidak patuh.
+
+Lona/PeeonHead_testWIN
+Mereka puas dengan permohonan Lona dan mulai memikirkan hal-hal yang lebih menarik untuk dilakukan dengan Lona.
+
+Lona/peeon_begin
+Mereka mengelilingi Lona, berniat menandai tubuhnya dengan air kencing mereka.
+
+Lona/peeon_end
+Seluruh tubuh Lona basah kuyup dengan air seni bau.
+Bau busuk itu membakar sinus Lona setiap kali dia bernapas.
+Mereka terkekeh dan tampaknya cukup puas dengan toilet daging hidup itu.
+
+Lona/peeon_end_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah...
+
+Lona/peeon_end_tsun
+\c[6]Lona：\c[0]    Guuuaaagh...! K-Kenapa kamu... lakuin ini...?
+
+Lona/peeon_end_weak
+\c[6]Lona：\c[0]    *Hiks*... Uwaaahhh...!
+*Merengek*...
+
+Lona/peeon_end_slut
+\c[6]Lona：\c[0]    Haaah... Ahhh... Hihihi...! Semua orang mencintaiku!~ ♥
+
+Lona/peeon_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/peeon_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------DeepThroat 深喉
+
+Lona/DeepThroat_begin
+Mereka mulai tidak sabar dan berniat menyodokkan k*nt*l mereka ke tenggorokan Lona.
+
+Lona/DeepThroat_begin2_normal
+\c[6]Lona：\c[0]    \{T-Tunggu! Tolong jangan-...!
+
+Lona/DeepThroat_begin2_tsun
+\c[6]Lona：\c[0]    \{Gak! Jauhin benda itu dariku!
+
+Lona/DeepThroat_begin2_weak
+\c[6]Lona：\c[0]    Tolong... m-maafkan aku... *Merengek*...
+
+Lona/DeepThroat_begin2_slut
+\c[6]Lona：\c[0]    K*nt*l!~ ♥
+
+Lona/DeepThroat_begin2_overfatigue
+\c[6]Lona：\c[0]    ...
+
+Lona/DeepThroat_begin2_block
+\c[6]Lona：\c[0]    \{Mmmnnnph!!!
+
+Lona/DeepThroat_begin3
+\narr Batang besar itu terus menyodok ke kerongkongan dan trakea Lona.
+
+Lona/DeepThroat_begin4
+\narr Lona merasa seolah dia akan mati lemas.
+
+Lona/DeepThroat_begin5
+\narr Denyutan batang itu menggelitik mulut Lona, saat mulai ejakulasi.
+
+Lona/DeepThroat_begin6
+\narr Dia mengerang kegirangan, gerakannya menjadi lebih kasar.
+
+Lona/DeepThroat_begin7
+\narr Sperma berlendir itu memblokir kerongkongan Lona dan mulai meluap dari mulut Lona.
+
+Lona/DeepThroat_end
+\narr Butuh waktu lama bagi Lona untuk mengatur napasnya. Dia mulai terengah-engah mencari udara.
+
+Lona/DeepThroat_end2_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah...
+
+Lona/DeepThroat_end2_tsun
+\c[6]Lona：\c[0]    Guuuaaagh...! K-Kenapa kamu... lakuin ini...?
+
+Lona/DeepThroat_end2_weak
+\c[6]Lona：\c[0]    *Hiks*... Uwaaahhh...!
+*Merengek*...
+
+Lona/DeepThroat_end2_slut
+\c[6]Lona：\c[0]    Haaah... Ahhh... Hihihi...! Semua orang mencintaiku!~ ♥
+
+Lona/DeepThroat_end2_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/DeepThroat_end2_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------PEEON 尿浴 
+
+Lona/peeon_begin
+Mereka mengelilingi Lona, berniat menodai tubuh Lona dengan kencing mereka.
+
+Lona/peeon_end
+Seluruh tubuh Lona basah kuyup dengan air seni bau. Bau busuk itu membakar sinus Lona setiap kali dia bernapas.
+Mereka terkekeh dan tampaknya cukup puas dengan toilet daging hidup itu.
+
+Lona/peeon_end_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah...
+
+Lona/peeon_end_tsun
+\c[6]Lona：\c[0]    Guuuaaagh...! K-Kenapa kamu... lakuin ini...?
+
+Lona/peeon_end_weak
+\c[6]Lona：\c[0]    *Hiks*... Uwaaahhh...!
+*Merengek*...
+
+Lona/peeon_end_slut
+\c[6]Lona：\c[0]    Haaah... Ahhh... Hihihi...! Semua orang mencintaiku!~ ♥
+
+Lona/peeon_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/peeon_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------FloorClearnPee  清理地板 尿 \call[Data/Batch/puke_value_control.rb] 
+
+Lona/FloorClearnPee_begin1
+\c[6]Lona：\c[0]    Kyaaah!
+Mereka mendorong Lona ke bawah dan menuntutnya untuk membersihkan air seni dari tanah.
+
+Lona/FloorClearnPee_begin2
+(Ugh... Menjijikkan banget.) \n Bau tengik lumpur bercampur bau pesing terus menyengat hidung Lona.
+
+Lona/FloorClearnPee_choice1
+(Apa... Apa harus kulakukan...?) \optD[Lakukan...<t=5>,Jangan lakukan!]
+
+Lona/FloorClearnPee_choice2
+\c[6]Lona：\c[0]    Uwuuahhh... Tolong... jangan...
+(Apa yang harus kulakukan...?) \optD[Lakukan...<t=5>,Gak mungkin... Aku gak bisa!]
+
+Lona/FloorClearnPee_choice3
+\c[6]Lona：\c[0]    *Merengek*...
+(Apa... Apa harus kulakukan...?) \optD[Patuhi mereka...<t=5>,Aku menolak!
+Biarpun mereka bakal bunuh aku!!!]
+
+Lona/FloorClearnPee_choice_no
+Lona menggelengkan kepalanya "tidak" dengan air mata berlinang.
+
+Lona/FloorClearnPee_testLOSE
+Mereka tidak senang Lona menolak menyedot air seni dari lantai.
+
+Lona/FloorClearnPee_testLOSE_end
+\c[6]Lona：\c[0]    Aaah... Ahhh...
+Mereka puas dengan penyiksaan itu, jadi gak masalah kalau Lona tidak patuh.
+
+Lona/FloorClearnPee_testWIN
+Mereka puas dengan permohonan Lona.
+Mereka memutuskan untuk mencari hal lain yang lebih menyenangkan untuk dilakukan dengan Lona.
+
+Lona/FloorClearnPee_begin3
+\c[6]Lona：\c[0]    Tolong jangan pukul aku! ...Aku bakal lakuin!
+
+Lona/FloorClearnPee_begin4
+\c[6]Lona：\c[0]    Guhwuuah *Sruuup*...
+(Aku pengen banget muntah...)
+
+Lona/FloorClearnPee_begin5
+\c[6]Lona：\c[0]    Guhwuuu *Slurp*...
+(...Apa udah selesai?)
+
+Lona/FloorClearnPee_begin6
+\c[6]Lona：\c[0]    Gaaack *Seeedoot*...
+(Aku... mau muntah...)
+
+Lona/FloorClearnPee_end
+\c[6]Lona：\c[0]    Hampir... *Gag* Selesai... *Uek* A-Akhirnya...
+Mulut mungil Lona tertutup air seni dan lumpur.
+Mereka melolong tertawa melihat Lona. Dia benar-benar meminum air seni berlumpur itu seperti toilet yang patuh.
+
+Lona/FloorClearnPee_end_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah...
+
+Lona/FloorClearnPee_end_tsun
+\c[6]Lona：\c[0]    Guuuaaagh...! K-Kenapa kamu... lakuin ini...?
+
+Lona/FloorClearnPee_end_weak
+\c[6]Lona：\c[0]    *Hiks*... Uwaaahhh...!
+*Merengek*...
+
+Lona/FloorClearnPee_end_slut
+\c[6]Lona：\c[0]    Haaah... Ahhh... Haaaff...
+
+Lona/FloorClearnPee_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/FloorClearnPee_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------FloorClearnCums 清理地板 精液
+
+Lona/FloorClearnCums_begin1
+\c[6]Lona：\c[0]    Kyaaah!
+Mereka mendorong Lona ke bawah dan menuntut agar dia memakan sperma di tanah.
+
+Lona/FloorClearnCums_begin2
+(Guh... Jijik banget...)
+Bau tengik lumpur bercampur bau sperma terus menyengat hidung Lona.
+
+Lona/FloorClearnCums_choice1
+(Apa yang harus kulakukan...?)\optD[Makan...<t=5>,Jangan lakukan!]
+
+Lona/FloorClearnCums_choice2
+\c[6]Lona：\c[0]    Uwuuahhh... Maafkan aku!
+J-Jangan sakiti aku...
+(Haruskah aku...?)\optD[Makan...<t=5>,Gak mungkin... Aku gak bisa!]
+
+Lona/FloorClearnCums_choice3
+\c[6]Lona：\c[0]    *Merengek*...
+(Haruskah aku melakukannya...?)\optD[Patuhi mereka...<t=5>,Aku menolak!
+Biarpun mereka bakal bunuh aku!!!]
+
+Lona/FloorClearnCums_choice_no
+Lona menggelengkan kepalanya tidak dengan air mata berlinang.
+
+Lona/FloorClearnCums_testLOSE
+Mereka marah atas pembangkangan Lona...
+
+Lona/FloorClearnCums_testLOSE_end
+\c[6]Lona：\c[0]    Ahhh...  Aaah...
+Mereka puas dengan penyiksaan itu, jadi gak masalah kalau Lona tidak patuh.
+
+Lona/FloorClearnCums_testWIN
+Mereka puas dengan permohonan Lona.
+Mereka memutuskan untuk terus bersenang-senang dengan Lona.
+
+Lona/FloorClearnCums_begin3
+\c[6]Lona：\c[0]    Tolong jangan pukul aku! ...A-Aku bakal lakuin!
+
+Lona/FloorClearnCums_begin4
+\c[6]Lona：\c[0]    Guuuh... Bleeeah...
+(Aku pengen banget muntah...)
+
+Lona/FloorClearnCums_begin5
+\c[6]Lona：\c[0]    Guhwuu *Sruuup*...
+(...Apa udah selesai?)
+
+Lona/FloorClearnCums_begin6
+\c[6]Lona：\c[0]    Bleaaah *Slurp*... Nnnyaaah *Jilat*...
+(Aku... mau muntah...)
+
+Lona/FloorClearnCums_end
+\c[6]Lona：\c[0]    Hampir... *Slurp* H-Habis... *Gag* Akhirnya...
+Mulut mungil Lona tertutup sperma dan kotoran.
+Mereka terus menertawakan Lona, puas dengan toilet daging yang patuh.
+
+Lona/FloorClearnCums_end_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah... *Sendawa*...
+
+Lona/FloorClearnCums_end_tsun
+\c[6]Lona：\c[0]    Guuuaaagh...!
+*Gag* K-Kenapa kamu... lakuin ini...
+
+Lona/FloorClearnCums_end_weak
+\c[6]Lona：\c[0]    *Hiks*... Uwaaahhh...! *Merengek*...
+
+Lona/FloorClearnCums_end_slut
+\c[6]Lona：\c[0]    Haaah...!
+Ohhh... Ooooh...~
+
+Lona/FloorClearnCums_end_overfatigue
+\c[6]Lona：\c[0]    Guuuh... Ahhh......
+
+Lona/FloorClearnCums_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------FloorClearnScat 清理地板 屎
+
+Lona/FloorClearnScat_begin1
+\c[6]Lona：\c[0]    Kyaaah!
+Mereka menekan Lona ke bawah dan menuntutnya untuk memakan kotoran di tanah.
+
+Lona/FloorClearnScat_begin2
+(UGH...! Bau banget! M-Menjijikkan...)
+(Gak... Aku mau muntah...)
+Bau busuk tinja mengental di hidung Lona.
+
+Lona/FloorClearnScat_choice1
+(Haruskah aku memakannya...?)\optD[Makan...<t=5>,GAK MUNGKIN!]
+
+Lona/FloorClearnScat_choice2
+\c[6]Lona：\c[0]    Uwuuahhh... Tolong... B-Berhenti...
+(Haruskah aku mematuhi mereka...?)\optD[Makan...<t=5>,Gak mungkin... AKU GAK MAU!]
+
+Lona/FloorClearnScat_choice3
+\c[6]Lona：\c[0]    *Merengek*...
+(Apa yang harus kulakukan...?)\optD[Makan...<t=5>,AKU LEBIH BAIK MATI DARIPADA MAKAN TAI!!!]
+
+Lona/FloorClearnScat_choice_no
+Lona menggelengkan kepalanya tidak dengan air mata berlinang.
+
+Lona/FloorClearnScat_testLOSE
+Mereka marah besar atas penolakan Lona untuk memakan tumpukan kotoran itu.
+
+Lona/FloorClearnScat_testLOSE_end
+\c[6]Lona：\c[0]    Ahhh... *Gag* Aaah...
+Mereka puas dengan penyiksaan itu, jadi gak masalah kalau Lona menolak makan kotoran.
+
+Lona/FloorClearnScat_testWIN
+Mereka puas dengan permohonan Lona.
+Mereka memutuskan untuk bersenang-senang lebih jauh dengannya.
+
+Lona/FloorClearnScat_begin3
+\c[6]Lona：\c[0]    Tolong jangan pukul aku! Aku... Aku bakal makan!
+
+Lona/FloorClearnScat_begin4
+\c[6]Lona：\c[0]    Nyam... *UEK*... GAAACK......
+(Aku pengen banget... GAK, AKU BUTUH muntah...!)
+
+Lona/FloorClearnScat_begin5
+\c[6]Lona：\c[0]    Nyam... *Kunyah* Uwuuunnngh... *GAG*...
+(Kotoran di depanku sepertinya sudah berkurang.)
+(...Apa udah s-selesai?)
+
+Lona/FloorClearnScat_begin6
+\c[6]Lona：\c[0]    Guhpluh... *UEK*... Shlurrrp...
+(Aku gak... bakal... kuat...)
+
+Lona/FloorClearnScat_end
+\c[6]Lona：\c[0]    Gwuuuaaagh... *Uek*... Nneewuuh......
+Mulut kecil Lona tertutup kotoran.
+Mereka melolong tertawa melihat Lona. Dia benar-benar memakan tumpukan kotoran itu seperti toilet yang patuh.
+
+Lona/FloorClearnScat_puke1
+\c[6]Lona：\c[0]    \{*UEK*... GUUUH! *GAG*!!!
+
+Lona/FloorClearnScat_puke2
+\c[6]Lona：\c[0]    \{URK! \{BLUEEAAARRRUGH!!!
+Lona mulai memuntahkan isi perutnya.
+
+Lona/FloorClearnScat_puke_end
+\c[6]Lona：\c[0]    Guuugh... *GAG*... Uwuuunnngh...
+Muntahan Lona menyatu dengan tumpukan kotoran yang setengah dimakan di lantai.
+Mereka tertawa lebih keras melihat pemandangan menjijikkan itu.
+
+Lona/FloorClearnScat_end_normal
+\c[6]Lona：\c[0]    Nnnighnnaaah... *Gag*...
+
+Lona/FloorClearnScat_end_tsun
+\c[6]Lona：\c[0]    Guuuaaagh... *Merengek*...
+
+Lona/FloorClearnScat_end_weak
+\c[6]Lona：\c[0]    Uwaaahhh... *Uek*... *Merengek*...
+
+Lona/FloorClearnScat_end_slut
+\c[6]Lona：\c[0]    Bleeah... *Gag*... Uwuuu...
+
+Lona/FloorClearnScat_end_overfatigue
+\c[6]Lona：\c[0]    *Uek*... *Gag*...
+
+Lona/FloorClearnScat_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+##_------------------------------feeding Milking
+
+Lona/FeedingChild_begin
+\narr Anak-anak dengan rakus menyusu pada payudara Lona.
+
+Lona/FeedingChild_MilkNotEnough
+\narr Susu Lona tidak cukup untuk anak-anak yang tersisa. Mereka pergi mencari susu lagi.
+
+Lona/FeedingChild_item1
+Anak Lona lapar.
+Gunakan item #{$story_stats["HiddenOPT0"]} untuk memberi makan?
+
+Lona/FeedingChild_item2
+\narr Anak-anak merasa puas...
+
+##_------------------------------fORCE Feed
+
+Lona/ForceFeeding_OrkindRapeLoop
+\ph\narr Mereka memutuskan sudah waktunya untuk memaksa Lona makan.
+\narr Para Orkind akan memastikan bahwa ternak bibit hamil mereka tidak akan kelaparan...
+
+Lona/ForceFeeding_AbomRapeLoop
+\ph\narr Mereka tidak peduli apakah tempat benih itu lapar atau tidak.
+\narr Memaksa makan tempat benih kapan saja hanyalah bagian dari sifat mereka.
+
+Lona/ForceFeeding_FishkindRapeLoop
+\ph\narr Mereka memutuskan sudah waktunya untuk memaksa Lona makan.
+\narr Para Deepone harus memastikan induk mereka dapat melahirkan keturunan yang sehat...
+
+Lona/ForceFeeding_begin1
+\c[6]Lona：\c[0]    Jangan!
+Lepasin aku!
+
+Lona/ForceFeeding_begin2
+\c[6]Lona：\c[0]    Gak, aku gak mau makan ini!
+
+Lona/ForceFeeding_begin3
+\c[6]Lona：\c[0]    \{Mmmnnnph! *Guk*!
+*Glug*!
+
+Lona/ForceFeeding_begin4
+\c[6]Lona：\c[0]    \{*HAH*! Ahhhguh...! Guaahya!
+
+Lona/ForceFeeding_begin5
+\c[6]Lona：\c[0]    \{GAK!
+
+Lona/ForceFeeding_begin6
+\c[6]Lona：\c[0]    \{Guhmmmnnnph! *GLUP*!
+
+Lona/ForceFeeding_begin7
+\c[6]Lona：\c[0]    \{Gwuueeahaa! *Gurgle*!
+
+Lona/ForceFeeding_end
+\c[6]Lona：\c[0]    \{J-Jangan! Tolong... t... tunggu!
+
+Lona/ForceFeeding_end1
+\c[6]Lona：\c[0]    \{Aku gak bisa makan lagi...! Kumohon!
+
+Lona/ForceFeeding_end2
+\c[6]Lona：\c[0]    \{Tolong-...! KYAAAH!!!
+
+Lona/ForceFeedingRunBatch1
+\c[6]Lona：\c[0]    \{Gluuuggguuh.........
+
+Lona/ForceFeedingRunBatch2
+\c[6]Lona：\c[0]    \{Gluuurrph......
+
+Lona/ForceFeedingRunBatch3
+\c[6]Lona：\c[0]    \{Guhmmmnnnph...
+
+Lona/ForceFeedingRunBatch_end
+\narr Tidak peduli seberapa banyak Lona memohon belas kasihan, mereka terus menuangkan makanan ke tenggorokannya.
+\narr Ini berlangsung untuk waktu yang lama...
+
+Lona/ForceFeedingRunBatch1_end
+.........
+
+Lona/ForceFeedingRunBatch2_end
+......
+
+Lona/ForceFeedingRunBatch3_end
+...
+
+############################################################### SuckDick ####################################
+
+Lona/SuckDickNormal
+\m[confused]\prf Penis biasa muncul!
+
+Lona/SuckDickHairly
+\m[flirty]\prf Itu penis yang tersembunyi jauh di dalam hutan rambut kemaluan!
+
+Lona/SuckDickSmegma
+\m[fear]\prf Itu penis yang belum dibersihkan dalam waktu lama!\n Smegma putih menutupi kepala k*nt*l itu.
+
+Lona/SuckDickMega
+\m[shocked]\prf Penis raksasa seperti monster menjulang di atasmu!
+
+#################
+
+Lona/SuckDick1_typical
+\m[shy]\c[6]Lona：\c[0]    Aku cuma harus bikin kamu enak sampai kamu keluar, kan?
+\optB[Isap K*nt*l<t=5>,Lupakan]
+
+Lona/SuckDick1_tsundere
+\m[serious]\c[6]Lona：\c[0]    Bleh! M-Menjijikkan! Apa aku beneran harus lakuin ini...?
+\optB[Isap K*nt*l<t=5>,Lupakan]
+
+Lona/SuckDick1_gloomy
+\m[tired]\c[6]Lona：\c[0]    *Merengek*... \optB[Isap K*nt*l<t=5>,Lupakan]
+
+Lona/SuckDick1_slut
+\m[lewd]\c[6]Lona：\c[0]    Oooh!
+♥ Yang ini kelihatan enak banget...~ \optB[Isap k*nt*l enak<t=5>,Lupakan]
+
+##################
+
+Lona/SuckDick2_Normal
+Penis ini terlihat normal.
+
+Lona/SuckDick2_Hairly
+Penis ini tertutup rambut kemaluan.
+
+Lona/SuckDick2_Smegma
+Penis yang tertutup smegma mengeluarkan bau amis yang tidak sedap.
+
+Lona/SuckDick2_Mega
+Penis ini lebih tebal dari kepalan tangan Lona...
+
+#########################
+
+Lona/SuckDick3_Normal
+Seharusnya tidak sulit bagi Lona untuk melakukan fellatio.
+
+Lona/SuckDick3_Hairly
+Jika Lona melakukan fellatio, seluruh wajahnya akan terkubur dalam rambut kemaluannya.
+
+Lona/SuckDick3_Smegma
+Mereka meminta Lona menjilat penis mereka karena sudah lama tidak dibersihkan.
+
+Lona/SuckDick3_Mega
+Tunggu sebentar...!
+I-Ini jelas gak mungkin!
+
+Lona/SuckDick_Failed
+Mereka sangat marah atas kesalahan Lona.
+
+#########################
+
+Lona/SuckDick_GoodQA0
+Besar dan keras<t=5>
+
+Lona/SuckDick_GoodQA1
+Megah<t=5>
+
+Lona/SuckDick_GoodQA2
+Kuat<t=5>
+
+Lona/SuckDick_Bad1QA0
+Mungil
+
+Lona/SuckDick_Bad1QA1
+Kecil dan lemah
+
+Lona/SuckDick_Bad1QA2
+Impotes
+
+Lona/SuckDick_Bad2QA0
+Jelek
+
+Lona/SuckDick_Bad2QA1
+Menjijikkan
+
+Lona/SuckDick_Bad2QA2
+Mengerikan
+
+############################################################ Human
+
+Lona/SuckDick4_Human0
+\Lshake\c[6]Man：\c[0]    \{Oooough!
+\Lshake\c[6]Man：\c[0]    \{Itu dia! Jilat di sekitar kepalanya!
+
+Lona/SuckDick4_Human1
+\Lshake\c[6]Man：\c[0]    \{Hnnngh!
+\Lshake\c[6]Man：\c[0]    \{Ooooh! Jilat sebelah sana juga!
+
+Lona/SuckDick4_Human2
+\Lshake\c[6]Man：\c[0]    \{Oooowuuuoh!
+\Lshake\c[6]Man：\c[0]    \{Haaah! Ya, terus jilat di situ!
+
+Lona/SuckDick_HumanCumOutside0
+\Lshake\c[6]Man：\c[0]    \{Oh! Ohhhhugh! Mau keluar!
+
+Lona/SuckDick_HumanCumOutside1
+\Lshake\c[6]Man：\c[0]    \{HNNNGH! K-KELUAR!
+
+Lona/SuckDick_HumanCumOutside2
+\Lshake\c[6]Man：\c[0]    \{OHHHhhh waaaah!
+
+Lona/SuckDick_HumanCumInside0
+\Lshake\c[6]Man：\c[0]    \{Ohhhguah! Keluar!
+Pakai mulutmu! Minum semuanya! \optD[Telan spermanya<t=5>,Jijik! Gak mau!]
+
+Lona/SuckDick_HumanCumInside1
+\Lshake\c[6]Man：\c[0]    \{Hnnnighaaah! Aku keluar!
+Tangkap spermaku pake mulutmu! \optD[Biarin dia keluar di mulutmu<t=5>,Gak mau!]
+
+Lona/SuckDick_HumanCumInside2
+\Lshake\c[6]Man：\c[0]    \{Hoooougaaah! Di dalam mulutmu!
+Cepat! \optD[Biarin dia keluar di mulutmu<t=5>,Jangan biarkan!]
+
+Lona/SuckDick_HumanPeeInside0
+\Lshake\c[6]Man：\c[0]    Oooohngh! Waktunya kencing!
+Buka mulutmu dan minum gadis kecil! \optD[Patuhi dan minum kencingnya...<t=5>,Gak mau!]
+
+Lona/SuckDick_HumanPeeInside1
+\Lshake\c[6]Man：\c[0]    Ahhh! Ini dia!
+Sepertinya dia akan kencing di mulutmu. \optD[Minum air seninya...<t=5>,Gak mau!]
+
+Lona/SuckDick_HumanPeeInside2
+\Lshake\c[6]Man：\c[0]    Waktunya kencing!
+Sepertinya dia akan kencing di mulutmu. \optD[Minum air seninya...<t=5>,Gak!
+Aku gak mau!]
+
+################ QA BEGIN
+
+Lona/SuckDick_HumanQA0
+\Lshake\c[6]Man：\c[0]    Lumayan, gimana menurutmu soal jagoan kecilku?
+
+Lona/SuckDick_HumanQA1
+\Lshake\c[6]Man：\c[0]    Gimana? Keren banget kan k*nt*lku?
+
+Lona/SuckDick_HumanQA2
+\Lshake\c[6]Man：\c[0]    Oooh! Mulut yang bagus!
+Gimana rasa k*nt*lku? Enak kan?
+
+################ FAILED
+
+Lona/SuckDick_HumanFailed0
+\Lshake\c[6]Man：\c[0]    \{Dasar pelacur bodoh! Mati kau!!!
+
+Lona/SuckDick_HumanFailed1
+\Lshake\c[6]Man：\c[0]    \{Apa-apaan?! Berani-beraninya! Dasar jalang!!!
+
+Lona/SuckDick_HumanFailed2
+\Lshake\c[6]Man：\c[0]    \{Aku bakal bunuh kamu! Dasar pelacur!!!
+
+################ WIN
+
+Lona/SuckDick_HumanWin0
+\Lshake\c[6]Man：\c[0]    Gya ha ha!
+Itu yang dibilang semua cewek!
+
+Lona/SuckDick_HumanWin1
+\Lshake\c[6]Man：\c[0]    Aku juga mikir gitu.
+
+Lona/SuckDick_HumanWin2
+\Lshake\c[6]Man：\c[0]    Tentu aja dong! Ho ho!
+
+##_------------------------------ 肉魔
+
+Lona/AbomRapeLoopEnd
+\narr Semua ini hanyalah permulaan......
+\narr Penaburan benih tempat benih oleh Abomination tidak ada habisnya.
+
+##_------------------------------ 肉魔 體內改造 僅用於ABOM
+
+Lona/AbomBellyPara_begin1
+Jarum panjang mulai menonjol keluar dari anggota tubuh monster itu.\n Sepertinya itu akan dimasukkan ke dalam perut Lona.
+
+Lona/AbomBellyPara_begin2
+\c[4](Mereka mau nusukin itu ke perutku?!)
+\{\c[4](...G-GAK MUNGKIN! ITU BAKAL MEROBEKKU JADI DUA! AKU BAKAL MATI!)
+
+Lona/AbomBellyPara_begin3
+Anggota tubuh itu mulai menyuntikkan daging dan benihnya ke dalam perut Lona.
+Parasit di dalam Lona akan segera mengubah tubuh dan pikirannya.
+
+Lona/AbomBellyPara_end_normal
+\c[4](P-Perutku rasanya aneh...)
+
+Lona/AbomBellyPara_end_tsun
+\c[4](Aku bisa ngerasain sesuatu menggeliat di dalam perutku...)
+
+Lona/AbomBellyPara_end_weak
+\c[4](Maafkan aku... Aku gak bisa-......)
+
+Lona/AbomBellyPara_end_slut
+\c[4](A-Apa yang bakal terjadi sama tubuhku...?)
+
+Lona/AbomBellyPara_end_overfatigue
+\c[6]Lona：\c[0]    Guuughhh... A-Ahhh......
+.........
+
+Lona/AbomBellyPara_end_mouth_block
+\c[6]Lona：\c[0]    Mmmnnnph...
+
+#######################################333 extra parasite
+
+Lona/Qmsg_OgrasmPolypWorm0
+Perut...rasanya panas...
+
+Lona/Qmsg_OgrasmPolypWorm1
+Seekor cacing telah menggeliat keluar dari lubangnya!!
+
+Lona/Qmsg_OgrasmPolypWorm2
+* Merengek *...
+
+Lona/Qmsg_PukeHookWorm0
+Uaaagh!!
+
+Lona/Qmsg_PukeHookWorm1
+Ouuugh!!
+
+Lona/Qmsg_PukeHookWorm2
+Guh-rrrngh!!

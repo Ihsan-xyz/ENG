@@ -1,0 +1,166 @@
+GrayRat/CompData
+\board[Gray Rat]
+\C[2]Posisi：\C[0]Depan
+\C[2]Tipe Tempur：\C[0]Melee, Pertahanan, Tank, Taunt
+\C[2]Afiliasi：\C[0]Sybaris (Netral)
+\C[2]Musuh：\C[0]Makhluk Jahat, Kriminal
+\C[2]Syarat：\C[0]Weakness harus kurang dari 100
+\C[2]Durasi：\C[0]5 Hari
+\C[2]Unik：\C[0]Tidak respawn setelah mati.
+\C[4]Catatan：\C[0]Cecily dan Gray Rat ada dalam tim yang sama.
+
+
+################################################################### QMSG ################################################################################# 
+
+GrayRat/CommandWait0
+Mengerti...
+
+GrayRat/CommandWait1
+Sesuai keinginan Anda...
+
+GrayRat/CommandFollow0
+Mari lanjutkan...
+
+GrayRat/CommandFollow1
+Siap melayani...
+
+GrayRat/OvermapPop0
+........
+
+GrayRat/Comp_start
+\SETpl[GrayRatNormalAr]\c[4]Gray Rat：\c[0]    .........
+
+GrayRat/Comp_disband
+\SETpl[GrayRatConfused]\c[4]Gray Rat：\c[0]    Selamat tinggal kalau begitu...
+
+GrayRat/Comp_disbandAr
+\SETpl[GrayRatConfusedAr]\c[4]Gray Rat：\c[0]    Selamat tinggal kalau begitu...
+
+################################# Cecily.Eaglemore
+GrayRatAr/CE_Death
+\SETpl[GrayRatShockedAr]\Lshake\{NONA CECILY...!!!
+\SETpl[GrayRatShockedAr]\Lshake\{AKAN KUBUNUH KALIAN SEMUA!!!!!!
+
+GrayRat/CE_Death
+\SETpl[GrayRatShocked]\Lshake\{NONA CECILY...!!!
+\SETpl[GrayRatShocked]\Lshake\{AKAN KUBUNUH KALIAN SEMUA!!!!!!
+
+###############################################QUEST
+
+GrayRat/UnknowBegin
+\CBid[-1,8]\SETpl[GrayRatNormal]\C[4]Unknown：\C[0]    ......
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    ...Besar sekali!
+\CBid[-1,2]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    ...Ada yang bisa saya bantu?
+\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    M-Maaf.
+GrayRat/KnownBegin_opt
+\CBid[-1,8]\m[confused]\SETpl[GrayRatConfused]\C[4]Unknown：\C[0]    ...... \optB[......,Kenapa kau menemukanku?]
+
+GrayRat/KnownBegin_WhyMe
+\CBid[-1,8]\SETpl[GrayRatConfused]\PLF\prf\C[4]Gray Rat：\C[0]    .......Hmmm.
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Gray Rat：\C[0]    Saya pernah melihat Anda sebelumnya...
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Apa? Kapan?!
+\CBid[-1,8]\SETpl[GrayRatConfused]\PLF\prf\C[4]Gray Rat：\C[0]    Dalam perjalanan kembali ke \c[6]Noer\c[0], saya tinggal bersama Nona Cecily sebentar di pos utara.
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Gray Rat：\C[0]    Anda juga ada di sana waktu itu.
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Hah?
+\CBid[-1,8]\SETpl[GrayRatConfused]\PLF\prf\C[4]Gray Rat：\C[0]    Anda memberi makanan pada anak yang kelaparan.
+\CBid[-1,8]\SETpl[GrayRatNormal]\m[shy]\PLF\prf\C[4]Gray Rat：\C[0]    Anda berusaha menjaga diri dan bertahan hidup, tapi Anda tetap merelakan makanan di tangan Anda.
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Gray Rat：\C[0]    Kami punya banyak musuh... Tapi hanya sedikit orang yang bisa kami percaya.
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Gray Rat：\C[0]    Anda bukan prajurit, tapi saya bisa mempercayai Anda...
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ahh...
+\CBid[-1,8]\SETpl[GrayRatConfused]\PLF\prf\C[4]Gray Rat：\C[0]    ......
+\CBct[3]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    Terima kasih!
+GrayRat/KnownBegin_Break
+\SETpl[GrayRatConfused]\C[4]Gray Rat：\C[0]    ......
+\SETpl[GrayRatNormal]\C[4]Gray Rat：\C[0]    Apapun yang ingin Anda diskusikan harus dibicarakan dengan Nona saya...
+
+GrayRat/SaveCecilyQuest_begin1
+\CBid[-1,2]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    ...Permisi, Nona?
+\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Ehhh?!
+\CBid[-1,8]\SETpl[GrayRatConfused]\PLF\prf\C[4]Unknown：\C[0]    Apakah Anda yang bernama... \c[6]Lona\c[0]?
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Y-Ya... Kenapa kau bertanya?
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    Saya sudah dengar tentang karavan yang hilang itu, Anda bekerja dengan baik.
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Oh! Terima kasih.
+\CBid[-1,2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Jadi... Apa ada sesuatu yang kau butuhkan dariku?
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    Apa saya membuat Anda takut? Jangan takut.
+\CBid[-1,8]\cg[event_Coins]\SND[SE/Chain_move01.ogg]\ph\C[4]Unknown：\C[0]    Sini, lihatlah ini.
+\CBct[20]\m[wtf]\plf\Rshake\c[6]Lona：\c[0]    \{A... Apa-?!
+\CBid[-1,8]\SETpl[GrayRatConfused]\PLF\prf\C[4]Unknown：\C[0]    Ini hanya uang muka...
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    Apakah Anda lahir di \c[6]Sybaris\c[0]?
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    Banyak orang di Noer memperlakukan pengungsi sebagai komoditas dan objek setelah bencana itu...
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    Kami menentang pedagang manusia di Noer yang mencoba mengeksploitasi para pengungsi.
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    ...Rekan saya telah diculik oleh salah satu kelompok perdagangan tersebut.
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    Mereka mengirimi saya surat dengan titik pertemuan, jelas ini jebakan yang disiapkan untuk saya.
+GrayRat/SaveCecilyQuest_begin2
+\cgoff\board[Buat si raksasa darah campur kotor]
+Kami punya jalangmu skarang!
+Kalo kau mau dia idup datang ke Gudang 13 Barat pas malam.
+Kau mending datang sendirian!
+ATAU PELACURNYA MATI!!!
+
+GrayRat/SaveCecilyQuest_begin3
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    Saya butuh pengintai yang terbiasa dengan investigasi dan spionase.
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    Itu adalah Anda...
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    Anda tidak setuju dan bersimpati dengan pedagang manusia ini, kan?
+\CBct[6]\m[shy]\plf\PRF\c[6]Lona：\c[0]    Aku...
+
+GrayRat/SaveCecilyQuestInfo
+\board[Selamatkan rekan pria itu]
+Tujuan：Temui dia di Gudang 13 Barat
+Bayaran：5 Koin Tembaga, 2 Koin Tembaga Besar
+Klien：Unknown
+Batas Waktu：Tidak ada
+
+GrayRat/SaveCecilyQuestAccept
+\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Oke!
+Aku akan melakukannya!
+\CBct[5]\m[angry]\plf\Rshake\c[6]Lona：\c[0]    Aku juga tidak suka pedagang manusia!
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Unknown：\C[0]    Terima kasih...
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Gray Rat：\C[0]    Anda boleh memanggil saya \c[6]Gray Rat\c[0]...
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\C[4]Gray Rat：\C[0]    Sisanya akan dibahas di \c[6]Gudang 13 Barat\c[0].
+Bersiaplah.
+
+########################################################################### QuProgSaveCecily 23 to 24    43 to 44 # DEV
+
+GrayRat/23-43_0
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm... Tuan Gray Rat?
+Di mana Nona Cecily?
+\CBid[-1,8]\SETpl[GrayRatConfused]\PLF\prf\c[4]Gray Rat：\c[0]    Nona sedang berlatih di halaman belakang, melatih ilmu pedangnya.
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\c[4]Gray Rat：\c[0]    Ada sesuatu yang ingin Nona bicarakan dengan Anda.
+\CBct[20]\m[normal]\plf\PRF\c[6]Lona：\c[0]    Oh?
+44/0_begin0
+\CBid[-1,8]\SETpl[GrayRatConfused]\PLF\c[4]Gray Rat：\c[0]    Nona Lona...
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Tuan Gray Rat? Ada apa?
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\c[4]Gray Rat：\c[0]    Apa pendapat Anda tentang pulau ini...?
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ah?
+Ummm\..\..\..
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ...Ini adalah rumahku, tapi semua orang yang kenal dan kucintai sudah tiada.
+\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Ayahku, teman-temanku... Mereka semua sudah mati.
+Dan aku tidak punya rumah lagi...
+\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Melihat tak ada apa-apa selain kematian, kehancuran, dan penderitaan di seluruh pulau ini sekarang... Aku......
+\CBid[-1,8]\SETpl[GrayRatConfused]\PLF\prf\c[4]Gray Rat：\c[0]    Anda ingin meninggalkan pulau ini, ya?
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ya.
+\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Aku benar-benar yakin Pulau Noer sudah tamat.
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\c[4]Gray Rat：\c[0]    \..\..\..
+
+44/1
+\CBid[-1,8]\SETpl[GrayRatConfused]\PLF\prf\c[4]Gray Rat：\c[0]    Dengar, saya ingin majikan saya meninggalkan pulau ini juga.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    \..\..\..\m[flirty]\Rshake Hah?!
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\c[4]Gray Rat：\c[0]    Saya tidak bisa membiarkannya tinggal di tempat mengerikan ini lebih lama lagi...
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\c[4]Gray Rat：\c[0]    Jika ini terus berlanjut... Saya tahu Nona Cecily akan mati di sini.
+\CBid[-1,8]\SETpl[GrayRatConfused]\PLF\prf\c[4]Gray Rat：\c[0]    Saya berharap Anda bisa membantu saya membujuknya untuk pergi.
+\CBct[6]\m[shocked]\plf\PRF\c[6]Lona：\c[0]    T-... Tunggu sebentar!
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Bagaimana aku bisa membujuknya?
+Saya rasa Nona Cecily tidak akan mau mendengarkan orang biasa sepertiku...
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Nona Cecily adalah tipe orang yang menolak untuk menyerah, tidak peduli seberapa berbahaya situasinya... Benar kan?
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\c[4]Gray Rat：\c[0]    Apa yang Anda katakan itu benar...
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Mungkin kita ikat saja dia secara paksa lalu bawa dia pergi?
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\c[4]Gray Rat：\c[0]    \..\..\..\CBid[-1,5]\SETpl[GrayRatShocked]\Lshake \{!!!!!!
+
+44/2
+\CBct[6]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    \{A... Aku cuma bercanda! Maaf!
+44/3
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\c[4]Gray Rat：\c[0]    Hmmmph\..\..\..
+\CBid[-1,8]\SETpl[GrayRatNormal]\PLF\prf\c[4]Gray Rat：\c[0]    Nona sedang menunggu Anda di halaman belakang, tolong coba bicara padanya.
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Aku akan berusaha sebaik mungkin...
+
+#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

@@ -1,0 +1,680 @@
+notice/ExtOverWrite
+\board[Rekan non-tempur]
+Kamu hanya diperbolehkan membawa satu \c[6]rekan non-tempur\c[0] dalam kelompokmu!
+Rekan non-tempur yang saat ini ada di kelompokmu akan meninggalkan tim, jika kamu mencoba menyewa yang baru.
+Menyewa rekan non-tempur ke dalam kelompokmu selama misi pengawalan akan menyebabkan kamu gagal dalam misi tersebut.
+Kamu harus memutuskan, apakah kamu akan menggagalkan misimu saat ini? Atau menelantarkan rekan non-tempur?
+
+Companion/Accept
+Terima? \optD[Gak jadi,Oke]
+
+Companion/TeamUp
+Ajak bergabung
+
+Companion/Follow
+Ikuti
+
+Companion/Wait
+Tunggu
+
+Companion/Other
+Lainnya
+
+Companion/Disband
+Bubarkan
+
+Companion/SetFoe
+Atur permusuhan rekan terhadap
+
+Companion/Purr
+Mendengkur
+
+Companion/Extension
+Perpanjang waktu
+
+################################# COMMON COMP INFO
+
+CompWarrior/CompData
+\board[Mercenary Warrior]
+\C[2]Posisi：\C[0]Depan
+\C[2]Tipe Tempur：\C[0]Melee, Pertahanan
+\C[2]Alignment：\C[0]Kriminal (Jahat)
+\C[2]Memusuhi：\C[0]Makhluk Jahat, Penjaga Noer
+\C[2]Biaya：\C[0]2 Bir\i[590]
+\C[2]Durasi：\C[0]2 Hari
+Tentara bayaran jarak dekat biasa yang bisa disewa.
+
+CompArcher/CompData
+\board[Mercenary Archer]
+\C[2]Posisi：\C[0]Belakang
+\C[2]Tipe Tempur：\C[0]Jarak Jauh, Tembakan Melengkung
+\C[2]Alignment：\C[0]Kriminal (Jahat)
+\C[2]Memusuhi：\C[0]Makhluk Jahat, Penjaga Noer
+\C[2]Biaya：\C[0]2 Bir\i[590]
+\C[2]Durasi：\C[0]2 Hari
+Tentara bayaran jarak jauh biasa yang bisa disewa.
+
+CompCommon/Comp_disband
+\CBid[-1,20]\c[4]Mercenary Mabuk：\c[0]    Beliin a'u minum lagi nanti... *HUEK*!
+
+CompHumanWarrior/Comp_disband
+\CBid[-1,20]\c[4]Mercenary Mabuk：\c[0]    Aku mabok bangeeet... *HUEEEK*!
+
+CompHumanBow/Comp_disband
+\CBid[-1,20]\c[4]Mercenary Mabuk：\c[0]    Nggaaak! AKU BUKAN PECANDU ALKOHOL!!!
+
+CompCommon/Comp_win
+\CBid[-1,20]\c[4]Mercenary Mabuk：\c[0]    *Urp*! Ayo kita lakuin bareng-bareng.
+
+CompCommon/Comp_failed
+\CBid[-1,5]\Lshake\prf\c[4]Mercenary Mabuk：\c[0]    \{Woi! Aku butuh minum sekarang juga!
+\CBct[6]\m[sad]\c[6]Lona：\c[0]    Maaf...
+
+CompCommon/Slave_failed0
+\CBid[-1,5]\Lshake\prf\c[4]Mercenary Mabuk：\c[0]    Omongan bodoh macam apa itu buat seorang budak!
+\CBct[6]\m[sad]\c[6]Lona：\c[0]    Maaf...
+
+CompCommon/Slave_failed1
+\CBid[-1,5]\Lshake\prf\c[4]Mercenary Mabuk：\c[0]    \{Sama kamu?! \}Budak tuh gunanya cuma buat ngisep k*nt*lku doang!
+\CBct[6]\m[sad]\c[6]Lona：\c[0]    Maaf...
+
+CompCommon/Slave_failed2
+\CBid[-1,5]\Lshake\prf\c[4]Mercenary Mabuk：\c[0]    \{Kamu budak?! Enyah sana! Pergi dari sini!
+\CBct[6]\m[sad]\c[6]Lona：\c[0]    Maaf...
+
+CompWarrior/begin
+\SETpl[MobHumanWarrior]\prf\c[4]Mercenary Mabuk：\c[0]    *Huek*! Butuh apha?
+
+CompArcher/begin
+\SETpl[MobMootBow]\prf\c[4]Mercenary Mabuk：\c[0]    *Huek*! Ada apha?
+CompRogue/OvermapPop0
+Cewek-cewek di gang belakang kelihatan oke banget.
+
+CompRogue/OvermapPop1
+Aku mau beli budak juga ah.
+
+CompRogue/OvermapPop2
+Aku pengen banget bunuh sesuatu.
+
+CompRogue/OvermapPop3
+*HUEEEK*!
+
+####################################################################################################################################################
+
+CompWarSister/CompData
+\board[War Sister]
+\C[2]Posisi：\C[0]Belakang
+\C[2]Tipe Tempur：\C[0]Melee, Pertahanan, Tembakan Melengkung
+\C[2]Alignment：\C[0]Perkumpulan Santo (Baik)
+\C[2]Memusuhi：\C[0]Manusia Ikan/Deepones, Mayat Hidup, Abomination
+\C[2]Biaya：\C[0]1 Air Suci, Weak kurang dari 100\i[46]
+\C[2]Durasi：\C[0]5 Hari
+Seorang putri Santo dan gadis keadilan.
+
+CompWarSister/begin
+\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Sister：\c[0]    Karena Sang Santo adalah ayahku yang pengasih...
+
+CompWarSister/Comp_disband
+\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Sister：\c[0]    Jangan tinggalkan Santo, karena iman akan menjadi pedangmu!
+
+CompWarSister/Comp_win
+\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Sister：\c[0]    Sang Santo akan memimpin kita semua menuju surga.
+
+CompWarSister/Comp_failed
+\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Sister：\c[0]    Aku tidak punya belas kasihan lagi untuk orang kafir sepertimu.
+\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Maaf...
+
+CompWarSister/Weak_failed
+\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Sister：\c[0]    Kamu tidak layak menerima rahmat Santo.
+\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Maaf...
+
+CompWarSister/End
+\CBid[-1,20]\SETpl[WarSister]\Lshake\c[4]War Maiden：\c[0]    JANGAN BERI MEREKA AMPUN!
+
+CompWarSister/Fated_enemy
+\narr Rekanmu berseru bahwa yang tidak murni harus menghadapi penghakiman!
+
+CompWarSister/OvermapPop0
+Belas kasihan itu untuk yang lemah!
+
+CompWarSister/OvermapPop1
+ATAS NAMA SANTO!
+
+CompWarSister/OvermapPop2
+Tidak ada waktu untuk mengasihani orang yang tidak percaya.
+
+CompWarSister/OvermapPop3
+BERSIHKAN DAN HANCURKAN!
+
+####################################################################################################################################################
+
+CompOrkindSlayer/CompData
+\board[Orkind Slayer]
+\C[2]Posisi：\C[0]Depan
+\C[2]Tipe Tempur：\C[0]Melee, Pertahanan, Skill Seks
+\C[2]Alignment：\C[0]Sybaris (Netral)
+\C[2]Memusuhi：\C[0]Orkind, Orc. Dan ya, Goblin
+\C[2]Biaya：\C[0]1 Sup Enak\i[110]
+\C[2]Durasi：\C[0]3.5 Hari
+Seorang pembalas dendam yang paranoid... Apa aku sudah bilang dia benci Orc dan Goblin?
+
+CompOrkindSlayer/begin
+\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    Mereka membunuh keluargaku...
+\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    AKU HARUS BUNUH SEMUA ORKIND!
+
+CompOrkindSlayer/Comp_disband
+\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    Tidak! Aku mau membunuh lebih banyak Orkind!
+
+CompOrkindSlayer/Comp_win
+\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    Maju! Kita akan bantai banyak Orc dan Goblin bersama-sama!!!
+
+CompOrkindSlayer/Comp_failed
+\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    Grrr! Ini tidak ada hubungannya dengan Orkind!
+\CBct[6]\m[sad]\plf\c[6]Lona：\c[0]    Maaf...
+
+CompOrkindSlayer/Slave_failed
+\SETpl[OrkindSlayer]\Lshake\prf\CBid[-1,20]\c[4]Orkind Slayer：\c[0]    Apa yang bisa dilakukan budak, selain jadi umpan?!
+\CBct[6]\m[sad]\plf\c[6]Lona：\c[0]    Maaf...
+
+CompOrkindSlayer/OrkindGroup_run
+\SETpl[OrkindSlayer]\Lshake\prf\c[4]Orkind Slayer：\c[0]    TIDAAAK!!! SEMUA ORC DAN GOBLIN HARUS MATI!!!
+CompOrkindSlayer/OvermapPop0
+Aku rindu sup buatan adikku...
+
+CompOrkindSlayer/OvermapPop1
+Ini bukan Orkind!
+
+CompOrkindSlayer/OvermapPop2
+Hancurkan semua tulang Orkind!
+
+CompOrkindSlayer/OvermapPop3
+Bunuh semua Orkind!
+
+####################################################################################################################################################
+
+CompHumanExplorer/CompData
+\board[Jobless Treasure Hunter]
+\C[2]Posisi：\C[0]Belakang
+\C[2]Tipe Tempur：\C[0]Stunner, Counter-trap, Lentera
+\C[2]Alignment：\C[0]Netral
+\C[2]Memusuhi：\C[0]Makhluk Jahat
+\C[2]Biaya：\C[0]1 Sup Daging\i[108]
+\C[2]Durasi：\C[0]2.5 Hari
+\C[2]Catatan：\C[0]Setiap kali peta area diperbarui, -20 untuk Bahaya Lingkungan.
+Seorang petualang yang terjebak di pulau terkutuk ini.
+
+CompHumanExplorer/begin
+\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Aku ingin menjelajahi reruntuhan bawah tanah Sybaris.
+\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Sekarang aku terjebak di sini, buat makan aja gak mampu.
+\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Apa kamu butuh tempat yang perlu dijelajahi?\n Belikan aku makan dulu dan aku akan membantumu.
+
+CompHumanExplorer/Comp_disband
+\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Sialan, gimana makanku buat besok?!
+
+CompHumanExplorer/Comp_win
+\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Makasih nak!
+
+CompHumanExplorer/Comp_failed
+\SETpl[IndianaJones]\Lshake\prf\CBid[-1,20]\c[4]Treasure Hunter：\c[0]    Kamu bercanda ya?!
+
+CompHumanExplorer/OvermapPop0
+Pernah ke reruntuhan Timur?
+
+CompHumanExplorer/OvermapPop1
+Ular! Aku benci ular!!!
+
+CompHumanExplorer/OvermapPop2
+Harusnya ada relik Dewa-dewa lama di pulau ini.
+
+CompHumanExplorer/OvermapPop3
+Reruntuhan bawah tanah Sybaris itu spektakuler.
+
+####################################################################################################################################################
+
+CompKitten/CompData
+\board[Kitty]
+\C[2]Posisi：\C[0]Belakang
+\C[2]Tipe Tempur：\C[0]Tidak Diketahui
+\C[2]Alignment：\C[0]Hewan
+\C[2]Memusuhi：\C[0]Netral
+\C[2]Biaya：\C[0]1 Ikan\i[292]
+\C[2]Durasi：\C[0]Sesuka hatinya mau pergi kapan.
+\C[2]Catatan：\C[0]Kucing yang tampak jahat.
+Kelihatannya dia meremehkanmu...
+
+CompKitten/begin
+\CBid[-1,8]\c[4]Kitty：\c[0]    ........
+
+CompKitten/Comp_disband
+\CBid[-1,8]\c[4]Kitty：\c[0]   ...Meong!
+
+CompKitten/Comp_win
+\CBid[-1,3]\c[4]Kitty：\c[0]    *Purrrr*... ♥
+
+CompKitten/Comp_failed
+\CBid[-1,5]\c[4]Kitty：\c[0]    *HISSS*!
+
+CompKitten/Command
+\CBid[-1,5]\c[4]Kitty：\c[0]    *HIIISS*!
+
+CompKitten/OPT_PURR
+\CBid[-1,3]\c[4]Kitty：\c[0]    *Purr*... Meng...
+\narr\..\..\..\..
+\CBct[8]\narrOFF\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Aku gak tahu kenapa... Tapi tiba-tiba aku merasa jauh lebih bahagia!
+
+####################################################################################################################################################
+
+CompDoggy/CompData
+\board[Doggy]
+\C[2]Posisi：\C[0]Depan
+\C[2]Tipe Tempur：\C[0]Melee Cepat, Counter-trap
+\C[2]Alignment：\C[0]Hewan
+\C[2]Memusuhi：\C[0]Dipilih oleh Lona
+\C[2]Biaya：\C[0]1 Sup Daging\i[108]
+\C[2]Durasi：\C[0]Tidak Ada
+\C[2]Catatan：\C[0]Setiap kali peta area diperbarui, -20 untuk Bahaya Lingkungan.
+Anjing kampung liar tanpa harga diri. Gampang disogok.
+
+CompDoggy/begin
+\CBid[-1,20]\c[4]Doggy：\c[0]    Guk! Guk!
+
+CompDoggy/Comp_disband
+\CBid[-1,20]\SndLib[dogDead]\c[4]Doggy：\c[0]   *Melengking*...~
+
+CompDoggy/Comp_win
+\CBid[-1,20]\c[4]Doggy：\c[0]    GUK! ♥
+
+CompDoggy/Comp_failed
+\CBid[-1,5]\c[4]Doggy：\c[0]    Grrrrrr!
+
+CompDoggy/Command
+\CBid[-1,20]\SndLib[dogSpot]\c[4]Doggy：\c[0]    Guk guk!
+
+CompDoggy/SetupFateEnemy
+Pilih NPC, Makhluk, atau Alignment mana yang harus diserang Doggy saat terlihat!\optD[Tidak Ada,Serang Alignment Jahat,Serang Alignment Baik,Hewan<r=HiddenOPT0>,Orkind<r=HiddenOPT1>,Manusia Ikan/Deepones<r=HiddenOPT2>,Abomination<r=HiddenOPT3>,Mayat Hidup<r=HiddenOPT4>]
+
+####################################################################################################################################################
+
+CompHumanSpear/CompData
+\board[Drug-addicted Mercenary]
+\C[2]Posisi：\C[0]Depan
+\C[2]Tipe Tempur：\C[0]Melee Cepat
+\C[2]Alignment：\C[0]Netral
+\C[2]Memusuhi：\C[0]Makhluk Jahat
+\C[2]Biaya：\C[0]1 Rumput Naga Putih\i[203]
+\C[2]Durasi：\C[0]3 Hari
+Seorang tentara bayaran yang kecanduan Rumput Naga Putih.
+
+CompHumanSpear/begin
+\CBid[-1,6]\c[4]Pecandu：\c[0]    Lu punya Rumput Naga Putih? Kumohon! Bagi satu aja! 1 Rumput Naga Putih!
+
+CompHumanSpear/Comp_disband
+\CBid[-1,6]\c[4]Pecandu：\c[0]    Bagi dikit lagi! Dikit aja!
+
+CompHumanSpear/Comp_win
+\CBid[-1,6]\c[4]Pecandu：\c[0]    Siniin! Kasih ke aku! Cepetan!
+
+CompHumanSpear/Comp_failed
+\CBid[-1,6]\c[4]Pecandu：\c[0]    Gak... Rumput Naga Putih! AKU BUTUH ITU!!!
+
+CompHumanSpear/OvermapPop0
+Punya Rumput?
+
+CompHumanSpear/OvermapPop1
+Huuu hee heeee...
+
+CompHumanSpear/OvermapPop2
+Ooh hee heeee...
+
+CompHumanSpear/OvermapPop3
+Itu Rumput Naga ya?
+
+####################################################################################################################################################
+
+CompElfArcher/CompData
+\board[Elven Archer]
+\C[2]Posisi：\C[0]Belakang
+\C[2]Tipe Tempur：\C[0]Jarak Jauh, Tembakan Melengkung
+\C[2]Alignment：\C[0]Netral
+\C[2]Memusuhi：\C[0]Makhluk Jahat
+\C[2]Biaya：\C[0]600 Poin Dagang
+\C[2]Durasi：\C[0]3 Hari
+\C[2]Catatan：\C[0]Setiap kali peta area diperbarui, -20 untuk Bahaya Lingkungan.
+Seorang Pemanah Elf yang terjebak di pulau ini. Dia tampak kecewa dan bosan.
+
+CompElfArcher/begin
+\CBid[-1,20]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Kukira dunia manusia bakal menyenangkan dan penuh petualangan, tapi aku salah...
+\CBid[-1,20]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Ya, aku seorang Elf! ...Dan enggak, kami gak berak!
+\CBid[-1,20]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Aku muak dengan tempat mengerikan ini! Aku harus nabung uang biar bisa pulang ke rumah!
+
+CompElfArcher/Comp_disband
+\CBid[-1,20]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Senang bekerja sama denganmu.
+
+CompElfArcher/Comp_win
+\CBid[-1,20]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Akhirnya, waktunya berpetualang!
+
+CompElfArcher/Comp_failed
+\CBid[-1,5]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Sudah kuduga! Semua manusia itu PEMBOHONG!
+
+CompElfArcher/Comp_failed_slave
+\CBid[-1,5]\SETpl[ElfArcher]\Lshake\c[4]Elven Archer：\c[0]    Budak kotor? Enyah sana!
+
+CompElfArcher/OvermapPop0
+Kemana perginya semua pria baik?
+
+CompElfArcher/OvermapPop1
+Ini murni otot, bukan lemak!
+
+CompElfArcher/OvermapPop2
+Manusia itu jorok banget!
+
+CompElfArcher/OvermapPop3
+YES! Kami gak pake toilet!
+
+CompElfArcher/CompFile
+\SETpl[ElfArcher]...
+
+####################################################################################################################################################
+
+CompHumanScout/CompData
+\board[Guide]
+\C[2]Posisi：\C[0]Depan
+\C[2]Tipe Tempur：\C[0]Melee, Lentera
+\C[2]Alignment：\C[0]Netral
+\C[2]Memusuhi：\C[0]Makhluk Jahat
+\C[2]Biaya：\C[0]600 Poin Dagang
+\C[2]Durasi：\C[0]3 Hari
+Seorang pensiunan tentara, sekarang bekerja sebagai pemandu bagi orang lain.
+
+CompHumanScout/begin
+\CBid[-1,20]\c[4]Pemandu：\c[0]    Keluargaku tinggal di pelabuhan Noer. Lihat, ini potret mereka.
+\CBid[-1,20]\c[4]Pemandu：\c[0]    Aku cuma di sini buat nafkahin keluargaku, di mana kamu butuh bantuanku?
+
+CompHumanScout/Comp_disband
+\CBid[-1,20]\c[4]Pemandu：\c[0]    Oke, aku sebaiknya pulang juga.
+
+CompHumanScout/Comp_win
+\CBid[-1,20]\c[4]Pemandu：\c[0]    Baiklah kalau begitu, ayo lakukan ini.
+
+CompHumanScout/Comp_failed
+\CBid[-1,5]\c[4]Pemandu：\c[0]    Maaf, gak tertarik.
+
+CompHumanScout/Comp_failed_slave
+\CBid[-1,5]\c[4]Pemandu：\c[0]    Balik sana ke tuanmu, budak.
+
+CompHumanScout/OvermapPop0
+Anakku seumuran sama kamu.
+
+CompHumanScout/OvermapPop1
+Pernah ke Pulau Nelayan?
+
+CompHumanScout/OvermapPop2
+Pantai Utara itu indah...
+
+CompHumanScout/OvermapPop3
+Lihat, ini anakku.
+
+####################################################################################################################################################
+
+CompFishGuard/CompData
+\board[Fishtopia Body Guard]
+\C[2]Posisi：\C[0]Belakang
+\C[2]Tipe Tempur：\C[0]Melee, Grab
+\C[2]Alignment：\C[0]Manusia Ikan
+\C[2]Memusuhi：\C[0]Makhluk Jahat, Perkumpulan Santo
+\C[2]Biaya：\C[0]Sifat Nymphomaniac atau Pelacur
+\C[2]Durasi：\C[0]3 Hari
+Seorang prajurit dari suku Fishtopia. Lajang, ingin kawin.
+
+CompFishGuard/begin
+\CBid[-1,4]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    Bau gadis...! Aku harus... Lindungi gadis...!
+
+CompFishGuard/sex0
+\CBid[-1,4]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    Aku lindungi kamu! Tapi mau... Kawin... Nanti...!!!
+
+CompFishGuard/sex1
+\CBid[-1,4]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    Guu-Huuhee... ♥ Sehat... Gadis... Kawin... ♥♥♥
+
+CompFishGuard/Comp_disband
+\CBid[-1,6]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    Aku... Masih mau... Kawin...!
+
+CompFishGuard/Comp_win
+\CBid[-1,4]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    M*mek gadis... *Endus* M*mek... Bau enak... ♥
+
+CompFishGuard/Comp_failed
+\CBid[-1,5]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    M*mek gadis... *Endus* M*mek... Buruk! BURUK!
+
+CompFishGuard/Comp_failed_slave
+\CBid[-1,5]\SndLib[FishkindLgSpot]\c[4]Body Guard：\c[0]    Budak... Balik... Desa... Lahirkan... Banyak anak...
+
+CompFishGuard/OvermapPop0
+Aku... Mau... Kawin...
+
+CompFishGuard/OvermapPop1
+Kamu bakal... Lahirkan banyak
+
+CompFishGuard/OvermapPop2
+M*mek... Mau kawin...
+
+CompFishGuard/OvermapPop3
+Tujuan gadis cuma... Banyak bayi...
+
+####################################################################################################################################################
+
+CompFishShaman/CompData
+\board[Novice Fishkind Shaman]
+\C[2]Posisi：\C[0]Belakang
+\C[2]Tipe Tempur：\C[0]Jarak Jauh, Sihir, Tembakan Melengkung
+\C[2]Alignment：\C[0]Manusia Ikan
+\C[2]Memusuhi：\C[0]Makhluk Jahat, Perkumpulan Santo
+\C[2]Biaya：\C[0]Sifat Nymphomaniac atau Pelacur
+\C[2]Durasi：\C[0]3 Hari
+Seorang dukun Manusia Ikan pemula. Ingin sekali menjelajahi dunia.
+
+CompFishShaman/begin
+\CBid[-1,4]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Muda... Kulit gelap... Gadis... Segar... Mau cicip... ♥ Penyihir Laut memberkatimu...♥
+
+CompFishShaman/sex0
+\CBid[-1,4]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Guu-Hee! ♥ Kawin sama aku... Gadis! Jus benihku... Diberkati oleh Penyihir Laut...
+
+CompFishShaman/sex1
+\CBid[-1,4]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Guu ♥ Guu-Heehee! ♥ Benihku... Akan bikin kamu... Hamil!!! ♥
+
+CompFishShaman/Comp_disband
+\CBid[-1,6]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Jangan pergi... Aku suka... Daging gelap... Gadis... ♥
+
+CompFishShaman/Comp_win
+\CBid[-1,4]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Puji Penyihir Laut...! Karena dia telah... Memberkatiku dengan... Pasangan!
+
+CompFishShaman/Comp_failed
+\CBid[-1,5]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Penyihir Laut... Telah meninggalkanku! Vagina jelek...!
+
+CompFishShaman/Comp_failed_slave
+\CBid[-1,5]\SndLib[FishkindSmSpot]\c[4]Dukun：\c[0]    Budak...! Balik... Ke desa!
+
+CompFishShaman/OvermapPop0
+Itu... Gadis...!
+
+CompFishShaman/OvermapPop1
+Semua vagina... Aku mau...!
+
+CompFishShaman/OvermapPop2
+Kulit gelap... Mau cicip...
+
+CompFishShaman/OvermapPop3
+Penyihir Laut... Memberkatiku!
+
+################################## fishkind follower unique sex dialog.
+
+Lona/notWhore0
+\CBct[6]\m[flirty]\c[6]Lona：\c[0]    Ummm... Dipikir-pikir, gak jadi deh.
+
+Lona/notWhore1
+\CBct[6]\m[sad]\c[6]Lona：\c[0]    Maaf...
+
+CompFish/Extension
+\narr Dia bisa memperpanjang layanannya 2 hari lagi. Hanya jika Lona memuaskan hasrat seksualnya...
+
+####################################################################################################################################################
+
+CompFireMage/CompData
+\board[Fire Magician]
+\C[2]Posisi：\C[0]Belakang
+\C[2]Tipe Tempur：\C[0]Jarak Jauh, Sihir
+\C[2]Alignment：\C[0]Netral
+\C[2]Memusuhi：\C[0]Makhluk Jahat
+\C[2]Biaya：\C[0]1 Ramuan Biru atau 2 Rumput Naga Putih\i[213]\i[203]
+\C[2]Durasi：\C[0]2.5 Hari
+Seorang penyihir wanita yang miskin tapi berbakat.
+
+CompFireMage/begin
+\SETpl[FireMageF]\Lshake\CBid[-1,20]\c[4]Penyihir Api：\c[0]    Guh... Aku capek banget.
+
+CompFireMage/Comp_disband
+\SETpl[FireMageF]\Lshake\CBid[-1,20]\c[4]Penyihir Api：\c[0]    Hei... Kenapa gak ada tentara bayaran lain yang mau setim sama aku?
+
+CompFireMage/Comp_win
+\SETpl[FireMageF]\Lshake\CBid[-1,20]\c[4]Penyihir Api：\c[0]    Seriusan?! Makasih banyak ya!
+
+CompFireMage/Comp_failed
+\SETpl[FireMageF]\Lshake\CBid[-1,20]\c[4]Penyihir Api：\c[0]    Ugh... Capek bangeeet...
+
+CompFireMage/OvermapPop0
+Aku suka banget bau gosong!
+
+CompFireMage/OvermapPop1
+Aku cuma mau bakar dunia ini... sampai... HANGUS!
+
+CompFireMage/OvermapPop2
+Bisa gak sih seluruh dunia ini jadi abu aja? Plis?
+
+CompFireMage/OvermapPop3
+Aku pengen banget mainan kembang api...
+
+CompFireMage/OvermapPop4
+Gak ada yang bisa memadamkan api di hatiku!
+
+####################################################################################################################################################
+
+CompMusketeer/CompData
+\board[Musketeer]
+\C[2]Posisi：\C[0]Belakang
+\C[2]Tipe Tempur：\C[0]Jarak Jauh, Tembakan Melengkung, Stealth
+\C[2]Alignment：\C[0]Penjaga Noer
+\C[2]Memusuhi：\C[0]Makhluk Jahat
+\C[2]Biaya：\C[0]4 Botol Bir\i[361]
+\C[2]Durasi：\C[0]5 Hari
+\C[2]Catatan：\C[0]Bisa gunakan #{$story_stats["HiddenOPT0"]}+#{$story_stats["HiddenOPT1"]} untuk memicu stealth, tidak akan aktif menyerang musuh saat mengendap-endap.
+Seorang prajurit elit transferan dari \c[4]Kerajaan Ingalend\c[0], ahli dalam stealth dan penggunaan musket.
+Sayangnya dia menderita kerusakan otak karena kurang cuti dalam waktu yang sangat lama.
+Yap. Seorang marinir yang kejam, hijau, dan terbelakang mental.
+
+CompMusketeer/begin_nonInGroup
+\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    BERHENTI! APA KATA SANDINYA?!
+
+CompMusketeer/begin
+\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    SIAAAP! HORMAT, PAK!
+
+CompMusketeer/Comp_disband
+\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    Ambil cuti? TANPA PERMINTAAN DAN WEWENANG YANG SESUAI UNTUK ABSEN?! MENINGGALKAN POS DAN PASUKANKU?!
+\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    \{ITU SANGAT TIDAK MUNGKIN, PAK!
+
+CompMusketeer/Comp_win
+\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    SIAP LAKSANAKAN!
+
+CompMusketeer/Comp_failed
+\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    INI TINDAKAN DISIPLIN YANG SALAH! SAYA INGIN BANDING!
+
+CompMusketeer/Weak_failed
+\SETpl[Musketeer]\Lshake\CBid[-1,20]\c[4]Musketeer：\c[0]    KAMU BERANI MEMBERIKU PERINTAH? PANGKATMU GAK CUKUP!
+
+CompMusketeer/CommonPop0
+SIAP LAKSANAKAN, PAK!
+
+CompMusketeer/CommonPop1
+DIMENGERTI!
+
+CompMusketeer/OvermapPop0
+SATU DUA SATU DUA SATU DUA!
+
+CompMusketeer/OvermapPop1
+KEHORMATAN! KEBERANIAN! KOMITMEN!
+
+CompMusketeer/OvermapPop2
+OORAH! HOOAH!
+
+CompMusketeer/OvermapPop3
+HORMAAAT-! -SENJATAA!
+
+######################################################################## 
+
+########################################################################
+
+CompNinjaKiller/CompData
+\board[Myopic Assassin]
+\C[2]Posisi：\C[0]Depan
+\C[2]Tipe Tempur：\C[0]Melee
+\C[2]Alignment：\C[0]Sybaris
+\C[2]Memusuhi：\C[0]Makhluk Jahat
+\C[2]Biaya：\C[0]20 Kunai Lempar\i[58]
+\C[2]Durasi：\C[0]5 Hari
+\C[2]Catatan：\C[0]Bisa gunakan #{$story_stats["HiddenOPT0"]}+#{$story_stats["HiddenOPT1"]}untuk aktifkan mengendap，tidak akan aktif menyerang saat mengendap.\n
+\n
+Seorang prajurit di Sybaris yang jadi besar kepala setelah bersentuhan dengan budaya timur.\n
+Meski dia mungkin punya kepercayaan diri dalam pembunuhan, sayangnya dia rabun jauh.
+
+CompNinjaKiller/begin_nonInGroup0
+\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    DOMO!
+
+CompNinjaKiller/begin_nonInGroup1
+\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Kacamata？
+\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Namu Amida Butsu！Aku gak rabun jauh！Ini alat sihir buat memindai KEKUATAN-TEMPURU！
+
+CompNinjaKiller/begin
+\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Semua SHUGYO yang kuterima adalah demi hari ini!
+
+CompNinjaKiller/Comp_disband
+\CBid[-1,6]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Apa kau sudah menyerah pada JINSEI-mu?
+
+CompNinjaKiller/Comp_win
+\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Ayo kita beri pelajaran para ZAKO ini!
+
+CompNinjaKiller/Comp_failed
+\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Kau belum membuktikan padaku POWER LEVEL-mu.
+
+CompNinjaKiller/Weak_failed
+\CBid[-1,20]\SETpl[NinjaKiller]\Lshake\c[4]Eastern Assassin：\c[0]    Orang lemah tidak layak!
+
+CompNinjaKiller/CommonPop0
+ME! SA! TSU!
+
+CompNinjaKiller/CommonPop1
+NINJA! TANPA AMPUN!
+
+CompNinjaKiller/OvermapPop0
+Bakana! Para filsuf telah meramalkan ini!
+
+CompNinjaKiller/OvermapPop1
+Timur tidak punya hal seperti ini? Bakana!
+
+CompNinjaKiller/OvermapPop2
+Salah pahamku? Bakana!
+
+CompNinjaKiller/OvermapPop3
+Bakana! Ninja pasti ada!
+
+####################################################################################################################################################
+
+CompHorseCarry/CompData
+\board[Draft Horse]
+\C[2]Posisi：\C[0]Non-tempur
+\C[2]Alignment：\C[0]Hewan
+\C[2]Memusuhi：\C[0]Tidak Ada
+Kamu boleh menyewa hewan ini setiap setengah hari seharga #{$story_stats["HiddenOPT1"]}P.
+Kuda beban memiliki Kapasitas Bawaan yang besar.
+Pastikan untuk mengambil barang simpananmu dari kuda beban sebelum dibubarkan, meninggalkan kelompokmu, atau mati.
+Jika tidak, kamu akan kehilangan semua barang yang disimpan di kuda tersebut.
+
+
+#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+*TL note, CompMusketeer/OvermapPop's texts have been rewritten/westernized from CHT to fit western military for ENG readers.
