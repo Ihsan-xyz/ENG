@@ -1,113 +1,113 @@
 ############################## pointed Ending ########################################
 bat/Eaten
-\SndLib[sound_combat_hit_gore]\ph\narr\Rflash A swarm of bats lunged at Lona...
-\SndLib[sound_combat_hit_gore]\Rflash They gnawed at her flesh with razor-sharp teeth....
-\SndLib[sound_combat_hit_gore]\Rflash Their tiny bodies couldn’t consume her all at once...
-\SndLib[sound_combat_hit_gore]\Rflash And so, Lona struggled for a full hour before she finally died...
+\SndLib[sound_combat_hit_gore]\ph\narr\Rflash Sekawanan kelelawar menerjang Lona...
+\SndLib[sound_combat_hit_gore]\Rflash Mereka menggerogoti dagingnya dengan gigi setajam silet...
+\SndLib[sound_combat_hit_gore]\Rflash Tubuh mungil mereka tidak bisa memakannya sekaligus...
+\SndLib[sound_combat_hit_gore]\Rflash Dan begitulah, Lona berjuang selama satu jam penuh sebelum akhirnya dia mati...
 
 undead/Eaten
-\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash The undead horde swarmed Lona's body.
-\SND[SE/Gore_hit2.ogg]\Rflash Their rotten teeth constantly ripped away skin and meat from the flesh of the girl.
-\SND[SE/Gore_hit3.ogg]\Rflash Lona's pain and suffering lasted for a long time...
+\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash Gerombolan mayat hidup mengerumuni tubuh Lona.
+\SND[SE/Gore_hit2.ogg]\Rflash Gigi busuk mereka terus-menerus merobek kulit dan daging dari tubuh gadis itu.
+\SND[SE/Gore_hit3.ogg]\Rflash Rasa sakit dan penderitaan Lona berlangsung untuk waktu yang lama...
 
 wolf/Eaten
-\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash The pack of wolves surrounded Lona.
-\SND[SE/Gore_hit2.ogg]\Rflash Their sharp, canine teeth greedily sank into the girl's neck and body.
-\SND[SE/Gore_hit3.ogg]\Rflash Lona's pain and suffering did not last long. She was quickly put out of her misery...
+\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash Kawanan serigala mengepung Lona.
+\SND[SE/Gore_hit2.ogg]\Rflash Gigi taring tajam mereka dengan rakus menancap di leher dan tubuh gadis itu.
+\SND[SE/Gore_hit3.ogg]\Rflash Rasa sakit dan penderitaan Lona tidak berlangsung lama. Dia dengan cepat dibebaskan dari penderitaannya...
 
 KillerRabbit/Eaten
-\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash Lona was eaten by the cute wittle bunny wabbit...
-\SND[SE/Gore_hit2.ogg]\Rflash We will remember her dearly...
+\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash Lona dimakan oleh kelinci kecil yang imut...
+\SND[SE/Gore_hit2.ogg]\Rflash Kami akan mengenangnya dengan penuh kasih...
 
 ############################# Death ENDING ########################################
 Lona/hp0_begin
-\ph\SETpl[TellerNormal]\SETpr[nil]\c[4]Fortune Teller：\c[0]    Alas...\n It seems that our hero has finally perished in this cruel world.
-\SETpl[TellerNormal]\c[4]Fortune Teller：\c[0]    Will anyone even remember Lona and her deeds...?
+\ph\SETpl[TellerNormal]\SETpr[nil]\c[4]Peramal：\c[0]    Sayang sekali...\n Sepertinya pahlawan kita akhirnya binasa di dunia yang kejam ini.
+\SETpl[TellerNormal]\c[4]Peramal：\c[0]    Akankah ada yang mengingat Lona dan perbuatannya...?
 
 Lona/hp0_WithChild
-\SETpl[TellerEyeClosed]\c[4]Fortune Teller：\c[0]    Oh? But, it seems she has left behind a heir!\n
-Allowing the child to inherit her mother's powers is also an option...\n
-\SETpl[TellerConfused]\c[4]Fortune Teller：\c[0]    Well then. Choose your final fate......
+\SETpl[TellerEyeClosed]\c[4]Peramal：\c[0]    Oh? Tapi, sepertinya dia meninggalkan seorang pewaris!\n
+Membiarkan anak itu mewarisi kekuatan ibunya juga merupakan sebuah pilihan...\n
+\SETpl[TellerConfused]\c[4]Peramal：\c[0]    Baiklah. Pilih takdir terakhirmu......
 
 Lona/hp0_WithChild_choosed0
-\SETpl[TellerOkay]\c[4]Fortune Teller：\c[0]    A wise choice...\n Like a Phoenix, arise!!!
+\SETpl[TellerOkay]\c[4]Peramal：\c[0]    Pilihan yang bijak...\n Seperti Phoenix, bangkitlah!!!
 
 Lona/hp0_WithChild_choosed1
 \ph\cgoff\narr\{\..\..\..\..\..\..\WF[5]!
 
 Lona/hp0_WithChild_canceled
-\SETpl[TellerEyeClosed]\c[4]Fortune Teller：\c[0]    Is that so? No regrets, perhaps it's for the best to prevent a life of pain and suffering for the child...
+\SETpl[TellerEyeClosed]\c[4]Peramal：\c[0]    Begitukah? Tidak ada penyesalan, mungkin itu yang terbaik untuk mencegah hidup penuh rasa sakit dan penderitaan bagi sang anak...
 
 Lona/hp0_end
-\SETpl[TellerOkay]\c[4]Fortune Teller：\c[0]    I shall await your return. Please guide Lona to a better path in her next life......
+\SETpl[TellerOkay]\c[4]Peramal：\c[0]    Aku akan menanti kepulanganmu. Tolong bimbing Lona ke jalan yang lebih baik di kehidupan selanjutnya......
 
 ####################################### ENDING  ####################################################
 
 Common/EndingBegin
-\ph\SETpl[TellerEyeClosed]\c[4]Fortune Teller：\c[0]    \..\..\..\..\..\..
-\SETpl[TellerConfused]\c[4]Fortune Teller：\c[0]    And so, time continues to pass on...
-\SETpl[TellerNormal]\c[4]Fortune Teller\c[0]    In the meantime, let us see what has happened to everyone else...
+\ph\SETpl[TellerEyeClosed]\c[4]Peramal：\c[0]    \..\..\..\..\..\..
+\SETpl[TellerConfused]\c[4]Peramal：\c[0]    Dan begitulah, waktu terus berlalu...
+\SETpl[TellerNormal]\c[4]Peramal\c[0]    Sementara itu, mari kita lihat apa yang terjadi pada orang lain...
 
 Common/EndingLonaBegin
-\narr So... What happened to Lona?
+\narr Jadi... Apa yang terjadi pada Lona?
 
 ############################# Orkind ########################################
 
 Orkind/Common0
-\SND[SE/Book1]\narr\{The Orkinds\..\..\..
+\SND[SE/Book1]\narr\{Para Orkind\..\..\..
 
 Orkind/OrkindDestroyed1_ClearnNoerOrkindQuest
-\SndLib[sys_DialogBoard]\cg[map_guards]Due to the actions and diligence of the Mercenary Guild, the number of Orkinds around the Town of Noer had decreased significantly.
-\SndLib[sys_DialogBoard]\cg[map_region_PlainField]According to eyewitnesses and rumors, there was a thin and \c[4]flat-chested\c[0] girl among the mercenary ranks.
-\SndLib[sys_DialogBoard]\cg[map_region_PlainField]However...
-\SndLib[sys_DialogBoard]\cg[map_monster_camp]Of course, the results of their efforts were just temporary.
-\SndLib[sys_DialogBoard]\cg[map_NoerGate]The Orkinds' powerful reproduction speed allowed them to replace their dead almost immediately. Soon, Noer Town was once again surrounded by the green-skinned monsters.
-\SndLib[sys_DialogBoard]\cg[map_region_PlainField]So what kind of fate awaits the Orkinds?
+\SndLib[sys_DialogBoard]\cg[map_guards]Berkat tindakan dan ketekunan Serikat Mercenary, jumlah Orkind di sekitar Kota Noer telah berkurang secara signifikan.
+\SndLib[sys_DialogBoard]\cg[map_region_PlainField]Menurut saksi mata dan rumor, ada seorang gadis kurus dan \c[4]berdada rata\c[0] di antara barisan tentara bayaran.
+\SndLib[sys_DialogBoard]\cg[map_region_PlainField]Namun...
+\SndLib[sys_DialogBoard]\cg[map_monster_camp]Tentu saja, hasil usaha mereka hanya sementara.
+\SndLib[sys_DialogBoard]\cg[map_NoerGate]Kecepatan reproduksi Orkind yang kuat memungkinkan mereka mengganti yang mati dengan segera. Segera, Kota Noer sekali lagi dikelilingi oleh monster berkulit hijau itu.
+\SndLib[sys_DialogBoard]\cg[map_region_PlainField]Jadi nasib seperti apa yang menanti para Orkind?
 
 Orkind/OrkindDestroyed2
-\SndLib[sys_DialogBoard]\cg[event_OrkindGonnaRape]They raped any creature they saw.
-\SndLib[sys_DialogBoard]\cg[map_monster_camp]They consumed anything and everything in their path.
-\SndLib[sys_DialogBoard]\cg[map_monster_camp]In the end... Their unnatural reproduction speed caused them to overpopulate.
-\SndLib[sys_DialogBoard]\cg[map_monster_camp]The Orkinds were soon forced to gnaw on the flesh of the Abominations. Eventually, they even resorted to eating their own kind to survive.
-\SndLib[sys_DialogBoard]\cg[map_region_badland]After a few years, the green-skinned monsters joined their prey and completely disappeared from Noer Island...
+\SndLib[sys_DialogBoard]\cg[event_OrkindGonnaRape]Mereka memperkosa makhluk apa pun yang mereka lihat.
+\SndLib[sys_DialogBoard]\cg[map_monster_camp]Mereka memakan apa saja dan segala sesuatu yang menghalangi jalan mereka.
+\SndLib[sys_DialogBoard]\cg[map_monster_camp]Pada akhirnya... Kecepatan reproduksi mereka yang tidak wajar menyebabkan populasi berlebih.
+\SndLib[sys_DialogBoard]\cg[map_monster_camp]Para Orkind segera terpaksa menggerogoti daging Abomination. Akhirnya, mereka bahkan terpaksa memakan sesama jenis mereka untuk bertahan hidup.
+\SndLib[sys_DialogBoard]\cg[map_region_badland]Setelah beberapa tahun, monster berkulit hijau itu bergabung dengan mangsa mereka dan sepenuhnya menghilang dari Pulau Noer...
 
 ############################# FishKind ########################################
 
 FishKind/Common0
-\SND[SE/Book1]\narr\{The Fishkinds\..\..\..
+\SND[SE/Book1]\narr\{Para Fishkind\..\..\..
 
 FishKind/Common1
-\SndLib[sys_DialogBoard]\cg[map_FishPPL]After all of the chaos, the Fishkinds traveled back to their former home.
+\SndLib[sys_DialogBoard]\cg[map_FishPPL]Setelah semua kekacauan itu, para Fishkind melakukan perjalanan kembali ke rumah lama mereka.
 
 FishKind/Common2
-\SndLib[sys_DialogBoard]\cg[map_Shore]The Fishmen attempted to rebuild their homes on the uninhabited Noer Island.
+\SndLib[sys_DialogBoard]\cg[map_Shore]Para Manusia Ikan berusaha membangun kembali rumah mereka di Pulau Noer yang tidak berpenghuni.
 
 FishKind/FishKindFine3
-\SndLib[sys_DialogBoard]\cg[event_menses]Thanks to the might of their shamans, the Fishkinds' reproduction problem had finally been solved.
-\SndLib[sys_DialogBoard]\cg[event_menses]The Fishkinds no longer needed to rely on another species' females. They finally became a race equal to other intelligent creatures.
-\SndLib[sys_DialogBoard]\cg[event_FishPlane]In 1812, an elderly Fishman successfully traveled around the world in a homemade aircraft know as a Biplane.
-\SndLib[sys_DialogBoard]\cg[event_FishPlane]His book, For Father and Uncle Bubba, is a best-seller to this day.
+\SndLib[sys_DialogBoard]\cg[event_menses]Berkat kekuatan dukun mereka, masalah reproduksi Fishkind akhirnya terpecahkan.
+\SndLib[sys_DialogBoard]\cg[event_menses]Para Fishkind tidak perlu lagi bergantung pada betina spesies lain. Mereka akhirnya menjadi ras yang setara dengan makhluk cerdas lainnya.
+\SndLib[sys_DialogBoard]\cg[event_FishPlane]Pada tahun 1812, seorang Manusia Ikan tua berhasil keliling dunia dengan pesawat buatan sendiri yang dikenal sebagai Biplane.
+\SndLib[sys_DialogBoard]\cg[event_FishPlane]Bukunya, Untuk Ayah dan Paman Bubba, menjadi buku terlaris hingga hari ini.
 
 FishKind/FishKindDestroyed3
-\SndLib[sys_DialogBoard]\cg[map_region_NoerRoad]At first, the Fishmen thought they could live on Noer Island forever.
-\SndLib[sys_DialogBoard]\cg[map_region_badland]But, they forgot that Noer Island had been completely abandoned.
-\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]Thus, their Goddess had also forsaken them.
-\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]Without other females or a way to reproduce, the Fishkind tribes were facing a crisis.
-\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]No matter how much they pleaded and prayed, the Sea Witch remained silent.
-\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]Within a few decades, the Fishkind species disappeared into history.
+\SndLib[sys_DialogBoard]\cg[map_region_NoerRoad]Awalnya, para Manusia Ikan mengira mereka bisa tinggal di Pulau Noer selamanya.
+\SndLib[sys_DialogBoard]\cg[map_region_badland]Tapi, mereka lupa bahwa Pulau Noer telah sepenuhnya ditinggalkan.
+\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]Dengan demikian, Dewi mereka juga telah meninggalkan mereka.
+\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]Tanpa betina lain atau cara untuk bereproduksi, suku Fishkind menghadapi krisis.
+\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]Tidak peduli seberapa banyak mereka memohon dan berdoa, Penyihir Laut tetap diam.
+\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]Dalam beberapa dekade, spesies Fishkind menghilang ke dalam sejarah.
 
 ############################# DoomFortressL ########################################
 
 DoomFortressL/Common0
-\SND[SE/Book1]\narr\{Doom Fortress\..\..\..
+\SND[SE/Book1]\narr\{Benteng Doom\..\..\..
 
 DoomFortressL/asdasdas
-\SndLib[sys_DialogBoard]\cg[map_region_NoerRoad]ASDFTHISISATESTasdf
+\SndLib[sys_DialogBoard]\cg[map_region_NoerRoad]ASDFINICUMATESTasdf
 
 ############################# PirateBane ########################################
 
 PirateBane/Common0
-\SND[SE/Book1]\narr\{Pirates' Bane\..\..\..
+\SND[SE/Book1]\narr\{Kutukan Bajak Laut\..\..\..
 
 PirateBane/asdasdasd
 \SndLib[sys_DialogBoard]\cg[map_region_NoerRoad]sdgsdfgsdfgsdfg
@@ -115,7 +115,7 @@ PirateBane/asdasdasd
 ############################# SouthFL ########################################
 
 SouthFL/Common0
-\SND[SE/Book1]\narr\{The South Gate Campsite\..\..\..
+\SND[SE/Book1]\narr\{Perkemahan Gerbang Selatan\..\..\..
 
 SouthFL/asdasdasd
 \SndLib[sys_DialogBoard]\cg[map_region_NoerRoad]sdgsdfgsdfgsdfg
@@ -123,144 +123,145 @@ SouthFL/asdasdasd
 ############################# Noer ########################################
 
 Noer/Common0
-\SND[SE/Book1]\narr\{\SND[SE/Book1]\cg[map_region_NoerRoad]The Town of Noer\..\..\..
+\SND[SE/Book1]\narr\{\SND[SE/Book1]\cg[map_region_NoerRoad]Kota Noer\..\..\..
 
 Noer/OrkindDestroyed1
-\SND[SE/Book1]\cg[map_region_NoerRoad]With the shortage of supplies, the town raged with anarchy.
-\SndLib[sys_DialogBoard]\cg[map_bandits_farmer]It wasn't long before citizens and villagers became bandits and pillagers.
+\SND[SE/Book1]\cg[map_region_NoerRoad]Dengan kekurangan persediaan, kota itu diamuk anarki.
+\SndLib[sys_DialogBoard]\cg[map_bandits_farmer]Tak lama kemudian warga dan penduduk desa berubah menjadi bandit dan penjarah.
 
 Noer/OrkindDestroyed2
-\SND[SE/Book1]\cg[map_bandits]No one bothered to keep the town stable. No one was left to defend against the invasion of monsters.
+\SND[SE/Book1]\cg[map_bandits]Tidak ada yang peduli untuk menjaga kota tetap stabil. Tidak ada yang tersisa untuk bertahan melawan invasi monster.
 
 Noer/OrkindDestroyed2_QuProgCataUndeadHunt2_7
-\SndLib[sys_DialogBoard]\cg[map_region_hole]Although someone attempted to block the tunnel created by the Orkinds, it didn't help.
+\SndLib[sys_DialogBoard]\cg[map_region_hole]Meskipun seseorang berusaha memblokir terowongan yang dibuat oleh para Orkind, itu tidak membantu.
 
 Noer/OrkindDestroyed3
-\SND[SE/Book1]\cg[map_orkind_expending]One day, the monsters finally dug through the tunnel. They swarmed into the town like locusts.
+\SND[SE/Book1]\cg[map_orkind_expending]Suatu hari, para monster akhirnya menggali menembus terowongan. Mereka mengerumuni kota seperti belalang.
 
 Noer/OrkindDestroyed4
-\SND[SE/Book1]\cg[map_DeadPPL]The poor resistance from the desperate townspeople did not last long...
-\SND[SE/Book1]\cg[event_OrkindGonnaRape]Men became food...\n While the women became breeding sows...
-\SND[SE/Book1]\cg[map_cityOnFire]Like Sybaris, the Town of Noer fell into complete chaos.
+\SND[SE/Book1]\cg[map_DeadPPL]Perlawanan yang buruk dari penduduk kota yang putus asa tidak berlangsung lama...
+\SND[SE/Book1]\cg[event_OrkindGonnaRape]Pria menjadi makanan...\n Sementara wanita menjadi ternak bibit...
+\SND[SE/Book1]\cg[map_cityOnFire]Seperti Sybaris, Kota Noer jatuh ke dalam kekacauan total.
 
 Noer/NukeDestroyed
-\SND[SE/Book1]\cg[map_Doomsday]One day, he was angry.
-\SND[SE/Book1]\cg[map_Doomsday]A huge fireball illuminated the night sky above the Town of Noer.
-\SND[SE/Book1]\cg[map_sos]The poor, the rich, slaves, believers... It didn't matter. He gave true equality to all.
-\SND[SE/Book1]\cg[map_Nuke]A huge explosion formed and cleansed all inside of it. The entire town disappeared into ashes.
+\SND[SE/Book1]\cg[map_Doomsday]Suatu hari, dia marah.
+\SND[SE/Book1]\cg[map_Doomsday]Bola api besar menerangi langit malam di atas Kota Noer.
+\SND[SE/Book1]\cg[map_sos]Orang miskin, orang kaya, budak, orang beriman... Tidak masalah. Dia memberikan kesetaraan sejati kepada semua.
+\SND[SE/Book1]\cg[map_Nuke]Ledakan besar terbentuk dan membersihkan semua yang ada di dalamnya. Seluruh kota menghilang menjadi abu.
 
 ######################################################## SideChar ########################################
 ############################# NoerTavern ########################################
 
 NoerTavern/Common0
-\SND[SE/Book1]\narr\{The Burning Keg\..\..\..
+\SND[SE/Book1]\narr\{Tong Pembakaran\..\..\..
 
 NoerTavern/BookOfDeath
-\SndLib[sys_DialogBoard]\cg[map_DeadPPL]The monsters sieged the city around the second day. The streets were littered with piles of mangled corpses and gore.
-\SndLib[sys_DialogBoard]\cg[event_FightThePower]Nobody knows how Boss Mama was able to get a hold of the legendary Book of the Dead. Nor did anyone know what she had to sacrifice to the Liars for such an item.
-\SndLib[sys_DialogBoard]\cg[map_undead_group]A large army of undead creatures appeared in the Town of Noer and fought back against the Orkind monsters for a month.
-\SndLib[sys_DialogBoard]\cg[map_undead_group]It's been said that Boss Mama has also fallen and risen back as an undead.
+\SndLib[sys_DialogBoard]\cg[map_DeadPPL]Para monster mengepung kota sekitar hari kedua. Jalan-jalan dipenuhi tumpukan mayat yang hancur dan darah.
+\SndLib[sys_DialogBoard]\cg[event_FightThePower]Tidak ada yang tahu bagaimana Boss Mama bisa mendapatkan Kitab Orang Mati yang legendaris. Juga tidak ada yang tahu apa yang harus dia korbankan kepada para Pembohong untuk benda semacam itu.
+\SndLib[sys_DialogBoard]\cg[map_undead_group]Pasukan besar mayat hidup muncul di Kota Noer dan melawan balik monster Orkind selama sebulan.
+\SndLib[sys_DialogBoard]\cg[map_undead_group]Dikatakan bahwa Boss Mama juga telah gugur dan bangkit kembali sebagai mayat hidup.
 
 NoerTavern/FallWithCocona
-\SndLib[sys_DialogBoard]\cg[map_NoerGate]Boss Mama and her adopted daughter left the Town of Noer prior to its descent into chaos.
-\SndLib[sys_DialogBoard]\cg[map_NoerGate]Rumor has it that they've traveled to Doom Fortress before escaping Noer Island.
+\SndLib[sys_DialogBoard]\cg[map_NoerGate]Boss Mama dan putri angkatnya meninggalkan Kota Noer sebelum kota itu jatuh ke dalam kekacauan.
+\SndLib[sys_DialogBoard]\cg[map_NoerGate]Rumor mengatakan bahwa mereka melakukan perjalanan ke Benteng Doom sebelum melarikan diri dari Pulau Noer.
 
 NoerTavern/DefenceToDeath
-\SndLib[sys_DialogBoard]\cg[map_DeadPPL]Boss Mama wielded her sword once again to help defend the town against raiders and monsters.
-\SndLib[sys_DialogBoard]\cg[event_RipAndTear]It is said that she alone fended off the Orkind monsters' attack at the Northern Gate.
-\SndLib[sys_DialogBoard]\cg[map_region_slum]Alas, this only prolonged the town's livelihood for meer moments.
-\SndLib[sys_DialogBoard]\cg[map_region_AbomTown]No one knows what happened to Boss Mama after the Town of Noer was destroyed.
+\SndLib[sys_DialogBoard]\cg[map_DeadPPL]Boss Mama mengacungkan pedangnya sekali lagi untuk membantu mempertahankan kota dari penjarah dan monster.
+\SndLib[sys_DialogBoard]\cg[event_RipAndTear]Dikatakan bahwa dia sendirian menangkis serangan monster Orkind di Gerbang Utara.
+\SndLib[sys_DialogBoard]\cg[map_region_slum]Sayangnya, ini hanya memperpanjang kehidupan kota untuk beberapa saat saja.
+\SndLib[sys_DialogBoard]\cg[map_region_AbomTown]Tidak ada yang tahu apa yang terjadi pada Boss Mama setelah Kota Noer hancur.
 
 ############################# Nice boat ########################################
 
 TicketBought/begin1
-\bg[bg_NiceBoat]\m[confused]\C[6]Lona：\C[0]    What about the people on the island? Will the disaster continue to spread?
-\bg[bg_NiceBoat]\m[tired]\C[6]Lona：\C[0]    ...Forget it, it's useless to worry about such things. I'm only one person.
-\bg[bg_NiceBoat]\m[sad]\C[6]Lona：\C[0]    Just an ordinary girl...
-\SETpl[Mfat_DockCaptain]\m[normal]\Lshake\prf\C[6]Edward：\C[0]    Lass, the winds be growin' stronger. Yer better get off me deck.
-\bg[bg_NiceBoat]\m[pleased]\plf\Rshake\C[6]Lona：\C[0]    Ah! Understood.
+\bg[bg_NiceBoat]\m[confused]\C[6]Lona：\C[0]    Gimana dengan orang-orang di pulau? Apa bencananya bakal terus menyebar?
+\bg[bg_NiceBoat]\m[tired]\C[6]Lona：\C[0]    ...Lupakan, gak ada gunanya khawatir soal hal kayak gitu. Aku cuma satu orang.
+\bg[bg_NiceBoat]\m[sad]\C[6]Lona：\C[0]    Cuma gadis biasa...
+\SETpl[Mfat_DockCaptain]\m[normal]\Lshake\prf\C[6]Edward：\C[0]    Nona, anginnya makin kencang. Mending kamu turun dari geladakku.
+\bg[bg_NiceBoat]\m[pleased]\plf\Rshake\C[6]Lona：\C[0]    Ah! Dimengerti.
 
 TicketBought/begin2
-\SND[SE/Book1]\narr\ph Lona finally escaped Noer Island.\n Where the monsters raged on.
-\SND[SE/Book1] Although, I do not know what awaits for her in the future...
-\SND[SE/Book1] It will never be worse than staying on Noer Island.
+\SND[SE/Book1]\narr\ph Lona akhirnya melarikan diri dari Pulau Noer.\n Di mana para monster mengamuk.
+\SND[SE/Book1] Walaupun, aku tidak tahu apa yang menantinya di masa depan...
+\SND[SE/Book1] Itu tidak akan pernah lebih buruk daripada tinggal di Pulau Noer.
 
 ############################# VIRGIN ########################################
 
 TicketBought/begin2_virgin
-\SndLib[sys_DialogBoard]\narr In addition to her escape, Lona also succeeded in defending her maidenhood.
-\SndLib[sys_DialogBoard] Decades past... The children nearby laughed and ridiculed the old maiden's pledge to eternal chastity.
-\SndLib[sys_DialogBoard] Even after her eventual death, Lona remained an unmarried virgin......
+\SndLib[sys_DialogBoard]\narr Selain pelariannya, Lona juga berhasil mempertahankan kesuciannya.
+\SndLib[sys_DialogBoard] Dekade berlalu... Anak-anak di dekat sana tertawa dan mengejek sumpah perawan tua itu untuk kemurnian abadi.
+\SndLib[sys_DialogBoard] Bahkan setelah kematiannya, Lona tetap menjadi perawan yang tidak menikah......
 
 ####################################### Human rapeloop #######################################
 
 HumanSlave/begin1
 \narr\..\..\..\..\..\..
-\SND[SE/Book1]Lona was missing, and nobody ever saw her again...
-\SND[SE/Book1]After a very long time\..\..\.. On a certain street\..\..\..
+\SND[SE/Book1]Lona menghilang, dan tidak ada yang pernah melihatnya lagi...
+\SND[SE/Book1]Setelah waktu yang sangat lama\..\..\.. Di jalan tertentu\..\..\..
 
 HumanSlave/begin2
-\SndLib[sound_Heartbeat]\narrOFF\c[4]So cold...
-\SndLib[sound_Heartbeat]\narrOFF\c[4]And hungry...
-\SndLib[sound_Heartbeat]\narrOFF\c[4]My body hurts, s-so much pain...
-\SndLib[sound_Heartbeat]\narrOFF\c[4]Just where exacatly am I\..\..\..?
-\m[pain]\plf\Rshake\c[4]It hurts... I can't see... W-Where am I?
-\SndLib[sound_step]\m[sad]\plf\PRF\c[4]Hello?! Is anyone there?!
-\SndLib[sound_step]\m[fear]\plf\PRF\c[4]Please?! W-Who's there?! D... Don't hurt me...!
-\SndLib[sound_step]\m[shocked]\plf\Rshake\c[4]No! G-Go away!!!
+\SndLib[sound_Heartbeat]\narrOFF\c[4]Dingin banget...
+\SndLib[sound_Heartbeat]\narrOFF\c[4]Dan lapar...
+\SndLib[sound_Heartbeat]\narrOFF\c[4]Badanku sakit, sa-sakit banget...
+\SndLib[sound_Heartbeat]\narrOFF\c[4]Sebenarnya aku di mana\..\..\..?
+\m[pain]\plf\Rshake\c[4]Sakit... Aku gak bisa lihat... D-Di mana aku?
+\SndLib[sound_step]\m[sad]\plf\PRF\c[4]Halo?! Ada orang di sana?!
+\SndLib[sound_step]\m[fear]\plf\PRF\c[4]Tolong?! S-Siapa di sana?! J... Jangan sakiti aku...!
+\SndLib[sound_step]\m[shocked]\plf\Rshake\c[4]Gak! P-Pergi sana!!!
 \SndLib[sound_step]\m[confused]\plf\PRF\c[4]\..\..\..
-\bg[bg_Soup1]\m[shocked]\plf\Rshake\c[4]...Vegetable soup?!
-\bg[bg_Soup2]\m[shocked]\plf\Rshake\c[4]Meat soup?!
-\m[pleased]\plf\PRF\c[4]T-Thank you... I'm coming over!
+\bg[bg_Soup1]\m[shocked]\plf\Rshake\c[4]...Sup sayur?!
+\bg[bg_Soup2]\m[shocked]\plf\Rshake\c[4]Sup daging?!
+\m[pleased]\plf\PRF\c[4]T-Terima kasih... Aku ke sana!
 \m[pleased]\plf\PRF\c[4]\SndLib[sound_step]\.\.\..\SndLib[sound_step]\.\.\..\SndLib[sound_step]\.\.\..
-\bgoff\m[terror]\plf\Rshake\c[4]H-Huh?! Nooo!
-\bgoff\m[bereft]\plf\Rshake\c[4]Give it back! Please! Let me eat at least one bite!
+\bgoff\m[terror]\plf\Rshake\c[4]H-Hah?! Nggaaak!
+\bgoff\m[bereft]\plf\Rshake\c[4]Balikin! Kumohon! Biarin aku makan setidaknya satu suap!
 \ph\narr\..\..\..
 
 HumanSlave/begin3
-\SndLib[sound_punch_hit]\SETpl[AnonMale2]\Lshake\c[4]Man：\c[0]    What the fuck?
-\SETpr[AnonFemale]\plf\Rshake\c[4]Woman：\c[0]    Hmmm? Whats wrong?
-\cg[map_HungerDeath]\SETpl[AnonMale2]\Lshake\prf\c[4]Man：\c[0]    God damn it! Who left this dying slave out ruining the streets?!
-\SETpr[AnonFemale]\plf\Rshake\c[4]Woman：\c[0]    It reeks! Such a gross smell is going to ruin my clothes!
-\SETpl[AnonMale2]\Lshake\prf\c[4]Man：\c[0]    You fucking-! \.\.\SndLib[sound_punch_hit]\Lshake -Filthy!! \.\.\SndLib[sound_punch_hit]\Lshake Human garbage!!! \.\.\SndLib[sound_punch_hit]\Lshake
-\SETpr[AnonFemale]\plf\Rshake\c[4]Woman：\c[0]    Disgusting. Not even the rain can wash away such odor...
-\SETpl[AnonMale2]\Lshake\prf\c[4]Man：\c[0]    Just die!!! \SndLib[sound_punch_hit]\Lshake
-\SETpr[AnonFemale]\plf\Rshake\c[4]Woman：\c[0]    Let's go now.
-\SETpr[AnonFemale]\plf\Rshake\c[4]Woman：\c[0]    Ugh... Gross! You better wash your shoes when we get back home!
+\SndLib[sound_punch_hit]\SETpl[AnonMale2]\Lshake\c[4]Pria：\c[0]    Apa-apaan nih?
+\SETpr[AnonFemale]\plf\Rshake\c[4]Wanita：\c[0]    Hmmm? Ada apa?
+\cg[map_HungerDeath]\SETpl[AnonMale2]\Lshake\prf\c[4]Pria：\c[0]    Sialan! Siapa yang ninggalin budak sekarat ini di luar ngotorin jalan?!
+\SETpr[AnonFemale]\plf\Rshake\c[4]Wanita：\c[0]    Bau banget! Bau menjijikkan kayak gini bakal ngerusak bajuku!
+\SETpl[AnonMale2]\Lshake\prf\c[4]Pria：\c[0]    Dasar kau-! \.\.\SndLib[sound_punch_hit]\Lshake -Kotor!! \.\.\SndLib[sound_punch_hit]\Lshake Sampah manusia!!! \.\.\SndLib[sound_punch_hit]\Lshake
+\SETpr[AnonFemale]\plf\Rshake\c[4]Wanita：\c[0]    Menjijikkan. Bahkan hujan pun gak bisa menghilangkan bau seperti itu...
+\SETpl[AnonMale2]\Lshake\prf\c[4]Pria：\c[0]    Mati saja kau!!!
+\SndLib[sound_punch_hit]\Lshake
+\SETpr[AnonFemale]\plf\Rshake\c[4]Wanita：\c[0]    Ayo pergi.
+\SETpr[AnonFemale]\plf\Rshake\c[4]Wanita：\c[0]    Ugh... Jijik! Kamu mending cuci sepatumu pas kita sampai rumah!
 \ph\narr\..\..\..
 
 ####################################### Orkind Rapeloop #######################################
 
 OrkindCampCaptured/begin1
 \narr\..\..\..\..\..\..
-\SND[SE/Book1]Lona was missing, and nobody ever saw her again...
-\SND[SE/Book1]After a very long time\..\..\.. In an unknown cave\..\..\..
-\SndLib[sound_Heartbeat]\narrOFF\c[4]H-Hungry...
-\SndLib[sound_Heartbeat]\c[4]I'm so hungry...
-\SndLib[sound_Heartbeat]\m[sad]\c[4]F-Food? I want to eat! Give me fooood!
-\SndLib[sound_Heartbeat]\m[bereft]\Rshake\c[4]P-Please! I beg of you!
+\SND[SE/Book1]Lona menghilang, dan tidak ada yang pernah melihatnya lagi...
+\SND[SE/Book1]Setelah waktu yang sangat lama\..\..\.. Di gua yang tidak diketahui\..\..\..
+\SndLib[sound_Heartbeat]\narrOFF\c[4]L-Lapar...
+\SndLib[sound_Heartbeat]\c[4]Aku lapar banget...
+\SndLib[sound_Heartbeat]\m[sad]\c[4]Ma-Makanan? Aku mau makan! Kasih aku makaaaan!
+\SndLib[sound_Heartbeat]\m[bereft]\Rshake\c[4]K-Kumohon! Aku mohon padamu!
 \SETpl[goblin]\Lshake\prf\C[4]Goblin：\C[0]    Guu-Guah-Chaaa!
-\m[shocked]\plf\Rshake\c[4]Food! Is this food?!
+\m[shocked]\plf\Rshake\c[4]Makanan! Apa ini makanan?!
 \SndLib[sound_eat]\SETpl[goblin_penis]\Lshake\prf\C[4]Goblin：\C[0]    Guh-Hee! Chagucha!
 \SndLib[sound_eat]\SETpr[goblin]\plf\Rshake\C[4]Goblin：\C[0]    Gu-Hehe! Gou-Hee! Heeheehee!
-\SndLib[sound_eat]\m[pleased]\plf\Rshake\c[4]S-So good! Thank you...! Thank you so much!
+\SndLib[sound_eat]\m[pleased]\plf\Rshake\c[4]E-Enak banget! Terima kasih...! Terima kasih banyak!
 \SndLib[sound_eat]\SETpr[goblin]\plf\Rshake\C[4]Goblin：\C[0]    Guwuh! Heehee!
 \SndLib[sound_eat]\SETpl[goblin_penis]\Lshake\prf\C[4]Goblin：\C[0]   Guh-Heeeh! Chagucha!
-\narr The monsters brought a mirror, they wanted Lona to see the reality of what she has become.
-\narrOFF\m[confused]\plf\Rshake\c[4]A... mirror...?
-\cg[event_OrkindMother]\m[flirty]\plf\Rshake\c[4]W-Who is this monster... Looking back at me...?
+\narr Para monster membawa cermin, mereka ingin Lona melihat kenyataan telah menjadi apa dia sekarang.
+\narrOFF\m[confused]\plf\Rshake\c[4]Sebuah... cermin...?
+\cg[event_OrkindMother]\m[flirty]\plf\Rshake\c[4]S-Siapa monster ini... Yang menatap balik ke arahku...?
 
 OrkindCampCaptured/begin2
 \..\..\..
-\SndLib[sound_Heartbeat]\m[shocked]\plf\Rshake\c[4]M-Me...? This is... ME?!
-\SndLib[sound_OrcSpot]\m[fear]\plf\Rshake\c[4]N-No! NOOOOO!!!
-\SndLib[sound_OrcSpot]\m[terror]\plf\Rshake\c[4]This c-can't be...! I'm a human!! I'M NOT A MONSTER!!!
-\SETpr[goblin]\plf\Rshake\C[4]Goblin：\C[0]    Guwuh! Heeheeheehee!!!
-\SndLib[sound_OrcSpot]\m[bereft]\plf\Rshake\c[4]H-Heeelp me! I don't wanna eat anymore! No more!
+\SndLib[sound_Heartbeat]\m[shocked]\plf\Rshake\c[4]A-Aku...? Ini... AKU?!
+\SndLib[sound_OrcSpot]\m[fear]\plf\Rshake\c[4]T-Tidak! TIDAAAK!!!
+\SndLib[sound_OrcSpot]\m[terror]\plf\Rshake\c[4]Ini g-gak mungkin...! Aku manusia!! AKU BUKAN MONSTER!!!
+\SETpr[goblin]\plf\Rshake\C[4]Goblin：\C[0]    Guwuh! Hihihihi!!!
+\SndLib[sound_OrcSpot]\m[bereft]\plf\Rshake\c[4]T-Tolooong aku! Aku gak mau makan lagi! Gak mau lagi!
 \ph\..\..\..
-\SndLib[sound_Heartbeat]\c[4]Hun...gry...
-\SndLib[sound_Heartbeat]\c[4]So hungry... Need... To eat...
-\SndLib[sound_Heartbeat]\c[4]...Food? I want to eat!! Give me fooood!!!
+\SndLib[sound_Heartbeat]\c[4]La...par...
+\SndLib[sound_Heartbeat]\c[4]Lapar banget... Butuh... Makan...
+\SndLib[sound_Heartbeat]\c[4]...Makanan? Aku mau makan!! Kasih aku makaaaan!!!
 \cgoff\..\..\..
 
 ############################# OrkindWarboss Rapeloop ########################################
@@ -271,84 +272,84 @@ OrkindImpale/begin1
 \Rflash\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]......
 \Rflash\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]...
 \Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[pain]\Rshake\c[4]!!!!!!
-\m[fear]\plf\Rshake\c[4]What?! W-What's happening?
+\m[fear]\plf\Rshake\c[4]Apa?! A-Apa yang terjadi?
 \Rflash\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5sta_damage]\Rshake\c[4]EEEYAAAH!!!
-\Rflash\cg[event_AnalTaken]\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5health_damage]\Rshake\c[4]IT HURTS!!!
-\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5puke]\Rshake\c[4]STOP, D-DON'T-!!!
+\Rflash\cg[event_AnalTaken]\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5health_damage]\Rshake\c[4]SAKIT!!!
+\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5puke]\Rshake\c[4]BERHENTI, J-JANGAN-!!!
 \Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5crit_damage]\Rshake\c[4]-GUAAAAAAHHH!!!
 \Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5crit_damage]\Rshake\c[4]YIIIAAAUUUUUUGHHH!!!!!!
 \cgoff\ph\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]...*Gack*......
 \cgoff\ph\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]...*Gurgle*...
 \cgoff\ph\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]...
-\cg[map_orkind_expending]With the efforts of the Orkinds, Lona was impaled onto a stake.
-\cg[map_orkind_expending]She was awake for the entire experience and didn't lose consciousness until the stake's tip protruded from her lips.
-\cg[map_orkind_expending]The Mother of Fertility will be very pleased to see Lona suffer such a painful death...
+\cg[map_orkind_expending]Dengan upaya para Orkind, Lona ditusuk di atas tiang pancang.
+\cg[map_orkind_expending]Dia sadar selama seluruh pengalaman itu dan tidak kehilangan kesadaran sampai ujung tiang menonjol dari bibirnya.
+\cg[map_orkind_expending]Ibu Kesuburan akan sangat senang melihat Lona menderita kematian yang begitu menyakitkan...
 
 ####################################### AbomHive Rapeloop #######################################
 
 AbomHiveCaptured/begin1
 \narr\..\..\..\..\..\..
-\SndLib[sys_DialogBoard]Lona was missing, and nobody ever saw her again...
-\SndLib[sys_DialogBoard]After a very long time\..\..\.. Inside the lair of Abominations\..\..\..
-\SndLib[sound_Heartbeat]\narrOFF\m[p5shame]\c[4]Where... am... I......?
-\SndLib[sound_Heartbeat]\m[p5shame]\c[4]W-What's happ-...-ening to... me...?
-\SndLib[sound_Heartbeat]\m[p5shame]\c[4]Am I... still alive?
-\SndLib[sound_Heartbeat]\m[p5shame]\c[4]Why can't I... Feel... Anything...? How long have I... Been here?
+\SndLib[sys_DialogBoard]Lona menghilang, dan tidak ada yang pernah melihatnya lagi...
+\SndLib[sys_DialogBoard]Setelah waktu yang sangat lama\..\..\.. Di dalam sarang Abomination\..\..\..
+\SndLib[sound_Heartbeat]\narrOFF\m[p5shame]\c[4]Di mana... aku......?
+\SndLib[sound_Heartbeat]\m[p5shame]\c[4]A-Apa yang ter-...-jadi pada... ku...?
+\SndLib[sound_Heartbeat]\m[p5shame]\c[4]Apa aku... masih hidup?
+\SndLib[sound_Heartbeat]\m[p5shame]\c[4]Kenapa aku gak bisa... Rasa... Apapun...? Sudah berapa lama aku... Di sini?
 \narr\prf\c[4]\SndLib[sound_step]\.\.\..\SndLib[sound_step]\.\.\..\SndLib[sound_step]\.\.\..
-\narrOFF\SndLib[sound_step]\m[p5shame]\c[4]Who's... there......?
+\narrOFF\SndLib[sound_step]\m[p5shame]\c[4]Siapa... di sana......?
 
 AbomHiveCaptured/begin2
-\cg[map_AbomCorpse2]\SETpl[Mreg_guardsman]\SETpr[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    Hey! Recruit! This is the place.
-\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Recruit：\c[0]    Wait, hold up! These women are still squirming around!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Torch the place down!
-\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Recruit：\c[0]    NO! Stop, stop!!! By the Saint, they're still fucking alive!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Listen to me you idiot! They're already gone! We can't save them!
+\cg[map_AbomCorpse2]\SETpl[Mreg_guardsman]\SETpr[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    Hei! Rekrut! Ini tempatnya.
+\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Rekrut：\c[0]    Tunggu, tahan! Para wanita ini masih menggeliat!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Bakar tempat ini!
+\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Rekrut：\c[0]    JANGAN! Berhenti, berhenti!!! Demi Santo, mereka masih hidup!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Dengerin aku idiot! Mereka sudah hilang! Kita gak bisa menyelamatkan mereka!
 \narr\cgoff \.\.\..\SndLib[sound_step]\.\.\..\SndLib[sound_step]\.\.\..
-\narrOFF\cg[map_AbomCorpse1]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Get over here recruit! Just take a look at this girl!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Even though she's moving, all that's left of her is her head attached to her torso...
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Are you really going to tell me she's still fucking alive?!
-\SndLib[sound_Heartbeat]\m[p5shame]\plf\Rshake\c[4]Are they... talking about\..\..\..\..\..\..\n ME?!\n No, please! S-Save me!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    This isn't even a human being anymore! All that's left is a corpse used as the monsters' seedbed!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Torch her, now! That's an order!
-\SndLib[sound_Heartbeat]\m[p5shame]\plf\PLF\c[4]What...? N-No! NOOO!!! I'm not dead, I'm still alive! Save me! I don't want to die!!!
-\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Recruit：\c[0]    R-Roger!
+\narrOFF\cg[map_AbomCorpse1]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Sini kamu rekrut! Lihat gadis ini!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Walaupun dia bergerak, yang tersisa dari dia cuma kepalanya yang nempel di badan...
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Apa kamu beneran mau bilang kalau dia masih hidup?!
+\SndLib[sound_Heartbeat]\m[p5shame]\plf\Rshake\c[4]Apa mereka... ngomongin\..\..\..\..\..\..\n AKU?!\n Tidak, kumohon! S-Selamatkan aku!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Ini bahkan bukan manusia lagi! Yang tersisa hanyalah mayat yang dipakai sebagai tempat benih monster!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Bakar dia, sekarang! Itu perintah!
+\SndLib[sound_Heartbeat]\m[p5shame]\plf\PLF\c[4]Apa...? T-Tidak! TIDAAAK!!! Aku belum mati, aku masih hidup! Selamatkan aku! Aku gak mau mati!!!
+\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Rekrut：\c[0]    S-Siap!
 
 AbomHiveCaptured/begin3
 \SndLib[sound_flame]\SETpl[Mreg_pikeman]\m[p5health_damage]\Lshake\Rshake\c[4]\{YIIIAHHHHHH!!!
-\SndLib[sound_flame]\SETpl[Mreg_pikeman]\m[p5health_damage]\Lshake\Rshake\c[4]\{IT BUUURNS! NOOOOOOO! I DON'T WANT TO DIIIIIIE!!!
-\SndLib[sound_flame]\SETpl[Mreg_pikeman]\m[p5health_damage]\Lshake\Rshake\c[4]\{IT HURRRTS! I D-DON'T... WANT... TO-...! KYYYAAAaaaaaah......
+\SndLib[sound_flame]\SETpl[Mreg_pikeman]\m[p5health_damage]\Lshake\Rshake\c[4]\{PANAAAS! NGGGAAAK! AKU GAK MAU MATIIII!!!
+\SndLib[sound_flame]\SETpl[Mreg_pikeman]\m[p5health_damage]\Lshake\Rshake\c[4]\{SAKIIIT! A-AKU GAK... MAU... UN-...! KYYYAAAaaaaaah......
 \cgoff\ph\narr\c[4]\SndLib[sound_flame]\.\.\..\SndLib[sound_flame]\.\.\..\SndLib[sound_flame]\.\.\..
-\narrOFF\cg[map_cityOnFire]\SETpl[Mreg_guardsman]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Recruit：\c[0]    Finally... It's over now...
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Yo, today's work has just begun! We still have several lairs we have to clear out.
-\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Recruit：\c[0]    Yes Sir!
+\narrOFF\cg[map_cityOnFire]\SETpl[Mreg_guardsman]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Rekrut：\c[0]    Akhirnya... Sudah berakhir sekarang...
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Yo, kerjaan hari ini baru aja dimulai! Kita masih punya beberapa sarang yang harus dibersihkan.
+\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Rekrut：\c[0]    Siap Pak!
 
 ####################################### FishKind and Deepone Rapeloop #######################################
 
 FishkindCampCaptured/begin1
 \narr\..\..\..\..\..\..
-Lona was missing, and nobody ever saw her again...
-After a very long time\..\..\.. In the den of monsters\..\..\..
-\narrOFF\cg[map_region_hole]\SndLib[sound_step] ...What's happened to me? \.\SndLib[FishkindSmSpot] W-Where am I...? \.\SndLib[sound_step]\.\SndLib[sound_step] Have I been kidnapped by monsters?! \.\SndLib[FishkindSmSpot]
-\c[4]It's so dark... I can't see anything......
-\SndLib[sound_step] Is... Is someone there? \.\SndLib[FishkindSmSpot]\.\SndLib[sound_step]\.\SndLib[sound_step] Please! Somebody... H-Help me! \.\SndLib[sound_equip_armor]
-\c[4]Woman：\c[0]    Hello, can you hear me?
-\SndLib[sound_equip_armor]\c[4] W-Who's there?! Please... Don't kill me......
-\m[confused]\C[4]Woman：\C[0]    Ah! Are you new here?
+Lona menghilang, dan tidak ada yang pernah melihatnya lagi...
+Setelah waktu yang sangat lama\..\..\.. Di sarang monster\..\..\..
+\narrOFF\cg[map_region_hole]\SndLib[sound_step] ...Apa yang terjadi padaku? \.\SndLib[FishkindSmSpot] D-Di mana aku...? \.\SndLib[sound_step]\.\SndLib[sound_step] Apa aku diculik monster?! \.\SndLib[FishkindSmSpot]
+\c[4]Gelap banget... Aku gak bisa lihat apa-apa......
+\SndLib[sound_step] Apa... Apa ada orang di sana? \.\SndLib[FishkindSmSpot]\.\SndLib[sound_step]\.\SndLib[sound_step] Tolong! Seseorang... T-Tolong aku! \.\SndLib[sound_equip_armor]
+\c[4]Wanita：\c[0]    Halo, bisa dengar aku?
+\SndLib[sound_equip_armor]\c[4] S-Siapa di sana?! Tolong... Jangan bunuh aku......
+\m[confused]\C[4]Wanita：\C[0]    Ah! Apa kamu baru di sini?
 \prf......
-\m[normal]\C[4]Woman：\C[0]    Shhh... It's alright......
-\m[pleased]\C[4]Woman：\C[0]    Please have a seat next to me, don't be afraid. I'm a human, just like you.
+\m[normal]\C[4]Wanita：\C[0]    Ssst... Gak apa-apa......
+\m[pleased]\C[4]Wanita：\C[0]    Silakan duduk di sebelahku, jangan takut. Aku manusia, sama sepertimu.
 \prf......
-\m[shy]\C[4]Woman：\C[0]    It's okay... Shhh... It's okay... Please don't cry anymore.
-\m[normal]\C[4]Woman：\C[0]    My name is \c[6]Lona\c[0], and you are?
+\m[shy]\C[4]Wanita：\C[0]    Gak apa-apa... Ssst... Gak apa-apa... Jangan nangis lagi ya.
+\m[normal]\C[4]Wanita：\C[0]    Namaku \c[6]Lona\c[0], dan kamu?
 \prf......
-\m[triumph]\c[6]Lona：\c[0]    Oh! What a pretty name!
+\m[triumph]\c[6]Lona：\c[0]    Oh! Nama yang cantik!
 \prf......
-\m[shy]\c[6]Lona：\c[0]    Is that so? Don't worry, I've been here for a very long time taking care of people like you.
+\m[shy]\c[6]Lona：\c[0]    Begitu ya? Jangan khawatir, aku sudah di sini sangat lama merawat orang-orang sepertimu.
 \prf......
-\m[flirty]\c[6]Lona：\c[0]    Oh my... Please don't! Many have tried, but they all ended up dead... You wouldn't want to suffer a fate like that, right?
+\m[flirty]\c[6]Lona：\c[0]    Ya ampun... Jangan! Banyak yang sudah mencoba, tapi mereka semua berakhir mati... Kamu gak mau mengalami nasib seperti itu, kan?
 \prf......
-\m[shy]\c[6]Lona：\c[0]    Please don't cry sweetie... I'll protect you.
-\m[pleased]\c[6]Lona：\c[0]    Come here my child, I'll teach you everything you need to know to survive here. Don't worry, I'm here to help you......
+\m[shy]\c[6]Lona：\c[0]    Jangan menangis manisku... Aku akan melindungimu.
+\m[pleased]\c[6]Lona：\c[0]    Sini nak, aku akan mengajarimu semua yang perlu kamu tahu untuk bertahan hidup di sini. Jangan khawatir, aku di sini untuk membantumu......
 \cgoff\ph\narr\..\..\..
 
 ##########################################################################################################################
@@ -356,169 +357,169 @@ After a very long time\..\..\.. In the den of monsters\..\..\..
 ##########################################################################################################################
 
 ending/end
-Finish the game?\optB[Not yet!,End game...]
+Selesaikan game?\optB[Belum!,Akhiri game...]
 
 ShipLadder/qMsg0
-It's too windy now.
+Terlalu berangin sekarang.
 
 ShipLadder/qMsg1
-I shouldn't go outside.
+Sebaiknya aku gak keluar.
 
 ShipLadder/qMsg2
-It's too dangerous.
+Terlalu berbahaya.
 
 RecQuest/SMRefugeeCampFindChild10
-\CBid[-1,6]\prf\c[4]Tommy：\c[0]    Uwaah... *Sob*... W-Why......
-\CBid[-1,6]\prf\c[4]Tommy：\c[0]    Why doesn't... *Sniff*... Mama want me anymore...
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Eh...? Aren't you the boy called-...
-\CBct[20]\m[triumph]\PRF\c[6]Lona：\c[0]    -Yes! Tommy, right?
-\CBid[-1,20]\prf\c[4]Tommy：\c[0]    Ah! It's big sister!
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Where is your mother? How come it's just only you here?
-\CBid[-1,6]\prf\c[4]Tommy：\c[0]    M-Mama didn't want me anymore... *Sniff* She stuffed me in a box and I ended up here when I opened the box...
-\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    I see......
-\CBid[-1,6]\prf\c[4]Tommy：\c[0]    Oh yeah! Is that metal stick thing easy to use? Using it feels very comfortable, right?
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Com-... -fortable?
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Errr... Fighting with it feels quite comfortable, although it is a bit heavy...
+\CBid[-1,6]\prf\c[4]Tommy：\c[0]    Uwaah... *Hiks*... K-Kenapa......
+\CBid[-1,6]\prf\c[4]Tommy：\c[0]    Kenapa... *Sniff*... Mama gak mau aku lagi...
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Eh...? Bukannya kamu anak yang dipanggil-...
+\CBct[20]\m[triumph]\PRF\c[6]Lona：\c[0]    -Ya! Tommy, kan?
+\CBid[-1,20]\prf\c[4]Tommy：\c[0]    Ah! Kakak!
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Di mana ibumu? Kok cuma kamu sendiri di sini?
+\CBid[-1,6]\prf\c[4]Tommy：\c[0]    M-Mama gak mau aku lagi... *Sniff* Dia masukin aku ke kotak dan aku berakhir di sini pas aku buka kotaknya...
+\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    Begitu ya......
+\CBid[-1,6]\prf\c[4]Tommy：\c[0]    Oh iya! Apa tongkat besi itu gampang dipake? Pake itu rasanya nyaman banget ya?
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Nya-... -man?
+\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Errr... Berantem pake ini rasanya lumayan nyaman sih, biarpun agak berat...
 
 RecQuest/Df_Heresy5_1
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Uhm... Your name's Ranran, right? Where's your sister?
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Uhm... Namamu Ranran, kan? Di mana kakakmu?
 
 RecQuest/Df_Heresy5_2
-\CBid[-1,6]\prf\c[4]Ranran：\c[0]    No! I'm not Ranran! I don't know Momo either!
-\CBid[-1,6]\prf\c[4]Ranran：\c[0]    You've got the wrong person!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uhm...Well...
+\CBid[-1,6]\prf\c[4]Ranran：\c[0]    Bukan! Aku bukan Ranran! Aku gak kenal Momo juga!
+\CBid[-1,6]\prf\c[4]Ranran：\c[0]    Kamu salah orang!
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uhm...Yah...
 
 ########################################################################################### Lisa
 
 Lisa/common0
 \CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Lisa! You're also onboard too?!
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Lisa! Kamu juga ada di kapal?!
 \CBid[-1,8]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    \..\..\..
 
 Lisa/RecQuestLisa19KeepMem1
-\CBid[-1,2]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Oi? Is dat yew Sista Lona?
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr... Yes... Ummm... \c[4]LONA\c[0]?!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    \..\..\..\m[shocked]\Rshake Wait a second! You remember who I am?!
+\CBid[-1,2]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Woi? Itu lu ya Kak Lona?
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr... Iya... Ummm... \c[4]LONA\c[0]?!
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    \..\..\..\m[shocked]\Rshake Tunggu sebentar! Kamu ingat siapa aku?!
 \CBid[-1,8]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    \..\..\..
-\CBid[-1,6]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    Guh! Ahhh sheyet!
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Don't joke around, I know you still remember me.
-\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Nu! Eye'm bloodie sereous! Eye can't remembah anythin' at all...
-\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Okay okay, I understand.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm... So why are you also on this ship?
+\CBid[-1,6]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    Guh! Ahhh syialan!
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Jangan bercanda, aku tahu kamu masih ingat aku.
+\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Gak! Gue serius anjir! Gue gak bisa inget apa-apa sama sekali...
+\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Oke oke, aku ngerti.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm... Jadi kenapa kamu juga ada di kapal ini?
 
 Lisa/RecQuestLisa18ResetMem1
-\CBid[-1,20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Oi? Is dat yew Sis?
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm... So why are you also on this ship?
+\CBid[-1,20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Woi? Itu lu Kak?
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm... Jadi kenapa kamu juga ada di kapal ini?
 
 Lisa/RecQuestLisa19KeepMem2
-\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    Eye've 'ad enouf of dis bloodie eyeland! The touwn is ahlways beein' surrounded by munstas!
-\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Every nite, when Eye'm sleepin'. Eye bee 'avin' nitemares about bugs inside a meh...
-\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    An' peeplo still be lookin' down at meh four bein' a 'alf-breed! Eye'm cunsidared durtah even though eet isn't me fault!
-\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    So dat's eet! Eye'm leafing dis eyeland an' nevah coomin' back!
+\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    Gue udah muak sama pulau sialan ini! Kotanya selalu dikepung monster!
+\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Tiap malam, pas gue tidur. Gue mimpi buruk soal serangga di dalem badan gue...
+\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    Dan orang-orang masih mandang rendah gue karena jadi basteran! Gue dianggap kotor padahal itu bukan salah gue!
+\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Jadi gitu deh! Gue cabut dari pulau ini dan gak bakal balik lagi!
 
 Lisa/RecQuestLisa18ResetMem2
-\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    Eye've 'ad enouf of dis bloodie eyeland! Me familee an' friends ahlways be abandonin' meh!
-\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    So Eye'm gonna abandon dis eyeland. Find ahnudah place an' mayke bettah explowsens!
+\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    Gue udah muak sama pulau sialan ini! Keluarga sama temen-temen gue selalu ninggalin gue!
+\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Jadi gue bakal ninggalin pulau ini. Cari tempat lain dan bikin ledakan yang lebih bagus!
 
 Lisa/RecQuestLisa18ResetMem3
 \CBid[-1,8]\SETpl[LisaSad]\Lshake\prf\c[4]Lisa：\c[0]    \..\..\..
-\CBid[-1,2]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Anywahs, wuts eet ta yew? Why arr ya askin' meh sucha questun?
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Sorry, I'm just saying hello.
-\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    I have to admit, I also like the feeling of explosions too!
-\CBid[-1,8]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    EXPLOWSENS? Sis also liks the powah of explowseves?!
-\ph\narr Lona and Lisa continued to chat about the art and beauty of explosions, before bidding farewell to each other\..\..\..
+\CBid[-1,2]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Ngomong-ngomong, apa urusannya sama lu? Ngapain lu nanya gue pertanyaan kayak gitu?
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Maaf, aku cuma menyapa.
+\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Harus kuakui, aku juga suka sensasi ledakan lho!
+\CBid[-1,8]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    LEDAKAN? Kakak juga suka kekuatan peledak?!
+\ph\narr Lona dan Lisa terus mengobrol tentang seni dan keindahan ledakan, sebelum saling mengucapkan selamat tinggal\..\..\..
 
 Lisa/RecQuestLisa19KeepMem3
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I see...
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Anyways, it was great to travel around with you.
+\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Begitu ya...
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Ngomong-ngomong, senang bisa berpetualang sama kamu.
 \CBid[-1,8]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    \..\..\..
-\CBid[-1,20]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    Likwise!
+\CBid[-1,20]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    Gue juga!
 
 ########################################################################################### Cocona
 
 Cocona/RecQuestCocona29_0
-\CBid[-1,6]\SETlpl[cocona_sad]\Lshake\c[4]Cocona：\c[0]    Big Sis! I'm scared!
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm... Why are you scared?
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Water! *Hiss* Outside is only water! ONLY WATER!!!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Water? It's because we're in the ocean.
-\CBid[-1,2]\SETlpl[cocona_confused]\Lshake\prf\c[4]Cocona：\c[0]    Oh-... -Shen...?
-\CBct[20]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    Yep! The ocean!
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Oh-shin? What's a... oh-sheeen?!
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    The ocean is... Ummm... Something that separates the continents from each other?
+\CBid[-1,6]\SETlpl[cocona_sad]\Lshake\c[4]Cocona：\c[0]    Kakak! Aku takut!
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm... Kenapa kamu takut?
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Air! *Hiss* Di luar cuma ada air! CUMA AIR!!!
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Air? Itu karena kita ada di lautan.
+\CBid[-1,2]\SETlpl[cocona_confused]\Lshake\prf\c[4]Cocona：\c[0]    La-u-... -tan...?
+\CBct[20]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    Yap! Lautan!
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Au-tan? Apa itu... Au-taaan?!
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Lautan itu... Ummm... Sesuatu yang memisahkan benua satu sama lain?
 
 Cocona/RecQuestCocona29_1
-\CBid[-1,20]\SETlpl[cocona_confused]\Lshake\prf\c[4]Cocona：\c[0]    Kon-ten-ant? What's that??
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Hmmm... It's a place that's much, much, MUCH bigger than Noer Island.
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Nuh-oar?
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr... Our old home?
-\CBid[-1,20]\SETlpl[cocona_normal]\PLF\prf\c[4]Cocona：\c[0]    It's bigger than Cocona's old home?
-\CBct[8]\m[pleased]\plf\Rshake\c[6]Lona：\c[0]    That's right! Noer Island is our old home, but the western continents will be much bigger than Noer.
+\CBid[-1,20]\SETlpl[cocona_confused]\Lshake\prf\c[4]Cocona：\c[0]    Be-nu-a? Apa itu??
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Hmmm... Itu tempat yang jauh, jauh, JAUH lebih besar dari Pulau Noer.
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Nu-er?
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr... Rumah lama kita?
+\CBid[-1,20]\SETlpl[cocona_normal]\PLF\prf\c[4]Cocona：\c[0]    Itu lebih besar dari rumah lama Cocona?
+\CBct[8]\m[pleased]\plf\Rshake\c[6]Lona：\c[0]    Benar sekali! Pulau Noer adalah rumah lama kita, tapi benua barat bakal jauh lebih besar dari Noer.
 \CBid[-1,20]\SETlpl[cocona_confused]\PLF\prf\c[4]Cocona：\c[0]    Woo-Miao\..\..\..
 
 Cocona/RecQuestCocona29_2
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{Woooah!
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{Woooaah!
 
 Cocona/RecQuestCoconaVagTaken2_0
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{Big Sis, wait!
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{Kakak, tunggu!
 
 Cocona/RecQuestCoconaVagTaken2_1
-\CBct[2]\m[normal]\plf\PRF\c[6]Lona：\c[0]    What's wrong? What else do you want to ask about, Cocona?
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    There's so many people in here! Are we going to have to have sex with them all?
+\CBct[2]\m[normal]\plf\PRF\c[6]Lona：\c[0]    Ada apa? Apa lagi yang mau ditanyain, Cocona?
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Ada banyak banget orang di sini! Apa kita harus ngeseks sama mereka semua?
 
 Cocona/RecQuestCoconaVagTaken2_2
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Whu-\..\..\..?\m[shocked]\Rshake\{HUH?!
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ap-\..\..\..?\m[shocked]\Rshake\{HAH?!
 
 Cocona/RecQuestCoconaVagTaken2_3
-\CBct[2]\m[shy]\plf\PRF\c[6]Lona：\c[0]    Ohhh... I get it now... No Cocona, there's no need to anymore.
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    We won't have to sell our bodies anymore. Let's rest now.
+\CBct[2]\m[shy]\plf\PRF\c[6]Lona：\c[0]    Ohhh... Aku ngerti sekarang... Enggak Cocona, udah gak perlu lagi.
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Kita gak perlu jual tubuh kita lagi. Ayo istirahat sekarang.
 \CBid[-1,20]\SETlpl[cocona_confused]\PLF\prf\c[4]Cocona：\c[0]    Woo-Miao\..\..\..
 
 Cocona/RecQuestCocona29_3
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{BIG SIS!!!
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{KAKAK!!!
 
 Cocona/RecQuestCocona29_4
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Still have questions, Cocona?
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Cocona forgot to bring book!
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Book?
-\CBid[-1,20]\SETlpl[cocona_angry]\Lshake\prf\c[4]Cocona：\c[0]    Cocona's book from home! Book has good friend on it!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    You mean that bag you've been carrying before? That was a book?
-\CBid[-1,20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Cocona leave book at Big Mama's home. Good friend said to never lose book...
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    It'll be okay...
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Once we dock on land, we'll both head to the nearest city. Then, Big Sis will buy you a new book!
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Masih ada pertanyaan, Cocona?
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Cocona lupa bawa buku!
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Buku?
+\CBid[-1,20]\SETlpl[cocona_angry]\Lshake\prf\c[4]Cocona：\c[0]    Bukunya Cocona dari rumah! Di buku ada teman baik!
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Maksudmu tas yang kamu bawa sebelumnya? Itu buku?
+\CBid[-1,20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Cocona ninggalin buku di rumah Big Mama. Teman baik bilang jangan pernahilangin buku...
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Gak apa-apa kok...
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Begitu kita berlabuh di darat, kita berdua bakal ke kota terdekat. Nanti, Kakak belikan kamu buku baru!
 \CBid[-1,20]\SETlpl[cocona_confused]\PLF\prf\c[4]Cocona：\c[0]    Woo-Miao\..\..\..
 
 ########################################################################################### EndingShipSlaveLona
 
 EndingShipSlaveLona/begin1
-*Sob*\..\..\..
-My head hurts\..\..\..
-My body feels heavy\..\..\..
+*Hiks*\..\..\..
+Kepalaku sakit\..\..\..
+Badanku terasa berat\..\..\..
 
 EndingShipSlaveLona/begin2
-Where am I? What am I doing here?
-What happened\..\..\..?
-How did this happen to me\..\..\..
-Doesn't matter\..\..\..
-I'm so tired\..\..\..
-I just want to sleep\..\..\..
-I don't care anymore\..\..\..
+Di mana aku? Apa yang kulakukan di sini?
+Apa yang terjadi\..\..\..?
+Bagaimana ini bisa terjadi padaku\..\..\..
+Gak masalah\..\..\..
+Aku capek banget\..\..\..
+Aku cuma mau tidur\..\..\..
+Aku gak peduli lagi\..\..\..
 
 EndingShipSlaveLona/begin3
-\BonMP[Fucker2,20]\c[4]SailorA：\c[0]    Hey, new guy! Aren't you done yet?
-\BonMP[Fucker3,20]\c[4]SailorB：\c[0]    There are dozens of people waiting on you!
-\BonMP[Fucker4,20]\c[4]SailorC：\c[0]    Hurry the fuck up!
+\BonMP[Fucker2,20]\c[4]PelautA：\c[0]    Hei, orang baru! Apa kamu belum selesai?
+\BonMP[Fucker3,20]\c[4]PelautB：\c[0]    Ada puluhan orang yang nungguin kamu!
+\BonMP[Fucker4,20]\c[4]PelautC：\c[0]    Buruan bangsat!
 
 EndingShipSlaveLona/begin4
-\BonMP[Fucker1,20]\c[4]SailorD：\c[0]    \{Almost there! I'm cumming!
+\BonMP[Fucker1,20]\c[4]PelautD：\c[0]    \{Dikit lagi! Aku mau keluar!
 
 EndingShipSlaveLona/begin5
-\c[4]SailorB：\c[0]    I'm next I'm next!
-\c[4]SailorC：\c[0]    Why can't we just go together? I'll fuck her cunt, you prefer using her mouth anyway.
-\c[4]SailorD：\c[0]    What a great idea! I'll use her asshole, from now on we are hole bros!
-\c[4]SailorB：\c[0]    I like that! Hole bros...
-\c[4]SailorC：\c[0]    We might not be real brothers, but we'll be hole bros til lthe day we die, haha!
-\c[4]SailorD：\c[0]    Let's go, hole bros!
+\c[4]PelautB：\c[0]    Giliranku giliranku!
+\c[4]PelautC：\c[0]    Kenapa kita gak barengan aja? Aku bakal ent*t mekinya, kamu juga lebih suka pake mulutnya kan.
+\c[4]PelautD：\c[0]    Ide bagus tuh! Aku bakal pake lubang pantatnya, mulai sekarang kita saudara se-lubang!
+\c[4]PelautB：\c[0]    Aku suka itu! Saudara se-lubang...
+\c[4]PelautC：\c[0]    Kita mungkin bukan saudara kandung, tapi kita bakal jadi saudara se-lubang sampai mati, haha!
+\c[4]PelautD：\c[0]    Ayo, saudara se-lubang!
 
 EndingShipSlaveLona/end
-\narr The ship took Lona to the continent as promised, but she was sold off upon arrival\..\..\..
-\narr She was never seen again\..\..\..
+\narr Kapal membawa Lona ke benua sesuai janji, tapi dia dijual begitu sampai\..\..\..
+\narr Dia tidak pernah terlihat lagi\..\..\..
