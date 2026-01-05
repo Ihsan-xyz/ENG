@@ -25,4 +25,4 @@ Pop/resetTrait
 Reset Talenta
 
 Pop/HealPlayer
-Pulihkan life dan stamina
+Pulihkan nyawa dan stamina
