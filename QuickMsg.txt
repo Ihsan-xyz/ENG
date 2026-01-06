@@ -1,200 +1,200 @@
 #asdasdasdasdasdasdasdasdaasd       #length
 
 CoverTar/NonNearLona
-Your escort must be near Lona.
+Target pengawalanmu harus berada di dekat Lona.
 
 CoverTar/NonNearExit
-Your escort must be near the exit.
+Target pengawalanmu harus berada di dekat pintu keluar.
 
 Common/Slave0
-Eh? A slave?
+Eh? Seorang budak?
 
 Common/Slave1
-Get the fuck away from me!
+Enyah kau dari hadapanku!
 
 Common/Slave2
-I ain't speakin' to a slave.
+Aku nggak sudi bicara dengan budak.
 
 Lona/CannotWorks0
-Not a good place for this.
+Bukan tempat yang cocok untuk ini.
 
 Lona/CannotWorks1
-I can't do that here...
+Aku tidak bisa melakukan itu di sini...
 
 Lona/CannotPlaceHere0
-Something's in the way...
+Ada sesuatu yang menghalangi...
 
 Lona/CannotPlaceHere1
-Can't put it there...
+Tidak bisa diletakkan di sana...
 
 Lona/SexNoTarget0
-There's no one there...
+Tidak ada siapa-siapa di sana...
 
 Lona/SexNoTarget1
-Nothing's inside that hole...
+Tidak ada apa pun di dalam lubang itu...
 
 Lona/TargetNoSta0
-They have no stamina...
+Mereka kehabisan stamina...
 
 Lona/TargetNoSta1
-They're about to finish!
+Mereka sudah hampir keluar!
 
 Lona/MadnessMode0
 WUUUuuu WeEee EheeH!
 
 Lona/MadnessMode1
-MeEe Mi PuUwOuah!
+Akuuu Mi PuUwOuah!
 
 Lona/MadnessMode2
-PpP-PaPaAa... MmM-Maa... Ma...
+Pa-Pa-PapaAa... Ma-Ma-Maa... Ma...
 
 Lona/MadnessMode3
-WwwItH... OuT... It...
+Tan... Pa... I-tu...
 
 Lona/MadnessMode4
-K-K-CaAaAaLm... Ddd-D-d-DoWn...
+Te-Te-Tenang... Lah... D-d-Diriku...
 
 Lona/MadnessMode5
-W-w-WaNnA... D-dDd-DiIeEe...
+I-i-Ingin... M-m-MaatTii...
 
 Lona/MadnessMode6
-Sss-ShAiNt H-Hu-Hic-HeLp...
+Sss-ShAiNt To-To-Hic-Tolong...
 
 Lona/MadnessMode7
-NuH-NnNeEd... MeEeDiCiNe!
+Bu-Buu-Butuh... OooBaat!
 
 Lona/MadnessMode8
-EeEeEEEEYIIIRAaAaaaUgH!!! 
+EeEeEEEEYIIIRAaAaaaUgH!!!
 
 Lona/MadnessMode9
 K-KkKk-KkKYYYIIIAAAAAAAAAH!!!
 
 Lona/overweight0
-It's too heavy...
+Ini terlalu berat...
 
 Lona/overweight1
-I have too many items...
+Barang bawaanku terlalu banyak...
 
 Lona/OutResources0
-Not enough resources.
+Sumber daya tidak cukup.
 
 Lona/OutResources1
-I need more resources...
+Aku butuh lebih banyak sumber daya...
 
 Lona/WrongPlace0
-It won't fit there...
+Tidak akan muat di sana...
 
 Lona/WrongPlace1
-That's a bad spot...
+Itu titik yang buruk...
 
 Lona/incombat0
-I'm in combat!
+Aku sedang bertarung!
 
 Lona/incombat1
-There's enemies close by...
+Ada musuh di dekat sini...
 
 Lona/survival_too_low
-My Survival's too low...
+Level Survival-ku terlalu rendah...
 
 Lona/scoutcraft_too_low
-My Scoutcraft's too low...
+Level Scoutcraft-ku terlalu rendah...
 
 Lona/cuffed0
-I'm all tied up... I can't...
+Aku terbelenggu... aku tidak bisa...
 
 Lona/cuffed1
-Can't... Move...
+Tidak bisa... Bergerak...
 
 Lona/sta_too_low0
-I'm too tired...
+Aku terlalu lelah...
 
 Lona/sta_too_low1
-I have no strength left...
+Aku tidak punya tenaga lagi...
 
 Lona/captured0
-I can't! They captured me...
+Aku tidak bisa! Mereka menangkapku...
 
 Lona/captured1
-Can't... This is their place...
+Tidak bisa... Ini tempat mereka...
 
 Lona/CatchAnimal_success0
-Can't hide from me! ♥
+Tidak bisa sembunyi dariku! ♥
 
 Lona/CatchAnimal_success1
-Gotcha! ♥
+Kena kau! ♥
 
 Lona/CatchAnimal_failed0
-Hey! Don't run away!
+Hei! Jangan lari!
 
 Lona/CatchAnimal_failed1
-Ugh, why so fast…?!
+Ugh, kenapa cepat sekali…?!
 
 Lona/NoHpMed0
-I don't have any medicine...
+Aku tidak punya obat...
 
 Lona/NoHpMed1
-No medicine left...
+Obatnya sudah habis...
 
 Lona/NoStaMed0
-Don't have any energy items...
+Tidak punya item penambah energi...
 
 Lona/NoStaMed1
-No energy items left...
+Item energi sudah habis...
 
 Lona/NoItemExt
-There's nothing equipped.
+Tidak ada item yang terpasang.
 
 Lona/NoUse
-I can't use that.
+Aku tidak bisa menggunakan itu.
 
 Lona/SlotNotAllow
-I can't equip that...
+Aku tidak bisa memasang itu...
 
 Lona/Friendly
-They're friendly.
+Mereka ramah.
 
 Lona/Did
-Already did that.
+Sudah dilakukan.
 
 Lona/Failed
-I failed!
+Aku gagal!
 
 Lona/NotFound
-Didn't find anything...
+Tidak menemukan apa pun...
 
 Lona/TryAgain
-Let me try again.
+Biarkan aku mencoba lagi.
 
 Lona/Success
-Success!
+Berhasil!
 
 Lona/ExtNotEmpty
-I'm already on a quest.
+Aku sedang dalam misi lain.
 
 Lona/FeelsBetter0
-I feel better now!
+Aku merasa lebih baik sekarang!
 
 Lona/FeelsBetter1
-I feel refreshed!
+Aku merasa segar kembali!
 
-#_--------------------------------------PARASITE----------------------------------
+#_--------------------------------------PARASIT----------------------------------
 
 Lona/parasited0
-N-No! Not inside!
+T-Tidak! Jangan di dalam!
 
 Lona/parasited1
-NO!
+TIDAK!
 
 Lona/parasited2
-Not in there! Noo!
+Jangan di sana! Tidaak!
 
-#_--------------------------------------GRAB----------------------------------
+#_--------------------------------------TANGKAPAN----------------------------------
 
 Lona/beaten0
-Oof!
+Aduh!
 
 Lona/beaten1
-GAH!!!
+GAAAH!!!
 
 Lona/beaten2
 Guh! ...Eeep!! Eeyaaah!!!
@@ -206,7 +206,7 @@ Lona/beaten4
 Eeeyaaahhh!
 
 Lona/beaten5
-Guuuack!
+Guuuak!
 
 Lona/beaten6
 Ooouuugh!
@@ -218,7 +218,7 @@ Lona/beaten8
 Oooommph!
 
 Lona/beaten9
-*Retch*!
+*Huek*!
 
 Lona/beaten10
 Guuuh! Uoooh...
@@ -227,49 +227,49 @@ Lona/beaten11
 Eeeeeek!
 
 Lona/grab_normal0
-No! S-Stop...!
+Tidak! Ber-Berhenti...!
 
 Lona/grab_normal1
-Stooop...!
+Hentikaaan...!
 
 Lona/grab_normal2
-Let me g-go...!
+Lepaskan a-aku...!
 
 Lona/grab_tsun0
-Get away from me!
+Menjauh dariku!
 
 Lona/grab_tsun1
-Don't fucking touch me!
+Jangan berani menyentuhku!
 
 Lona/grab_tsun2
-Let go of me!
+Lepaskan aku!
 
 Lona/grab_weak0
-Don't hurt me...! P-Please!
+Jangan sakiti aku...! To-Tolong!
 
 Lona/grab_weak1
-D-... Don't...
+Ja-... Jangan...
 
 Lona/grab_weak2
-L-L-Let me g-go...
+Le-Le-Lepaskan a-aku...
 
 Lona/grab_weak0
-It... h-hurts...
+I-Ini... s-sakit...
 
 Lona/grab_weak1
-P-P... Please...
+To-To... Tolong...
 
 Lona/grab_weak2
-Owww...
+Aduh...
 
 Lona/grab_slut0
-Noo!
+Tidaak!
 
 Lona/grab_slut1
-Go away!
+Pergi sana!
 
 Lona/grab_slut2
-Get your hands off me!
+Lepaskan tanganmu dariku!
 
 Lona/grab_mouth_block0
 Mmmmph!!! MMMMMM!!!
@@ -299,51 +299,51 @@ Lona/Feeding2
 ......
 
 Lona/Empty0
-There's nothing here...
+Tidak ada apa pun di sini...
 
 Lona/Empty1
-It's empty...
+Kosong...
 
 Lona/Empty2
-Nothing here...
+Tidak ada apa-apa...
 
 #_--------------------------------------NPC----------------------------------
 
 NPC/CommandWait0
-I'll be waiting here.
+Aku akan menunggu di sini.
 
 NPC/CommandWait1
-Alright, I'll wait here.
+Baiklah, aku tunggu di sini.
 
 NPC/CommandFollow0
-Okay, lets go.
+Oke, ayo pergi.
 
 NPC/CommandFollow1
-I'll be following you.
+Aku akan mengikutimu.
 
 NPC/F_OrkindMeatToilet0
-Heeelp... me...
+Toooloonng... aku...
 
 NPC/F_OrkindMeatToilet1
-N-No... No more... Birth...
+T-Tidak... Jangan... Lahirkan lagi...
 
 NPC/F_OrkindMeatToilet2
-Don't... eat... me...
+Jangan... makan... aku...
 
 NPC/F_OrkindMeatToilet3
-*Sob*......
+*Isak*......
 
 NPC/F_OrkindMeatToilet4
-K-Kill... me...
+Bu-Bunuh... aku...
 
 NPC/F_OrkindMeatToilet5
-I wanna... go... home...
+Aku ingin... pulang...
 
 NPC/F_OrkindMeatToilet6
-D-Daddy...
+Ayah...
 
 NPC/F_OrkindMeatToilet7
-M-Mama......
+Ibu......
 
 NPC/F_OrkindMeatToilet8
 ...Guuuuuh...
@@ -358,49 +358,49 @@ NPC/F_OrkindMeatToilet11
 ...
 
 NPC/M_FUCKOFF0
-Shoo!
+Hus!
 
 NPC/M_FUCKOFF1
-Go away!
+Pergi sana!
 
 NPC/M_FUCKOFF2
-Get back!
+Mundur!
 
 NPC/M_NoTouch0
-Don't touch me!
+Jangan sentuh aku!
 
 NPC/M_NoTouch1
-The hell are you doing?
+Apa yang kau lakukan?
 
 NPC/M_NoTouch2
-What are ya lookin' at?
+Apa yang kau lihat?
 
 NPC/MoveAway0
-Get outta the way!
+Minggir dari jalan!
 
 NPC/MoveAway1
-Hey, don't block the way!
+Hei, jangan menghalangi jalan!
 
 NPC/MoveAway2
-I'm busy. Go away.
+Aku sedang sibuk. Pergi sana.
 
 NPC/ReqLonaTo0
-We're begging you!
+Kami memohon padamu!
 
 NPC/ReqLonaTo1
-Please, you're our only hope!
+Tolong, kaulah satu-satunya harapan kami!
 
 NPC/ReqLonaTo2
-You gotta hurry and help us!
+Kau harus cepat membantu kami!
 
 NPC/CommonConvoyTarget0
-Are we there yet...?
+Apa sudah sampai...?
 
 NPC/CommonConvoyTarget1
-Come on! Faster!
+Ayo! Lebih cepat!
 
 NPC/CommonConvoyTarget2
-Lets move!
+Ayo gerak!
 
 NPC/Crazy0
 Uuwee! He-heee!!
@@ -412,74 +412,74 @@ NPC/Crazy2
 Hehe... EEHEHEHEH!
 
 NPC/Whore0
-Hey mister, come have a seat!
+Hei tuan, mari mampir duduk dulu!
 
 NPC/Whore1
-Looking for a full service?
+Cari layanan lengkap?
 
 NPC/Whore2
-Want me to blow you? 
+Mau aku "isap"?
 
 NPC/ForceWork0
-Get to work!
+Cepat kerja!
 
 NPC/ForceWork1
-The fuck ya lookin' at?!
+Apa yang kau lihat, bangsat?!
 
 NPC/ForceWork2
-You wanna fuckin' die?!
+Kau mau mati, hah?!
 
 NPC_Mteen/Qmsg0
-Eeew! You stink!
+Iyuuh! Kau bau sekali!
 
 NPC_Mteen/Qmsg1
-Go away!
+Pergi sana!
 
 NPC_Mteen/Qmsg2
-Ugh! So annoying!
+Ugh! Sangat menjengkelkan!
 
 NPC_MteenHobo/Qmsg0
-So... hungry...
+Sangat... lapar...
 
 NPC_MteenHobo/Qmsg1
-I wanna... eat somethin'...
+Aku ingin... makan sesuatu...
 
 NPC_MteenHobo/Qmsg2
-Guuuh... T-Tired...
+Guuuh... L-Lelah...
 
 NPC_FregHobo/Qmsg0
-What's gonna happen tomorrow...?
+Apa yang akan terjadi besok...?
 
 NPC_FregHobo/Qmsg1
-Starving......
+Kelaparan......
 
 NPC_FregHobo/Qmsg2
-Where should I go...?
+Ke mana aku harus pergi...?
 
 NPC_Mreg/Qmsg0
-What am I gonna do now...?
+Apa yang harus kulakukan sekarang...?
 
 NPC_Mreg/Qmsg1
-Now what I am supposed to do?
+Sekarang apa yang harus kuperbuat?
 
 NPC_Mreg/Qmsg2
-Where should I go next?
+Ke mana aku harus pergi selanjutnya?
 
-#_--------------------------------------NPC F MINER----------------------------------
+#_--------------------------------------NPC F PENAMBANG----------------------------------
 
 NPC/F_Miner0
-Everyone's dying... Except me.
+Semua orang mati... Kecuali aku.
 
 NPC/F_Miner1
-I... Will not... Die...!
+Aku... Tidak akan... Mati...!
 
 NPC/F_MinerMeatToilet0
-This is hopeless...
+Ini sia-sia...
 
 NPC/F_MinerMeatToilet1
-Will I be able to eat today?
+Apa aku bisa makan hari ini?
 
-#_--------------------------------------NPC CRAZY----------------------------------
+#_--------------------------------------NPC GILA----------------------------------
 
 NPC/F_Crazy0
 Hee hee...
@@ -488,40 +488,40 @@ NPC/F_Crazy1
 Ahh... Ha-ha...
 
 NPC/F_Crazy2
-Cock... B-Big cooock...
+Batang... Ba-Batang besaaarrr...
 
 #_--------------------------------------Elise  ----------------------------------
 
 EliseGynecology/Patient_a0
-He's c-crazy...
+Dia g-gila...
 
 EliseGynecology/Patient_a1
-D-Don't let him touch me!
+J-Jangan biarkan dia menyentuhku!
 
 EliseGynecology/Patient_a2
-I w-wanna go home...!
+Aku i-ingin pulang...!
 
 EliseGynecology/Patient_b0
-I don't want a baby monster!
+Aku tidak mau bayi monster!
 
 EliseGynecology/Patient_b1
-G-Get it out of me!!!
+K-Keluarkan ini dariku!!!
 
 EliseGynecology/Patient_b2
-*Sob*...
+*Isak*...
 
 EliseGynecology/EmptyBed
-This bed is empty.
+Ranjang ini kosong.
 
-#_--------------------------------------Road halp ----------------------------------
+#_--------------------------------------Minta Tolong di Jalan ----------------------------------
 
 RoadHap/EnemyStillHere0
-They're still here! Help me!
+Mereka masih di sini! Tolong aku!
 
 RoadHap/EnemyStillHere1
-Please! I'm begging you!
+Kumohon! Aku memohon padamu!
 
 RoadHap/EnemyStillHere2
-HELP! OH SAINT, HELP ME!!!
+TOLONG! DEMI SAINT, TOLONG AKU!!!
 
-#Translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+#Diterjemahkan sepenuhnya dan dibersihkan oleh Sugoi Soy Boy. #Enyahlah wahai monyet-monyet MTL.
