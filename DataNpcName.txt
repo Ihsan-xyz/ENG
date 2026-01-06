@@ -12,27 +12,27 @@ Abomination
 ###########################################################  NPC PART ###########################################################
 
 part/arm
-'s arm
+Lengan
 
 part/penis
-'s penis
+Penis
 
 part/mouth
-'s mouth
+Mulut
 
 part/beads
-beads
+Manik-manik
 
 part/enema
-enema sack
+Kantong Enema
 
 ###########################################################  NPC RACE ###########################################################
 
 race/Human
-Human
+Manusia
 
 race/Moot
-Mixed-Race
+Ras Campuran
 
 race/Orkind
 Orc
@@ -47,81 +47,81 @@ race/Deepone
 Deepone
 
 race/Fishkind
-Fishkind
+Manusia Ikan
 
 race/Troll
 Troll
 
 race/Animal
-Animal
+Hewan
 
 race/OthersElise
-Unknown Creature
+Makhluk Tak Dikenal
 
 race/Others
-Other
+Lainnya
 
 race/Dog
-Dog
+Anjing
 
 race/Horse
-Horse
+Kuda
 
 race/DeeponeLona
-Smelly Human
+Manusia Bau
 
 race/AbomLona
-Sick Human
+Manusia Sakit
 
 race/AbomMootLona
-Unwell Mixed-Race
+Ras Campuran Kurang Sehat
 
 ###########################################################  NPC NAME ###########################################################
 
 name/nameCreatureBat
-Mutant Bat
+Kelelawar Mutan
 
 name/nameCreatureGroundSpore
-Monster Spore
+Spora Monster
 
 name/nameCreatureMeatWorm
-Meat Worm
+Cacing Daging
 
 name/nameCreatureSpore
-Floating Spore
+Spora Melayang
 
 name/nameCreatureSummonSpore
-Malicious Spore
+Spora Jahat
 
 name/nameCreatureTentacle
-Fanged Tentacle
+Tentakel Bertaring
 
 name/nameCreatureTentacleSummoned
-Fanged Tentacle
+Tentakel Bertaring
 
 name/Baby_nameinationBaby
-Infant
+Bayi
 
 name/Baby_FishkindBaby
-Infant
+Bayi
 
 name/Baby_GoblinBaby
-Infant
+Bayi
 
 name/Baby_OgreChild
-Child
+Anak-anak
 
 name/Baby_OrcBaby
-Infant
+Bayi
 
 name/Baby_OrcChild
-Child
+Anak-anak
 
 goblin/GoblinBow
-Archer
+Pemanah
 
 name/GoblinClub
-Soldier
+Prajurit
 
 name/GoblinCommoner
 
@@ -130,19 +130,19 @@ name/GoblinCommoner_focused
 
 
 name/GoblinSpear
-Spearman
+Ahli Tombak
 
 name/GoblinWarrior
-Warrior
+Pejuang
 
 name/GoblinWatcher
-Scout
+Pengintai
 
 name/HobgoblinBow
-Archer
+Pemanah
 
 name/HobgoblinClub
-Soldier
+Prajurit
 
 name/HobgoblinCommoner
 
@@ -157,43 +157,43 @@ name/HobgoblinSpear
 Pikeman
 
 name/HobgoblinWarrior
-Warrior
+Pejuang
 
 name/HobgoblinWatcher
-Scout
+Pengintai
 
 name/HumanBow
-Archer
+Pemanah
 
 name/HumanExecutioner
-Executioner
+Algojo
 
 name/HumanLawbringer
-Law Enforcer
+Penegak Hukum
 
 name/HumanScout
-Scout
+Pengintai
 
 name/HumanSpear
-Spearman
+Ahli Tombak
 
 name/HumanTorturer
-Interrogator
+Interogator
 
 name/HumanWarrior
-Warrior
+Pejuang
 
 name/MobHumanClub
-Mob
+Massa
 
 name/MobHumanCommoner
-Mob
+Massa
 
 name/MobHumanHighLander
-Son of the Dragon
+Putra Naga
 
 name/MobHumanPickAxe
-Mob
+Massa
 
 name/MobHumanRogueBow
 Bandit
@@ -211,100 +211,100 @@ name/MobHumanSpear
 Bandit
 
 name/NatureMerchant
-Merchant
+Pedagang
 
 name/NeutralHumanBow
-Archer
+Pemanah
 
 name/NeutralHumanPrisonMinerF
-Female Mine Slave
+Budak Tambang Wanita
 
 name/NeutralHumanPrisonMinerM
-Mine Slave
+Budak Tambang
 
 name/NeutralHumanPrisonMinerRaperM
-Mine Slave Rapist
+Pemerkosa Budak Tambang
 
 name/NeutralHumanPrisonMineTrader
-Prison Guard
+Penjaga Penjara
 
 name/NeutralHumanPrisonOfficer
-Prison Warden
+Sipir Penjara
 
 name/NeutralHumanPrisonSpear
-Prison Guard
+Penjaga Penjara
 
 name/NeutralHumanPrisonTorturer
-Prison Interrogator
+Interogator Penjara
 
 name/NeutralHumanPrisonWarrior
-Prison Guard
+Penjaga Penjara
 
 name/NeutralHumanScout
-Scout
+Pengintai
 
 name/NeutralHumanWarrior
-Warrior
+Pejuang
 
 name/OrcBow
-Archer
+Pemanah
 
 name/OrcCatcher
-Hunter
+Pemburu
 
 name/OrcClub
-Soldier
+Prajurit
 
 name/OrcCommoner
-asdf unused
+asdf tidak digunakan
 
 name/OrcCommoner_focused
-asdf unused
+asdf tidak digunakan
 
 name/OrcWarrior
-Warrior
+Pejuang
 
 name/PlayernameinationBaby
-Infant
+Bayi
 
 name/PlayerFishkindBaby
-Infant
+Bayi
 
 name/PlayerGoblinBaby
-Infant
+Bayi
 
 name/PlayerOgreChild
-Child
+Anak-anak
 
 name/PlayerOrcBaby
-Infant
+Bayi
 
 name/WildBoar
-Boar
+Babi Hutan
 
 name/WildDog
-Stray Dog
+Anjing Liar
 
 name/WildGiantMice
-Giant Rat
+Tikus Raksasa
 
 name/WildHorse
-Horse
+Kuda
 
 name/WildApeF
-Female Monkey
+Monyet Betina
 
 name/WildApeM
-Monkey
+Monyet
 
 name/UniquePigBobo
-Bobo the Breeder
+Bobo sang Breeder
 
 name/HorseCarry
-Draft Horse
+Kuda Beban
 
 name/WildAlphaPig
-Alpha Hog
+Babi Hutan Alpha
 
 name/AbomCreatureManager
 Fiend
@@ -313,10 +313,10 @@ name/AbomCreatureScorpion
 Crawler
 
 name/AbomCreatureSpider
-Spider
+Laba-laba
 
 name/AbomCreatureZombie
-Mutant
+Mutan
 
 name/AbomCreatureBreedling
 Breedling
@@ -327,9 +327,9 @@ Dirty Johnson
 ######################## EVENT  ######################################
 
 fraction/nature
-Neutral
+Netral
 
 fraction/evil
-Evil Creatures
+Makhluk Jahat
 
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
