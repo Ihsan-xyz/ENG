@@ -1,90 +1,90 @@
 NoerBank/OvermapEnter
-\m[confused]Tripartite Stock Exchange (Bank) \optB[Leave,Enter]
+\m[confused]Bursa Efek Tripartit (Bank) \optB[Pergi,Masuk]
 
 NoerBank/OvermapEnter_Slave
-\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    Where did this slave come from?! Go away! Scram!
+\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Penjaga：\c[0]    Budak b*ngsat mana nih?! Pergi sana! Enyah lo!
 \m[sad]\PLF\c[6]Lona：\c[0]    ......
 
 NoerBank/OvermapEnterClosed
-\m[confused]\c[6]Lona：\c[0]    It looks like they're closed.
+\m[confused]\c[6]Lona：\c[0]    Sepertinya mereka sudah tutup.
 
 ################################################################################
 
 Maani/begin1_unknow
-\SETpl[MaaniNormal]\c[4]Bank Clerk：\c[0]    Welcome to the Tripartite Stock Exchange, Noer's branch. How may I be of service?
+\SETpl[MaaniNormal]\c[4]Pegawai Bank：\c[0]    Selamat datang di Bursa Efek Tripartit, cabang Noer. Ada yang bisa saya bantu?
 
 Maani/begin1_talked
-\SETpl[MaaniNormal]\c[4]Maani：\c[0]    Hello, we meet again.
+\SETpl[MaaniNormal]\c[4]Maani：\c[0]    Halo, kita ketemu lagi.
 
 Maani/begin2_about
-\SETpl[MaaniNormal]\m[confused]\plf\c[6]Lona：\c[0]    A branding on the face... Are you... a slave?
-\PLF\prf\CamMP[Maani]\c[4]Maani：\c[0]    Yes.
-\m[wtf]\CamCT\plf\c[6]Lona：\c[0]    Are slaves allowed to do this kind of work?
-\CamMP[Maani]\PLF\prf\c[4]Maani：\c[0]    I am working here at my owner's request. I'm just following orders.
-\CamMP[Maani]\c[4]Maani：\c[0]    Excuse me. If you don't intend on making a transaction of some sort, there are others behind you who require my services.
-\m[flirty]\CamCT\plf\PRF\c[6]Lona：\c[0]    Oh, I'm sorry.
-\m[confused]The name tag on her uniform says Maani.
-\m[confused]A slave with a name? That's amazing.
+\SETpl[MaaniNormal]\m[confused]\plf\c[6]Lona：\c[0]    Ada cap di wajahnya... Apa kamu... seorang budak?
+\PLF\prf\CamMP[Maani]\c[4]Maani：\c[0]    Iya.
+\m[wtf]\CamCT\plf\c[6]Lona：\c[0]    Apa budak dibolehin kerja kayak begini?
+\CamMP[Maani]\PLF\prf\c[4]Maani：\c[0]    Aku kerja di sini atas permintaan tuanku. Aku cuma jalanin perintah.
+\CamMP[Maani]\c[4]Maani：\c[0]    Permisi. Kalau kamu nggak ada niat buat transaksi, ada orang lain di belakangmu yang butuh bantuanku.
+\m[flirty]\CamCT\plf\PRF\c[6]Lona：\c[0]    Oh, maaf ya.
+\m[confused]Label nama di seragamnya tertulis Maani.
+\m[confused]Budak punya nama? Luar biasa banget.
 
 ################################################################################
 
 NapBank/talk0
-\SETpl[Mreg_pikeman]\m[shocked]\c[4]Guard：\c[0]    Hey! What do you think you're doing?! \{GET OUT!
+\SETpl[Mreg_pikeman]\m[shocked]\c[4]Penjaga：\c[0]    Woi! Lu pikir lu lagi ngapain, b*ngsat?! \{KELUAR LU!
 
 NapBank/talk1
-\SETpl[Mreg_pikeman]\m[shocked]\c[4]Guard：\c[0]    Shoo, shoo! Beggars are not welcomed and should stay in the streets!
+\SETpl[Mreg_pikeman]\m[shocked]\c[4]Penjaga：\c[0]    Hush, pergi sana! Gembel nggak diterima di sini, balik ke jalanan sana!
 
 NapBank/talk2
-\SETpl[Mreg_pikeman]\m[shocked]\c[4]Guard：\c[0]    Scram! The Tripartite Stock Exchange is not your home!
+\SETpl[Mreg_pikeman]\m[shocked]\c[4]Penjaga：\c[0]    Enyah lu! Bursa Efek Tripartit ini bukan rumah lu, b*ngsat!
 
 NapBank/talk_end
-\ph\narr Lona was kicked out.
+\ph\narr Lona ditendang keluar.
 
 ################################################################################
 
 gentleman/talk1
-\ph\CamMP[GentlemanA]\c[4]Merchant：\c[0]    What do you think about the recent monster invasion?
-\CamMP[GentlemanB]\c[4]Trader：\c[0]    My Sybaris assets are all gone now, but otherwise...
-\CamMP[GentlemanB]\c[4]Trader：\c[0]    \BonMP[GentlemanB,3]Huge earnings!
-\CamMP[GentlemanA]\c[4]Merchant：\c[0]    \BonMP[GentlemanA,4]Huge earnings!
-\CamMP[GentlemanB]\c[4]Trader：\c[0]    Gotta love the war.
-\CamMP[GentlemanA]\c[4]Merchant：\c[0]    And respect chaos!
-\CamCT\m[confused]Father was also a businessman...
-\m[serious]\Bon[15]But! Father wasn't as shameless as these people.
+\ph\CamMP[GentlemanA]\c[4]Saudagar：\c[0]    Gimana menurutmu soal invasi monster baru-baru ini?
+\CamMP[GentlemanB]\c[4]Trader：\c[0]    Asetku di Sybaris udah ludes semua sekarang, tapi ya...
+\CamMP[GentlemanB]\c[4]Trader：\c[0]    \BonMP[GentlemanB,3]Cuan gede!
+\CamMP[GentlemanA]\c[4]Merchant：\c[0]    \BonMP[GentlemanA,4]Cuan melimpah!
+\CamMP[GentlemanB]\c[4]Trader：\c[0]    Perang emang mantap.
+\CamMP[GentlemanA]\c[4]Merchant：\c[0]    Kekacauan emang asik!
+\CamCT\m[confused]Ayah dulu juga pebisnis...
+\m[serious]\Bon[15]Tapi! Ayah nggak seb*ngsat dan nggak tahu malu kayak orang-orang ini.
 
 GentlemanB/popup0
-I should buy some more assets.
+Aku harus beli lebih banyak aset.
 
 GentlemanB/popup1
-Prices can only up. It must!
+Harga cuma bisa naik. Pasti naik!
 
 ################################################################################
 
 emplyee1/begin
-\CBid[-1,20]\c[4]Bank Clerk：\c[0]    Are you from Sybaris? Please visit the counter second to the far left.
+\CBid[-1,20]\c[4]Pegawai Bank：\c[0]    Kamu dari Sybaris? Silakan ke loket kedua dari ujung kiri.
 
 emplyee2/begin
-\CBid[-1,20]\c[4]Rude Bank Clerk：\c[0]    No! Not here! Go to the counter on the left!
+\CBid[-1,20]\c[4]Pegawai Bank Galak：\c[0]    Bukan! Bukan di sini! Sana ke loket sebelah kiri!
 
 emplyee_busy/begin
-\CBid[-1,20]\c[4]Bank Clerk：\c[0]    There was a coin shortage, and withdrawals were also suspended. The results ended up causing a riot.
+\CBid[-1,20]\c[4]Pegawai Bank：\c[0]    Lagi krisis koin, penarikan juga lagi ditunda. Akhirnya malah jadi kerusuhan.
 
 guards/begin
-\CBid[-1,20]\c[4]Guard：\c[0]    I'm watching you!
+\CBid[-1,20]\c[4]Penjaga：\c[0]    Gue awasin lu!
 \CBct[6]\m[flirty]\c[6]Lona：\c[0]    Ah... Hehe...
 
 female/Qmsg0
-I heard the Tripartite is going bankrupt!
+Kudengar Tripartit bakal bangkrut!
 
 female/Qmsg1
-I must withdraw all my money soon!
+Aku harus segera tarik semua uangku!
 
 #####################################################################
 
 AllBuyArt/talk0
-\cg[other_AllBuy]Title： All buy!
-A mysterious artwork painted from the East. So far, no one from the West can understand the meaning of this painting.
+\cg[other_AllBuy]Judul： Beli Semua!
+Karya seni misterius yang dilukis dari Timur. Sejauh ini, nggak ada orang dari Barat yang paham arti lukisan ini.
 \m[serious]Ummm...?
-\m[confused]I don't get it...
+\m[confused]Aku nggak paham...
 
 #Translation by a MTL monkey. Edited by Joko Komodo. Full clean-up by Sugoi Soy Boy. Fuck off MTLing monkeys.
