@@ -3,710 +3,710 @@ Sacred Aegis
 
 SacredAegis/description
 \}\n
-Through discipline and faith, one guards their vestments — a symbol not easily stripped away.\n
+Melalui disiplin dan iman, seseorang menjaga pakaian mereka — simbol yang tidak mudah dilepaskan.\n
 \n
-\C[6]Requires 5 points in SUR.\n
-\C[2]When hit by an attack, garments will not be torn off.\n
-\C[2]When caught by a grab skills, if Anal, Vag, and Face remain uncovered, garments will not be removed.\n
+\C[6]Membutuhkan 5 poin dalam SUR.\n
+\C[2]Saat terkena serangan, pakaian tidak akan robek.\n
+\C[2]Saat terkena skill grab, jika Anal, Vag, dan Wajah tetap tertutup, pakaian tidak akan terlepas.\n
 
 Dizzy/item_name
 Vertigo
 
 Dizzy/description
 \}\n
-*Retch* Don't feel good,\n
-everything's spinning...\n
+*Huek* Merasa tidak enak badan,\n
+semuanya berputar...\n
 \n
-\C[1]Decreases maximum STA.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
 
 ParasitedPolypWorm/item_name
-Polyp
+Polip
 
 ParasitedPolypWorm/description
 \}\n
-My tummy feels bloated. Hot too\n
+Perutku terasa kembung. Terasa panas juga\n
 \n
-\C[5]Chance to spawn polyp worm every time you orgasm.\n
-\C[5]Increase arousal each rest.\n
-\C[1]Vagina damage each rest.\n
-\C[1]Baby damage each rest.\n
+\C[5]Peluang memunculkan cacing polip setiap kali orgasme.\n
+\C[5]Meningkatkan gairah setiap kali istirahat.\n
+\C[1]Damage vagina setiap kali istirahat.\n
+\C[1]Damage bayi setiap kali istirahat.\n
 
 ParasitedHookWorm/item_name
-Hookworm
+Cacing Tambat
 
 ParasitedHookWorm/description
 \}\n
-I want to puke...and I have no appetite.\n
+Aku ingin muntah... dan aku tidak punya nafsu makan.\n
 \n
-\C[5]Increase need to vomit over time.\n
-\C[5]Chance to spawn hookworm every time you vomit.\n
-\C[1]Increase Food cost each rest.\n
+\C[5]Meningkatkan keinginan untuk muntah seiring waktu.\n
+\C[5]Peluang memunculkan cacing tambat setiap kali muntah.\n
+\C[1]Meningkatkan konsumsi Makanan setiap kali istirahat.\n
 
 StomachSeedBed/item_name
 Seedbed Stomach
 
 StomachSeedBed/description
 \}\n
-My belly is a seedbed for monsters.\n
+Perutku adalah persemaian bagi monster.\n
 \n
-\C[1]Increase hookworm spawns each rest.\n
+\C[1]Meningkatkan kemunculan cacing tambat setiap kali istirahat.\n
 
 NaturalVagGlandsLink/item_name
 Prospermia
 
 NaturalVagGlandsLink/description
 \}\n
-I've always been unable to resist pleasure for too long...\n
+Aku selalu tidak bisa menahan kenikmatan terlalu lama...\n
 \n
-\C[6]Automatically removes gland modifications.\n
-\C[1]Decreases negative effects on WILL.\n
+\C[6]Secara otomatis menghapus modifikasi kelenjar.\n
+\C[1]Mengurangi efek negatif pada WILL.\n
 
 WaveringResolve/item_name
-Vacillation
+Kebimbangan
 
 WaveringResolve/description
 \}\n
-I'm always indecisive.
+Aku selalu ragu-ragu.
 \n
-\C[2]Decreases negative effects on HP\n
-\C[1]Decrease WILL\n
+\C[2]Mengurangi efek negatif pada HP\n
+\C[1]Mengurangi WILL\n
 
 ADHD/item_name
 ADHD
 
 ADHD/description
 \}\n
-I don't know why I'm always so impulsive.
+Aku tidak tahu kenapa aku selalu begitu impulsif.
 \n
-\C[2]Increase Dodge Frame\n
-\C[2]Increase SPD\n
-\C[1]Decrease WIS\n
+\C[2]Meningkatkan Dodge Frame\n
+\C[2]Meningkatkan SPD\n
+\C[1]Mengurangi WIS\n
 
 STD_Leukorrhea/item_name
 Vaginitis
 
 STD_Leukorrhea/description
 \}\n
-Some sort of gooey slime keeps leaking out from my vagina.\n
-UGH! And it smells so bad... Am I sick with some sort of disease?\n
+Semacam lendir lengket terus keluar dari vaginaku.\n
+UGH! Dan baunya sangat busuk... Apakah aku tertular semacam penyakit?\n
 \n
-\C[1]Decreases Mood.\n
+\C[1]Mengurangi Mood.\n
 
 STD_WartAnal/item_name
-Anal Warts
+Kutil Anal
 
 STD_WartAnal/description
 \}\n
-Fleshy bumps circle around my anus and I think inside my rectum as well...\n
-Although painless, they always feel really itchy...\n
+Benjolan berdaging melingkar di sekitar anus dan kurasa di dalam rektum juga...\n
+Meskipun tidak sakit, rasanya selalu sangat gatal...\n
 \n
-\C[1]Decreases Mood.\n
+\C[1]Mengurangi Mood.\n
 
 STD_WartVag/item_name
-Genital Warts
+Kutil Kelamin
 
 STD_WartVag/description
 \}\n
-From what I saw, warts are appearing on my vagina now.\n
-The bumps inside my vagina itches nearly all the time too...\n
-The irritation almost makes me want to insert something inside.\n
+Dari yang kulihat, kutil mulai muncul di vaginaku sekarang.\n
+Benjolan di dalam vaginaku juga gatal hampir sepanjang waktu...\n
+Iritasi ini hampir membuatku ingin memasukkan sesuatu ke dalam.\n
 \n
-\C[1]Decreases Mood.\n
+\C[1]Mengurangi Mood.\n
 
 STD_HerpesAnal/item_name
-Anal Herpes
+Herpes Anal
 
 STD_HerpesAnal/description
 \}\n
-Tiny lesions and blisters surround my anus and inner buttocks...\n
-I'm nearly in tears just from sitting down...\n
+Luka kecil dan lepuhan mengelilingi anus dan bokong bagian dalam...\n
+Aku hampir menangis hanya karena duduk...\n
 \n
-\C[1]Decreases Mood.\n
+\C[1]Mengurangi Mood.\n
 
 STD_HerpesVag/item_name
-Genital Herpes
+Herpes Genital
 
 STD_HerpesVag/description
 \}\n
-Small, painful rashes and sores are popping up all over my vagina...\n
-It really hurts when I touch them...\n
+Ruam dan luka kecil yang menyakitkan muncul di seluruh vaginaku...\n
+Rasanya sangat sakit saat aku menyentuhnya...\n
 \n
-\C[1]Decreases Mood.\n
+\C[1]Mengurangi Mood.\n
 
 Freckle/item_name
 Freckles
 
 Freckle/description
 \}\n
-Tiny brown dots blot all over my face and skin...\n
-Father said it's because I often played outside under the sun.\n
-I've heard some boys find them cute though!\n
+Bintik-bintik cokelat kecil menutupi wajah dan kulitku...\n
+Ayah bilang itu karena aku sering bermain di luar di bawah sinar matahari.\n
+Tapi kudengar beberapa anak laki-laki menganggapnya imut!\n
 
 Tail/item_name
-Tail
+Ekor
 
 Tail/description
 \}\n
-When I was a child, everyone would always pull on my tail.\n
+Saat aku masih kecil, semua orang selalu menarik-narik ekorku.\n
 \n
-It was really annoying...\n
+Rasanya sangat menjengkelkan...\n
 
 PubicHairVag/item_name
-Pubic Hair
+Rambut Kemaluan
 
 PubicHairVag/description
 \}\n
-Having pubic hair is a symbol of adulthood!\n
+Memiliki rambut kemaluan adalah simbol kedewasaan!\n
 \n
-With this, people should stop laughing at me and treating me like a child!\n
+Dengan ini, orang-orang harus berhenti menertawakanku dan memperlakukanku seperti anak kecil!\n
 
 PubicHairAnal/item_name
-Anal Hair
+Rambut Anal
 
 PubicHairAnal/description
 \}\n
-The priests say that the reason hair is grown\n
-near the anus is to prevent too much filth\n
-from being stuck onto your body.\n
+Para pendeta bilang alasan rambut tumbuh\n
+di dekat anus adalah untuk mencegah terlalu banyak kotoran\n
+menempel pada tubuhmu.\n
 \n
-But, if such an area is seen by others...\n
+Tapi, jika area seperti itu terlihat oleh orang lain...\n
 
 WeakBladder/item_name
-Weak Bladder
+Kantung Kemih Lemah
 
 WeakBladder/description
 \}\n
-Ugh... I still wet the bed to this day.\n
-Also, if I drink too much water, it'll leak right out of me.\n
+Ugh... Aku masih mengompol sampai hari ini.\n
+Juga, jika aku minum terlalu banyak air, itu akan bocor keluar begitu saja.\n
 
 SaintFieldSupporter/item_name
-The Low Priestess
+Pendeta Rendah
 
 SaintFieldSupporter/description
 \}\n
-\}The priests at church told me I had a gift in serving the followers of the Saint. Father stopped me from\n
-visiting church since that day...\n
+\}Para pendeta di gereja memberitahuku bahwa aku berbakat dalam melayani pengikut Saint. Ayah menghentikanku dari\n
+mengunjungi gereja sejak hari itu...\n
 \n
-\C[6]Requires 10 points in CON.\n
-\C[6]Requires Trait："Acolyte".\n
-\C[2]The "Mend Soul" skill now heals target's Injury ailments.\n
+\C[6]Membutuhkan 10 poin dalam CON.\n
+\C[6]Membutuhkan Trait："Acolyte".\n
+\C[2]Skill "Mend Soul" sekarang menyembuhkan penyakit Cedera target.\n
 
 NunKnowledge/item_name
-Acolyte
+Akolit
 
 NunKnowledge/description
 \}\n
-\}Church was like a second home to me when I was a little girl.\n
+\}Gereja sudah seperti rumah kedua bagiku saat aku masih kecil.\n
 \n
-\C[6]Requires 5 points in CON.\n
-\C[2]Receive the "Mend Soul" skill.\n
-\C[2]Able to equip "Divine" items.\n
+\C[6]Membutuhkan 5 poin dalam CON.\n
+\C[2]Mendapatkan skill "Mend Soul".\n
+\C[2]Dapat menggunakan item "Divine".\n
 
 AbomSickly/item_name
-Sickly
+Sakitan
 
 AbomSickly/description
-\}I've always been in poor health since childhood.\n
-*Cough* *Cough*......\n
+\}Aku selalu memiliki kesehatan yang buruk sejak kecil.\n
+*Uhuk* *Uhuk*......\n
 \n
-\C[1]Decreases maximum STA and HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
-\C[1]This ailment returns after sleeping.\n
+\C[1]Mengurangi STA dan HP maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
+\C[1]Penyakit ini kembali setelah tidur.\n
 
 PreDeepone/item_name
-Body Odor
+Bau Badan
 
 PreDeepone/description
-\}Everyone I've ever met tells me I reek of fish,\n
-especially down there...\n
-I think I smell just fine though......\n
-\C[1]Decreases SCU.\n
-\C[6]Decreases Sexy.\n
+\}Semua orang yang kutemui bilang aku berbau amis ikan,\n
+terutama di bagian bawah sana...\n
+Tapi kurasa aku berbau biasa saja......\n
+\C[1]Mengurangi SCU.\n
+\C[6]Mengurangi Seksi.\n
 
 TrueDeepone/item_name
-Sea Witch's Gift
+Hadiah Penyihir Laut
 
 TrueDeepone/description
-\}The blood and powers of the ancient\n
-Sea Witch flows through your veins.\n
+\}Darah dan kekuatan Penyihir Laut\n
+kuno mengalir di nadimu.\n
 \n
-As a Goddess, your mesmerizing beauty\n
-and oceanic body odor is an aphrodisiac\n
-to the opposite sex.\n
+Sebagai seorang Dewi, kecantikanmu yang memikat\n
+dan bau badan samudra adalah afrodisiak\n
+bagi lawan jenis.\n
 \n
-Any males who are lucky enough to be in\n
-your presence will suddenly be driven\n
-mad with lust, and have a desire to\n
-forcefully breed with you...\n
+Pria mana pun yang cukup beruntung berada di\n
+hadapanmu tiba-tiba akan didorong\n
+menjadi gila karena nafsu, dan berhasrat untuk\n
+memaksamu kawin dengannya...\n
 
 ShadowMaster/item_name
 Into the Darkness
 
 ShadowMaster/description
 \}\n
-\C[6]Requires Trait："From the Shadows".\n
-\C[6]Requires 20 points in SCU.\n
-\C[2]Allows continuous usage of skills\n
-while in Sneak/Stealth mode.\n
+\C[6]Membutuhkan Trait："From the Shadows".\n
+\C[6]Membutuhkan 20 poin dalam SCU.\n
+\C[2]Memungkinkan penggunaan skill terus-menerus\n
+saat dalam mode Sneak/Stealth.\n
 
 IntoShadow/item_name
 From the Shadows
 
 IntoShadow/description
 \}\n
-\C[6]Requires 10 points in SCU.\n
-\C[2]While in Sneak/Stealth mode\n
-and using a skill, you remain in\n
-Sneak/Stealth mode until the skill\n
-has been activated.\n
+\C[6]Membutuhkan 10 poin dalam SCU.\n
+\C[2]Saat dalam mode Sneak/Stealth\n
+dan menggunakan skill, kamu tetap dalam\n
+mode Sneak/Stealth sampai skill\n
+telah diaktifkan.\n
 
 TrapImprove/item_name
-Improved Traps
+Jebakan yang Ditingkatkan
 
 TrapImprove/description
 \}\n
-\C[6]Requires Trait："Hunter Training".\n
-\C[6]Requires 10 points in SUR.\n
-\C[2]Your traps now stun enemies when\n
-activated.\n
+\C[6]Membutuhkan Trait："Latihan Pemburu".\n
+\C[6]Membutuhkan 10 poin dalam SUR.\n
+\C[2]Jebakanmu sekarang membuat musuh stun saat\n
+diaktifkan.\n
 
 DailyDrunkLevel/item_name
-Drunk
+Mabuk
 
 DailyDrunkLevel/description
-\}*Hic*... Burp!\n
-\C[2]Increases ATK.\n
-\C[1]Decreases Will.\n
-\C[1]Decreases WIS.\n
-\C[1]Increases Weak.\n
+\}*Hic*... *Sendawa*!\n
+\C[2]Meningkatkan ATK.\n
+\C[1]Mengurangi Will.\n
+\C[1]Mengurangi WIS.\n
+\C[1]Meningkatkan Weak.\n
 
 DailyPlusMood/item_name
-Fun
+Seru
 
 DailyPlusMood/description
 \}\n
-I hope the excitement never ends!\n
+Aku harap keseruan ini tidak pernah berakhir!\n
 \n
-\C[6]Effects reduces every half-day.\n
-\C[5]Increases minimum Mood.\n
-\C[2]Increases SPD.\n
+\C[6]Efek berkurang setiap setengah hari.\n
+\C[5]Meningkatkan Mood minimum.\n
+\C[2]Meningkatkan SPD.\n
 
 DailyPlusHealthy/item_name
-Joy
+Gembira
 
 DailyPlusHealthy/description
 \}\n
-Today is going to be a good day!\n
+Hari ini akan menjadi hari yang baik!\n
 \n
-\C[6]Effects reduces every half-day.\n
-\C[2]Increases Will.\n
-\C[2]Increases ATK.\n
-\C[2]Increases DEF.\n
+\C[6]Efek berkurang setiap setengah hari.\n
+\C[2]Meningkatkan Will.\n
+\C[2]Meningkatkan ATK.\n
+\C[2]Meningkatkan DEF.\n
 
 Pessimist/item_name
-Pessimist
+Pesimis
 
 Pessimist/description
 \}\n
-Misery loves company......\n
+Penderitaan butuh teman......\n
 \n
-\C[1]Being "Depressed" increases ATK.\n
-\C[0]Being "Happy" decreases ATK.\n
+\C[1]Status "Depresi" meningkatkan ATK.\n
+\C[0]Status "Senang" mengurangi ATK.\n
 
 Lactation/item_name
-Lactation
+Laktasi
 
 Lactation/description
 \}\n
-My breasts are producing milk all the time.\n
+Payudaraku terus-menerus menghasilkan susu.\n
 \n
-\C[5]Increases milk volume over time.\n
+\C[5]Meningkatkan volume susu seiring waktu.\n
 
 Hitchhiker/item_name
 Hitchhiker
 
 Hitchhiker/description
 \}\n
-So long and thanks for all the fish.\n
+Sampai jumpa, dan terima kasih untuk semua ikannya.\n
 \n
-\C[6]Requires 15 points in SUR.\n
-\C[2]Increases Will.\n
-\C[2]Increases Max Food.\n
-\C[2]Decreases dangerous encounter rate.\n
+\C[6]Membutuhkan 15 poin dalam SUR.\n
+\C[2]Meningkatkan Will.\n
+\C[2]Meningkatkan Food Maks.\n
+\C[2]Mengurangi tingkat pertemuan berbahaya.\n
 
 Lilith/item_name
 Whore of Babylon
 
 Lilith/description
 \}\n
-Mother of Prostitutes and\n
-Abominations of the Earth.\n
+Ibu dari para Pelacur dan\n
+Abominasi di Bumi.\n
 \n
-\C[6]Requires Trait："Prostitute".\n
-\C[2]Increases Will.\n
-\C[2]Boosts HP and STA when dealing a\n
- critical attack during a sex battle.\n
-\C[2]Increases max Sex ATK.\n
+\C[6]Membutuhkan Trait："Prostitute".\n
+\C[2]Meningkatkan Will.\n
+\C[2]Meningkatkan HP dan STA saat melakukan\n
+ serangan kritikal dalam pertarungan seks.\n
+\C[2]Meningkatkan Sex ATK maks.\n
 
 Succubus/item_name
 Succubus
 
 Succubus/description
 \}\n
-All men belong to me! ♥\n
+Semua pria adalah milikku! ♥\n
 \n
-\C[2]Receive the "Juicing" skill.\n
+\C[2]Mendapatkan skill "Juicing".\n
 
 ImproveThrowRock/item_name
-Improved Throw
+Lemparan yang Ditingkatkan
 
 ImproveThrowRock/description
 \}\n
-Mastering such technique will ensure\n
-victory against scissors.\n
+Menguasai teknik ini akan memastikan\n
+kemenangan melawan gunting.\n
 \n
-\C[6]Requires 10 points in SCU.\n
-\C[2]Increases the time creatures,\n
-enemies, and NPCs are distracted.\n
+\C[6]Membutuhkan 10 poin dalam SCU.\n
+\C[2]Meningkatkan waktu pengalihan perhatian\n
+makhluk, musuh, dan NPC.\n
 
 Alchemy/item_name
-Alchemy
+Alkimia
 
 Alchemy/description
 \}\n
-Let's throw everything in and see what happens!\n
+Mari masukkan semuanya dan lihat apa yang terjadi!\n
 \n
-\C[6]Requires 10 points in SUR.\n
-\C[2]Receive the "Dark Cauldron" skill.\n
+\C[6]Membutuhkan 10 poin dalam SUR.\n
+\C[2]Mendapatkan skill "Kuali Gelap".\n
 
 HunterTraining/item_name
-Hunter Training
+Latihan Pemburu
 
 HunterTraining/description
 \}\n
-A real hunteress always watches\n
-where she steps...\n
+Seorang pemburu sejati selalu memperhatikan\n
+langkahnya...\n
 \n
-\C[2]Receive the "Create Trap" skill.\n
-\C[2]Receive the "Pick up Rocks" skill.\n
+\C[2]Mendapatkan skill "Buat Jebakan".\n
+\C[2]Mendapatkan skill "Ambil Batu".\n
 
 BloodyMess/item_name
 Bloody Mess
 
 BloodyMess/description
 \}\n
-No matter what I do...\n
-It's always a mess!\n
-\C[2]Any kills by Lona will\n
-count as an "Overkill".\n
+Apa pun yang kulakukan...\n
+Selalu berakhir berantakan!\n
+\C[2]Setiap pembunuhan oleh Lona akan\n
+dihitung sebagai "Overkill".\n
 
 WeaponryKnowledge/item_name
-Weapons Expert
+Ahli Senjata
 
 WeaponryKnowledge/description
 \}\n
-\C[2]Able to equip "High-quality" items.\n
-\C[2]The "Heavy Punch" skill is now uninterruptible by enemy attacks.\n
+\C[2]Dapat menggunakan item "Kualitas Tinggi".\n
+\C[2]Skill "Heavy Punch" sekarang tidak bisa diinterupsi oleh serangan musuh.\n
 
 ManaKnowledge/item_name
-Mana Knowledge
+Pengetahuan Mana
 
 ManaKnowledge/description
 \}\n
-\C[2]Able to equip "Mana" items.\n
+\C[2]Dapat menggunakan item "Mana".\n
 
 Omnivore/item_name
-Omnivore
+Omnivora
 
 Omnivore/description
 \}\n
-Om nom nom!\n
+Nyam nyam nyam!\n
 \n
-\C[2]Decreases the negative effects\n
-from food items.\n
-\C[2]Can pick up Filth items.\n
+\C[2]Mengurangi efek negatif\n
+dari item makanan.\n
+\C[2]Dapat mengambil item Filth (Kotoran).\n
 
 Exhibitionism/item_name
-Exhibitionist
+Eksibisionis
 
 Exhibitionism/description
 \}\n
-Clothing is heavy, be free!!\n
+Pakaian itu berat, jadilah bebas!!\n
 \n
-\C[2]Ignores loss of Mood when naked.\n
-\C[2]Nudity now increases SPD.\n
+\C[2]Mengabaikan pengurangan Mood saat telanjang.\n
+\C[2]Katelanjangan sekarang meningkatkan SPD.\n
 
 Prostitute/item_name
-Prostitute
+Pelacur
 
 Prostitute/description
 \}\n
-The oldest profession in the world...\n
+Profesi tertua di dunia...\n
 \n
-\C[5]Can trade sex for payment with NPCs.\n
-\C[2]Increases Sex ATK.\n
-\C[2]Decreases the negative effects of\n
-sexual intercourse.\n
+\C[5]Dapat menukar seks untuk pembayaran dengan NPC.\n
+\C[2]Meningkatkan Sex ATK.\n
+\C[2]Mengurangi efek negatif dari\n
+hubungan seksual.\n
 
 Masturbationed/item_name
 Sage Time
 
 Masturbationed/description
 \}\n
-It's like telling others that I just came.\n
+Ini seperti memberitahu orang lain bahwa aku baru saja keluar.\n
 \n
-\C[6]Increases Sexy\n
+\C[6]Meningkatkan Seksi\n
 
 Fatigue/item_name
-Fatigue
+Kelelahan
 
 Fatigue/description
 \}\n
 ......\n
 \n
-\C[1]Decreases ATK.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[1]Mengurangi ATK.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
 
 SemenGulper/item_name
 Semen Demon
 
 SemenGulper/description
 \}\n
-Guys! I like to eat cum!\n
+Teman-teman! Aku suka makan air mani!\n
 \n
-\C[2]Can gather Semen as food items.\n
-\C[2]Prevents and removes the\n
-"Cum Addiction" ailment.\n
+\C[2]Dapat mengumpulkan Air Mani sebagai item makanan.\n
+\C[2]Mencegah dan menghilangkan\n
+penyakit "Kecanduan Air Mani".\n
 
 Mod_Taste/item_name
-MOD (Taste)
+MOD (Rasa)
 
 Mod_Taste/description
 \}\n
-Your appetite matches 2 girls eating out\n
-of 1 cup...\n
+Nafsu makanmu cocok dengan 2 gadis yang makan\n
+dari 1 cangkir...\n
 \n
-\C[2]Decreases negative effects on HP and STA.\n
-\C[1]Increases vomiting by food items\n
-other than Filth.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
+\C[1]Meningkatkan muntah oleh item makanan\n
+selain Filth (Kotoran).\n
 
 Cannibal/item_name
-Cannibal
+Kanibal
 
 Cannibal/description
 \}\n
-How long does it take for a man to\n
-become a monster when driven\n
-by hunger?\n
+Berapa lama waktu yang dibutuhkan seorang pria\n
+menjadi monster saat didorong\n
+oleh rasa lapar?\n
 \n
-\C[2]Human Flesh will drop when killing\n
-any humanoid NPCs.\n
-\C[2]Decreases the negative effects from\n
-Human Flesh items.\n
+\C[2]Daging Manusia akan jatuh saat membunuh\n
+NPC humanoid apa pun.\n
+\C[2]Mengurangi efek negatif dari\n
+item Daging Manusia.\n
 
 Mod_VagGlandsLink/item_name
-Linked Glands
+Kelenjar Terhubung
 
 Mod_VagGlandsLink/description
 \}\n
-I-I I'M COOMING!!!\n
+A-A AKU KELUAAARRR!!!\n
 \n
-\C[5]Able to orgasm at any time.\n
+\C[5]Dapat orgasme kapan saja.\n
 
 Mod_VagGlandsSurgical/item_name
-G-spot Removal
+Pengangkatan G-spot
 
 Mod_VagGlandsSurgical/description
 \}\n
-I can't orgasm anymore...\n
+Aku tidak bisa orgasme lagi...\n
 \n
-\C[5]Cannot achieve orgasm under any condition.\n
+\C[5]Tidak bisa mencapai orgasme dalam kondisi apa pun.\n
 
 BloodLust/item_name
 Bloodlust
 
 BloodLust/description
 \}\n
-Do you like hurting other people...?\n
+Apakah kamu suka menyakiti orang lain...?\n
 \n
-\C[2]Increases ATK.\n
-\C[2]Overkills now restore STA and Food.\n
+\C[2]Meningkatkan ATK.\n
+\C[2]Overkill sekarang memulihkan STA dan Makanan.\n
 \n
-\C[2]Sex attacks now deal HP damage.\n
+\C[2]Serangan seks sekarang memberikan damage HP.\n
 
 
 Masochist/item_name
-Masochist
+Masokis
 
 Masochist/description
 \}\n
-Being bullied isn't necessarily a\n
-bad thing...\n
+Dibully tidak selalu merupakan\n
+hal yang buruk...\n
 \n
-\C[2]Increases DEF.\n
-\C[2]Increases Mood when receiving\n
-HP damage.\n
+\C[2]Meningkatkan DEF.\n
+\C[2]Meningkatkan Mood saat menerima\n
+damage HP.\n
 
 Mod_MilkGland/item_name
-MOD (Breast A)
+MOD (Payudara A)
 
 Mod_MilkGland/description
 \}\n
-My breasts are producing milk all the time.\n
+Payudaraku terus-menerus menghasilkan susu.\n
 \n
-\C[5]Increases milk volume over time.\n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[5]Meningkatkan volume susu seiring waktu.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
 
 Mod_Sterilization/item_name
-Sterilization
+Sterilisasi
 
 Mod_Sterilization/description
 \}\n
-In the current circumstances, this may be the\n
-most logical solution...\n
+Dalam keadaan saat ini, ini mungkin\n
+solusi yang paling logis...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[6]Cannot get pregnant.\n
+\C[6]Mengurangi Seksi.\n
+\C[6]Tidak bisa hamil.\n
 
 AsVulva_Esophageal/item_name
-MOD (Mouth)
+MOD (Mulut)
 
 AsVulva_Esophageal/description
 \}\n
-The swallowing process lifts me to heaven.\n
+Proses menelan mengangkatku ke surga.\n
 \n
-\C[5]Any eating behavior increases Arousal.\n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[5]Perilaku makan apa pun meningkatkan Gairah.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
 
 AsVulva_Urethra/item_name
-MOD (Urethra)
+MOD (Uretra)
 
 AsVulva_Urethra/description
 \}\n
-Peeing is enough to make me unconscious.\n
+Kencing saja sudah cukup untuk membuatku pingsan.\n
 \n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
 
 AsVulva_Anal/item_name
-MOD (Rectum)
+MOD (Rektum)
 
 AsVulva_Anal/description
 \}\n
-I can't stop imagining about something going inside my ass.\n
+Aku tidak bisa berhenti membayangkan sesuatu masuk ke dalam pantatku.\n
 \n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
 
 AsVulva_Skin/item_name
-MOD (Skin)
+MOD (Kulit)
 
 AsVulva_Skin/description
 \}\n
-The rubbing of clothes alone was enough to get me to cum.\n
+Gesekan pakaian saja sudah cukup untuk membuatku keluar.\n
 \n
-\C[5]Any action that consumes STA will increase Arousal.\n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[5]Tindakan apa pun yang menghabiskan STA akan meningkatkan Gairah.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
 
 AsVulva_MilkGland/item_name
-MOD (Breast B)
+MOD (Payudara B)
 
 AsVulva_MilkGland/description
 \}\n
-My breasts have become more and more sensitive.\n
+Payudaraku menjadi semakin sensitif.\n
 \n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
 
 ParasitedMoonWorm/item_name
-Moon Parasited
+Parasit Bulan
 
 ParasitedMoonWorm/description
 \}\n
-The parasites continue to burrow inside my stomach...\n
+Parasit terus menggali di dalam perutku...\n
 \n
-\C[5]Increases bowel movement over time.\n
-\C[5]Chance to spawn a Moon Worm every time you poop.\n
-\C[1]Increases anal damage with each rest.\n
-\C[1]Decreases Food with each rest.\n
+\C[5]Meningkatkan buang air besar seiring waktu.\n
+\C[5]Peluang memunculkan Cacing Bulan setiap kali buang air besar.\n
+\C[1]Meningkatkan damage anal setiap kali istirahat.\n
+\C[1]Mengurangi Makanan setiap kali istirahat.\n
 
 ParasitedPotWorm/item_name
-Pot Parasited
+Parasit Pot
 
 ParasitedPotWorm/description
 \}\n
-I can feel the parasites squirming around in my bladder...\n
+Aku bisa merasakan parasit menggeliat di kantung kemihku...\n
 \n
-\C[5]Increases need to urinate over time.\n
-\C[5]Chance to spawn a Pot Worm every time you pee.\n
-\C[1]Increases urethra damage with each rest.\n
-\C[1]Decreases Food with each rest.\n
+\C[5]Meningkatkan keinginan kencing seiring waktu.\n
+\C[5]Peluang memunculkan Cacing Pot setiap kali kencing.\n
+\C[1]Meningkatkan damage uretra setiap kali istirahat.\n
+\C[1]Mengurangi Makanan setiap kali istirahat.\n
 
 AnalSeedBed/item_name
-SB (Bowel)
+SB (Usus)
 
 AnalSeedBed/description
 \}\n
-My bowels became a seedbed for monsters...\n
+Ususku menjadi persemaian bagi monster...\n
 \n
-\C[1]Increases chance of spawning a parasite with each rest.\n
+\C[1]Meningkatkan peluang memunculkan parasit setiap kali istirahat.\n
 
 BladderSeedBed/item_name
-SB (Bladder)
+SB (Kantung Kemih)
 
 BladderSeedBed/description
 \}\n
-My bladder became a seedbed for monsters...\n
+Kantung kemihku menjadi persemaian bagi monster...\n
 \n
-\C[1]Increases chance of spawning a parasite with each rest.\n
+\C[1]Meningkatkan peluang memunculkan parasit setiap kali istirahat.\n
 
 WeakSoul/item_name
-Timid
+Penakut
 
 WeakSoul/description
 \}\n
-"I am always depressed..."\n
-\C[6]Changes Lona's Personality.\n
-\C[2]Decreases negative effects on HP.\n
-\C[2]Increases DEF.\n
-\C[2]Increases SUR and WIS.\n
-\C[2]Decreases HP loss from hunger.\n
-\C[1]Decreases Will.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
-\C[1]Decreases SPD.\n
+"Aku selalu depresi..."\n
+\C[6]Mengubah Kepribadian Lona.\n
+\C[2]Mengurangi efek negatif pada HP.\n
+\C[2]Meningkatkan DEF.\n
+\C[2]Meningkatkan SUR dan WIS.\n
+\C[2]Mengurangi kehilangan HP akibat lapar.\n
+\C[1]Mengurangi Will.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi ATK.\n
+\C[1]Mengurangi SPD.\n
 
 IronWill/item_name
-Tough
+Tangguh
 
 IronWill/description
 \}\n
-"My will is strong."\n
-\C[6]Changes Lona's Personality.\n
-\C[2]Increases Will.\n
-\C[2]Decreases Weak.\n
-\C[2]Increases ATK.\n
-\C[2]Increases DEF.\n
-\C[2]Increases SPD.\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Decreases maximum STA.\n
+"Tekadku kuat."\n
+\C[6]Mengubah Kepribadian Lona.\n
+\C[2]Meningkatkan Will.\n
+\C[2]Mengurangi Weak.\n
+\C[2]Meningkatkan ATK.\n
+\C[2]Meningkatkan DEF.\n
+\C[2]Meningkatkan SPD.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Mengurangi STA maksimum.\n
 
 Nymph/item_name
-Nymphomaniac
+Nimfomania
 
 Nymph/description
 \}\n
-"The pleasure of flesh feels so good!" ♥\n
-\C[6]Changes Lona's Personality.\n
-\C[2]Increases Will.\n
-\C[2]Increases Sex ATK.\n
-\C[2]Decreases negative effects on STA.\n
-\C[2]Decreases Weak.\n
-\C[2]Increases DEF.\n
-\C[6]Increases Sexy.\n
-\C[1]Decreases Max Food.\n
+"Kenikmatan daging terasa sangat enak!" ♥\n
+\C[6]Mengubah Kepribadian Lona.\n
+\C[2]Meningkatkan Will.\n
+\C[2]Meningkatkan Sex ATK.\n
+\C[2]Mengurangi efek negatif pada STA.\n
+\C[2]Mengurangi Weak.\n
+\C[2]Meningkatkan DEF.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Mengurangi Makanan Maks.\n
 
 StomachSpasm/item_name
 Gastroenteritis
@@ -715,654 +715,654 @@ StomachSpasm/description
 \}\n
 *RETCH* BLUUURRRGH!!!\n
 \n
-\C[1]Increases vomiting over time.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[1]Meningkatkan muntah seiring waktu.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
 
 SemenAddiction/item_name
-Cum Addiction
+Kecanduan Air Mani
 
 SemenAddiction/description
 \}\n
-I can't swallow anything else except semen.\n
+Aku tidak bisa menelan apa pun selain air mani.\n
 \n
-\C[2]Decreases negative effects on HP.\n
-\C[1]Chance to cause confusion.\n
-\C[1]Increases vomiting by food items\n
-other than Filth.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases Will.\n
-\C[1]Decreases SPD.\n
+\C[2]Mengurangi efek negatif pada HP.\n
+\C[1]Peluang menyebabkan kebingungan.\n
+\C[1]Meningkatkan muntah oleh item makanan\n
+selain Filth (Kotoran).\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi Will.\n
+\C[1]Mengurangi SPD.\n
 
 DrugAddiction/item_name
-Drug Addiction
+Kecanduan Obat
 
 DrugAddiction/description
 \}\n
-I'm no different than those sex-slave junkies I look down upon...\n  
+Aku tidak berbeda dengan para pecandu budak seks yang kuhina...\n
 \n
-\C[1]Chance to cause confusion.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases Will.\n
-\C[1]Decreases SPD.\n
+\C[1]Peluang menyebabkan kebingungan.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi Will.\n
+\C[1]Mengurangi SPD.\n
 
 OgrasmAddiction/item_name
-Orgasm Addiction
+Kecanduan Orgasme
 
 OgrasmAddiction/description
 \}\n
-Fuck me! RAPE ME! I'm begging you!\n
+Tiduri aku! PERKOSA AKU! Aku memohon padamu!\n
 \n
-\C[2]Decreases negative effects on HP and STA.\n
-\C[2]Increases SPD.\n
-\C[1]Chance to cause confusion.\n
-\C[1]Decreases Will.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
+\C[2]Meningkatkan SPD.\n
+\C[1]Peluang menyebabkan kebingungan.\n
+\C[1]Mengurangi Will.\n
 
 MoodBad/item_name
-Depressed
+Depresi
 
 MoodBad/description
 \}\n
-Why am I still trying to survive this Hell...?\n
-Maybe I should just give up and end my suffering......\n
+Kenapa aku masih mencoba bertahan hidup di Neraka ini...?\n
+Mungkin aku harus menyerah saja dan mengakhiri penderitaanku......\n
 \n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
-\C[1]Decreases WIS.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi ATK.\n
+\C[1]Mengurangi WIS.\n
 
 MoodGood/item_name
-Happy
+Senang
 
 MoodGood/description
 \}\n
-I'm just glad to be alive!\n
+Aku hanya senang bisa hidup!\n
 \n
-\C[2]Decreases Weak.\n
-\C[2]Increases ATK.\n
-\C[6]Increases WIS\n
+\C[2]Mengurangi Weak.\n
+\C[2]Meningkatkan ATK.\n
+\C[6]Meningkatkan WIS\n
 
 WoundHead/item_name
-Head Injury
+Cedera Kepala
 
 WoundHead/description
 \}\n
-I have a really nasty headache...\n
+Aku merasa sakit kepala yang sangat parah...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases DEF.\n
-\C[1]Decreases WIS.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi DEF.\n
+\C[1]Mengurangi WIS.\n
 
 WoundChest/item_name
-Chest Injury
+Cedera Dada
 
 WoundChest/description
 \}\n
-My tiny breasts are in agony...\n
+Payudara kecilku terasa sangat sakit...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases DEF.\n
-\C[1]Decreases SUR.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi DEF.\n
+\C[1]Mengurangi SUR.\n
 
 WoundCuff/item_name
-Wrist Injury
+Cedera Pergelangan Tangan
 
 WoundCuff/description
 \}\n
-It feels like something crushed my wrists...\n
+Rasanya seperti ada yang meremukkan pergelangan tanganku...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases DEF.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi DEF.\n
 
 
 WoundSArm/item_name
-Left Arm Injury
+Cedera Lengan Kiri
 
 WoundSArm/description
 \}\n
-My entire left arm is suffering from the pain...\n
+Seluruh lengan kiriku menderita rasa sakit...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi ATK.\n
 
 WoundMArm/item_name
-Right Arm Injury
+Cedera Lengan Kanan
 
 WoundMArm/description
 \}\n
-I can barely lift my right arm due to the pain...\n
+Aku hampir tidak bisa mengangkat lengan kananku karena sakit...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi ATK.\n
 
 WoundCollar/item_name
-Neck Injury
+Cedera Leher
 
 WoundCollar/description
 \}\n
-It feels like something is choking me...\n
+Rasanya seperti ada yang mencekikku...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi ATK.\n
 
 WoundBelly/item_name
-Abdomen Injury
+Cedera Perut
 
 WoundBelly/description
 \}\n
-My tummy hurts...\n
+Perutku sakit...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi ATK.\n
 
 WoundGroin/item_name
-Groin Injury
+Cedera Pangkal Paha
 
 WoundGroin/description
 \}\n
-It really hurts down there...\n
-......Good thing I'm not a boy.\n
+Rasanya sangat sakit di bawah sana...\n
+......Untunglah aku bukan laki-laki.\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
 
 WoundSThigh/item_name
-Left Leg Injury
+Cedera Paha Kiri
 
 WoundSThigh/description
 \}\n
-Even standing up properly is like torture...\n
+Bahkan berdiri tegak pun rasanya seperti siksaan...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
 
 WoundMThigh/item_name
-Right Leg Injury
+Cedera Paha Kanan
 
 WoundMThigh/description
 \}\n
-My right leg is in agony whenever I walk...\n
+Paha kananku terasa sakit setiap kali aku berjalan...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi HP maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
 
 CumsCreamPie/item_name
 Creampie
 
 CumsCreamPie/description
 \}\n
-Clean it up, or you'll get pregnant!\n
+Bersihkan itu, atau kamu akan hamil!\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
 
 CumsMoonPie/item_name
 Anal Creampie
 
 CumsMoonPie/description
 \}\n
-Something's dripping out from my anus...\n
+Ada sesuatu yang menetes keluar dari anuku...\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
 
 CumsHead/item_name
 Bukkake
 
 CumsHead/description
 \}\n
-My face is covered with cum.\n
+Wajahku tertutup air mani.\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 CumsTop/item_name
-Cum on Tits
+Mani di Dada
 
 CumsTop/description
 \}\n
-My chest feels slimy...\n
+Dadaku terasa lengket...\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 CumsMid/item_name
-Cum on Stomach
+Mani di Perut
 
 CumsMid/description
 \}\n
-My stomach feels slimy...\n
+Perutku terasa lengket...\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 CumsBot/item_name
-Cum on Thighs
+Mani di Paha
 
 CumsBot/description
 \}\n
-My legs feel slimy...\n
+Pahaku terasa lengket...\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 CumsMouth/item_name
-Cum on Mouth
+Mani di Mulut
 
 CumsMouth/description
 \}\n
-Tastes salty...\n
+Rasanya asin...\n
 \n
-\C[6]Increases Sexy.\n
+\C[6]Meningkatkan Seksi.\n
 
 Contraceptived/item_name
-BC Pill eaten
+Minum Pil KB
 
 Contraceptived/description
 \}\n
-Maybe I won't get pregnant?\n
+Mungkin aku tidak akan hamil?\n
 \n
-\C[2]Decreases pregnant rate.\n
-\C[6]Decreases Sexy.\n
+\C[2]Mengurangi tingkat kehamilan.\n
+\C[6]Mengurangi Seksi.\n
 
 SemenBursting/item_name
 Cuminflation
 
 SemenBursting/description
 \}\n
-S-So much... I'm going to burst!\n
+S-Sangat banyak... Aku akan meledak!\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases ATK.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Mengurangi ATK.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
 
 EffectWet/item_name
-Wet
+Basah
 
 EffectWet/description
 \}\n
-It's soaked down there...\n
+Di bawah sana terasa basah...\n
 \n
-\C[1]Increases Weak.\n
+\C[1]Meningkatkan Weak.\n
 
 PregState/item_name
-Pregnant
+Hamil
 
 PregState/description
 \}\n
-I'm pregnant now. Who's the father?\n  
+Aku hamil sekarang. Siapa ayahnya?\n
 \n
-\C[1]Requires you to eat more food.\n
-\C[1]Decreases maximum STA.\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[1]Mengharuskanmu makan lebih banyak.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
 
 FeelsSick/item_name
-Sick
+Sakit
 
 FeelsSick/description
 \}\n
-I don't feel so good...\n
+Aku merasa tidak enak badan...\n
 \n
-\C[1]Decreases maximum STA.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[1]Mengurangi STA maksimum.\n
+\C[1]Meningkatkan Weak.\n
+\C[1]Mengurangi SPD.\n
 
 FeelsWarm/item_name
-Horny
+Birahi
 
 FeelsWarm/description
 \}\n
-I want sex...\n
+Aku ingin seks...\n
 \n
-\C[5]Increases the regeneration of Arousal.\n
+\C[5]Meningkatkan regenerasi Gairah.\n
 
 FeelsHorniness/item_name
-Horny (Drugged)
+Birahi (Obat)
 
 FeelsHorniness/description
 \}\n
-I NEED SEX...!\n
+AKU BUTUH SEKS...!\n
 \n
-\C[2]Decreases negative effects on HP and STA.\n
-\C[5]Increases the regeneration of Arousal.\n
-\C[1]Increases chance of pregnancy.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
+\C[5]Meningkatkan regenerasi Gairah.\n
+\C[1]Meningkatkan peluang kehamilan.\n
 
 Cummed/item_name
-Horny (Orgasm)
+Birahi (Orgasme)
 
 Cummed/description
 \}\n
-Don't touch me down there!\n
-It's very sensitive right now!\n
+Jangan sentuh aku di bawah sana!\n
+Rasanya sangat sensitif sekarang!\n
 \n
-\C[5]Increases the regeneration of Arousal.\n
+\C[5]Meningkatkan regenerasi Gairah.\n
 
 OverCummed/item_name
 Ahegao
 
 OverCummed/description
 \}\n
-It's hard to control my expression.\n
+Sulit untuk mengendalikan ekspresiku.\n
 \n
-\C[5]Increases the regeneration of Arousal.\n
+\C[5]Meningkatkan regenerasi Gairah.\n
 
 Dirt/item_name
-Dirt
+Kotor
 
 Dirt/description
 \}\n
-Ick... Yuck! When was the last time I had a bath?!
+Ick... Huek! Kapan terakhir kali aku mandi?!
 \n
-\C[2]Increases SCU.\n
-\C[6]Decreases Sexy.\n
-\C[1]Increases Weak.\n
+\C[2]Meningkatkan SCU.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 EffectBleedVag/item_name
-Bleeding (VAG)
+Pendarahan (VAG)
 
 EffectBleedVag/description
 \}\n
-It hurts!\n
+Sakit sekali!\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 EffectBleedAnal/item_name
-Bleeding (Anus)
+Pendarahan (Anus)
 
 EffectBleedAnal/description
 \}\n
-It hurts!\n
+Sakit sekali!\n
 \n
-\C[6]Decreases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Mengurangi Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 EffectScat/item_name
-Diarrhea
+Diare
 
 EffectScat/description
 \}\n
-Guhhh... My body is covered in my filth!\n
+Guhhh... Tubuhku tertutup kotoranku sendiri!\n
 \n
-\C[6]Decreases Sexy.\n
-\C[6]Increases minimum Dirt.\n
-\C[1]Increases Weak.\n
+\C[6]Mengurangi Seksi.\n
+\C[6]Meningkatkan kotoran minimum.\n
+\C[1]Meningkatkan Weak.\n
 
 VaginalDamaged/item_name
-Loose Vagina
+Vagina Longgar
 
 VaginalDamaged/description
 \}\n
-It can fit bigger penises now.\n
+Sekarang bisa memuat penis yang lebih besar.\n
 \n
-\C[1]Decreases Sex ATK (VAG).\n
+\C[1]Mengurangi Sex ATK (VAG).\n
 
 UrethralDamaged/item_name
-Loose Urethra
+Uretra Longgar
 
 UrethralDamaged/description
 \}\n
-Urine drips down all the time.\n
+Urine menetes keluar sepanjang waktu.\n
 \n
-\C[5]Peeing is now passive.\n
+\C[5]Kencing sekarang bersifat pasif.\n
 
 SphincterDamaged/item_name
-Loose Anus
+Anus Longgar
 
 SphincterDamaged/description
 \}\n
-It's like I can't hold it in anymore...\n
+Rasanya aku tidak bisa menahannya lagi...\n
 \n
-\C[5]Pooping is now passive.\n
-\C[1]Decreases Sex ATK (Anal).\n
+\C[5]BAB sekarang bersifat pasif.\n
+\C[1]Mengurangi Sex ATK (Anal).\n
 
 SlaveBrand/item_name
-Slave Brand
+Cap Budak
 
 SlaveBrand/description
 \}\n
-They burned a mark on my face...\n
+Mereka membakar tanda di wajahku...\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 moot/item_name
 Moot
 
 moot/description
 \}\n
-I have the blood of another race.\n
+Aku memiliki darah dari ras lain.\n
 \n
-\C[2]Increases steal chance.\n
-\C[2]Increases SCU\n
-\C[6]Decreases Morality.\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[2]Meningkatkan peluang mencuri.\n
+\C[2]Meningkatkan SCU\n
+\C[6]Mengurangi Moralitas.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 PiercingNose/item_name
-Piercing (Nose)
+Tindik (Hidung)
 
 PiercingNose/description
 \}\n
-Like a cow... Moo?\n
+Seperti sapi... Moo?\n
 \n
-\C[6]Decreases Sexy.\n
-\C[5]Increases/Decreases Weak based on Mood.\n
+\C[6]Mengurangi Seksi.\n
+\C[5]Meningkatkan/Mengurangi Weak berdasarkan Mood.\n
 
 PiercingEar/item_name
-Piercing (Ear)
+Tindik (Telinga)
 
 PiercingEar/description
 \}\n
-I look like a whore...\n
+Aku terlihat seperti pelacur...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[5]Increases/Decreases Weak based on Mood.\n
+\C[6]Mengurangi Seksi.\n
+\C[5]Meningkatkan/Mengurangi Weak berdasarkan Mood.\n
 
 PiercingChest/item_name
-Piercing (TOP)
+Tindik (TOP)
 
 PiercingChest/description
 \}\n
-The metal kept stimulating my nipples...\n
+Logam ini terus merangsang putingku...\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 PiercingBelly/item_name
-Piercing (MID)
+Tindik (MID)
 
 PiercingBelly/description
 \}\n
-Like a sex slave.\n
+Seperti budak seks.\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 PiercingArms/item_name
-Piercing (Arms)
+Tindik (Lengan)
 
 PiercingArms/description
 \}\n
-Affects the movement of my arms.\n
+Mempengaruhi pergerakan lenganku.\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 PiercingAnal/item_name
-Piercing (Butt)
+Tindik (Pantat)
 
 PiercingAnal/description
 \}\n
-The metal kept stimulating my butt.\n
+Logam ini terus merangsang pantatku.\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 PiercingVag/item_name
-Piercing (Labia)
+Tindik (Labia)
 
 PiercingVag/description
 \}\n
-The metal kept rubbing against my labia.\n
+Logam ini terus bergesekan dengan labiaku.\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 PiercingBack/item_name
-Piercing (Back)
+Tindik (Punggung)
 
 PiercingBack/description
 \}\n
-Like a piece of meat.\n
+Seperti sepotong daging.\n
 \n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan Weak.\n
 
 PiercingNoseB/item_name
-Piercing (Nasal)
+Tindik (Nasall)
 
 PiercingNoseB/description
 \}\n
-Proof of being the Fishkind's meat toilet.\n
-Each piercing represents how many owners I've served.\n
+Bukti menjadi toilet daging Manusia Ikan.\n
+Setiap tindikan mewakili berapa banyak pemilik yang telah kulayani.\n
 \n
-\C[6]Increases Sexy.\n
+\C[6]Meningkatkan Seksi.\n
 
 PiercingNoseG/item_name
-Piercing (Nose)
+Tindik (Hidung)
 
 PiercingNoseG/description
 \}\n
-Like a cow... Moo?\n
+Seperti sapi... Moo?\n
 \n
-\C[6]Increases Sexy.\n
+\C[6]Meningkatkan Seksi.\n
 
 PiercingEarG/item_name
-Piercing (Ear)
+Tindik (Telinga)
 
 PiercingEarG/description
 \}\n
-I look like a whore...\n
+Aku terlihat seperti pelacur...\n
 \n
-\C[6]Increases Sexy.\n
+\C[6]Meningkatkan Seksi.\n
 
 PiercingChestG/item_name
-Piercing (TOP)
+Tindik (TOP)
 
 PiercingChestG/description
 \}\n
-The metal kept stimulating my nipples...\n
+Logam ini terus merangsang putingku...\n
 \n
-\C[6]Increases Sexy.\n
+\C[6]Meningkatkan Seksi.\n
 
 PiercingBellyG/item_name
-Piercing (MID)
+Tindik (MID)
 
 PiercingBellyG/description
 \}\n
-Like a sex slave.\n
+Seperti budak seks.\n
 \n
-\C[6]Increases Sexy.\n
+\C[6]Meningkatkan Seksi.\n
 
 PiercingArmsG/item_name
-Piercing (Arms)
+Tindik (Lengan)
 
 PiercingArmsG/description
 \}\n
-Affects the movement of my arms.\n
+Mempengaruhi pergerakan lenganku.\n
 \n
-\C[6]Increases Sexy.\n
+\C[6]Meningkatkan Seksi.\n
 
 PiercingAnalG/item_name
-Piercing (Butt)
+Tindik (Pantat)
 
 PiercingAnalG/description
 \}\n
-The metal kept stimulating my butt.\n
+Logam ini terus merangsang pantatku.\n
 \n
-\C[6]Increases Sexy.\n
+\C[6]Meningkatkan Seksi.\n
 
 PiercingVagG/item_name
-Piercing (Labia)
+Tindik (Labia)
 
 PiercingVagG/description
 \}\n
-The metal kept rubbing against my labia.\n
+Logam ini terus bergesekan dengan labiaku.\n
 \n
-\C[6]Increases Sexy.\n
+\C[6]Meningkatkan Seksi.\n
 
 PiercingBackG/item_name
-Piercing (Back)
+Tindik (Punggung)
 
 PiercingBackG/description
 \}\n
-Like a piece of meat.\n
+Seperti sepotong daging.\n
 \n
-\C[6]Increases Sexy.\n
+\C[6]Meningkatkan Seksi.\n
 
 PiercingNoseBG/item_name
-Piercing (NoseB)
+Tindik (NoseB)
 
 PiercingNoseBG/description
 \}\n
-Proof of being the Fishkind's meat toilet.\n
-Each piercing represents how many owners I've served.\n
+Bukti menjadi toilet daging Manusia Ikan.\n
+Setiap tindikan mewakili berapa banyak pemilik yang telah kulayani.\n
 \n
-\C[6]Increases Sexy.\n
+\C[6]Meningkatkan Seksi.\n
 
 Mod_WombSeedBed/item_name
-SB (Womb)
+SB (Rahim)
 
 Mod_WombSeedBed/description
 \}\n
-My uterus is no longer human...\n
+Rahimku bukan lagi manusia...\n
 \n
-\C[2]Decreases negative effects on HP.\n
-\C[6]Increases Sexy.\n
-\C[1]Increases chance of pregnancy.\n
+\C[2]Mengurangi efek negatif pada HP.\n
+\C[6]Meningkatkan Seksi.\n
+\C[1]Meningkatkan peluang kehamilan.\n
 
 nil/item_name
 
 nil/description
 
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+#Diterjemahkan sepenuhnya dan dibersihkan oleh Sugoi Soy Boy. Enyahlah wahai monyet-monyet MTL.
