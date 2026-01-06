@@ -1,1036 +1,1036 @@
 MenstrualMed/item_name
-Menstrual Medicine
+Obat Menstruasi
 
 MenstrualMed/description
-\}Regulates your cycle and restores your body’s natural rhythm.\n
+\}Mengatur siklusmu dan memulihkan ritme alami tubuhmu.\n
 
 MeatSalad/item_name
-Meat Salad
+Salad Daging
 
 MeatSalad/description
-\}Pure natural flavors,\n
-giving you that first unforgettable sensation.\n
-\C[6]Food, increases Mood.\n
+\}Rasa alami yang murni,\n
+memberimu sensasi pertama yang tak terlupakan.\n
+\C[6]Makanan, meningkatkan Mood.\n
 
 PubicHair/item_name
-Pubic Hair
+Rambut Kemaluan
 
 PubicHair/description
-\}Ugh... why did I keep this?\n
-It just clings to everything!\n
+\}Ugh... kenapa aku menyimpan ini?\n
+Ini menempel di mana-mana!\n
 
 Maggots/item_name
-Group of Maggots
+Kumpulan Belatung
 
 Maggots/description
-\}Some people say they're edible, seriously...\n
-\C[6]Filth\n
+\}Beberapa orang bilang ini bisa dimakan, serius...\n
+\C[6]Kotoran\n
 
 QuestRecQuestNorthFL4/item_name
-Envelope
+Amplop
 
 QuestRecQuestNorthFL4/description
-\}Wax sealed letter with an Ingalend pattern,\n
-it seems important.
+\}Surat bersegel lilin dengan corak Ingalend,\n
+sepertinya penting.
 
 QuestMonsterBone/item_name
-Mutated Monster's Bone
+Tulang Monster Mutasi
 
 QuestMonsterBone/description
-\}Pulled out from a monster's corpse.\n
-It looks similar to a human's bone...\n
+\}Ditarik keluar dari mayat monster.\n
+Terlihat mirip dengan tulang manusia...\n
 
 QuestSpiderLeg/item_name
-Mutated Spider's Leg
+Kaki Laba-laba Mutasi
 
 QuestSpiderLeg/description
-\}It kind of looks like a human's finger?\n
+\}Agak terlihat seperti jari manusia?\n
 
 BreedLingMeat/item_name
-Breedling's Thigh Meat
+Daging Paha Breedling
 
 BreedLingMeat/description
-\}What do they need this type of meat for?\n
+\}Untuk apa mereka membutuhkan daging jenis ini?\n
 
 QuestCoconaShip/item_name
-Cocona's Ship Ticket
+Tiket Kapal Cocona
 
 QuestCoconaShip/description
-\}You may take Cocona along aboard the ship.\n
-Gifted to you by the former "Crimson Slayer",\n
+\}Kamu boleh membawa Cocona naik ke atas kapal.\n
+Hadiah darimu dari mantan "Crimson Slayer",\n
 Meryme.\n
 
 QuestMhKatana/item_name
-Broken Curved Sword
+Pedang Melengkung Patah
 
 QuestMhKatana/description
-\}Stories say that Crimson Slayer's blood red blade\n
-was found in a salacious cave located at the West.\n
-Sadly, this legendary weapon was carelessly\n
-snapped in half by an unknown mercenary.\n
+\}Cerita mengatakan bahwa bilah merah darah Crimson Slayer\n
+ditemukan di sebuah gua mesum yang terletak di Barat.\n
+Sayangnya, senjata legendaris ini dipatahkan dengan ceroboh\n
+menjadi dua oleh tentara bayaran yang tidak dikenal.\n
 
 QuestDancerSet/item_name
-Lost Package
+Paket Hilang
 
 QuestDancerSet/description
 \}No. 89-64 Central Avenue\n
-The Oriental Commerce, Noer Town\n
-Noer Island, Oriental Trading LTD. Co.\n
+Perdagangan Oriental, Kota Noer\n
+Pulau Noer, Oriental Trading LTD. Co.\n
 
 GoodHumanMystery/item_name
-Good Gruel
+Bubur Enak
 
 GoodHumanMystery/description
-\}Mushy... Lumpy... Tasty...?\n
-\C[6]Food\n
-\C[1]Mystery Meat, Human Flesh\n
+\}Lembek... Menggumpal... Enak...?\n
+\C[6]Makanan\n
+\C[1]Daging Misterius, Daging Manusia\n
 
 SopMeatHumanMystery/item_name
-Mystery Meat Soup
+Sup Daging Misterius
 
 SopMeatHumanMystery/description
-\}Has a bitter taste... Not delicious...\n
-\C[6]Food\n
-\C[1]Mystery Meat, Human Flesh\n
+\}Rasanya pahit... Tidak lezat...\n
+\C[6]Makanan\n
+\C[1]Daging Misterius, Daging Manusia\n
 
 SmokedMeatHumanMystery/item_name
-Smoked Mystery Meat
+Daging Misterius Asap
 
 SmokedMeatHumanMystery/description
-\}Looks tasty. But what kind of meat is it?\n
-Beef? Pork? ...Chicken?\n
-\C[6]Food\n
-\C[1]Mystery Meat, Human Flesh\n
+\}Terlihat lezat. Tapi daging jenis apa ini?\n
+Sapi? Babi? ...Ayam?\n
+\C[6]Makanan\n
+\C[1]Daging Misterius, Daging Manusia\n
 
 AnimalCrab/item_name
-Crab
+Kepiting
 
 AnimalCrab/description
-\}This crustacean's meat was a very common\n
-delicacy back at my home...\n
-\C[6]Raw food, Meat\n
+\}Daging krustasea ini adalah hidangan yang sangat umum\n
+kembali di rumahku...\n
+\C[6]Makanan mentah, Daging\n
 
 FlameBottle/item_name
-Molotov Cocktail
+Bom Molotov
 
 FlameBottle/description
-\}Officially certified pure green energy bio-extract.\n
-\C[6]EXT skill\C[0]：Lob a bottle of fire.\n
+\}Ekstrak bio energi hijau murni yang bersertifikat resmi.\n
+\C[6]Skill EXT\C[0]：Lemparkan botol api.\n
 
 Saltpeter/item_name
-Saltpeter
+Sendawa
 
 Saltpeter/description
-\}Unusable and useless material.\n
+\}Bahan yang tidak bisa digunakan dan tidak berguna.\n
 
 Carbon/item_name
-Carbon
+Karbon
 
 Carbon/description
-\}Unusable and useless material.\n
+\}Bahan yang tidak bisa digunakan dan tidak berguna.\n
 
 Oil/item_name
-Oil
+Minyak
 
 Oil/description
-\}Unusable and useless material.\n
+\}Bahan yang tidak bisa digunakan dan tidak berguna.\n
 
 Phosphorus/item_name
-Phosphorus
+Fosfor
 
 Phosphorus/description
-\}Unusable and useless material.\n
+\}Bahan yang tidak bisa digunakan dan tidak berguna.\n
 
 QuestCecilyProg17/item_name
-Accounting Papers
+Dokumen Akuntansi
 
 QuestCecilyProg17/description
-\}A record of the transactions between the\n
-Broadblade Gang and the Rudesind Estate.\n
+\}Catatan transaksi antara\n
+Geng Broadblade dan Perkebunan Rudesind.\n
 
 ThrowingKnivesI/item_name
-Throwing Knife
+Pisau Lempar
 
 ThrowingKnivesI/description
-\}Don't look at me like that! It was my dad who\n
-taught me how to throw these.\n
-\C[6]EXT skill\C[0]：Throw cutlery in the air.\n
+\}Jangan lihat aku seperti itu!
+Ayahkulah yang mengajariku cara melemparkan ini.\n
+\C[6]Skill EXT\C[0]：Lemparkan peralatan makan ke udara.\n
 
 QuestGobShamanHead/item_name
-Perverted Severed Head
+Kepala Terpancung Mesum
 
 QuestGobShamanHead/description
-\}It looks like they've entered eternal bliss.\n
-The facial expression shows they were just about to climax.\n
+\}Sepertinya mereka telah memasuki kebahagiaan abadi.\n
+Ekspresi wajahnya menunjukkan mereka baru saja akan mencapai klimaks.\n
 
 QuestC130Part/item_name
-"Overlord" Model Kit
+Kit Model "Overlord"
 
 QuestC130Part/description
-\}A strange firing system that seems to be able to be mounted onto a cannon.\n
-Attaching this item on a cannon will alter it into the "Overlord M405 Cannon".\n
-Warning：Device may be too complex and confusing. Do not let elderly use.\n
+\}Sistem penembakan aneh yang tampaknya bisa dipasang ke meriam.\n
+Memasang item ini pada meriam akan mengubahnya menjadi "Meriam Overlord M405".\n
+Peringatan：Perangkat mungkin terlalu rumit dan membingungkan. Jangan biarkan orang tua menggunakannya.\n
 
 NoerTea/item_name
-Noer Tea
+Teh Noer
 
 NoerTea/description
-\}A hot beverage that's popular on this island.\n
-\C[6]Drug, increases STA.\n
-\C[6]Heals fetus if Lona is pregnant.\n
+\}Minuman panas yang populer di pulau ini.\n
+\C[6]Obat, meningkatkan STA.\n
+\C[6]Menyembuhkan janin jika Lona sedang hamil.\n
 
 NorthFL_INN_Key/item_name
-Salt Farm Key
+Kunci Peternakan Garam
 
 NorthFL_INN_Key/description
-\}They'll rub salt on my wounds\n
-if I try to sleep in their inn without this!\n
-\C[2]Increases HP, STA, and Food to maximum.\n
-\C[2]Decreases Dirty. Rest for half a day.\n
+\}Mereka akan menabur garam di lukaku\n
+jika aku mencoba tidur di penginapan mereka tanpa ini!\n
+\C[2]Meningkatkan HP, STA, dan Food ke maksimal.\n
+\C[2]Mengurangi Dirty. Istirahat selama setengah hari.\n
 
 QuestFbFormula/item_name
-Secret Formula
+Formula Rahasia
 
 QuestFbFormula/description
-\}What is the secret ingredient\n
-to the Crusty Crab's Pots...?\n
-It is said to be a pineapple from under the sea...\n
-Thus spoken by a magical conch shell...\n
+\}Apa bahan rahasia \n
+untuk Crusty Crab's Pots...?\n
+Dikatakan bahwa itu adalah nanas dari bawah laut...\n
+Begitulah yang diucapkan oleh kerang ajaib...\n
 
 QuestDeeponeEyesF/item_name
-False Sea Witch's Eyes
+Mata Penyihir Laut Palsu
 
 QuestDeeponeEyesF/description
-\}Why do I have to dig these things out of her...?\n
+\}Kenapa aku harus mencungkil benda-benda ini darinya...?\n
 
 QuestBC2ASH/item_name
-Urn
+Guci Abu
 
 QuestBC2ASH/description
-\}A mysterious, nameless urn.\n
+\}Sebuah guci abu misterius tanpa nama.\n
 
 ArecaNut/item_name
-Betel Nut
+Pinang
 
 ArecaNut/description
-\}A seed that's rumored to boost your\n
-energy and mind. Quite addictive.\n
-\C[6]Drug, Plant, increases STA.\n
-\C[2]Increases Mood.\n
+\}Biji yang dirumorkan dapat meningkatkan\n
+energi dan pikiranmu. Cukup adiktif.\n
+\C[6]Obat, Tumbuhan, meningkatkan STA.\n
+\C[2]Meningkatkan Mood.\n
 
 Banana/item_name
-Banana
+Pisang
 
 Banana/description
-\}Local tropical specialty. Sweet and mushy.\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Spesialisasi tropis lokal. Manis dan lembek.\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 SouthFL_INN_Key/item_name
-Hope Inn Key
+Kunci Penginapan Harapan
 
 SouthFL_INN_Key/description
-\}They'll make me lose all hope\n
-if I try to sleep in their inn without this!\n
-\C[2]Increases HP, STA, and Food to maximum.\n
-\C[2]Decreases Dirty. Rest for half a day.\n
+\}Mereka akan membuatku kehilangan semua harapan\n
+jika aku mencoba tidur di penginapan mereka tanpa ini!\n
+\C[2]Meningkatkan HP, STA, dan Food ke maksimal.\n
+\C[2]Mengurangi Dirty. Istirahat selama setengah hari.\n
 
 QuestBoarPenis/item_name
-Corkscrew Penis
+Penis Ulir
 
 QuestBoarPenis/description
-\}Ewww! It's all swirly and gross...\n
-How do they even reproduce with this thing?\n
+\}Ewww! Bentuknya melilit dan menjijikkan...\n
+Bagaimana mereka bisa bereproduksi dengan benda ini?\n
 
 BerserkDrug/item_name
-Berserk Medicine
+Obat Berserk
 
 BerserkDrug/description
-\}Elise's Pharmaceuticals：\n
-Warning! Side effects may vary!\n
+\}Farmasi Elise：\n
+Peringatan! Efek samping mungkin bervariasi!\n
 
 JunkFood/item_name
-Junk Food
+Makanan Sampah
 
 JunkFood/description
-\}Contains less than 10% fruit juice.\n
-\C[6]Food, increases Mood.\n
+\}Mengandung kurang dari 10% sari buah.\n
+\C[6]Makanan, meningkatkan Mood.\n
 
 QuestBetTricket/item_name
-Arena Lottery Ticket
+Tiket Lotre Arena
 
 QuestBetTricket/description
-\}Their worthless lives were only used to\n
-entertain the audience...\n
+\}Nyawa mereka yang tak berharga hanya digunakan untuk\n
+menghibur penonton...\n
 
 QuestMamaFood/item_name
-Purchase Order
+Pesanan Pembelian
 
 QuestMamaFood/description
-\}A really long list of items to purchase.\n
-Seems like The Burning Keg is doing well.\n
+\}Daftar barang yang sangat panjang untuk dibeli.\n
+Sepertinya The Burning Keg berjalan dengan baik.\n
 
 QuestOrkindEar/item_name
-Orkind's Ears
+Telinga Orkind
 
 QuestOrkindEar/description
-\}Who would collect such disgusting things?\n
+\}Siapa yang mau mengumpulkan benda menjijikkan seperti ini?\n
 
 RottenMatter/item_name
-Rotten Matter
+Materi Busuk
 
 RottenMatter/description
-\}Who would put something this\n
-disgusting in their backpack?!\n
-\C[6]Filth\n
+\}Siapa yang mau memasukkan sesuatu yang\n
+menjijikkan ini ke dalam ransel mereka?!\n
+\C[6]Kotoran\n
 
 Dreg/item_name
-Leftover Trash
+Sisa Sampah
 
 Dreg/description
-\}Just a handful of rubbish and trash.\n
-Contains eaten food, insects, and other nasties.\n
-...You're not thinking about eating this. Right?!\n
-\C[6]Filth\n
+\}Hanya segenggam rongsokan dan sampah.\n
+Berisi sisa makanan, serangga, dan hal menjijikkan lainnya.\n
+...Kamu tidak berpikir untuk memakan ini. Kan?!\n
+\C[6]Kotoran\n
 
 DryProtein/item_name
-White Sludge
+Lumpur Putih
 
 DryProtein/description
-\}Has a... burning and rotten stench.\n
-Looks like you can store it for awhile.\n
-Tastes like... eggs...?\n
-\C[6]Food\n
+\}Memiliki aroma... menyengat dan busuk.\n
+Sepertinya kamu bisa menyimpannya untuk sementara waktu.\n
+Rasanya seperti... telur...?\n
+\C[6]Makanan\n
 
 FishTownInnNapKey/item_name
-Fishtopia Key
+Kunci Fishtopia
 
 FishTownInnNapKey/description
-\}They'll feed me to the fishes\n
-if I try to sleep in their inn without this!\n
-\C[2]Increases HP, STA, and Food to maximum.\n
-\C[2]Decreases Dirty. Rest for half a day.\n
+\}Mereka akan memberiku makan ke ikan-ikan\n
+jika aku mencoba tidur di penginapan mereka tanpa ini!\n
+\C[2]Meningkatkan HP, STA, dan Food ke maksimal.\n
+\C[2]Mengurangi Dirty. Istirahat selama setengah hari.\n
 
 QuestMusket/item_name
-A bundle of Muskets
+Sebundel Musket
 
 QuestMusket/description
-\}Aren't these all just wooden sticks...?
+\}Bukankah ini semua hanya tongkat kayu...?
 
 QuestDfSgtTag/item_name
-Centurion's Medal
+Medali Centurion
 
 QuestDfSgtTag/description
-\}Looks great... I guess? I'm not sure why this\n
-medal is anything special.\n
+\}Terlihat bagus... kurasa?
+Aku tidak yakin kenapa medali ini begitu istimewa.\n
 
 DoomFortressInnNapKey/item_name
-Doom Inn Key
+Kunci Penginapan Doom
 
 DoomFortressInnNapKey/description
-\}They'll make me face my doom\n
-if I try to sleep in their inn without this!\n
-\C[2]Increases HP, STA, and Food to maximum.\n
-\C[2]Decreases Dirty. Rest for half a day.\n
+\}Mereka akan membuatku menghadapi ajal (doom)\n
+jika aku mencoba tidur di penginapan mereka tanpa ini!\n
+\C[2]Meningkatkan HP, STA, dan Food ke maksimal.\n
+\C[2]Mengurangi Dirty. Istirahat selama setengah hari.\n
 
 SopMeatMystery/item_name
-Mystery Meat Soup
+Sup Daging Misterius
 
 SopMeatMystery/description
-\}Has a bitter taste... Not delicious...\n
-\C[6]Food\n
-\C[1]Mystery Meat\n
+\}Rasanya pahit... Tidak lezat...\n
+\C[6]Makanan\n
+\C[1]Daging Misterius\n
 
 SopGoodMystery/item_name
-Good Gruel
+Bubur Enak
 
 SopGoodMystery/description
-\}Mushy... Lumpy... Tasty...?\n
-\C[6]Food\n
-\C[1]Mystery Meat\n
+\}Lembek... Menggumpal... Enak...?\n
+\C[6]Makanan\n
+\C[1]Daging Misterius\n
 
 SmokedMeatMystery/item_name
-Smoked Mystery Meat
+Daging Misterius Asap
 
 SmokedMeatMystery/description
-\}Looks tasty. But what kind of meat is it?\n
-Beef? Pork? ...Chicken?\n
-\C[6]Food\n
-\C[1]Mystery Meat\n
+\}Terlihat lezat.
+Tapi daging jenis apa ini?\n Sapi? Babi? ...Ayam?\n
+\C[6]Makanan\n
+\C[1]Daging Misterius\n
 
 QuestDeeponeEyes/item_name
-Deepone's Eyeballs
+Bola Mata Deepone
 
 QuestDeeponeEyes/description
-\}Who would collect such disgusting things?\n
+\}Siapa yang mau mengumpulkan benda menjijikkan seperti ini?\n
 
 PirateBaneInnNapKey/item_name
-Pirate's Bane Key
+Kunci Pirate's Bane
 
 PirateBaneInnNapKey/description
-\}They'll make me walk the plank\n
-if I try to sleep in their inn without this!\n
-\C[2]Increases HP, STA, and Food to maximum.\n
-\C[2]Decreases Dirty. Rest for half a day.\n
+\}Mereka akan membuatku berjalan di atas papan titian\n
+jika aku mencoba tidur di penginapan mereka tanpa ini!\n
+\C[2]Meningkatkan HP, STA, dan Food ke maksimal.\n
+\C[2]Mengurangi Dirty. Istirahat selama setengah hari.\n
 
 QuestHeadQuMilo6/item_name
-Adam's Severed Head
+Kepala Terpancung Adam
 
 QuestHeadQuMilo6/description
-\}For the greater good of Noer...\n
+\}Demi kebaikan Noer yang lebih besar...\n
 
 GoldenMilk/item_name
-Golden Milk
+Susu Emas
 
 GoldenMilk/description
-\}A sweet smell lingers from the creamy,\n
-bronze liquid.\n
-Rumored to be extremely expensive...\n
-\C[6]Raw food\n
+\}Aroma manis tercium dari cairan perunggu,\n
+yang kental ini.\n
+Rumornya harganya sangat mahal...\n
+\C[6]Makanan mentah\n
 
 PassportNob/item_name
-Slope Entry Visa
+Visa Masuk Slope
 
 PassportNob/description
-\}Allows Lona entrance to Rudesind Slope.\n
+\}Mengizinkan Lona masuk ke Rudesind Slope.\n
 
 HumanFlesh/item_name
-Human Flesh
+Daging Manusia
 
 HumanFlesh/description
-\}I have to eat to survive! UGHHH!\n
-\C[6]Raw food, Meat\n
-\C[1]Human Flesh\n
+\}Aku harus makan untuk bertahan hidup! UGHHH!\n
+\C[6]Makanan mentah, Daging\n
+\C[1]Daging Manusia\n
 
 SopMeatHuman/item_name
-Meat Soup
+Sup Daging
 
 SopMeatHuman/description
-\}Has a strange taste... Still delicious though!\n
-\C[6]Food\n
-\C[2]Increases Mood.\n
-\C[1]Human Flesh\n
+\}Memiliki rasa yang aneh... Tapi tetap lezat!\n
+\C[6]Makanan\n
+\C[2]Meningkatkan Mood.\n
+\C[1]Daging Manusia\n
 
 SopGoodHuman/item_name
-Good Soup
+Sup Enak
 
 SopGoodHuman/description
-\}The vegetables tastes okay. The meat tastes-...\n
-\C[6]Food\n
-\C[2]Increases Mood.\n
-\C[1]Human Flesh\n
+\}Sayurannya terasa lumayan. Dagingnya terasa-...\n
+\C[6]Makanan\n
+\C[2]Meningkatkan Mood.\n
+\C[1]Daging Manusia\n
 
 SmokedMeatHuman/item_name
-Smoked Meat
+Daging Asap
 
 SmokedMeatHuman/description
-\}Looks like leather, doesn't taste like it though.\n
-\C[6]Food\n
-\C[1]Human Flesh\n
+\}Terlihat seperti kulit, tapi rasanya tidak seperti itu.\n
+\C[6]Makanan\n
+\C[1]Daging Manusia\n
 
 AidSTD/item_name
-Remove：STD
+Hilangkan：PMS
 
 AidSTD/description
-\}Removes all stacks of STD statuses.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan semua tumpukan status Penyakit Menular Seksual.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidEquip/item_name
-Remove：Outfit
+Lepas：Pakaian
 
 AidEquip/description
-\}Unequips the following equipment slots.\n
-HEAD slot.\n
-TOP slot.\n
-MIDdle slot.\n
-ACCessories slot.\n
-BOTtem slot.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan slot peralatan berikut.\n
+Slot HEAD (Kepala).\n
+Slot TOP (Atasan).\n
+Slot MIDdle (Tengah).\n
+Slot ACCessories (Aksesori).\n
+Slot BOTtem (Bawah).\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidLactation/item_name
-Remove：Lactation
+Hilangkan：Laktasi
 
 AidLactation/description
-\}Removes all stacks of Lactation status.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan semua tumpukan status Laktasi.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidVulvaMilkGland/item_name
-Aid (Breast B)
+Bantuan (Payudara B)
 
 AidVulvaMilkGland/description
-\}Removes this MOD.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan MOD ini.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidModVagGlandsLink/item_name
-Aid (Linked Glands)
+Bantuan (Kelenjar Terhubung)
 
 AidModVagGlandsLink/description
-\}Removes this MOD.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan MOD ini.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidVulvaSkin/item_name
-Aid (Skin)
+Bantuan (Kulit)
 
 AidVulvaSkin/description
-\}Removes this MOD.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan MOD ini.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidVulvaAnal/item_name
-Aid (Rectum)
+Bantuan (Rektum)
 
 AidVulvaAnal/description
-\}Removes this MOD.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan MOD ini.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidVulvaUrethra/item_name
-Aid (Urethra)
+Bantuan (Uretra)
 
 AidVulvaUrethra/description
-\}Removes this MOD.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan MOD ini.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidVulvaEsophageal/item_name
-Aid (Mouth)
+Bantuan (Mulut)
 
 AidVulvaEsophageal/description
-\}Removes this MOD.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan MOD ini.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidModTaste/item_name
-Aid (Taste)
+Bantuan (Rasa)
 
 AidModTaste/description
-\}Removes this MOD.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan MOD ini.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidModMilkGland/item_name
-Aid (Breast A)
+Bantuan (Payudara A)
 
 AidModMilkGland/description
-\}Removes this MOD.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan MOD ini.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidModSterilization/item_name
-Aid (Sterilization)
+Bantuan (Sterilisasi)
 
 AidModSterilization/description
-\}Removes this MOD.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan MOD ini.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidModVagGlandsSurgical/item_name
-Aid (G-spot Removal)
+Bantuan (Pengangkatan G-spot)
 
 AidModVagGlandsSurgical/description
-\}Removes this MOD.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan MOD ini.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 ########################################################
 
 QuestCoconaMaid/item_name
-Tavern Maid Dress
+Gaun Pelayan Tavern
 
 QuestCoconaMaid/description
-\}For Cocona.\n
+\}Untuk Cocona.\n
 
 ItemQuestOrkindResearch1/item_name
-Rare Orkind baby
+Bayi Orkind langka
 
 ItemQuestOrkindResearch1/description
-\}What's so special about this baby?\n
-Every single one is ugly...\n
+\}Apa yang istimewa dari bayi ini?\n
+Setiap bayinya sangat jelek...\n
 
 ItemQuestFishResearch1/item_name
-Rare Fishkind baby
+Bayi Fishkind langka
 
 ItemQuestFishResearch1/description
-\}It's... Actually kind of cute......?\n
+\}Ini... Sebenarnya agak lucu......?\n
 
 HolyWater/item_name
-Holy Water
+Air Suci
 
 HolyWater/description
-\}A jar decorated with a small holy emblem.\n
-Inside contains some sort of glowing liquid.\n
+\}Sebuah toples yang dihiasi dengan lambang suci kecil.\n
+Di dalamnya berisi semacam cairan bercahaya.\n
 
 QuestFamilyHead/item_name
-Dried-out Head
+Kepala yang Mengering
 
 QuestFamilyHead/description
-\}Stored and maintained well.\n
+\}Disimpan dan dirawat dengan baik.\n
 
 HumanoidBrain/item_name
-Brain
+Otak
 
 HumanoidBrain/description
-\}The undead's favorite food!\n
-\C[6]Raw food, Meat\n
-\C[1]Human Flesh\n
+\}Makanan favorit mayat hidup!\n
+\C[6]Makanan mentah, Daging\n
+\C[1]Daging Manusia\n
 
 QuestHeadNecro/item_name
-Necromancer's Head
+Kepala Necromancer
 
 QuestHeadNecro/description
-\}Proof of defeating the\n
-female Necromancer.\n
+\}Bukti telah mengalahkan\n
+Necromancer wanita.\n
 
 AddPiercingNose/item_name
-Piercing (Nose)
+Tindik (Hidung)
 
 AddPiercingNose/description
-\}Adds a nose septum piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Menambahkan tindik septum hidung.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddPiercingNoseB/item_name
-Piercing (Nasal)
+Tindik (Nasall)
 
 AddPiercingNoseB/description
-\}Adds a nose bridge piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Menambahkan tindik batang hidung.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddPiercingEar/item_name
-Piercing (Ears)
+Tindik (Telinga)
 
 AddPiercingEar/description
-\}Adds an ear piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Menambahkan tindik telinga.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddPiercingChest/item_name
-Piercing (TOP)
+Tindik (TOP)
 
 AddPiercingChest/description
-\}Adds a chest piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Menambahkan tindik dada.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddPiercingBelly/item_name
-Piercing (MID)
+Tindik (MID)
 
 AddPiercingBelly/description
-\}Adds a belly piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Menambahkan tindik pusar.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddPiercingArms/item_name
-Piercing (Arms)
+Tindik (Lengan)
 
 AddPiercingArms/description
-\}Adds an arm piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Menambahkan tindik lengan.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddPiercingAnal/item_name
-Piercing (Butt)
+Tindik (Pantat)
 
 AddPiercingAnal/description
-\}Adds a butt piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Menambahkan tindik pantat.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddPiercingVag/item_name
-Piercing (Labia)
+Tindik (Labia)
 
 AddPiercingVag/description
-\}Adds a labia piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Menambahkan tindik labia.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddPiercingBack/item_name
-Piercing (Back)
+Tindik (Punggung)
 
 AddPiercingBack/description
-\}Adds a back piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Menambahkan tindik punggung.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 FruitWine/item_name
-Fruit Wine
+Anggur Buah
 
 FruitWine/description
-\}Sweet, yet bitter. Tastes like juice!\n
-\C[6]Food\n
-\C[2]Increases Mood.\n
-\C[1]Decreases STA.\n
+\}Manis, tapi pahit. Rasanya seperti jus!\n
+\C[6]Makanan\n
+\C[2]Meningkatkan Mood.\n
+\C[1]Mengurangi STA.\n
 
 BottleBeer/item_name
-Bottled Beer
+Bir Botolan
 
 BottleBeer/description
-\}Bottoms up! Be sure to drink responsibly.\n
-\C[6]Food\n
-\C[2]Increases Mood.\n
-\C[1]Decreases STA.\n
+\}Mari bersulang! Pastikan untuk minum dengan bijak.\n
+\C[6]Makanan\n
+\C[2]Meningkatkan Mood.\n
+\C[1]Mengurangi STA.\n
 
 Beer/item_name
-Beer
+Bir
 
 Beer/description
-\}Drink, and everything will be fine.\n
-\C[6]Food\n
-\C[2]Increases Mood.\n
-\C[1]Decreases STA.\n
+\}Minum, dan semuanya akan baik-baik saja.\n
+\C[6]Makanan\n
+\C[2]Meningkatkan Mood.\n
+\C[1]Mengurangi STA.\n
 
 SopMeat/item_name
-Meat Soup
+Sup Daging
 
 SopMeat/description
-\}Tastes delicious and meaty!\n
-\C[6]Food\n
-\C[2]Increases Mood.\n
+\}Rasanya lezat dan berdaging!\n
+\C[6]Makanan\n
+\C[2]Meningkatkan Mood.\n
 
 SopPlant/item_name
-Vegetable Soup
+Sup Sayuran
 
 SopPlant/description
-\}Tastes bland... At least it's healthy.\n
-\C[6]Food\n
-\C[2]Increases Mood.\n
+\}Rasanya hambar... Setidaknya ini sehat.\n
+\C[6]Makanan\n
+\C[2]Meningkatkan Mood.\n
 
 SopGood/item_name
-Good Soup
+Sup Enak
 
 SopGood/description
-\}The mixture of vegetables and meat chunks\n
-in the soup is just simply scrumptious!\n
-\C[6]Food\n
-\C[2]Increases Mood.\n
+\}Campuran sayuran dan potongan daging\n
+di dalam sup ini benar-benar menggiurkan!\n
+\C[6]Makanan\n
+\C[2]Meningkatkan Mood.\n
 
 NoerTavernNapKey/item_name
-Burning Keg Key
+Kunci Burning Keg
 
 NoerTavernNapKey/description
-\}Boss Mama would murder me\n
-if I try to sleep in her tavern without this!\n
-\C[2]Increases HP, STA, and Food to maximum.\n
-\C[2]Decreases Dirty. Rest for half a day.\n
+\}Boss Mama akan membunuhku\n
+jika aku mencoba tidur di tavernnya tanpa ini!\n
+\C[2]Meningkatkan HP, STA, dan Food ke maksimal.\n
+\C[2]Mengurangi Dirty. Istirahat selama setengah hari.\n
 
 BombFragTimer/item_name
-Timed Frag Bomb
+Bom Frag Berwaktu
 
 BombFragTimer/description
-\}Tick tock! Tick tock! BOOM!\n
-\C[2]Equip in EXT to set up bomb.\n
-\C[2]Detonates a lethal 3X3 explosion on a timer.\n
-\C[2]Explodes in 5 seconds.\n
+\}Tik tok! Tik tok! DUARR!\n
+\C[2]Pasang di EXT untuk memasang bom.\n
+\C[2]Meledakkan ledakan mematikan 3X3 dengan timer.\n
+\C[2]Meledak dalam 5 detik.\n
 
 BombFragPasstive/item_name
-Frag Bomb
+Bom Frag
 
 BombFragPasstive/description
-\}When in doubt, BOMB!\n
-\C[2]Equip in EXT to set up bomb.\n
-\C[2]Detonates a lethal 3X3 explosion.\n
-\C[2]Explodes when hit.\n
+\}Jika ragu, BOM saja!\n
+\C[2]Pasang di EXT untuk memasang bom.\n
+\C[2]Meledakkan ledakan mematikan 3X3.\n
+\C[2]Meledak saat terkena serangan.\n
 
 BombFragTrigger/item_name
-Frag Mine
+Ranjau Frag
 
 BombFragTrigger/description
-\}Watch your step!\n
-\C[2]Equip in EXT to place down mine.\n
-\C[2]Detonates a lethal 3X3 explosion when activated.\n
-\C[2]Triggers when pressure is applied.\n
+\}Perhatikan langkahmu!\n
+\C[2]Pasang di EXT untuk memasang ranjau.\n
+\C[2]Meledakkan ledakan mematikan 3X3 saat diaktifkan.\n
+\C[2]Terpicu saat terkena tekanan.\n
 
 BombShockTimer/item_name
-Smoke Bomb
+Bom Asap
 
 BombShockTimer/description
-\}\C[2]Equip in EXT to toss a bomb at your feet.\n
-\C[2]Detonates a non-lethal explosion immediately\n
-\C[2]at your position.\n
-\C[2]Emits a cloud of smoke around Lona.\n
+\}\C[2]Pasang di EXT untuk melemparkan bom ke kaki.\n
+\C[2]Segera meledakkan ledakan tidak mematikan\n
+\C[2]di posisimu.\n
+\C[2]Mengeluarkan awan asap di sekitar Lona.\n
 
 
 BombShockPasstive/item_name
-Shock Bomb
+Bom Kejut
 
 BombShockPasstive/description
-\}\C[2]Equip in EXT to set up bomb.\n
-\C[2]Detonates a weak 3X3 explosion and emits smoke.\n
-\C[2]Explosion stuns those around the blast.\n
-\C[2]Explodes when hit.\n
+\}\C[2]Pasang di EXT untuk memasang bom.\n
+\C[2]Meledakkan ledakan lemah 3X3 dan mengeluarkan asap.\n
+\C[2]Ledakan melumpuhkan (stun) orang-orang di sekitar.\n
+\C[2]Meledak saat terkena serangan.\n
 
 BombShockTrigger/item_name
-Shock Mine
+Ranjau Kejut
 
 BombShockTrigger/description
-\}\C[2]Equip in EXT to place down mine.\n
-\C[2]Detonates a weak 3X3 explosion and emits smoke.\n
-\C[2]Explosion stuns those around the blast.\n
-\C[2]Triggers when pressure is applied.\n
+\}\C[2]Pasang di EXT untuk memasang ranjau.\n
+\C[2]Meledakkan ledakan lemah 3X3 dan mengeluarkan asap.\n
+\C[2]Ledakan melumpuhkan (stun) orang-orang di sekitar.\n
+\C[2]Terpicu saat terkena tekanan.\n
 
 PassportLona/item_name
-Lona's ID Paper
+KTP Lona
 
 PassportLona/description
 \}Lona Falldin\n
-SEX：Female\n
-BIRTHPLACE：Sybaris\n
-B-DAY：1771-1-2\n
+JENIS KELAMIN：Perempuan\n
+TEMPAT LAHIR：Sybaris\n
+TANGGAL LAHIR：1771-1-2\n
 
 PassportFake/item_name
-Fake ID Paper
+KTP Palsu
 
 PassportFake/description
 \}Lonah Felldin\n
-GENDER：Male\n
-BORN：Noer BIRFDAY：255-255-255-0\n
-\C[2]Resets Lona's Morality to 50 after purchase.
+GENDER：Laki-laki\n
+LAHIR：Noer TGL LAHIR：255-255-255-0\n
+\C[2]Mereset Moralitas Lona menjadi 50 setelah pembelian.
 
 AddModVagGlandsLink/item_name
-MOD (Linked Glands)
+MOD (Kelenjar Terhubung)
 
 AddModVagGlandsLink/description
-\}\C[5]Can orgasm at any time.\n
-\C[4]Performed after completion of transaction.\n
+\}\C[5]Dapat orgasme kapan saja.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddVulvaMilkGland/item_name
-MOD (Breast B)
+MOD (Payudara B)
 
 AddVulvaMilkGland/description
-\}\C[2]Decreases negative effect on HP and STA.\n
-\C[4]Performed after completion of transaction.\n
+\}\C[2]Mengurangi efek negatif pada HP dan STA.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddVulvaSkin/item_name
-MOD (Skin)
+MOD (Kulit)
 
 AddVulvaSkin/description
-\}\C[5]Any action that consumes STA will increase\n
-Arousal.\n
-\C[2]Decreases negative effect on HP and STA.\n
-\C[4]Performed after completion of transaction.\n
+\}\C[5]Tindakan apa pun yang menghabiskan STA akan meningkatkan\n
+Gairah.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddVulvaAnal/item_name
-MOD (Rectum)
+MOD (Rektum)
 
 AddVulvaAnal/description
-\}\C[2]Decreases negative effect on HP and STA.\n
-\C[4]Performed after completion of transaction.\n
+\}\C[2]Mengurangi efek negatif pada HP dan STA.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddVulvaUrethra/item_name
-MOD (Urethra)
+MOD (Uretra)
 
 AddVulvaUrethra/description
-\}\C[2]Decreases negative effect on HP and STA.\n
-\C[4]Performed after completion of transaction.\n
+\}\C[2]Mengurangi efek negatif pada HP dan STA.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddVulvaEsophageal/item_name
-MOD (Mouth)
+MOD (Mulut)
 
 AddVulvaEsophageal/description
-\}\C[5]Any eating behavior increases Arousal.\n
-\C[2]Decreases negative effect on HP and STA.\n
-\C[4]Performed after completion of transaction.\n
+\}\C[5]Perilaku makan apa pun meningkatkan Gairah.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddModTaste/item_name
-MOD (Taste)
+MOD (Rasa)
 
 AddModTaste/description
-\C[2]Decreases negative effect on HP and STA.\n
-\C[1]Increases vomiting by foods other than Filth.\n
-\C[4]Performed after completion of transaction.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
+\C[1]Meningkatkan muntah oleh makanan selain Kotoran.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddModMilkGland/item_name
-MOD (Breast A)
+MOD (Payudara A)
 
 AddModMilkGland/description
-\}\C[5]Increases milk volume over time.\n
-\C[2]Decreases negative effect on HP and STA.\n
-\C[4]Performed after completion of transaction.\n
+\}\C[5]Meningkatkan volume susu seiring waktu.\n
+\C[2]Mengurangi efek negatif pada HP dan STA.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddModSterilization/item_name
-MOD (Sterilization)
+MOD (Sterilisasi)
 
 AddModSterilization/description
-\}\C[6]Decreases Sexy.\n
-\C[6]Cannot get pregnant.\n
-\C[4]Performed after completion of transaction.\n
+\}\C[6]Mengurangi Seksi.\n
+\C[6]Tidak bisa hamil.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddModVagGlandsSurgical/item_name
-MOD (G-spot Removal)
+MOD (Pengangkatan G-spot)
 
 AddModVagGlandsSurgical/description
-\}\C[5]Cannot achieve orgasm under any condition.\n
-\C[4]Performed after completion of transaction.\n
+\}\C[5]Tidak bisa mencapai orgasme dalam kondisi apa pun.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
-###################################################################################################################### Tickets on Relay and dock
+###################################################################################################################### Tiket di Relay dan Dermaga
 
 ToNoerRelay/item_name
-To：Town of Noer
+Ke：Kota Noer
 
 ToNoerRelay/description
-\}Travel voucher for desired location.\n
-\C[6]Fast travels you to designated area.\n
-\C[4]Performed after completion of transaction.\n
+\}Voucher perjalanan untuk lokasi yang diinginkan.\n
+\C[6]Melakukan perjalanan cepat (fast travel) ke area yang ditentukan.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 ToPirateBane/item_name
-To：Pirate's Bane
+Ke：Pirate's Bane
 
 ToPirateBane/description
-\}Travel voucher for desired location.\n
-\C[6]Fast travels you to designated area.\n
-\C[4]Performed after completion of transaction.\n
+\}Voucher perjalanan untuk lokasi yang diinginkan.\n
+\C[6]Melakukan perjalanan cepat ke area yang ditentukan.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 ToDoomFortressR/item_name
-To：Doom Fortress
+Ke：Benteng Doom
 
 ToDoomFortressR/description
-\}Travel voucher for desired location.\n
-\C[6]Fast travels you to designated area.\n
-\C[4]Performed after completion of transaction.\n
+\}Voucher perjalanan untuk lokasi yang diinginkan.\n
+\C[6]Melakukan perjalanan cepat ke area yang ditentukan.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 ToFishTownL/item_name
-To：Fishtopia Isle
+Ke：Pulau Fishtopia
 
 ToFishTownL/description
-\}Travel voucher for desired location.\n
-\C[6]Fast travels you to designated area.\n
-\C[4]Performed after completion of transaction.\n
+\}Voucher perjalanan untuk lokasi yang diinginkan.\n
+\C[6]Melakukan perjalanan cepat ke area yang ditentukan.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 ToNoerDock/item_name
-To：Port of Noer
+Ke：Pelabuhan Noer
 
 ToNoerDock/description
-\}Travel voucher for desired location.\n
-\C[6]Fast travels you to designated area.\n
-\C[4]Performed after completion of transaction.\n
+\}Voucher perjalanan untuk lokasi yang diinginkan.\n
+\C[6]Melakukan perjalanan cepat ke area yang ditentukan.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 ToWestFL/item_name
-To：West Gate Camp
+Ke：Kamp Gerbang Barat
 
 ToWestFL/description
-\}Travel voucher for desired location.\n
-\C[6]Fast travels you to designated area.\n
-\C[4]Performed after completion of transaction.\n
+\}Voucher perjalanan untuk lokasi yang diinginkan.\n
+\C[6]Melakukan perjalanan cepat ke area yang ditentukan.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 ToSouthFL/item_name
-To：South Gate Camp
+Ke：Kamp Gerbang Selatan
 
 ToSouthFL/description
-\}Travel voucher for desired location.\n
-\C[6]Fast travels you to designated area.\n
-\C[4]Performed after completion of transaction.\n
+\}Voucher perjalanan untuk lokasi yang diinginkan.\n
+\C[6]Melakukan perjalanan cepat ke area yang ditentukan.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 ToNorthFL_INN/item_name
-To：Costal Fortress
+Ke：Benteng Pesisir
 
 ToNorthFL_INN/description
-\}Travel voucher for desired location.\n
-\C[6]Fast travels you to designated area.\n
-\C[4]Performed after completion of transaction.\n
+\}Voucher perjalanan untuk lokasi yang diinginkan.\n
+\C[6]Melakukan perjalanan cepat ke area yang ditentukan.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
-###################################################################################################################### HAIR DYE
+###################################################################################################################### PEWARNA RAMBUT
 AddHairDefault/item_name
-Hair dye：Gray
+Pewarna rambut：Abu-abu
 
 AddHairDefault/description
-\}Lona's original hair color.\n
-The same color as the fur of a filthy rat.\n
-Designer："Si-Yi-Qi"\n
-\C[4]Performed after completion of transaction.\n
+\}Warna rambut asli Lona.\n
+Warna yang sama dengan bulu tikus kotor.\n
+Desainer："Si-Yi-Qi"\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddHairBlack/item_name
-Hair dye：Black
+Pewarna rambut：Hitam
 
 AddHairBlack/description
-\}A forbidden color one mustn't say out loud.\n
-Plain, yet eye-catching.\n
-Designer："Lord CyanCyan, the 214th"\n
-\C[4]Performed after completion of transaction.\n
+\}Warna terlarang yang tidak boleh diucapkan keras-keras.\n
+Polos, namun menarik perhatian.\n
+Desainer："Lord CyanCyan, ke-214"\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddHairWhite/item_name
-Hair dye：Bleached
+Pewarna rambut：Pirang Putih
 
 AddHairWhite/description
-\}A popular hair color enjoyed by tanned hookers.\n
-These gals usually target elderly merchants.\n
-Designer："Eldar TealTeal, the 214 year old"\n
-\C[4]Performed after completion of transaction.\n
+\}Warna rambut populer yang dinikmati oleh pelacur berkulit gelap.\n
+Gadis-gadis ini biasanya menargetkan pedagang tua.\n
+Desainer："Eldar TealTeal, berusia 214 tahun"\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddHairLightLavender/item_name
-Hair dye：Aqua
+Pewarna rambut：Aqua
 
 AddHairLightLavender/description
-\}The hair color of a beautiful Water Goddess.\n
-It's just hair dye, so it won't make you retarded.\n
-Designer："Lady AquaAqua, 200+10+4"\n
-\C[4]Performed after completion of transaction.\n
+\}Warna rambut dari Dewi Air yang cantik.\n
+Ini hanya pewarna rambut, jadi tidak akan membuatmu bodoh.\n
+Desainer："Lady AquaAqua, 200+10+4"\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddHairRed/item_name
-Hair dye：Red
+Pewarna rambut：Merah
 
 AddHairRed/description
-\}The color of political correctness and communism.\n
-Will cause others to be irritated once spotted.\n
-Designer："Death cult leader, Die Together"\n
-\C[4]Performed after completion of transaction.\n
+\}Warna kebenaran politik dan komunisme.\n
+Akan menyebabkan orang lain kesal begitu terlihat.\n
+Desainer："Pemimpin kultus kematian, Mati Bersama"\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AddHairYellow/item_name
-Hair dye：Blonde
+Pewarna rambut：Pirang
 
 AddHairYellow/description
-\}The golden hair color of nobles and aristocrats.\n
-Sadly, dyeing your hair won't turn you into one.\n
-Designer："Nobleman For-Wun-Ceven"\n
-\C[4]Performed after completion of transaction.\n
+\}Warna rambut emas para bangsawan dan aristokrat.\n
+Sayangnya, mewarnai rambutmu tidak akan mengubahmu menjadi salah satu dari mereka.\n
+Desainer："Bangsawan For-Wun-Ceven"\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 ######################################################################################################################
 
 AidPiercingNose/item_name
-Remove (Nose)
+Lepas (Hidung)
 
 AidPiercingNose/description
-\}Removes a nose septum piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan tindik septum hidung.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidPiercingNoseB/item_name
-Remove (Nasal)
+Lepas (Nasall)
 
 AidPiercingNoseB/description
-\}Removes a nose bridge piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan tindik batang hidung.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidPiercingEar/item_name
-Remove (Ears)
+Lepas (Telinga)
 
 AidPiercingEar/description
-\}Removes an ear piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan tindik telinga.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidPiercingChest/item_name
-Remove (TOP)
+Lepas (TOP)
 
 AidPiercingChest/description
-\}Removes a chest piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan tindik dada.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidPiercingBelly/item_name
-Remove (MID)
+Lepas (MID)
 
 AidPiercingBelly/description
-\}Removes a belly piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan tindik pusar.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidPiercingArms/item_name
-Remove (Arms)
+Lepas (Lengan)
 
 AidPiercingArms/description
-\}Removes an arm piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan tindik lengan.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidPiercingAnal/item_name
-Remove (Butt)
+Lepas (Pantat)
 
 AidPiercingAnal/description
-\}Removes a butt piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan tindik pantat.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidPiercingVag/item_name
-Remove (Labia)
+Lepas (Labia)
 
 AidPiercingVag/description
-\}Removes a labia piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan tindik labia.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidPiercingBack/item_name
-Remove (Back)
+Lepas (Punggung)
 
 AidPiercingBack/description
-\}Removes a back piercing.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan tindik punggung.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 #######################################################
 
@@ -1042,624 +1042,624 @@ AidChainMidExtra/description
 \C[4]交易結束後自動使用\n
 
 AidChainCuff/item_name
-Remove Harness
+Lepas Harness
 
 AidChainCuff/description
-\}Removes Full Metal Harness.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan Full Metal Harness.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidCuff/item_name
-Remove Harness
+Lepas Harness
 
 AidCuff/description
-\}Removes Metal Harness.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan Metal Harness.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidChainCollar/item_name
-Remove Collar
+Lepas Kerah
 
 AidChainCollar/description
-\}Removes Chained Collar.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan Kerah Berantai.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidCollar/item_name
-Remove Collar
+Lepas Kerah
 
 AidCollar/description
-\}Removes Metal Collar.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan Kerah Logam.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidVagGlands/item_name
-Aid (Linked Gland)
+Bantuan (Kelenjar Terhubung)
 
 AidVagGlands/description
-\}Removes Linked Gland.\n
-\C[4]Performed after completion of transaction.\n
+\}Melepaskan Kelenjar Terhubung.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidOgrasmAddiction/item_name
-Aid (Multi Orgasm)
+Bantuan (Kecanduan Multi Orgasme)
 
 AidOgrasmAddiction/description
-\}Removes 1 Multi Orgasm stack.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan 1 tumpukan Kecanduan Multi Orgasme.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidDrugAddiction/item_name
-Aid (Drug Addiction)
+Bantuan (Kecanduan Obat)
 
 AidDrugAddiction/description
-\}Removes 1 Drug Addiction stack.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan 1 tumpukan Kecanduan Obat.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidSemenAddiction/item_name
-Aid (Cum Addiction)
+Bantuan (Kecanduan Air Mani)
 
 AidSemenAddiction/description
-\}Removes 1 Cum Addiction stack.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan 1 tumpukan Kecanduan Air Mani.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
-AidModWombSeedBed/item_name
-Aid (Womb Seedbed)
+AddModWombSeedBed/item_name
+Bantuan (Tempat Persemaian Rahim)
 
-AidModWombSeedBed/description
-\}Removes 1 Womb Seedbed stack.\n
-\C[4]Performed after completion of transaction.\n
+AddModWombSeedBed/description
+\}Menghilangkan 1 tumpukan Tempat Persemaian Rahim.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidSlaveBrand/item_name
-Aid (Slave Brand)
+Bantuan (Cap Budak)
 
 AidSlaveBrand/description
-\}Removes Slave Brand.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan Cap Budak.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidSphincterDamaged/item_name
-Aid (Loose Anus)
+Bantuan (Anus Longgar)
 
 AidSphincterDamaged/description
-\}Removes Loose Anus.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan Anus Longgar.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidUrethralDamaged/item_name
-Aid (Loose Urethra)
+Bantuan (Uretra Longgar)
 
 AidUrethralDamaged/description
-\}Removes Loose Urethra.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan Uretra Longgar.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidVaginalDamaged/item_name
-Aid (Loose Vagina)
+Bantuan (Vagina Longgar)
 
 AidVaginalDamaged/description
-\}Removes Loose Vagina.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan Vagina Longgar.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidPregnancy/item_name
-Abortion
+Aborsi
 
 AidPregnancy/description
-\}Operation Abortion!\n
-Elise will help for free in exchange for your fetus.\n
-But beware! Abortion is risky!\n
-\C[4]Performed after completion of transaction.\n
+\}Operasi Aborsi!\n
+Elise akan membantu secara gratis sebagai ganti janinmu.\n
+Tapi waspadalah! Aborsi itu berisiko!\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidStomachSpasm/item_name
-Aid (Gastroenteritis)
+Bantuan (Gastroenteritis)
 
 AidStomachSpasm/description
-\}Removes Gastroenteritis.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan Gastroenteritis.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidFeelsSick/item_name
-Aid (Sick)
+Bantuan (Sakit)
 
 AidFeelsSick/description
-\}Removes Sick.\n
-\C[4]Performed after completion of transaction.\n
+\}Menghilangkan Sakit.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidWound/item_name
-Aid (Wound)
+Bantuan (Luka)
 
 AidWound/description
-\}Cures all kinds of wounds.\n
-\C[4]Performed after completion of transaction.\n
+\}Menyembuhkan segala jenis luka.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 AidWormParasite/item_name
-Aid (Parasite)
+Bantuan (Parasit)
 
 AidWormParasite/description
-\}Gets rid of any parasites and infections in the\n
-body once performed.\n
-Removes any/all Parasites' Seedbeds.\n
-\C[4]Performed after completion of transaction.\n
+\}Menyingkirkan parasit dan infeksi apa pun di dalam\n
+tubuh setelah dilakukan.\n
+Menghilangkan semua/setiap Tempat Persemaian Parasit.\n
+\C[4]Dilakukan setelah transaksi selesai.\n
 
 ###########################################################################################
 
 QuestRatTail/item_name
-Rat Tail
+Ekor Tikus
 
 QuestRatTail/description
-\}Proof required for your quest.\n
+\}Bukti yang diperlukan untuk misimu.\n
 
 VespeneMineral/item_name
-High-quality Mineral
+Mineral Berkualitas Tinggi
 
 VespeneMineral/description
-\}What's the difference between this and low quality?\n
+\}Apa perbedaan antara ini dan kualitas rendah?\n
 
 Mineral/item_name
-Crystal Ore
+Bijih Kristal
 
 Mineral/description
-\}Heavy little stones.\n
+\}Batu-batu kecil yang berat.\n
 
 Coin1/item_name
-Copper Coin
+Koin Tembaga
 
 Coin1/description
-\}The most common currency used in Noer Island.\n
+\}Mata uang paling umum yang digunakan di Pulau Noer.\n
 
 Coin2/item_name
-Large Copper Coin
+Koin Tembaga Besar
 
 Coin2/description
-\}Uncommon coins used mainly by the middle class.\n
-Worth around 10 copper coins.\n
+\}Koin tidak umum yang digunakan terutama oleh kelas menengah.\n
+Bernilai sekitar 10 koin tembaga.\n
 
 Coin3/item_name
-Gold Coin
+Koin Emas
 
 Coin3/description
-\}Currency used by aristocrats and nobles.\n
-Super rare... A sight to behold indeed.\n
-Also super shiny!
+\}Mata uang yang digunakan oleh bangsawan dan aristokrat.\n
+Sangat langka... Pemandangan yang patut dilihat.\n
+Juga sangat berkilau!
 
 Humpshroom/item_name
-Mutated Mushroom
+Jamur Mutasi
 
 Humpshroom/description
-\}Blood red. Rumored to taste great?\n
-\C[6]Food\n
-\C[6]Drug\n
+\}Merah darah. Rumornya rasanya enak?\n
+\C[6]Makanan\n
+\C[6]Obat\n
 
 Roach/item_name
-Insects
+Serangga
 
 NpcChild/item_name
-A Stranger's Child
+Anak Orang Asing
 
 NpcChild/description
-\}Even though they're not my child,\n
-I shouldn't abandon them to the wild.\n
+\}Meskipun mereka bukan anakku,\n
+aku tidak boleh membiarkan mereka di alam liar.\n
 
 Roach/description
-\}This is a last resort, in order to survive... Right?\n
-\C[6]Raw food, Meat\n
+\}Ini adalah pilihan terakhir, untuk bertahan hidup... Kan?\n
+\C[6]Makanan mentah, Daging\n
 
 PlayerChild/item_name
-My Child
+Anakku
 
 PlayerChild/description
-\}Who's the father...?\n
+\}Siapa ayahnya...?\n
 
 RawMeat/item_name
-Raw Animal Meat
+Daging Hewan Mentah
 
 RawMeat/description
-\}I'm not an animal. I should cook this.\n
-\C[6]Raw food, Meat\n
+\}Aku bukan binatang. Aku harus memasak ini.\n
+\C[6]Makanan mentah, Daging\n
 
 HumanoidFlesh/item_name
-Humanoid Flesh
+Daging Humanoid
 
 HumanoidFlesh/description
-\}To survive! UGHHH!\n
-\C[6]Raw food, Meat\n
+\}Untuk bertahan hidup! UGHHH!\n
+\C[6]Makanan mentah, Daging\n
 
 MutantFlesh/item_name
-Mutant Flesh
+Daging Mutan
 
 MutantFlesh/description
-\}It looks toxic...\n
-\C[6]Raw food, Meat\n
+\}Kelihatannya beracun...\n
+\C[6]Makanan mentah, Daging\n
 
 Vomit/item_name
-Vomit
+Muntah
 
 Vomit/description
-\}Just looking at it makes you want to vomit...\n
-\C[6]Filth\n
+\}Melihatnya saja sudah membuatmu ingin muntah...\n
+\C[6]Kotoran\n
 
 Poo/item_name
-Poop
+Tinja
 
 Poo/description
-\}GROSS! WHY ARE YOU HOLDING ONTO THIS?!\n
-\C[6]Filth\n
-\C[6]SHIFT+EXT skill\C[0]：Fling a handful of shit.\n
+\}MENJIJIKKKAN! KENAPA KAU MEMEGANG INI?!\n
+\C[6]Kotoran\n
+\C[6]Skill SHIFT+EXT\C[0]：Lemparkan segenggam t*i.\n
 
 Pee/item_name
-Jar of Urine
+Toples Urin
 
 Pee/description
-\}Rumored to be used by archers to put out flames,\n
-or thrown at spies to humiliate them.\n
-\C[6]Filth\n
-\C[6]SHIFT+EXT skill\C[0]：Toss a jar of piss.\n
+\}Rumornya digunakan oleh pemanah untuk memadamkan api,\n
+atau dilemparkan ke mata-mata untuk mempermalukan mereka.\n
+\C[6]Kotoran\n
+\C[6]Skill SHIFT+EXT\C[0]：Lemparkan toples air seni.\n
 
 HerbHi/item_name
-Parasitic Flower
+Bunga Parasit
 
 HerbHi/description
-\}A plant that parasitizes itself in animals.\n
-Eating it is said to make you high.\n
-Has low side effects.\n
-\C[6]Drug, increases mood.\n
+\}Tanaman yang memparasiti dirinya sendiri pada hewan.\n
+Memakannya dikatakan bisa membuatmu mabuk (high).\n
+Memiliki efek samping rendah.\n
+\C[6]Obat, meningkatkan mood.\n
 
 HerbContraceptive/item_name
-Tung Flower
+Bunga Tung
 
 HerbContraceptive/description
-\}A natural contraceptive plant. Said to not be\n
-very effective. Has low side effects.\n
-\C[6]Drug, Contraceptives.\n
-\C[6]Cures：Sick, Horny, Horny (Drugged).\n
+\}Tanaman kontrasepsi alami. Dikatakan tidak\n
+terlalu efektif. Memiliki efek samping rendah.\n
+\C[6]Obat, Kontrasepsi.\n
+\C[6]Menyembuhkan：Sakit, Birahi, Birahi (Efek Obat).\n
 
 HerbSta/item_name
-White Dragon Weed
+Rumput Naga Putih
 
 HerbSta/description
-\}Natural energy herb. Said to not be\n
-very effective. Has low side effects.\n
-\C[6]Drug, increases STA.\n
-\C[6]Cures：Gastroenteritis.\n
+\}Ramuan energi alami. Dikatakan tidak\n
+terlalu efektif. Memiliki efek samping rendah.\n
+\C[6]Obat, meningkatkan STA.\n
+\C[6]Menyembuhkan：Gastroenteritis.\n
 
 HerbRepellents/item_name
-Repellent Herb
+Ramuan Pengusir
 
 HerbRepellents/description
-\}It can kill the parasites inside the body.\n
-Can also be consumed as food.\n
-\C[6]Food\n
-\C[6]Drug\n
+\}Dapat membunuh parasit di dalam tubuh.\n
+Juga bisa dikonsumsi sebagai makanan.\n
+\C[6]Makanan\n
+\C[6]Obat\n
 
 Repellents/item_name
-Bug Repellent
+Pengusir Serangga
 
 Repellents/description
-\}It can kill the parasites inside the body.\n
-May cause harm to user.\n
-\C[6]Drug\n
+\}Dapat membunuh parasit di dalam tubuh.\n
+Dapat membahayakan pengguna.\n
+\C[6]Obat\n
 
 Abortion/item_name
-Abortion Pill
+Pil Aborsi
 
 Abortion/description
-\}Warning：Will harm your fetus.\n
-May cause harm to user.\n
-\C[6]Drug\n
+\}Peringatan：Akan membahayakan janinmu.\n
+Dapat membahayakan pengguna.\n
+\C[6]Obat\n
 
 HerbCure/item_name
-Dragon Root
+Akar Naga
 
 HerbCure/description
-\}Said to be blessed from the Saint.\n
-A natural healing herb.\n
-\C[6]Drug, increases HP.\n
-\C[6]Cures：Wounds.\n
+\}Dikatakan diberkati oleh Sang Saint.\n
+Ramuan penyembuh alami.\n
+\C[6]Obat, meningkatkan HP.\n
+\C[6]Menyembuhkan：Luka.\n
 
 Rock/item_name
-Rock
+Batu
 
 Rock/description
-\}Top tier of weapons.\n
-\C[6]EXT skill\C[0]：Sling rock.\n
+\}Senjata tingkat atas.\n
+\C[6]Skill EXT\C[0]：Lemparkan batu.\n
 
 DryFood/item_name
-Dry Meal
+Makanan Kering
 
 DryFood/description
-\}It's too tough to chew. Is this really edible?\n
-\C[6]Food\n
+\}Terlalu keras untuk dikunyah. Apakah ini benar-benar bisa dimakan?\n
+\C[6]Makanan\n
 
 SmokedMeat/item_name
-Smoked Meat
+Daging Asap
 
 SmokedMeat/description
-\}You can store it for about a year. Chewy.\n
-\C[6]Food\n
+\}Kamu bisa menyimpannya selama sekitar satu tahun. Kenyal.\n
+\C[6]Makanan\n
 
 Potato/item_name
-Potato
+Kentang
 
 Potato/description
-\}Tastes sweet?\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Rasanya manis?\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 Cherry/item_name
-Cherry
+Ceri
 
 Cherry/description
-\}Very sweet and delicious!\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Sangat manis dan lezat!\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 Tomato/item_name
-Tomato
+Tomat
 
 Tomato/description
-\}Has an annoying, grassy smell.\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Memiliki bau rumput yang mengganggu.\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 Milk/item_name
-Milk
+Susu
 
 Milk/description
-\}Tastes okay... A bit lumpy.\n
-\C[6]Raw food\n
+\}Rasanya lumayan... Sedikit menggumpal.\n
+\C[6]Makanan mentah\n
 
 Resources/item_name
-Resources
+Sumber Daya
 
 Resources/description
-\}A package of everything.\n
+\}Paket berisi segalanya.\n
 
 Apple/item_name
-Apple
+Apel
 
 Apple/description
-\}Keeps the plague doctor away.\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Menjauhkan dokter pes.\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 Bread/item_name
-Bread
+Roti
 
 Bread/description
-\}Easy to save.\n
-\C[6]Food\n
+\}Mudah disimpan.\n
+\C[6]Makanan\n
 
 Cheese/item_name
-Cheese
+Keju
 
 Cheese/description
-\}Makes everything taste better!\n
-\C[6]Food\n
+\}Membuat semuanya terasa lebih enak!\n
+\C[6]Makanan\n
 
 Mushroom/item_name
-Mushroom
+Jamur
 
 Mushroom/description
-\}I'm sure this is edible... Seriously!\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Aku yakin ini bisa dimakan... Serius!\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 Sausage/item_name
-Sausage
+Sosis
 
 Sausage/description
-\}Good stuff! You must hide it!\n
-\C[6]Food\n
+\}Barang bagus! Kau harus menyembunyikannya!\n
+\C[6]Makanan\n
 
 
 Grapes/item_name
-Grapes
+Anggur
 
 Grapes/description
-\}It's not easy to store. Eat it soon!\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Tidak mudah disimpan. Segera makan!\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 Orange/item_name
-Orange
+Jeruk
 
 Orange/description
-\}Tangy and sour.\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Tajam dan asam.\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 Nuts/item_name
-Nuts
+Kacang-kacangan
 
 Nuts/description
-\}The shell is as hard as a rock.\n
-At least there's a treasure inside!\n
-\C[6]Food\n
+\}Cangkangnya sekeras batu.\n
+Setidaknya ada harta karun di dalamnya!\n
+\C[6]Makanan\n
 
 Onion/item_name
-Onion
+Bawang Bombay
 
 Onion/description
-\}You're going to eat it raw?!\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Kau mau memakannya mentah-mentah?!\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 Pepper/item_name
-Pepper
+Paprika
 
 Pepper/description
-\}Yuck! I hate it!\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Yuck! Aku membencinya!\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 BlueBerry/item_name
-Blue Berries
+Blueberry
 
 BlueBerry/description
-\}Can be found on many bushes.\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Bisa ditemukan di banyak semak-semak.\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 Fish/item_name
-Fish
+Ikan
 
 Fish/description
-\}I've heard that people in the East will eat this raw.\n
-Not kidding!\n
-\C[6]Raw food, Meat\n
+\}Kudengar orang di Timur memakan ini mentah-mentah.\n
+Tidak bohong!\n
+\C[6]Makanan mentah, Daging\n
 
 Carrot/item_name
-Carrot
+Wortel
 
 Carrot/description
-\}Disgusting! I'm not a rabbit!\n
-\C[6]Raw food\n
-\C[6]Plant\n
+\}Menjijikkan! Aku bukan kelinci!\n
+\C[6]Makanan mentah\n
+\C[6]Tumbuhan\n
 
 Rattus/item_name
-Rat
+Tikus
 
 Rattus/description
-\}Probably covered in filth and diseases.\n
-I really shouldn't eat this disgusting animal,\n
-unless I have no more food......\n
-\C[6]Raw food, Meat\n
+\}Mungkin tertutup kotoran dan penyakit.\n
+Aku benar-benar tidak boleh memakan hewan menjijikkan ini,\n
+kecuali aku tidak punya makanan lagi......\n
+\C[6]Makanan mentah, Daging\n
 
 RedPotion/item_name
-Red Potion
+Ramuan Merah
 
 RedPotion/description
-\}A vial containing essences from Dragon Roots.\n
-Drinking it should stop bleeding and heal you.\n
-\C[6]Drug, increases HP.\n
-\C[6]Cures：Wounds.\n
+\}Botol berisi esensi dari Akar Naga.\n
+Meminumnya akan menghentikan pendarahan dan menyembuhkanmu.\n
+\C[6]Obat, meningkatkan HP.\n
+\C[6]Menyembuhkan：Luka.\n
 
 BluePotion/item_name
-Blue Potion
+Ramuan Biru
 
 BluePotion/description
-\}A vial containing essences from Dragon Weeds.\n
-Drink it to gain energy and treat nausea.\n
-\C[6]Drug, increases STA.\n
-\C[6]Cures：Gastroenteritis, Sick.\n
+\}Botol berisi esensi dari Rumput Naga.\n
+Minumlah untuk mendapatkan energi dan mengobati mual.\n
+\C[6]Obat, meningkatkan STA.\n
+\C[6]Menyembuhkan：Gastroenteritis, Sakit.\n
 
 ContraceptivePills/item_name
-Birth Control Pill
+Pil KB
 
 ContraceptivePills/description
-\}It should prevent me from getting pregnant.\n
-...Right?\n
-\C[6]Drug, Contraceptives.\n
-\C[6]Cures：Sick, Horny, Horny (Drugged).\n
+\}Ini seharusnya mencegahku hamil.\n
+...Kan?\n
+\C[6]Obat, Kontrasepsi.\n
+\C[6]Menyembuhkan：Sakit, Birahi, Birahi (Efek Obat).\n
 
 HiPotionLV2/item_name
-Joy Water
+Air Bahagia
 
 HiPotionLV2/description
-\}A common drug. Has the side effects\n
-of muscle relaxation and ovulation.\n
-\C[6]Drug, increases Mood and Arousal.\n
-\C[6]Increases STA.\n
+\}Obat-obatan umum. Memiliki efek samping\n
+relaksasi otot dan ovulasi.\n
+\C[6]Obat, meningkatkan Mood dan Birahi.\n
+\C[6]Meningkatkan STA.\n
 
 HiPotionLV5/item_name
-Witch Juice
+Jus Penyihir
 
 HiPotionLV5/description
-\}Medicine made from Parasitic Flowers.\n
-Long-term use may be harmful to user...\n
-\C[6]Drug, increases Mood and Arousal.\n
-\C[6]Increases STA.\n
+\}Obat yang terbuat dari Bunga Parasit.\n
+Penggunaan jangka panjang mungkin membahayakan pengguna...\n
+\C[6]Obat, meningkatkan Mood dan Birahi.\n
+\C[6]Meningkatkan STA.\n
 
 SemenTroll/item_name
-Troll Semen
+Air Mani Troll
 
 SemenTroll/description
-\}Natural potent sex drug with strong side effects.\n
-\C[6]Raw food\n
-\C[6]Drug\n
-\C[6]SHIFT+EXT skill\C[0]：Ejaculate semen from hand.\n
+\}Obat seks alami yang manjur dengan efek samping yang kuat.\n
+\C[6]Makanan mentah\n
+\C[6]Obat\n
+\C[6]Skill SHIFT+EXT\C[0]：Ejakulasi air mani dari tangan.\n
 
 SemenOrcish/item_name
-Orkind Semen
+Air Mani Orkind
 
 SemenOrcish/description
-\}Extremely sticky, smells like rotten eggs.\n
-\C[6]Raw food\n
-\C[6]SHIFT+EXT skill\C[0]：Ejaculate semen from hand.\n
+\}Sangat lengket, baunya seperti telur busuk.\n
+\C[6]Makanan mentah\n
+\C[6]Skill SHIFT+EXT\C[0]：Ejakulasi air mani dari tangan.\n
 
 SemenAbomination/item_name
-Abomination Semen
+Air Mani Abomination
 
 SemenAbomination/description
-\}Looks and smells horrid...\n
-\C[6]Raw food\n
-\C[6]SHIFT+EXT skill\C[0]：Ejaculate semen from hand.\n
+\}Terlihat dan berbau mengerikan...\n
+\C[6]Makanan mentah\n
+\C[6]Skill SHIFT+EXT\C[0]：Ejakulasi air mani dari tangan.\n
 
 
 SemenFishKind/item_name
-Fishkind Semen
+Air Mani Fishkind
 
 SemenFishKind/description
-\}Has a deep, fishy smell.\n
-\C[6]Raw food\n
-\C[6]SHIFT+EXT skill\C[0]：Ejaculate semen from hand.\n
+\}Memiliki bau amis yang menyengat.\n
+\C[6]Makanan mentah\n
+\C[6]Skill SHIFT+EXT\C[0]：Ejakulasi air mani dari tangan.\n
 
 SemenHuman/item_name
-Human Semen
+Air Mani Manusia
 
 SemenHuman/description
-\}Gooey and salty.\n
-\C[6]Raw food\n
-\C[6]SHIFT+EXT skill\C[0]：Ejaculate semen from hand.\n
+\}Kental dan asin.\n
+\C[6]Makanan mentah\n
+\C[6]Skill SHIFT+EXT\C[0]：Ejakulasi air mani dari tangan.\n
 
 SemenOther/item_name
-Unknown Semen
+Air Mani Tidak Dikenal
 
 SemenOther/description
-\}...Do you really want to eat this?\n
-\C[6]Raw food\n
-\C[6]SHIFT+EXT skill\C[0]：Ejaculate semen from hand.\n
+\}...Apa kau benar-benar ingin memakan ini?\n
+\C[6]Makanan mentah\n
+\C[6]Skill SHIFT+EXT\C[0]：Ejakulasi air mani dari tangan.\n
 
 Trait_Combat/item_name
-Combat Skill
+Skill Tempur
 
 Trait_Combat/description
 \}\n
-\C[2]Increases ATK.\n
+\C[2]Meningkatkan ATK.\n
 
 Trait_Scoutcraft/item_name
 Scoutcraft
 
 Trait_Scoutcraft/description
 \}\n
-\C[2]Increases SCU.\n
-\C[2]Increases SPD.\n
-\C[2]Increases dropped item pick up duration.\n
-\C[2]Brightens the opacity by 2 when underground.\n
+\C[2]Meningkatkan SCU.\n
+\C[2]Meningkatkan SPD.\n
+\C[2]Meningkatkan durasi pengambilan item yang jatuh.\n
+\C[2]Mencerahkan opasitas sebesar 2 saat berada di bawah tanah.\n
 
 Trait_Wisdom/item_name
-Wisdom
+Kebijaksanaan (Wisdom)
 
 Trait_Wisdom/description
 \}\n
-\C[2]Increases Trade Points received when selling items.\n
-\C[2]More herbs appear inside the Wilderness.\n
-\C[2]Increases Magic ATK.\n
+\C[2]Meningkatkan Poin Dagang yang diterima saat menjual item.\n
+\C[2]Lebih banyak tanaman herbal muncul di Alam Liar.\n
+\C[2]Meningkatkan ATK Sihir.\n
 
 Trait_Survival/item_name
-Survival
+Kelangsungan Hidup (Survival)
 
 Trait_Survival/description
 \}\n
-\C[2]Increases Magic DEF.\n
-\C[2]Decreases encounter chance.\n
-\C[2]More food appears inside the Wilderness.\n
-\C[2]Increases trap ATK.\n
+\C[2]Meningkatkan DEF Sihir.\n
+\C[2]Mengurangi peluang bertemu musuh.\n
+\C[2]Lebih banyak makanan muncul di Alam Liar.\n
+\C[2]Meningkatkan ATK jebakan.\n
 
 Trait_Constitution/item_name
-Constitution
+Konstitusi (Constitution)
 
 Trait_Constitution/description
 \}\n
-\C[2]Increases maximum HP and STA\n
-\C[2]Increases max Sex ATK\n
-\C[2]Increase carrying capacity\n
+\C[2]Meningkatkan HP dan STA maksimal\n
+\C[2]Meningkatkan ATK Seks maksimal\n
+\C[2]Meningkatkan kapasitas bawaan\n
 
 nil/item_name
 
 nil/description
 
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+#Diterjemahkan sepenuhnya dan dibersihkan oleh Sugoi Soy Boy. Enyahlah wahai monyet-monyet MTL.
 
-*TL note, yes I'm fucking aware PassportLona/item_name (Lona's ID Paper)'s dates do not match the CHT (Chinese) version's date numbers. This was purposely done by the game's developer so YOU can experience the joy of playing as a 'one year old baby' AND for us to enjoy the hypocripsy and tears of western, virtue signaling, woke, social justice warriors who can't tell the difference between real life and fiction. (YOU)
-Shut the fuck up about it already.
+*Catatan TL, ya aku sadar tanggal di PassportLona/item_name (KTP Lona) tidak cocok dengan versi CHT (Mandarin). Hal ini sengaja dilakukan oleh pengembang game agar KAU bisa merasakan serunya bermain sebagai 'bayi berumur satu tahun' DAN agar kami bisa menikmati kemunafikan dan air mata para pejuang keadilan sosial (SJW) barat yang tidak bisa membedakan antara kehidupan nyata dan fiksi. (YA, KAU)
+Diamlah dan jangan mengeluh lagi soal itu.
