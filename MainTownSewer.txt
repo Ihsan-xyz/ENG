@@ -1,213 +1,213 @@
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+#Diterjemahkan sepenuhnya dan dibersihkan oleh Sugoi Soy Boy. Enyahlah wahai monyet-monyet MTL.
 
 Sewer/OvermapEnter
-\m[confused]The sewers of Noer Town. \optB[Never mind,Enter]
+\m[confused]Selokan Kota Noer. \optB[Nanti saja,Masuk]
 
 ################################################################################
 
 Sewer/SkipExit
-Skip the tutorial and return to town? \optB[Never mind,Enter]
+Lewati tutorial dan kembali ke kota? \optB[Nanti saja,Masuk]
 
 ################################################################################
 
 system/SneakT1
-\SndLib[sys_DialogNarr]\bg[bg_TutorialSneak1]\ph\{\C[6]Hide\C[0]
-\bg[bg_TutorialSneak2] You can \C[6]Sneak\C[0] by pressing the (Default：CTRL) key.
-\bg[bg_TutorialSneak3] The characters in the game have vision and directionality.
-\bg[bg_TutorialSneak4] If a NPC/creature faces Lona, she will be spotted with a high probability.
-\bg[bg_TutorialSneak5] However, if Lona is \C[6]sneaking\C[0], the chances of her being detected is reduced.
+\SndLib[sys_DialogNarr]\bg[bg_TutorialSneak1]\ph\{\C[6]Sembunyi\C[0]
+\bg[bg_TutorialSneak2] Kamu bisa \C[6]Mengendap\C[0] dengan menekan tombol (Default：CTRL).
+\bg[bg_TutorialSneak3] Karakter di dalam game ini memiliki luas pandangan dan arah hadap.
+\bg[bg_TutorialSneak4] Jika NPC/makhluk menghadap ke arah Lona, dia akan ketahuan dengan probabilitas tinggi.
+\bg[bg_TutorialSneak5] Namun, jika Lona sedang \C[6]mengendap\C[0], peluangnya untuk terdeteksi akan berkurang.
 
 system/SneakT2
-\SndLib[sys_DialogNarr]\bg[bg_TutorialTerrain1] \{\C[4]Terrain\C[0]
-\bg[bg_TutorialTerrain2] The terrain in the game will affect the character's vision.
-\bg[bg_TutorialTerrain3] If Lona is in tall grass, it will be harder for the opponent to see Lona.
-\bg[bg_TutorialTerrain4] If Lona is behind a high terrain, the other side can barely see her.
-\bg[bg_TutorialTerrain5] If Lona is behind a wall, she will be completely invisible.
-\bg[bg_TutorialTerrain6] But be careful, different creatures may have different natural judgment methods.
+\SndLib[sys_DialogNarr]\bg[bg_TutorialTerrain1] \{\C[4]Medan\C[0]
+\bg[bg_TutorialTerrain2] Medan di dalam game akan memengaruhi jarak pandang karakter.
+\bg[bg_TutorialTerrain3] Jika Lona berada di rumput tinggi, lawan akan lebih sulit melihat Lona.
+\bg[bg_TutorialTerrain4] Jika Lona berada di balik dataran tinggi, pihak lawan hampir tidak bisa melihatnya.
+\bg[bg_TutorialTerrain5] Jika Lona berada di balik tembok, dia akan benar-benar tidak terlihat.
+\bg[bg_TutorialTerrain6] Namun berhati-hatilah, makhluk yang berbeda mungkin memiliki cara deteksi alami yang berbeda.
 
 system/SneakT3
-\SndLib[sys_DialogNarr]\bg[bg_TutorialThrow1] \{\C[2]Throw\C[0]
-\bg[bg_TutorialThrow2] Lona's basic skill, \C[2]Throw\C[0], can lure NPCs/enemies away.
-\bg[bg_TutorialThrow3] Using \C[2]Throw\C[0] helps distract NPCs, allowing Lona to quickly sneak away or hide.
-\bg[bg_TutorialThrow4] \C[2]Thrown rocks\C[0] will distract them for a short period of time, NPCs/enemies will return to their previous position after the effect ends.
-\bg[bg_TutorialThrow5_ENG] \C[2]Scoutcraft\C[0] will increase how sneaky Lona is when she \C[2]Sneaks\C[0] (Default：CTRL).
-\bg[bg_TutorialThrow5_ENG] Lona is unable to properly \C[2]Sneak\C[0] from danger if her \C[2]Scoutcraft\C[0] is too low.
-\bg[bg_TutorialThrow6_ENG] In order to use basic \C[2]Sneak\C[0], increase your \C[2]Scoutcraft\C[0] to 5 or higher.
-\CBmp[FeiraCropse,19]\bgoff Try combining \C[2]Throw\C[0] and \C[6]Sneak\C[0] to distract your enemies and acquire that Short Sword!
+\SndLib[sys_DialogNarr]\bg[bg_TutorialThrow1] \{\C[2]Lempar\C[0]
+\bg[bg_TutorialThrow2] Skill dasar Lona, \C[2]Lempar\C[0], bisa digunakan untuk memancing NPC/musuh menjauh.
+\bg[bg_TutorialThrow3] Menggunakan \C[2]Lempar\C[0] membantu mengalihkan perhatian NPC, membiarkan Lona kabur atau bersembunyi dengan cepat.
+\bg[bg_TutorialThrow4] \C[2]Batu yang dilempar\C[0] akan mengalihkan perhatian mereka sejenak, NPC/musuh akan kembali ke posisi semula setelah efeknya habis.
+\bg[bg_TutorialThrow5_ENG] \C[2]Scoutcraft\C[0] akan meningkatkan seberapa lihai Lona saat dia \C[2]Mengendap\C[0] (Default：CTRL).
+\bg[bg_TutorialThrow5_ENG] Lona tidak akan bisa \C[2]Mengendap\C[0] dengan benar dari bahaya jika \C[2]Scoutcraft\C[0]-nya terlalu rendah.
+\bg[bg_TutorialThrow6_ENG] Untuk menggunakan \C[2]Mengendap\C[0] dasar, tingkatkan \C[2]Scoutcraft\C[0] kamu ke level 5 atau lebih tinggi.
+\bg[FeiraCropse,19]\bgoff Cobalah gabungkan \C[2]Lempar\C[0] dan \C[6]Mengendap\C[0] untuk mengelabui musuh dan ambil Short Sword itu!
 
 Tutorial/Trap
 \CBmp[trap,19].........
 \CBmp[trap,19]......
 \CBmp[trap,19]...
 \CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    !!!!!!
-\SndLib[sys_DialogNarr]\bg[bg_TutorialTrap1]\ph \{\C[2]Traps!\C[0]
-When a trap is set up, the trap's effect will be activated when a NPC/creature or Lona is in the same position as the trap.
-\bg[bg_TutorialTrap2]You can ignite or trigger a trap from afar by \C[2]throwing\C[0] rocks at it.
-\bg[bg_TutorialTrap3]Traps can also be interacted with to be disassembled, but Lona's Survival must be greater than the attack power of the trap.
-Watch where you step, some traps are very deadly! \bgoff
+\SndLib[sys_DialogNarr]\bg[bg_TutorialTrap1]\ph \{\C[2]Jebakan!\C[0]
+Ketika jebakan dipasang, efek jebakan akan aktif jika NPC/makhluk atau Lona berada di posisi yang sama dengan jebakan tersebut.
+\bg[bg_TutorialTrap2]Kamu bisa meledakkan atau memicu jebakan dari jauh dengan \C[2]melemparkan\C[0] batu ke arahnya.
+\bg[bg_TutorialTrap3]Jebakan juga bisa didekati untuk dibongkar, tapi level Survival Lona harus lebih tinggi dari kekuatan serangan jebakan tersebut.
+Perhatikan langkahmu, beberapa jebakan sangat mematikan! \bgoff
 
 Tutorial/Sap
-\SndLib[sys_DialogNarr]\bg[bg_TutorialSap1]\ph \{\C[2]Backstabs and Stuns.\C[0]
-Most attacks from behind will deal higher damage. Attacks from behind are noted as a "Backstab".
-\bg[bg_TutorialSap2]If a NPC is not in combat and has no target, attacking them from behind will cause a long-term stun effect.
-\bg[bg_TutorialSap3]The stunned NPC will lose their sense of direction, and the next attack on them will be equivalent to a Backstab.
-When a stunned NPC takes damage again, they will recover from their stunned status.\bgoff
+\SndLib[sys_DialogNarr]\bg[bg_TutorialSap1]\ph \{\C[2]Tikaman Belakang dan Stun.\C[0]
+Kebanyakan serangan dari belakang akan memberikan damage yang lebih tinggi. Serangan dari belakang dicatat sebagai "Tikaman Belakang" (Backstab).
+\bg[bg_TutorialSap2]Jika NPC tidak dalam kondisi bertempur dan tidak punya target, menyerang mereka dari belakang akan menyebabkan efek stun durasi lama.
+\bg[bg_TutorialSap3]NPC yang terkena stun akan kehilangan arah, dan serangan berikutnya pada mereka akan setara dengan Tikaman Belakang.
+Ketika NPC yang terkena stun menerima damage lagi, mereka akan pulih dari status stun tersebut.\bgoff
 
 Tutorial/STA
-\SndLib[sys_DialogNarr]\bg[bg_TutorialSTA]\ph Hint：STA (Stamina)
-When STA is below 0, many skills will be unusable.
-Lona will also begin to crawl instead of walk due to exhaustion.
-You can set up skill buttons in the Skill page of the main menu.
-Try to set up and use the Rest button to relax or go to sleep.
-Rest is divided into Relax and Sleep. You can press and hold SHIFT or R2 to perform different actions.
-Relaxing will decrease Food to heal Stamina or Health if Stamina is full. Relaxing will not make time pass by.
-Sleeping will cause time to pass and heal certain injuries, restore Stamina, and restore or reduce Health according to Lona's \c[4]Food\c[0] status.
-\bgoff\narr Beware! Don't starve!
+\SndLib[sys_DialogNarr]\bg[bg_TutorialSTA]\ph Petunjuk：STA (Stamina)
+Ketika STA di bawah 0, banyak skill yang tidak akan bisa digunakan.
+Lona juga akan mulai merangkak alih-alih berjalan karena kelelahan yang luar biasa.
+Kamu bisa mengatur tombol skill di halaman Skill pada menu utama.
+Cobalah atur dan gunakan tombol Istirahat (Rest) untuk bersantai atau tidur.
+Istirahat dibagi menjadi Santai (Relax) dan Tidur (Sleep). Kamu bisa menahan SHIFT atau R2 untuk melakukan tindakan yang berbeda.
+Bersantai akan mengurangi tingkat Kenyang (Food) untuk memulihkan Stamina atau Nyawa jika Stamina sudah penuh. Bersantai tidak akan membuat waktu berlalu.
+Tidur akan membuat waktu berlalu dan menyembuhkan beberapa cedera, memulihkan Stamina, serta memulihkan atau mengurangi Nyawa sesuai dengan status \c[4]Makanan\c[0] Lona.
+\bgoff\narr Waspadalah! Jangan sampai kelaparan!
 
 Tutorial/SAT
-\SndLib[sys_DialogNarr]\bg[bg_TutorialSAT]\ph Hint：Food
-When Lona is starving, health will be reduced every time she sleeps/time passes.
-Enter the Item page of the main menu to use various items and food.
-Try to keep Food levels high before each nap. \bgoff
+\SndLib[sys_DialogNarr]\bg[bg_TutorialSAT]\ph Petunjuk：Makanan
+Ketika Lona kelaparan, nyawa akan berkurang setiap kali dia tidur/waktu berlalu.
+Masuk ke halaman Item di menu utama untuk menggunakan berbagai item dan makanan.
+Usahakan tingkat Kenyang tetap tinggi sebelum tidur sejenak. \bgoff
 
 Tutorial/About2hWeapon
-\SndLib[sys_DialogNarr]\bg[bg_Equips]\ph It's a Pitchfork! A two-handed weapon.
-It has an attack distance of 2 tiles wherever Lona faces, but it cannot attack at the area Lona is standing on.
-It is a piercing weapon that can slow down enemies.
-Enter the Equipment page of the main menu to adjust Lona's equipment.
-Visit the equipment screen and try it out. \bgoff
+\SndLib[sys_DialogNarr]\bg[bg_Equips]\ph Itu Garpu Tanah! Senjata dua tangan.
+Ini memiliki jarak serangan 2 petak ke arah mana pun Lona menghadap, tapi tidak bisa menyerang area tempat Lona berdiri.
+Ini adalah senjata jenis tusukan yang bisa memperlambat musuh.
+Masuk ke halaman Peralatan (Equipment) di menu utama untuk mengatur peralatan Lona.
+Buka layar peralatan dan cobalah sendiri. \bgoff
 
 Tutorial/LVL
-\SndLib[sys_DialogNarr]\bg[bg_TutorialLVL]\ph Level up!
-Each level up will grant you one Trait point.
-Enter the Trait page of the main menu to assign your Trait points.
-Used Trait points cannot be restored. Spend them wisely! \bgoff
+\SndLib[sys_DialogNarr]\bg[bg_TutorialLVL]\ph Naik level!
+Setiap kenaikan level akan memberimu satu poin Trait.
+Masuk ke halaman Trait di menu utama untuk mengalokasikan poin Trait kamu.
+Poin Trait yang sudah digunakan tidak dapat dikembalikan. Gunakan dengan bijak! \bgoff
 
 ###########################################################################
 
 Lona/ToOrkindCave1
-\cg[map_region_hole]This small cavern must be where the monsters came from.
-\m[confused]\c[6]Lona：\c[0]    Should I enter? \optB[Never mind,Enter]
+\cg[map_region_hole]Gua kecil ini pasti tempat asal para monster itu.
+\m[confused]\c[6]Lona：\c[0]    Haruskah aku masuk? \optB[Nanti saja,Masuk]
 
 Lona/ToOrkindCave_procress
-\m[confused]Lona enters the dark hole in the wall...
+\m[confused]Lona memasuki lubang gelap di dinding...
 
 Lona/ToOrkindCave_procress1
 \m[tired]......
 
 ###########################################################################
 Sewer/MissionStart0
-\m[shocked]\cg[map_DarkestDungeon]\Rshake\c[6]Lona：\c[0]    So dark! And yuck... The smell!
-\m[triumph]\c[6]Lona：\c[0]    It was a good idea to come here with a lantern.
-\m[normal]\c[6]Lona：\c[0]    Hmmm... My tasks are...
-\m[confused]\c[6]Lona：\c[0]    Collect eight giant rat tails. And, if possible... Find the missing person.
-\m[serious]\c[6]Lona：\c[0]    No problem! I can do this! \cgoff
+\m[shocked]\cg[map_DarkestDungeon]\Rshake\c[6]Lona：\c[0]    Gelap sekali! Dan iyuuh... Baunya!
+\m[triumph]\c[6]Lona：\c[0]    Keputusan yang tepat datang ke sini membawa lentera.
+\m[normal]\c[6]Lona：\c[0]    Hmmm... Tugasku adalah...
+\m[confused]\c[6]Lona：\c[0]    Kumpulkan delapan ekor tikus raksasa. Dan, jika memungkinkan... Temukan orang yang hilang.
+\m[serious]\c[6]Lona：\c[0]    Tidak masalah! Aku bisa melakukannya! \cgoff
 
 Sewer/MissionStart2
-\board[Basic Control (Default)]
-\C[2]Arrow Keys\C[0]：Move the character.
-\C[2]SHIFT+Arrow Keys\C[0]：Run.
-\C[2]Z\C[0]：Trigger.
-\C[2]X\C[0]：Open the main menu or cancel.
-\C[2]ALT\C[0]：Hide UI and standing graphic.
-\C[2]ALT+Arrow Keys\C[0]：Change direction and sight.
-\C[2]CTRL\C[0]：Sneak. Speed up texts and dialogue. Skip a turn when on the world map.
-\C[2]ASDFQWER\C[0]：Skill Hot-keys.
+\board[Kontrol Dasar (Default)]
+\C[2]Tombol Panah\C[0]：Menggerakkan karakter.
+\C[2]SHIFT+Tombol Panah\C[0]：Lari.
+\C[2]Z\C[0]：Interaksi / Pemicu.
+\C[2]X\C[0]：Buka menu utama atau batal.
+\C[2]ALT\C[0]：Sembunyikan UI dan grafik karakter.
+\C[2]ALT+Tombol Panah\C[0]：Mengubah arah hadap dan pandangan.
+\C[2]CTRL\C[0]：Mengendap. Mempercepat teks dan dialog. Lewati giliran di peta dunia.
+\C[2]ASDFQWER\C[0]：Tombol cepat Skill.
 
 Sewer/MissionStart1
-\board[Collect Rat Tails]
-Goal：Collect 8 Rat Tails.\i[45]
-Reward：Unknown
-Contract from：Rudesind Slope
-Quest Term：Once
-The sewers have become
-infested with infected rats.
-The last mercenary they sent to deal with them
-has gone missing.\n
-Now the task has been handed down to me.
-I have to complete this quest and
-try to find the missing person along the way.
+\board[Kumpulkan Ekor Tikus]
+Tujuan：Kumpulkan 8 Ekor Tikus.\i[45]
+Hadiah：Tidak Diketahui
+Kontrak dari：Lereng Rudesind
+Ketentuan Misi：Sekali
+Selokan telah menjadi
+sarang tikus yang terinfeksi.
+Tentara bayaran terakhir yang mereka kirim untuk menanganinya
+telah menghilang.\n
+Sekarang tugas itu diserahkan kepadaku.
+Aku harus menyelesaikan misi ini dan
+mencoba menemukan orang yang hilang itu di sepanjang jalan.
 
 Sewer/About2hWeapon
-\m[triumph]\c[6]Lona：\c[0]    It's a pitchfork!
-\m[confused]\c[6]Lona：\c[0]    But, I need two hands to hold it. I can't hold the lantern with my other hand.
+\m[triumph]\c[6]Lona：\c[0]    Ini garpu tanah!
+\m[confused]\c[6]Lona：\c[0]    Tapi, aku butuh dua tangan untuk memegangnya. Aku tidak bisa memegang lentera dengan tanganku yang lain.
 
 
 ###########################################################################
 
 Sewer/SawInfection
-\m[wtf]\Rshake\c[6]Lona：\c[0]    Ick... Such a disgusting smell.
-\m[serious]\c[6]Lona：\c[0]    Just like they said... This area is beginning to become contaminated.
-\m[angry]\c[6]Lona：\c[0]    It's best not to touch the gross stuff on the walls...
+\m[wtf]\Rshake\c[6]Lona：\c[0]    Iiiuh... Bau yang sangat menjijikkan.
+\m[serious]\c[6]Lona：\c[0]    Tepat seperti kata mereka... Area ini mulai terkontaminasi.
+\m[angry]\c[6]Lona：\c[0]    Lebih baik jangan menyentuh benda menjijikkan di dinding itu...
 
 ###########################################################################
 
 exit/NotFinishYet
-The missing employee must be found.
+Karyawan yang hilang harus ditemukan.
 
 QuestSawGoblin/SawGoblin_begin1
 \CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    !!!!!!
 \CBmp[Goblin1,4]\SETpl[goblin]\Lshake\prf\c[4]Monster：\c[0]    Gu-Gu!
 \CBmp[Goblin2,5]\SETpl[goblin]\Lshake\prf\c[4]Monster：\c[0]    Gu-Cha!
 \CBmp[Goblin3,7]\SETpl[goblin]\Lshake\prf\c[4]Monster：\c[0]    Gu-Bu-Ta?!
-\CBct[6]\m[fear]\plh\c[6]Lona：\c[0]    Monsters?! More than one?
-\CBct[20]\m[confused]\c[6]Lona：\c[0]    They look like Orkinds...
-\CBct[20]\m[shy]\c[6]Lona：\c[0]    These monsters are said to kidnap women and use them for breeding.
-\CBct[20]\m[terror]\c[6]Lona：\c[0]    It's best to go back and report this to the guild right away.
-\CBmp[FeiraCropse,19]\m[confused]\c[6]Lona：\c[0]    That must be the missing person, they look dead...
-\CBmp[ExitPoint,19]\m[serious]\c[6]Lona：\c[0]    No! I have to leave here immediately!
-\CBct[20]\m[confused]\c[6]Lona：\c[0]    I can't take out all these monsters alone...
+\CBct[6]\m[fear]\plh\c[6]Lona：\c[0]    Monster?! Lebih dari satu?
+\CBct[20]\m[confused]\c[6]Lona：\c[0]    Mereka terlihat seperti Orkind...
+\CBct[20]\m[shy]\c[6]Lona：\c[0]    Monster-monster ini katanya suka menculik wanita dan menjadikannya alat pembiakan.
+\CBct[20]\m[terror]\c[6]Lona：\c[0]    Lebih baik segera kembali dan melaporkan ini ke guild.
+\CBmp[FeiraCropse,19]\m[confused]\c[6]Lona：\c[0]    Itu pasti orang yang hilang, mereka terlihat sudah mati...
+\CBmp[ExitPoint,19]\m[serious]\c[6]Lona：\c[0]    Tidak! Aku harus segera pergi dari sini!
+\CBct[20]\m[confused]\c[6]Lona：\c[0]    Aku tidak bisa menghadapi semua monster ini sendirian...
 
 ########################################################################### RapeLoop
 
 RapeLoopHobo/Begin0
-\SETpl[raper3]\Lshake\prf\c[4]Homeless：\c[0]    Girl! It's a real girl!
-\SETpr[raper2]\plf\PRF\c[4]Homeless：\c[0]    Hey! Woohoo! Me first! Me first!!!
-\SETpl[raper1]\PLF\prf\c[4]Homeless：\c[0]    Hehe! It's been so long! My cock's itching to get wet...
+\SETpl[raper3]\Lshake\prf\c[4]Gelandangan：\c[0]    Gadis! Ada gadis sungguhan di sini!
+\SETpr[raper2]\plf\PRF\c[4]Gelandangan：\c[0]    Hei! Woohoo! Aku duluan! Aku duluan!!!
+\SETpl[raper1]\PLF\prf\c[4]Gelandangan：\c[0]    Hehe! Sudah lama sekali! Batangku sudah gatal ingin basah-basahan...
 
 RapeLoopHobo/Begin1_remove_equip
-\SETpl[raper2]\Lshake\prf\c[4]Homeless：\c[0]    All her shit's mine!
-\SETpr[raper3]\plf\Rshake\c[4]Homeless：\c[0]    Fuck off, I got 'em first loser!
+\SETpl[raper2]\Lshake\prf\c[4]Gelandangan：\c[0]    Semua barangnya milikku!
+\SETpr[raper3]\plf\Rshake\c[4]Gelandangan：\c[0]    Enyah sana, aku yang dapat dia duluan dasar pecundang!
 
 Lona/RapeLoopDragOut
-\m[hurt]The homeless men begin to gather around Lona. They seem to have nothing but ill intentions...
+\m[hurt]Para gelandangan mulai berkumpul di sekitar Lona. Mereka tampaknya tidak memiliki niat selain niat buruk...
 
 gay/Qmsg0
-Don't look at me like that.
+Jangan lihat aku seperti itu.
 
 gay/Qmsg1
-I'm not interested in joining.
+Aku tidak tertarik untuk ikutan.
 
 gay/Qmsg2
-I just like to watch.
+Aku cuma suka menonton saja.
 
 cropseF/Qmsg0
-It's a corpse.
+Ini adalah mayat.
 
 cropseF/Qmsg1
-A corpse that has just been... used.
+Mayat yang baru saja... digunakan.
 
 cropseF/Qmsg2
-The body is starting to rot.
+Tubuhnya sudah mulai membusuk.
 
 ########################################################################### Mob hunt quest
 
 SewerKickMobs/QUbegin1
-\m[serious]\c[6]Lona：\c[0]    Okay, these guys are causing trouble. I have to do something and stop them!
+\m[serious]\c[6]Lona：\c[0]    Oke, orang-orang ini membuat masalah. Aku harus melakukan sesuatu dan menghentikan mereka!
 
 SewerKickMobs/Done
-\m[triumph]\c[6]Lona：\c[0]    Well, looks like they're all dead now. Time to go back and claim the reward.
+\m[triumph]\c[6]Lona：\c[0]    Yah, sepertinya mereka semua sudah mati sekarang. Waktunya kembali dan mengambil hadiahnya.
 
 Mteen/Qmsg0
-Don't hurt my mom!
+Jangan sakiti ibuku!
 
 Mteen/Qmsg1
-Stay away from us!
+Menjauh dari kami!
 
 Mteen/Qmsg2
-Mom, don't be afraid!
+Ibu, jangan takut!
 
 Mama/Qmsg0
-Please... Let us go...
+Kumohon... Biarkan kami pergi...
 
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+#Diterjemahkan sepenuhnya dan dibersihkan oleh Sugoi Soy Boy. Enyahlah wahai monyet-monyet MTL.
