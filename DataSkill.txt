@@ -1,11 +1,11 @@
 PageUp/item_name
-Halaman Sebelumnya
+Previous Page
 
 PageUp/description
 \}Geser ke tombol Tata Letak Skill sebelumnya.\n
 
 PageDown/item_name
-Halaman Berikutnya
+Next Page
 
 ChainMaceNormal/item_name
 Meatspin
@@ -226,7 +226,7 @@ menyendirilah, saat itulah ide-ide lahir."\n
 \C[1]Membutuhkan STA dan Mood.\n
 
 PickAxeNormal/item_name
-Gali
+Dig
 
 PickAxeNormal/description
 \}\n
@@ -236,7 +236,7 @@ PickAxeNormal/description
 \C[6]Memperlambat target.\n
 
 SickleNormal/item_name
-Tebas
+Slash
 
 SickleNormal/description
 \}\n
@@ -275,7 +275,7 @@ DeeponeHeavy/description
 \C[6]Tahan tombol untuk merapal.\n
 
 MusketHeavyRLD/item_name
-Isi Ulang
+Reload
 
 MusketHeavyRLD/description
 \}Mengisi peluru baru ke dalam senjatamu. Mantap...\n
@@ -294,7 +294,7 @@ TalkieControl/description
 \C[6]Tidak bisa bergerak saat diaktifkan.\n
 
 LanternHeavy/item_name
-Hanguskan
+Scorch
 
 LanternHeavy/description
 \}Bakarlah, monster!\n
@@ -304,7 +304,7 @@ LanternHeavy/description
 \C[6]Tahan tombol untuk merapal.\n
 
 MusketHeavy/item_name
-Tembakkan senjata
+Fire weapon
 
 MusketHeavy/description
 \}Ini... adalah BOOMSTICK-ku!\n
@@ -318,7 +318,7 @@ MusketHeavy/description
 \C[6]Lambat... Seperti teknologi zaman batu.\n
 
 BasicSteal/item_name
-Curi
+Steal
 
 BasicSteal/description
 \}Aku tidak melakukan kesalahan apa pun!\n
@@ -357,7 +357,7 @@ saat merapal untuk memilih posisi.\n
 \C[6]Kiri dan Kanan： Mulut\n
 
 BasicSetDarkPot/item_name
-Kuali Gelap
+Dark Cauldron
 
 BasicSetDarkPot/description
 \}Kau harus memasak sesuai prosedur!\n
@@ -376,28 +376,28 @@ DebugPrintChar/description
 DevTool
 
 sys_normal/item_name
-Kemampuan 1
+Ability 1
 
 sys_normal/description
 \}\n
 \C[1]Kemampuan tidak dapat digunakan.\n
 
 sys_heavy/item_name
-Kemampuan 2
+Ability 2
 
 sys_heavy/description
 \}\n
 \C[1]Kemampuan tidak dapat digunakan.\n
 
 sys_control/item_name
-Kemampuan 3
+Ability 3
 
 sys_control/description
 \}\n
 \C[1]Kemampuan tidak dapat digunakan.\n
 
 BasicTrapItem/item_name
-Buat Jebakan
+Create Trap
 
 BasicTrapItem/description
 \}Aku tidak suka melawan musuhku secara langsung.\n
@@ -410,7 +410,7 @@ SUR dan berat item.\n
 \C[6]Shift：\C[0] Mengambil batu secara otomatis dan menjadikannya jebakan.\n
 
 BasicQuickExt1/item_name
-Gunakan EXT-1
+Use EXT-1
 
 BasicQuickExt1/description
 \}\n
@@ -419,7 +419,7 @@ BasicQuickExt1/description
 \C[6]Shift：\C[0] Gunakan skill item EXT-1.\n
 
 BasicQuickExt2/item_name
-Gunakan EXT-2
+Use EXT-2
 
 BasicQuickExt2/description
 \}\n
@@ -428,7 +428,7 @@ BasicQuickExt2/description
 \C[6]Shift：\C[0] Gunakan skill item EXT-2.\n
 
 BasicQuickExt3/item_name
-Gunakan EXT-3
+Use EXT-3
 
 BasicQuickExt3/description
 \}\n
@@ -437,7 +437,7 @@ BasicQuickExt3/description
 \C[6]Shift：\C[0] Gunakan skill item EXT-3.\n
 
 BasicQuickExt4/item_name
-Gunakan EXT-4
+Use EXT-4
 
 BasicQuickExt4/description
 \}\n
@@ -446,7 +446,7 @@ BasicQuickExt4/description
 \C[6]Shift：\C[0] Gunakan skill item EXT-4.\n
 
 BasicQuickExt5/item_name
-Gunakan EXT-5
+Use EXT-5
 
 BasicQuickExt5/description
 \}\n
@@ -516,7 +516,7 @@ WaterBookHeavy/description
 \C[6]Memperlambat target.\n
 
 DeeponeControl/item_name
-Kabut
+Mist
 
 DeeponeControl/description
 \}Kau tidak bisa melihatku!\n
@@ -535,14 +535,14 @@ WaterBookControl/description
 \C[6]Memperlambat target.\n
 
 BasicLetterMenu/item_name
-Baca Surat
+Read Mail
 
 BasicLetterMenu/description
 \}\n
 \C[1]Membuka menu surat.\n
 
 BasicThrow/item_name
-Lempar
+Throw
 
 BasicThrow/description
 \}\n
@@ -552,7 +552,7 @@ BasicThrow/description
 dan mengalihkan perhatian mereka untuk sementara.\n
 
 BasicSetCamp/item_name
-Pasang Kemah
+Set Camp
 
 BasicSetCamp/description
 \}\n
@@ -562,7 +562,7 @@ BasicSetCamp/description
 \C[6]Tidak dapat digunakan di beberapa lokasi tertentu.\n
 
 BasicNap/item_name
-Istirahat
+Rest
 
 BasicNap/description
 \}\n
@@ -580,7 +580,7 @@ mengurangi Makanan. Tidak berpengaruh saat Makanan <10.\n
 \C[6]Tidak dapat digunakan di beberapa lokasi tertentu.\n
 
 BasicSlipped/item_name
-Tergelincul dan jatuh
+Slip and fall
 
 BasicSlipped/description
 \}\n
@@ -590,7 +590,7 @@ Saat diaktifkan, mengatur STAmina ke -100\n
 dan Lona akan pingsan.
 
 BasicPickRock/item_name
-Ambil Batu
+Pick up Rocks
 
 BasicPickRock/description
 \}\n
@@ -599,7 +599,7 @@ BasicPickRock/description
 \C[2]Menambahkan 1 Batu ke inventarismu.
 
 BasicNeeds/item_name
-Kebutuhan dasar
+Basic needs
 
 BasicNeeds/description
 \}\n
@@ -613,7 +613,7 @@ BasicNeeds/description
 \C[2]Mencoba melepas pengekangmu\n
 
 BasicSubmit/item_name
-Menyerah
+Surrender
 
 BasicSubmit/description
 \}\n
@@ -676,7 +676,7 @@ BoneStaffNormal/description
 \C[6]Memperlambat target.\n
 
 DaggerHeavy/item_name
-Serang Titik Lemah
+Attack Weak Spot
 
 DaggerHeavy/description
 \}\n
@@ -698,7 +698,7 @@ WhipNormal/description
 \C[6]Efek Stun.\n
 
 BasicNormal/item_name
-Pukul
+Punch
 
 BasicNormal/description
 \}\n
@@ -709,7 +709,7 @@ BasicNormal/description
 \C[6]Efek Stun.\n
 
 BasicHeavy/item_name
-Pukulan Berat
+Heavy Punch
 
 BasicHeavy/description
 \}\n
@@ -731,7 +731,7 @@ BasicControl/description
 \C[6]Tahan tombol untuk merapal.\n
 
 BasicDodge/item_name
-Menghindar
+Dodge
 
 BasicDodge/description
 \}\n
@@ -751,7 +751,7 @@ SabarNormal/description
 \C[6]Efek Stun.\n
 
 ShortSwordNormal/item_name
-Tebas
+Slash
 
 ShortSwordNormal/description
 \}\n
@@ -773,7 +773,7 @@ WoodenClubNormal/description
 \C[6]Efek Stun.\n
 
 WoodenSpearNormal/item_name
-Tusuk
+Stab
 
 WoodenSpearNormal/description
 \}\n
@@ -794,7 +794,7 @@ WoodenSpearHeavy/description
 
 
 LongBowNormal/item_name
-Tembak
+Shoot
 
 LongBowNormal/description
 \}\n
@@ -897,7 +897,7 @@ DaggerControl/description
 \C[6]Serangan Tusukan.\n
 
 ThrowingKnivesHeavy/item_name
-Lempar Belati
+Throw Dagger
 
 ThrowingKnivesHeavy/description
 \}\n
@@ -919,7 +919,7 @@ WoodenShieldHeavy/description
 \C[6]Efek Stun.\n
 
 WoodenShieldControl/item_name
-Tangkis
+Block
 
 WoodenShieldControl/description
 \}\n
