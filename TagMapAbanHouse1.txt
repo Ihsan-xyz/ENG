@@ -1,88 +1,88 @@
 thisMap/OvermapEnter
-Abandoned House \optB[Leave,Enter]
+Rumah Terbengkalai \optB[Pergi,Masuk]
 
 GrayRat/QuestBG1
-\CBmp[GrayRat,8]\SETpl[GrayRatNormal]\PLF\prf\c[4]Large man：\c[0]    .........
+\CBmp[GrayRat,8]\SETpl[GrayRatNormal]\PLF\prf\c[4]Pria besar：\c[0]    .........
 
 GrayRat/QuestBG2
-\CBmp[Adam,1]\SETpr[Adam_angry]\plf\Rshake\c[4]Unknown：\c[0]    Halt! Who goes there?!
-\CBmp[GrayRat,8]\SETpl[GrayRatConfused]\PLF\prf\c[4]Large man：\c[0]    Ahem...!
-\CBmp[Adam,6]\SETpr[Adam_sad]\plf\PRF\c[4]Unknown：\c[0]    Oh, it's you...
+\CBmp[Adam,1]\SETpr[Adam_angry]\plf\Rshake\c[4]Tak Dikenal：\c[0]    Berhenti! Siapa di sana?!
+\CBmp[GrayRat,8]\SETpl[GrayRatConfused]\PLF\prf\c[4]Pria besar：\c[0]    Ahem...!
+\CBmp[Adam,6]\SETpr[Adam_sad]\plf\PRF\c[4]Tak Dikenal：\c[0]    Oh, itu kau...
 
 GrayRat/QuestBG3
-\CBmp[Adam,20]\SETpr[Adam_normal]\plf\Rshake\c[4]Unknown：\c[0]    Well, does your Mistress agree?
-\CBmp[GrayRat,20]\SETpl[GrayRatConfused]\PLF\prf\c[4]Large man：\c[0]    She agrees, but there are some concerns...
-\CBmp[GrayRat,20]\SETpl[GrayRatNormal]\PLF\prf\c[4]Large man：\c[0]    All collateral damage must be minimized.
-\CBmp[Adam,20]\SETpr[Adam_sad]\plf\Rshake\c[4]Unknown：\c[0]    But of course.
-\CBmp[Adam,20]\SETpr[Adam_normal]\plf\Rshake\c[4]Unknown：\c[0]    Alright! Then it's settled.
+\CBmp[Adam,20]\SETpr[Adam_normal]\plf\Rshake\c[4]Tak Dikenal：\c[0]    Jadi, apakah Nyonyamu setuju?
+\CBmp[GrayRat,20]\SETpl[GrayRatConfused]\PLF\prf\c[4]Pria besar：\c[0]    Dia setuju, tapi ada beberapa kekhawatiran...
+\CBmp[GrayRat,20]\SETpl[GrayRatNormal]\PLF\prf\c[4]Pria besar：\c[0]    Semua kerusakan kolateral harus diminimalkan.
+\CBmp[Adam,20]\SETpr[Adam_sad]\plf\Rshake\c[4]Tak Dikenal：\c[0]    Tentu saja.
+\CBmp[Adam,20]\SETpr[Adam_normal]\plf\Rshake\c[4]Tak Dikenal：\c[0]    Baiklah! Kalau begitu sudah diputuskan.
 
 GrayRat/QuestBG3_1
-\CBmp[GrayRat,20]\SETpl[GrayRatConfused]\PLF\prf\c[4]Large man：\c[0]    Thank you. Gentlemen... 
-\CBmp[GrayRat,20]\SETpl[GrayRatNormal]\PLF\prf\c[4]Large man：\c[0]    Good luck with everything.
+\CBmp[GrayRat,20]\SETpl[GrayRatConfused]\PLF\prf\c[4]Pria besar：\c[0]    Terima kasih. Tuan-tuan...
+\CBmp[GrayRat,20]\SETpl[GrayRatNormal]\PLF\prf\c[4]Pria besar：\c[0]    Semoga beruntung dengan segalanya.
 
 GrayRat/QuestBG4
-\CBmp[Guard1,20]\SETpr[MobHumanCommoner]\Rshake\c[4]Guard：\c[0]    He's a Moot! Do you really want his help?
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    You idiot! Half-Breed or not, what's important is who's in charge of him!
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    You haven't seen what he's capable of, his strength is nothing to scoff at!
+\CBmp[Guard1,20]\SETpr[MobHumanCommoner]\Rshake\c[4]Penjaga：\c[0]    Dia itu Moot! Apa kau benar-benar menginginkan bantuannya?
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Tak Dikenal：\c[0]    Dasar bodoh! Ras campuran atau bukan, yang penting adalah siapa yang mengendalikannya!
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Tak Dikenal：\c[0]    Kau belum melihat kemampuannya, kekuatannya tidak bisa dianggap remeh!
 
 GrayRat/QuestBG5
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Unknown：\c[0]    Remember, stick to the plan and intercept the northern convoy.
-\CBmp[Guard1,20]\SETpr[MobHumanCommoner]\plf\Rshake\c[4]Guard：\c[0]    Will the plan really go so smoothly?
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Unknown：\c[0]    Of course! Besides, we have no choice...
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Tak Dikenal：\c[0]    Ingat, tetap pada rencana dan cegat konvoi utara.
+\CBmp[Guard1,20]\SETpr[MobHumanCommoner]\plf\Rshake\c[4]Penjaga：\c[0]    Apakah rencananya benar-benar akan berjalan selancar itu?
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Tak Dikenal：\c[0]    Tentu saja! Lagipula, kita tidak punya pilihan lain...
 
 Adam/SupLona0
-\CamMP[Adam]\BonMP[Adam,1]\SETpl[Adam_angry]\Lshake\c[4]Unknown：\c[0]    Stop right there! Who are you?!
-\CBct[8]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    I... \optD[Just passing through...,Are you Adam?]
+\CamMP[Adam]\BonMP[Adam,1]\SETpl[Adam_angry]\Lshake\c[4]Tak Dikenal：\c[0]    Berhenti di situ! Siapa kau?!
+\CBct[8]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Aku... \optD[Cuma lewat saja...,Apakah kau Adam?]
 
 Adam/SupLona_ans_adam
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm... Excuse me, are you Adam?
-\CamMP[Adam,1]\SETpl[Adam_angry]\Lshake\prf\c[4]Adam：\c[0]    What?! Tell me, how do you know this name?! \optD[Play dumb,Milo sent me,Bluff<r=HiddenOPT0>,Old job<r=HiddenOPT1>]
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Anu... Maaf, apakah kau Adam?
+\CamMP[Adam,1]\SETpl[Adam_angry]\Lshake\prf\c[4]Adam：\c[0]    Apa?! Beritahu aku, bagaimana kau bisa tahu nama itu?! \optD[Pura-pura bodoh,Milo yang mengirimku,Menggertak<r=HiddenOPT0>,Pekerjaan lama<r=HiddenOPT1>]
 
 Adam/SupLona_ans_pass
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I'm just passing through......
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Aku cuma lewat saja......
 
 Adam/SupLona_ans_hehe
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ohh Teehee!~ I don't knooow...
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ohh Hehe!~ Aku tidak tahu...
 
 Adam/SupLona_ans_milo
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Yeah... About that......
-\CBct[2]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Mr. Milo sent me saying he wanted your head or something like that...
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ya... Soal itu......
+\CBct[2]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Tuan Milo mengirimku dan bilang dia menginginkan kepalamu atau semacam itu...
 \CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]     \.. \.. \..
 
 Adam/SupLona_ans_work0
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uhhh...
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    I worked for you before, did you forget?
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Anu...
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Aku pernah bekerja untukmu sebelumnya, apa kau lupa?
 
 Adam/SupLona_ans_work1
 \CBmp[Adam,20]\SETpl[Adam_sad]\Lshake\prf\c[4]Adam：\c[0]    \..\..\..
-\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Adam：\c[0]    Yes... I remember now, you're the little girl thief.
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Adam：\c[0]    But, why are you here?!
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm... I heard that \c[4]Milo\c[0] said he was going to have you killed, so I followed to warn you.
+\CBmp[Adam,20]\SETpl[Adam_happy]\Lshake\prf\c[4]Adam：\c[0]    Ya... Aku ingat sekarang, kau si pencuri cilik itu.
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Adam：\c[0]    Tapi, kenapa kau di sini?!
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Anu... Aku mendengar kalau \c[4]Milo\c[0] bilang dia akan membunuhmu, jadi aku mengikutimu untuk memperingatkanmu.
 \CBmp[Adam,8]\SETpl[Adam_sad]\Lshake\prf\c[4]Adam：\c[0]    \..\..\..
 
 Adam/SupLona_ans_lie0
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I... Uhhh... You see...
-\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Are you Adam? This is bad! Milo's men are coming!
-\CBct[2]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    The mercenaries are already on their way! You have to get out of here!
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Aku... Anu... Begini...
+\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Apakah kau Adam? Ini gawat! Orang-orang Milo sedang datang!
+\CBct[2]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    Para tentara bayaran sudah dalam perjalanan ke sini! Kalian harus segera pergi dari sini!
 
 Adam/SupLona_ans_lie1
-\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Adam：\c[0]    What?! Damn it all... Thanks!
-\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Adam：\c[0]    Men! We've been compromised, fall back!
+\CBmp[Adam,20]\SETpl[Adam_angry]\Lshake\prf\c[4]Adam：\c[0]    Apa?! Sialan... Terima kasih!
+\CBmp[Adam,20]\SETpl[Adam_normal]\Lshake\prf\c[4]Adam：\c[0]    Semuanya! Posisi kita ketahuan, mundur!
 
 Adam/SupLona_ans_lie2
-\CBct[8]\m[confused]\plf\PRF\c[4](Now what...? How am I supposed to retrieve his head now...?)
+\CBct[8]\m[confused]\plf\PRF\c[4](Sekarang bagaimana...? Bagaimana aku bisa mengambil kepalanya kalau begini...?)
 
 Adam/SupLona_Kill0
-\CBmp[Adam,1]\SETpl[Adam_angry]\Lshake\prf\c[4]Adam：\c[0]    To arms men! Kill this bitch!
+\CBmp[Adam,1]\SETpl[Adam_angry]\Lshake\prf\c[4]Adam：\c[0]    Angkat senjata semuanya! Bunuh jalang ini!
 
 Adam/SupLona_Kill1_typical
-\CBct[6]\m[wtf]\plf\Rshake\c[6]Lona：\c[0]    Oh no!
+\CBct[6]\m[wtf]\plf\Rshake\c[6]Lona：\c[0]    Aduh tidak!
 
 Adam/SupLona_Kill1_tsundere
-\CBct[6]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Shit!
+\CBct[6]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Sial!
 
 Adam/SupLona_Kill1_gloomy
 \CBct[6]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    K-Kyaaah!!!
 
 Adam/SupLona_Kill1_slut
-\CBct[6]\m[fear]\plf\Rshake\c[6]Lona：\c[0]    Wait! Can't we talk about this?!
+\CBct[6]\m[fear]\plf\Rshake\c[6]Lona：\c[0]    Tunggu! Bisakah kita bicarakan ini baik-baik?!
