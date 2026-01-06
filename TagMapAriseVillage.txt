@@ -1,248 +1,248 @@
 thisMap/OvermapEnter
-Sunrise Village\optB[Leave,Enter]
+Desa Sunrise\optB[Pergi,Masuk]
 
-############################################################################### COMMON
+############################################################################### UMUM
 
 GateKeeper/NormalBegin0
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    Stop! Who goes there?!
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uhm...I'm...
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Are you here to deal with the fish scum?
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Good, then come on in.
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]Warga：\c[0]    Berhenti! Siapa di sana?!
+\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Anu... Aku...
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Warga：\c[0]    Apa kau di sini untuk mengurus sampah ikan itu?
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Warga：\c[0]    Bagus, kalau begitu silakan masuk.
 \CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    .....
 
 GateKeeper/Enter0
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    This is \c[6]Sunrise Village\c[0].
-\CBid[-1,5]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    We're sick of putting up with beggars and fishkind.
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]Warga：\c[0]    Ini adalah\c[6]Desa Sunrise\c[0].
+\CBid[-1,5]\SETpl[AnonMale1]\Lshake\c[4]Warga：\c[0]    Kami sudah muak berurusan dengan pengemis dan bangsa ikan.
 
 GateKeeper/AggroAlert
-\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    Intruder!
+\SETpl[AnonMale1]\Lshake\c[4]Warga：\c[0]    Penyusup!
 
 GateKeeper/TooWeakBegin0
-\CBid[-1,5]\SETpl[AnonMale1]\c[4]Villager：\c[0]    Move! Sybaris' beggars aren't welcome here.
-\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Sorry...
-\narr Lona looks too weak
+\CBid[-1,5]\SETpl[AnonMale1]\c[4]Warga：\c[0]    Pergi! Pengemis Sybaris tidak diterima di sini.
+\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Maaf...
+\narr Lona terlihat terlalu lemah
 
 Archer0/0
-\CBid[-1,20]\c[4]Villager：\c[0]    You said those fish are the most annoying?
-\CBid[-1,20]\c[4]Villager：\c[0]    Wrong, the scum from Sybaris are worse.
-\CBid[-1,20]\c[4]Villager：\c[0]    Do not trust any bastards from the capital.
+\CBid[-1,20]\c[4]Warga：\c[0]    Kau bilang ikan-ikan itu yang paling menyebalkan?
+\CBid[-1,20]\c[4]Warga：\c[0]    Salah, sampah dari Sybaris itu jauh lebih buruk.
+\CBid[-1,20]\c[4]Warga：\c[0]    Jangan pernah percaya pada bajingan dari ibu kota.
 
 Archer0/1
-\CBid[-1,20]\c[4]Villager：\c[0]    Dumb monsters aren't the problem. The Fishman manipulating them is.
+\CBid[-1,20]\c[4]Warga：\c[0]    Monster bodoh bukan masalahnya. Manusia Ikan yang memanipulasi merekalah masalahnya.
 
 Archer0/2
-\CBid[-1,20]\c[4]Villager：\c[0]    It reeks of fish since that day.
+\CBid[-1,20]\c[4]Warga：\c[0]    Sejak hari itu, tempat ini jadi berbau amis ikan.
 
 CommomerM0/Rng0
-\CBid[-1,20]\c[4]Villager：\c[0]    Those swamp monsters must be paid by that Fishman, they're the same kind.
-\CBid[-1,20]\c[4]Villager：\c[0]    If not, why don't the Deepones attack them?
+\CBid[-1,20]\c[4]Warga：\c[0]    Monster rawa itu pasti dibayar oleh si Manusia Ikan, mereka itu sejenis.
+\CBid[-1,20]\c[4]Warga：\c[0]    Kalau tidak, kenapa Deepone tidak menyerang mereka?
 
 CommomerM0/Rng1
-\CBid[-1,20]\c[4]Villager：\c[0]    Sybaris? I hear it's gone to shit.
+\CBid[-1,20]\c[4]Warga：\c[0]    Sybaris? Kudengar tempat itu sudah hancur total.
 
 CommomerM0/Rng2
-\CBid[-1,20]\c[4]Villager：\c[0]    I hear several villages are suffering.
-\CBid[-1,20]\c[4]Villager：\c[0]    They took in beggars, and soon became beggars themselves.
+\CBid[-1,20]\c[4]Warga：\c[0]    Kudengar beberapa desa sedang menderita.
+\CBid[-1,20]\c[4]Warga：\c[0]    Mereka menampung pengemis, dan tak lama kemudian jadi pengemis juga.
 
 CommomerM1/Rng0
-\CBid[-1,20]\c[4]Villager：\c[0]    Who are you? I haven't seen you before.
+\CBid[-1,20]\c[4]Warga：\c[0]    Siapa kau? Aku belum pernah melihatmu sebelumnya.
 
 CommomerM1/Rng1
-\CBid[-1,20]\c[4]Villager：\c[0]    What do you want? Your kind isn't welcome here.
+\CBid[-1,20]\c[4]Warga：\c[0]    Mau apa kau? Orang sepertimu tidak diterima di sini.
 
 CommomerM1/Rng2
-\CBid[-1,20]\c[4]Villager：\c[0]    I don't like small tits!
+\CBid[-1,20]\c[4]Warga：\c[0]    Aku tidak suka dada kecil!
 
 CommomerF/Rng0
-\CBid[-1,20]\c[4]Villager：\c[0]    I heard the Fishman will kidnap your kids at night.
+\CBid[-1,20]\c[4]Warga：\c[0]    Kudengar si Manusia Ikan akan menculik anak-anakmu di malam hari.
 
 CommomerF/Rng1
-\CBid[-1,20]\c[4]Villager：\c[0]    People say outsiders are untrustworthy.
+\CBid[-1,20]\c[4]Warga：\c[0]    Orang-orang bilang orang asing itu tidak bisa dipercaya.
 
 CommomerKid/Rng0
-\CBid[-1,20]\c[4]Villager：\c[0]    I love executions, they struggle so much.
+\CBid[-1,20]\c[4]Warga：\c[0]    Aku suka melihat eksekusi, mereka meronta-ronta sekali.
 
 CommomerKid/Rng1
-\CBid[-1,20]\c[4]Villager：\c[0]    All I eat is fish nowadays, I'm sick of it.
+\CBid[-1,20]\c[4]Warga：\c[0]    Makananku cuma ikan akhir-akhir ini, aku muak.
 
 CommomerKid/Rng2
-\CBid[-1,20]\c[4]Villager：\c[0]    Mom told me not to talk to strangers.
+\CBid[-1,20]\c[4]Warga：\c[0]    Ibu bilang jangan bicara dengan orang asing.
 
 Ded/Nap
-\SndLib[sound_gore]\SndLib[sound_combat_hit_gore]\c[4]Villager：\c[0]    This one's a troublemaker! Kill her!
+\SndLib[sound_gore]\SndLib[sound_combat_hit_gore]\c[4]Warga：\c[0]    Yang satu ini pembuat masalah! Bunuh dia!
 
 ###############################################################################   AriseVillage 0to1_0
 
 AriseVillage/0to1_0
-\ph\c[4]Villager：\c[0]    Get up, you bastard!
+\ph\c[4]Warga：\c[0]    Bangun, bajingan!
 
 AriseVillage/0to1_1
-\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]Fishman：\c[0]    I... can't... breathe...
-\CBmp[GuardL,5]\c[4]Villager：\c[0]    Say! What's a Fishman infidel doing here?
-\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]Fishman：\c[0]    dindu...noffin...
-\CBmp[GuardR,5]\c[4]Villager：\c[0]    Still playing dumb?!
+\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]Manusia Ikan：\c[0]    A-Aku... tidak bisa... bernapas...
+\CBmp[GuardL,5]\c[4]Warga：\c[0]    Bicara! Apa yang dilakukan kafir Manusia Ikan di sini?
+\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]Manusia Ikan：\c[0]    g-ga... salah...
+\CBmp[GuardR,5]\c[4]Warga：\c[0]    Masih mau pura-pura bodoh?!
 
 AriseVillage/0to1_2
-\CBmp[GuardR,20]\c[4]Villager：\c[0]    Have you seen your partner? That pedestal next to him is reserved for you.
-\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]Fishman：\c[0]    No...Don't kill me... I don't want to die....
+\CBmp[GuardR,20]\c[4]Warga：\c[0]    Sudah lihat rekanmu? Tiang gantungan di sebelahnya itu khusus buatmu.
+\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]Manusia Ikan：\c[0]    Jangan... Jangan bunuh aku... Aku tidak mau mati....
 
 AriseVillage/0to1_3
-\CBmp[GuardR,20]\c[4]Villager：\c[0]    Where are the other stinky fish people?!
-\CBmp[GuardR,20]\c[4]Villager：\c[0]    Talk! I'll kill you if you don't.
+\CBmp[GuardR,20]\c[4]Warga：\c[0]    Di mana orang-orang ikan bau lainnya?!
+\CBmp[GuardR,20]\c[4]Warga：\c[0]    Bicara! Akan kubunuh kau kalau diam saja.
 
 AriseVillage/0to1_Rng0
-\CBid[-1,20]\c[4]Villager：\c[0]    Those infidel fishmen. They're Liars!
+\CBid[-1,20]\c[4]Warga：\c[0]    Manusia-manusia ikan kafir itu. Mereka semua Pembohong!
 
 AriseVillage/0to1_Rng1
-\CBid[-1,20]\c[4]Villager：\c[0]    The Fishman caused this!
+\CBid[-1,20]\c[4]Warga：\c[0]    Si Manusia Ikan yang menyebabkan semua ini!
 
 AriseVillage/0to1_Fishman0
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    What's going on here?!
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Apa yang terjadi di sini?!
 
 AriseVillage/0to1_Fishman0_0
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    I...Come...Investigate...
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    The Ancestors... the riots...
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    Human... attacks...
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Uh...the riots?
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Manusia Ikan：\c[0]    Aku... Datang... Menyelidiki...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Manusia Ikan：\c[0]    Para Leluhur... kerusuhan itu...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Manusia Ikan：\c[0]    Manusia... menyerang...
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Anu... kerusuhan?
 
 AriseVillage/0to1_Fishman0_1
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    Help...I'm...Innocent...
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    I must get to... the camp in the north...
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    I'll give you money...I have money...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Manusia Ikan：\c[0]    Tolong... Aku... Tidak bersalah...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Manusia Ikan：\c[0]    Aku harus sampai ke... kamp di utara...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Manusia Ikan：\c[0]    Akan kuberi uang... Aku punya uang...
 
 AriseVillage/0to1_Fishman0_brd
-\CamCT\board[Help the fishman in trouble]
-Goal：Reach the North Camp
-Reward：4 large copper coins
-Quest Giver：Fishman
-Quest Term： 5 days
-The village seems to want to murder this innocent fishman, but is he really innocent?
-Could such an ugly fish even be innocent?
+\CamCT\board[Bantu manusia ikan yang kesulitan]
+Tujuan：Sampai ke Kamp Utara
+Hadiah：4 koin tembaga besar
+Pemberi Misi：Manusia Ikan
+Durasi Misi： 5 hari
+Warga desa sepertinya ingin membunuh manusia ikan yang tidak bersalah ini, tapi benarkah dia tidak bersalah?
+ Mungkinkah ikan seburuk itu bisa tidak bersalah?
 
 AriseVillage/0to1_Fishman1_opt
-\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    Outsider!? Are you his accomplice?
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    What!? \optD[No,Well...,I'm a mercenary<r=HiddenOPT0>,Cecily<r=HiddenOPT1>]
+\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\c[4]Warga：\c[0]    Orang asing!? Apa kau anteknya?
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Apa!?\optD[Bukan,Anu...,Aku tentara bayaran<r=HiddenOPT0>,Cecily<r=HiddenOPT1>]
 
 AriseVillage/0to1_Fishman1_opt_Cecily
-\CBfB[20]\SETpr[CecilyNormalAr]\plf\PRF\C[4]Cecily：\C[0]    Hey!
-\CBmp[GuardTop,1]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    A soldier from Noer?!
-\CBfB[2]\SETpr[CecilyWtfAr]\plf\PRF\C[4]Cecily：\C[0]    What crime did this fishman commit?
-\CBmp[GuardTop,6]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    No! Sorry! We caught the wrong guy!
-\CBmp[GuardTop,6]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    We'll let him go.
-\CBfB[5]\SETpr[CecilyAngryAr]\plf\PRF\C[4]Cecily：\C[0]    Do it!
+\CBfB[20]\SETpr[CecilyNormalAr]\plf\PRF\C[4]Cecily：\C[0]    Hei!
+\CBmp[GuardTop,1]\SETpl[AnonMale1]\Lshake\prf\c[4]Warga：\c[0]    Prajurit dari Noer?!
+\CBfB[2]\SETpr[CecilyWtfAr]\plf\PRF\C[4]Cecily：\C[0]    Kejahatan apa yang dilakukan manusia ikan ini?
+\CBmp[GuardTop,6]\SETpl[AnonMale1]\Lshake\prf\c[4]Warga：\c[0]    Bukan! Maaf! Kami salah tangkap!
+\CBmp[GuardTop,6]\SETpl[AnonMale1]\Lshake\prf\c[4]Warga：\c[0]    Kami akan melepaskannya.
+\CBfB[5]\SETpr[CecilyAngryAr]\plf\PRF\C[4]Cecily：\C[0]    Lakukan!
 
 AriseVillage/0to1_Fishman1_opt_No
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    No! I just happened to pass by!
-\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Go away! We don't like outsiders!
-\CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    Sorry...
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Bukan! Aku cuma kebetulan lewat!
+\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]Warga：\c[0]    Pergi sana! Kami tidak suka orang asing!
+\CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    Maaf...
 
 AriseVillage/0to1_Fishman1_opt_Yes
-\CBct[8]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    Uh...I...
-\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    This outsider's causing trouble! Kill her!
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    What!?
+\CBct[8]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    Anu... Aku...
+\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]Warga：\c[0]    Orang asing ini cari masalah! Bunuh dia!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Apa!?
 
 AriseVillage/0to1_Fishman1_opt_WIS
-\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    I'm a mercenary from Noer, I've come to take this evil fishman
-\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Is that so? Do it fast then, we don't like strangers here.
-\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    I see.
+\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Aku tentara bayaran dari Noer, aku datang untuk mengambil manusia ikan jahat ini.
+\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]Warga：\c[0]    Begitukah? Cepatlah kalau begitu, kami tidak suka orang asing di sini.
+\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Begitu ya.
 
 AriseVillage/0to1_Fishman2_joined
-\SndLib[FishkindSmSpot]\CBfE[20]\c[4]Fishman：\c[0]    Now...the time...
+\SndLib[FishkindSmSpot]\CBfE[20]\c[4]Manusia Ikan：\c[0]    Sekarang... waktunya...
 
-###############################################################################   Right house
+###############################################################################   Rumah kanan
 
 Rho/begin0_weak
-\CBid[-1,20]\SETpl[AnonFemale]\c[4]Woman：\c[0]    We need mercenaries. You're useless!
+\CBid[-1,20]\SETpl[AnonFemale]\c[4]Wanita：\c[0]    Kami butuh tentara bayaran. Kau tidak berguna!
 
 Rho/begin0
-\CBid[-1,20]\SETpl[AnonFemale]\c[4]Woman：\c[0]    Ah! You're finally here! The mercenary guided by the Saint!
-\CBct[8]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    Wha-? Mercenary guided by what?
+\CBid[-1,20]\SETpl[AnonFemale]\c[4]Wanita：\c[0]    Ah! Akhirnya kau sampai! Tentara bayaran yang dituntun oleh Saint!
+\CBct[8]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    Apa-? Tentara bayaran dituntun apa?
 
 Rho/begin1
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Listen. We are in need of your help.
-\CBct[8]\m[confused]\plf\Rshake\c[6]Lona：\c[0]    Uh...what's going on?
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Saint's above, this is too much.
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    There is havoc outside the village and worse yet the village men are taking the chance to steal girls.
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    They are just kids!
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Wanita：\c[0]    Dengar. Kami sangat butuh bantuanmu.
+\CBct[8]\m[confused]\plf\Rshake\c[6]Lona：\c[0]    Anu... apa yang terjadi?
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Wanita：\c[0]    Demi Saint di atas, ini sudah keterlaluan.
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Wanita：\c[0]    Terjadi kekacauan di luar desa dan lebih parahnya lagi pria desa memanfaatkan kesempatan ini untuk menculik gadis-gadis.
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Wanita：\c[0]    Mereka itu cuma anak-anak!
 
 Rho/begin2_brd
-\CamCT\board[Save the girl in danger]
-Goal：In the house in the west of Sunrise village, save the captive girl.
-Reward：Morale 4, 2000P
-Client：Housewife
-Time Limit：None
-The men of Sunrise village are stealing girls whilst Noer Island devolves into chaos? How despicable.
-Help those kids. Head to the house in the west of the village and release the lost girl and bring her back to this house.
+\CamCT\board[Selamatkan gadis yang dalam bahaya]
+Tujuan：Di rumah di sebelah barat desa Sunrise, selamatkan gadis yang ditawan.
+ Hadiah：Moral 4, 2000P
+Klien：Ibu Rumah Tangga
+Batas Waktu：Tidak ada
+Para pria desa Sunrise menculik gadis-gadis saat Pulau Noer jatuh ke dalam kekacauan? Sungguh keji.
+Bantu anak-anak itu. Pergilah ke rumah di barat desa, bebaskan gadis yang hilang dan bawa dia kembali ke rumah ini.
 
 Rho/begin3_yes
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    I beg of you, young mercenary, please save them.
-\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Okay, I'll go save them!
-\CBid[-1,4]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Thank the Saints!
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    I believe they are kept inside the storage on the very west of the village.
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Be careful. Those men dislike being bothered by women, let alone an outsider.
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Besides...I wish to apologize to them in person...
-\CBct[20]\m[pleased]\plf\Rshake\c[6]Lona：\c[0]    You can count on me!
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Wanita：\c[0]    Aku mohon padamu, tentara bayaran muda, tolong selamatkan mereka.
+\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Baiklah, aku akan menyelamatkan mereka!
+\CBid[-1,4]\SETpl[AnonFemale]\Lshake\prf\c[4]Wanita：\c[0]    Terima kasih Saint!
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Wanita：\c[0]    Aku yakin mereka disekap di dalam gudang di ujung barat desa.
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Wanita：\c[0]    Berhati-hatilah. Pria-pria itu tidak suka diganggu wanita, apalagi orang asing.
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Wanita：\c[0]    Selain itu... Aku ingin meminta maaf langsung kepada mereka...
+\CBct[20]\m[pleased]\plf\Rshake\c[6]Lona：\c[0]    Serahkan saja padaku!
 
 Rho/begin3_no
-\CBct[8]\m[flirty]\plf\PLF\c[6]Lona：\c[0]    Um...I don't think I can do this.
+\CBct[8]\m[flirty]\plf\PLF\c[6]Lona：\c[0]    Anu... sepertinya aku tidak sanggup.
 
 Rho/RG14_x
-\CBct[2]\m[flirty]\PLF\c[6]Lona：\c[0]    Animal noises? Monkeys?
+\CBct[2]\m[flirty]\PLF\c[6]Lona：\c[0]    Suara binatang? Monyet?
 
 Rho/RG14_0
-\c[4]Villager：\c[0]    Oh fuck, this is the tightest thing ever!
-\c[4]Villager：\c[0]    \{Uooooooooooh!
+\c[4]Warga：\c[0]    Sial, ini yang paling sempit yang pernah kurasakan!
+\c[4]Warga：\c[0]   \{Uooooooooooh!
 
 Rho/RG14_1
-\CBmp[ApeGuard1,5]\c[4]VillagerA：\c[0]    Ah! Blast! This one croaked.
+\CBmp[ApeGuard1,5]\c[4]Warga A：\c[0]    Ah! Sial! Yang ini mampus.
 
 Rho/RG14_2
-\CBmp[ApeGuard2,20]\c[4]VillagerB：\c[0]    Felt too damn good. So damn good!
-\CBmp[ApeGuard1,3]\c[4]VillagerA：\c[0]    Didn't think this would be even better than regular women, did ya?
-\CBmp[ApeGuard1,4]\c[4]VillagerA：\c[0]    Plus the holes are more firm, way better than what my wife got going on!
-\CBmp[ApeGuard2,20]\c[4]VillagerB：\c[0]    \{Gonna cum! Cumming!
+\CBmp[ApeGuard2,20]\c[4]Warga B：\c[0]    Rasanya enak sekali. Mantap banget!
+\CBmp[ApeGuard1,3]\c[4]Warga A：\c[0]    Nggak nyangka ini bakal lebih enak dari wanita biasa, kan?
+\CBmp[ApeGuard1,4]\c[4]Warga A：\c[0]    Ditambah lagi lubangnya lebih kencang, jauh lebih baik dari punyanya istriku!
+\CBmp[ApeGuard2,20]\c[4]Warga B：\c[0]   \{Mau keluar! Keluaaarr!
 
 Rho/RG14_3
-\CBct[8]\m[flirty]\PLF\c[6]Lona：\c[0]    Um...are the girls...monkeys?
-\CBct[8]\m[confused]\PLF\c[6]Lona：\c[0]    No way...
+\CBct[8]\m[flirty]\PLF\c[6]Lona：\c[0]    Anu... apa gadis-gadis itu... monyet?
+\CBct[8]\m[confused]\PLF\c[6]Lona：\c[0]    Tidak mungkin...
 
 Rho/RG14_4
-\CBct[8]\m[flirty]\PLF\c[6]Lona：\c[0]    Um...guess I'll pretend I did not see this?
-\CBct[8]\m[confused]\PLF\c[6]Lona：\c[0]    But I did already promise...
+\CBct[8]\m[flirty]\PLF\c[6]Lona：\c[0]    Anu... kurasa lebih baik aku pura-pura tidak melihat ini?
+\CBct[8]\m[confused]\PLF\c[6]Lona：\c[0]    Tapi aku sudah telanjur janji...
 
 Rho/Ape0_opt
-Poor girl monkey, release her restraints?\optB[Nope,Release]
+Monyet betina yang malang, lepaskan ikatannya?\optB[Jangan,Lepaskan]
 
 Rho/Ape1
-\CBct[3]\m[pleased]\PLF\c[6]Lona：\c[0]    There. You are free!
+\CBct[3]\m[pleased]\PLF\c[6]Lona：\c[0]    Selesai. Kau bebas!
 \CBmp[Ape1,20]\SndLib[MonkeyLost]....
-\CBct[3]\m[triumph]\PLF\c[6]Lona：\c[0]    Follow me. I can take you somewhere safe.
+\CBct[3]\m[triumph]\PLF\c[6]Lona：\c[0]    Ikutlah denganku. Aku bisa membawamu ke tempat yang aman.
 \CBmp[Ape1,20]\SndLib[MonkeyLost]....
 
 Rho/Ape2_brd
-\CamCT\board[Rescue the monkey in danger]
-Goal：Lead the monkey back to the house in the east.
-Reward：Morale 4、2000P
-Client：Housewife
-Time Limit：None
+\CamCT\board[Selamatkan monyet dalam bahaya]
+Tujuan：Tuntun si monyet kembali ke rumah di sebelah timur.
+Hadiah：Moral 4、2000P
+Klien：Ibu Rumah Tangga
+Batas Waktu：Tidak ada
 
 Rho/QuestDone0
-\CBct[8]\m[confused]\PLF\c[6]Lona：\c[0]    Um...well...anyways...
-\CBct[8]\m[flirty]\PLF\c[6]Lona：\c[0]    I brought...the monkey...no...the girl... she is rescued.
+\CBct[8]\m[confused]\PLF\c[6]Lona：\c[0]    Anu... yah... pokoknya...
+\CBct[8]\m[flirty]\PLF\c[6]Lona：\c[0]    Aku membawa... si monyet... bukan... si gadis... dia sudah diselamatkan.
 
 Rho/QuestDone1
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Many thanks divine mercenary! Praise the Saint!
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Wanita：\c[0]    Terima kasih banyak tentara bayaran pilihan! Terpujilah Saint!
 
 Rho/QuestDone2
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Oh poor child. You have endured so much.
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Wanita：\c[0]    Oh anak malang. Kau sudah menanggung beban yang begitu berat.
 
 Rho/QuestDone3
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Woman：\c[0]    I will help patch up your injuries and pass on this courageous deed of yours.
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Woman：\c[0]    Bless you, divine mercenary. 
-\CBct[3]\m[pleased]\PLF\c[6]Lona：\c[0]    Okay!
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Wanita：\c[0]    Aku akan membantumu mengobati lukamu dan menyebarkan berita tentang perbuatan beranimu ini.
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Wanita：\c[0]    Berkat melimpah untukmu, tentara bayaran pilihan. 
+\CBct[3]\m[pleased]\PLF\c[6]Lona：\c[0]    Baiklah!
 
 Rho/Rng0
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Woman：\c[0]    Saints...forgive me of my sins.
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Wanita：\c[0]    Para Saint... ampuni dosa-dosaku.
 
 Rho/Rng1
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Woman：\c[0]    I am sinful...forgive me...
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Wanita：\c[0]    Aku orang berdosa... ampuni aku...
