@@ -1,0 +1,336 @@
+###########################################################  GROUP ###########################################################
+
+group/OrkindCave
+Orkind
+
+group/FishkindCave
+Fishkind
+
+group/AbominationHive
+Abomination
+
+###########################################################  NPC PART ###########################################################
+
+part/arm
+Lengan
+
+part/penis
+Penis
+
+part/mouth
+Mulut
+
+part/beads
+Manik-manik
+
+part/enema
+Kantong Enema
+
+###########################################################  NPC RACE ###########################################################
+
+race/Human
+Manusia
+
+race/Moot
+Ras Campuran
+
+race/Orkind
+Orc
+
+race/Goblin
+Goblin
+
+race/Abomination
+Abomination
+
+race/Deepone
+Deepone
+
+race/Fishkind
+Manusia Ikan
+
+race/Troll
+Troll
+
+race/Animal
+Hewan
+
+race/OthersElise
+Makhluk Tak Dikenal
+
+race/Others
+Lainnya
+
+race/Dog
+Anjing
+
+race/Horse
+Kuda
+
+race/DeeponeLona
+Manusia Bau
+
+race/AbomLona
+Manusia Sakit
+
+race/AbomMootLona
+Ras Campuran Kurang Sehat
+
+###########################################################  NPC NAME ###########################################################
+
+name/nameCreatureBat
+Kelelawar Mutan
+
+name/nameCreatureGroundSpore
+Spora Monster
+
+name/nameCreatureMeatWorm
+Cacing Daging
+
+name/nameCreatureSpore
+Spora Melayang
+
+name/nameCreatureSummonSpore
+Spora Jahat
+
+name/nameCreatureTentacle
+Tentakel Bertaring
+
+name/nameCreatureTentacleSummoned
+Tentakel Bertaring
+
+name/Baby_nameinationBaby
+Bayi
+
+name/Baby_FishkindBaby
+Bayi
+
+name/Baby_GoblinBaby
+Bayi
+
+name/Baby_OgreChild
+Anak-anak
+
+name/Baby_OrcBaby
+Bayi
+
+name/Baby_OrcChild
+Anak-anak
+
+goblin/GoblinBow
+Pemanah
+
+name/GoblinClub
+Prajurit
+
+name/GoblinCommoner
+
+
+name/GoblinCommoner_focused
+
+
+name/GoblinSpear
+Ahli Tombak
+
+name/GoblinWarrior
+Pejuang
+
+name/GoblinWatcher
+Pengintai
+
+name/HobgoblinBow
+Pemanah
+
+name/HobgoblinClub
+Prajurit
+
+name/HobgoblinCommoner
+
+
+name/HobgoblinCommoner_focused
+
+
+name/HobgoblinShaman
+Shaman
+
+name/HobgoblinSpear
+Pikeman
+
+name/HobgoblinWarrior
+Pejuang
+
+name/HobgoblinWatcher
+Pengintai
+
+name/HumanBow
+Pemanah
+
+name/HumanExecutioner
+Algojo
+
+name/HumanLawbringer
+Penegak Hukum
+
+name/HumanScout
+Pengintai
+
+name/HumanSpear
+Ahli Tombak
+
+name/HumanTorturer
+Interogator
+
+name/HumanWarrior
+Pejuang
+
+name/MobHumanClub
+Massa
+
+name/MobHumanCommoner
+Massa
+
+name/MobHumanHighLander
+Putra Naga
+
+name/MobHumanPickAxe
+Massa
+
+name/MobHumanRogueBow
+Bandit
+
+name/MobHumanRogueCatcher
+Bandit
+
+name/MobHumanRogueSpear
+Bandit
+
+name/MobHumanRogueWarrior
+Bandit
+
+name/MobHumanSpear
+Bandit
+
+name/NatureMerchant
+Pedagang
+
+name/NeutralHumanBow
+Pemanah
+
+name/NeutralHumanPrisonMinerF
+Budak Tambang Wanita
+
+name/NeutralHumanPrisonMinerM
+Budak Tambang
+
+name/NeutralHumanPrisonMinerRaperM
+Pemerkosa Budak Tambang
+
+name/NeutralHumanPrisonMineTrader
+Penjaga Penjara
+
+name/NeutralHumanPrisonOfficer
+Sipir Penjara
+
+name/NeutralHumanPrisonSpear
+Penjaga Penjara
+
+name/NeutralHumanPrisonTorturer
+Interogator Penjara
+
+name/NeutralHumanPrisonWarrior
+Penjaga Penjara
+
+name/NeutralHumanScout
+Pengintai
+
+name/NeutralHumanWarrior
+Pejuang
+
+name/OrcBow
+Pemanah
+
+name/OrcCatcher
+Pemburu
+
+name/OrcClub
+Prajurit
+
+name/OrcCommoner
+asdf tidak digunakan
+
+name/OrcCommoner_focused
+asdf tidak digunakan
+
+name/OrcWarrior
+Pejuang
+
+name/PlayernameinationBaby
+Bayi
+
+name/PlayerFishkindBaby
+Bayi
+
+name/PlayerGoblinBaby
+Bayi
+
+name/PlayerOgreChild
+Anak-anak
+
+name/PlayerOrcBaby
+Bayi
+
+name/WildBoar
+Babi Hutan
+
+name/WildDog
+Anjing Liar
+
+name/WildGiantMice
+Tikus Raksasa
+
+name/WildHorse
+Kuda
+
+name/WildApeF
+Monyet Betina
+
+name/WildApeM
+Monyet
+
+name/UniquePigBobo
+Bobo sang Breeder
+
+name/HorseCarry
+Kuda Beban
+
+name/WildAlphaPig
+Babi Hutan Alpha
+
+name/AbomCreatureManager
+Fiend
+
+name/AbomCreatureScorpion
+Crawler
+
+name/AbomCreatureSpider
+Laba-laba
+
+name/AbomCreatureZombie
+Mutan
+
+name/AbomCreatureBreedling
+Breedling
+
+name/UniqueDirtyJohnson
+Dirty Johnson
+
+######################## EVENT  ######################################
+
+fraction/nature
+Netral
+
+fraction/evil
+Makhluk Jahat
+
+#Fully translated and cleaned up by Sugoi Soy Boy.
+Fuck off MTLing monkeys.
