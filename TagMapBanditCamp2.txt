@@ -1,156 +1,156 @@
 thisMap/OvermapEnter
-Abandoned copper mining town.\optB[Leave,Enter]
+Kota tambang tembaga terbengkalai.\optB[Pergi,Masuk]
 
 ######################################################################################################
 
 GateOnGuard/Qmsg0
-impossible
+mustahil
 
 GateOnGuard/Qmsg1
-someone watching
+ada yang mengawasi
 
 ###################################################################################################### game over
 
 GameOver/begin0
-\C[4]BanditA：\C[0]    I recognize her! How dare this sow mess around!
-\C[4]BanditB：\C[0]    \{kill her! ! !\}
+\C[4]BanditA：\C[0]    Aku kenal dia! Beraninya induk babi ini cari masalah!
+\C[4]BanditB：\C[0]    \{bunuh dia! ! !\}
 
 GameOver/begin1
-\C[4]BanditA：\C[0]    What next?
-\C[4]BanditB：\C[0]    We keep the hands and feet, but feed the internal organs to\C[6]Bobo\C[0]?
-\C[4]BanditA：\C[0]    Good idea, just do it!
+\C[4]BanditA：\C[0]    Terus apa?
+\C[4]BanditB：\C[0]    Kita ambil tangan dan kakinya, tapi organ dalamnya kasih makan ke \C[6]Bobo\C[0]?
+\C[4]BanditA：\C[0]    Ide bagus, sikat saja!
 
 GameOver/begin0_noBobo
-\C[4]BanditA：\C[0]    I recognize this sow! She was the one who came in to make trouble before!
-\C[4]BanditB：\C[0]    I do too! Is it her? ! \{kill her! ! !\}
+\C[4]BanditA：\C[0]    Aku kenal induk babi ini! Dialah yang datang bikin kacau sebelumnya!
+\C[4]BanditB：\C[0]    Aku juga kenal! Benar dia kan? ! \{bunuh dia! ! !\}
 
 GameOver/begin1_noBobo
-\C[4]BanditA：\C[0]    What next?
-\C[4]BanditB：\C[0]    We keep the hands and feet, but the offal is for the dogs to eat.
-\C[4]BanditA：\C[0]    Good idea, just do it!
+\C[4]BanditA：\C[0]    Terus apa?
+\C[4]BanditB：\C[0]    Kita ambil tangan dan kakinya, tapi sisanya kasih makan anjing.
+\C[4]BanditA：\C[0]    Ide bagus, sikat saja!
 
 ######################################################################################################
 
 Rogue/NapSpot
-\SETpl[MobHumanCommoner]\Lshake\C[4]Bandit：\C[0]    It's a woman!
-\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    What!? What are you going to do!?
-\SETpl[MobHumanCommoner]\Lshake\prf\C[4]Bandit：\C[0]    Catch her!
+\SETpl[MobHumanCommoner]\Lshake\C[4]Bandit：\C[0]    Ada wanita!
+\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Apa!? Apa yang mau kalian lakukan!?
+\SETpl[MobHumanCommoner]\Lshake\prf\C[4]Bandit：\C[0]    Tangkap dia!
 
 Wake/FirstRape0
-\CBmp[guard1,20]\C[4]Bandit：\C[0]    Boss, the bitch is sneaking around here.
-\CBmp[guard2,20]\C[4]Bandit：\C[0]    How to deal with her?
+\CBmp[guard1,20]\C[4]Bandit：\C[0]    Bos, ada jalang yang menyelinap di sini.
+\CBmp[guard2,20]\C[4]Bandit：\C[0]    Mau diapakan dia?
 
 Wake/FirstRape1
-\CBmp[Boss,8]\C[4]bandit leader：\C[0]    Bitch? Let me see...
+\CBmp[Boss,8]\C[4]pemimpin bandit：\C[0]    Jalang? Coba kulihat...
 
 Wake/FirstRape2
-\CBmp[Boss,5]\C[4]bandit leader：\C[0]    Throw her to\C[6]Bobo\C[0].
-\CBmp[guard2,20]\C[4]Bandit：\C[0]    What?!
-\CBmp[guard1,20]\C[4]Bandit：\C[0]    It's a woman, at least let's have fun, shall we?
-\CBmp[Boss,20]\C[4]bandit leader：\C[0]    This is my kingdom! I tell what to do!
-\CBmp[Boss,5]\C[4]bandit leader：\C[0]    With such a dark complexion, the blood of this bitch is definitely polluted by all kinds of low animals.
-\CBmp[Boss,20]\C[4]bandit leader：\C[0]    Throw her to\C[6]Bobo\C[0], right now!
-\BonMP[guard1,20]\BonMP[guard2,20]\C[4]Bandit：\C[0]    Yes!
+\CBmp[Boss,5]\C[4]pemimpin bandit：\C[0]    Lemparkan dia ke \C[6]Bobo\C[0].
+\CBmp[guard2,20]\C[4]Bandit：\C[0]    Apa?!
+\CBmp[guard1,20]\C[4]Bandit：\C[0]    Dia kan wanita, setidaknya biarkan kami bersenang-senang dulu, ya?
+\CBmp[Boss,20]\C[4]pemimpin bandit：\C[0]    Ini kerajaanku! Aku yang menentukan aturan!
+\CBmp[Boss,5]\C[4]pemimpin bandit：\C[0]    Dengan kulit gelap seperti itu, darah jalang ini pasti sudah tercemar segala jenis hewan rendahan.
+\CBmp[Boss,20]\C[4]pemimpin bandit：\C[0]    Lemparkan dia ke \C[6]Bobo\C[0], sekarang juga!
+\BonMP[guard1,20]\BonMP[guard2,20]\C[4]Bandit：\C[0]    Siap!
 
 Wake/FirstRape3
-\CBct[6]\m[bereft]\Rshake\c[6]Lona：\c[0]    Let me go, please!
-\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    Bitch! go in!
+\CBct[6]\m[bereft]\Rshake\c[6]Lona：\c[0]    Lepaskan aku, kumohon!
+\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    Jalang! masuk sana!
 
 Wake/FirstRape4
-\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    Boss is not interested in you.
-\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    Congratulations, you are going to be pigslop for \C[6]Bobo\C[0]!
+\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    Bos tidak tertarik padamu.
+\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    Selamat, kau akan menjadi makanan babi untuk \C[6]Bobo\C[0]!
 
 Wake/FirstRape5
-\CBct[2]\m[fear]\Rshake\c[6]Lona：\c[0]    \C[4]Bobo's\C[0]... pigslop?!
+\CBct[2]\m[fear]\Rshake\c[6]Lona：\c[0]    Makanan... babi \C[4]Bobo\C[0]?!
 
 Wake/FirstRape6
 \CBct[20]\m[terror]\Rshake\c[6]Lona：\c[0]    \{AIEEE-EEE-EEE! !\}
 
 Wake/FirstRape7
-\CBct[20]\m[bereft]\Rshake\c[6]Lona：\c[0]    I don't want to! Don't eat me! I don't want to die!
+\CBct[20]\m[bereft]\Rshake\c[6]Lona：\c[0]    Aku tidak mau! Jangan makan aku! Aku tidak mau mati!
 
 Wake/FirstRape8
-\BonMP[guard1,20]\plf\BonMP[guard2,20]\prf\C[4]Bandit：\C[0]    Eat her!
-\CBct[8]\m[pain]\plf\Rshake\c[6]Lona：\c[0]    sob sob...
+\BonMP[guard1,20]\plf\BonMP[guard2,20]\prf\C[4]Bandit：\C[0]    Makan dia!
+\CBct[8]\m[pain]\plf\Rshake\c[6]Lona：\c[0]    hiks hiks...
 
 Wake/FirstRape9
-\SndLib[SwineSpot]\SETpl[BoboNormal]\plf\BonMP[Piggy,4]\m[p5shame]\Rshake\c[6]Lona：\c[0]    Don't smell me there....
-\SndLib[SwineSpot]\SETpl[BoboNormal]\plf\BonMP[Piggy,4]\m[p5shame]\Rshake\c[6]Lona：\c[0]    My meat is not safe for consumption!
+\SndLib[SwineSpot]\SETpl[BoboNormal]\plf\BonMP[Piggy,4]\m[p5shame]\Rshake\c[6]Lona：\c[0]    Jangan mengendus di situ....
+\SndLib[SwineSpot]\SETpl[BoboNormal]\plf\BonMP[Piggy,4]\m[p5shame]\Rshake\c[6]Lona：\c[0]    Dagingku tidak aman untuk dimakan!
 
 Wake/FirstRape10
 \SndLib[SwineSpot]\BonMP[Piggy,4]\m[p5crit_damage]\Rshake\c[6]Lona：\c[0]    AIEEEEE!\{Eee! !\}
 
 Wake/FirstRape11
-\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    What? !\C[6]Bobo\C[0]Actually fucked her? !
-\CBmp[guard2,20]\prf\C[4]Bandit：\C[0]    Go and call everyone! A miracle happened! The \C[6]Saint\C[0] was here!
+\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    Apa? ! \C[6]Bobo\C[0] malah menidurinya? !
+\CBmp[guard2,20]\prf\C[4]Bandit：\C[0]    Cepat panggil semuanya! Sebuah keajaiban terjadi! \C[6]Saint\C[0] ada di sini!
 
 Wake/FirstRape12
-\CBmp[guard4,20]\plf\prf\C[4]Bandit：\C[0]    Strange, isn't it? It actually fucked this woman!
-\CBct[6]\m[hurt]\plf\Rshake\c[6]Lona：\c[0]    sob sob sob...
+\CBmp[guard4,20]\plf\prf\C[4]Bandit：\C[0]    Aneh, bukan? Dia malah meniduri wanita ini!
+\CBct[6]\m[hurt]\plf\Rshake\c[6]Lona：\c[0]    hiks hiks hiks...
 
 Wake/FirstRape12_1
-\CBmp[guard1,20]\plf\C[4]Bandit：\C[0]    Hahahaha, this is super funny.
-\CBmp[guard1,20]\plf\C[4]Bandit：\C[0]    It seems\C[6]Bobo\C[0] treats her like a sow.
+\CBmp[guard1,20]\plf\C[4]Bandit：\C[0]    Hahahaha, ini lucu sekali.
+\CBmp[guard1,20]\plf\C[4]Bandit：\C[0]    Sepertinya \C[6]Bobo\C[0] menganggapnya seperti induk babi.
 
 Wake/FirstRape13
-\narr\C[4]Bobo's\C[0]penis penetrated\c[6]Lona's\c[0] womb, and kept constantly churning within.
-\narrOFF\SndLib[SwineSpot]\BonMP[Piggy,4]\m[p5_cuming]\Rshake\c[6]Lona：\c[0]    \{AIEEE! !\} It hurts! It hurts!
+\narr Penis \C[4]Bobo\C[0] menembus rahim \c[6]Lona\c[0], dan terus mengaduk-aduk di dalamnya.
+\narrOFF\SndLib[SwineSpot]\BonMP[Piggy,4]\m[p5_cuming]\Rshake\c[6]Lona：\c[0]    \{AIEEE! !\} Sakit! Sakit sekali!
 
 Wake/FirstRape14
-\SndLib[SwineSpot]\SETpl[BoboNormal]\Lshake\BonMP[Piggy,4]\m[p5_cuming]\Rshake\c[6]Lona：\c[0]    \{Stop it! Stop it now!\}
-\SndLib[SwineSpot]\SETpl[BoboYell]\Lshake\BonMP[Piggy,4]\m[p5_cuming_ahegao]\Rshake\c[6]Lona：\c[0]    \{My stomach is going to burst!\}
-\narrright\C[4]Bobo\C[0]This ejaculation was only the beginning, and its orgasm lasted for a long, long time.
+\SndLib[SwineSpot]\SETpl[BoboNormal]\Lshake\BonMP[Piggy,4]\m[p5_cuming]\Rshake\c[6]Lona：\c[0]    \{Hentikan! Hentikan sekarang!\}
+\SndLib[SwineSpot]\SETpl[BoboYell]\Lshake\BonMP[Piggy,4]\m[p5_cuming_ahegao]\Rshake\c[6]Lona：\c[0]    \{Perutku mau meledak!\}
+\narrright Ejakulasi \C[4]Bobo\C[0] ini hanyalah awal, dan orgasmenya berlangsung sangat lama.
 
 Wake/FirstRape15
-\CBmp[Boss,8]\C[4]bandit leader：\C[0]    \...\...\...
-\CBmp[Boss,20]\C[4]bandit leader：\C[0]    It seems my\C[6]Bobo\C[0]Also thinks she is a sow.
-\CBmp[Boss,5]\C[4]bandit leader：\C[0]    Sure enough, the cheap whore is a disgusting sow.
+\CBmp[Boss,8]\C[4]pemimpin bandit：\C[0]    \...\...\...
+\CBmp[Boss,20]\C[4]pemimpin bandit：\C[0]    Sepertinya \C[6]Bobo\C[0]-ku juga menganggapnya sebagai induk babi.
+\CBmp[Boss,5]\C[4]pemimpin bandit：\C[0]    Benar saja, lonte murahan memang induk babi yang menjijikkan.
 
 Wake/FirstRape15_1
-\C[4]Bandit：\C[0]    For the first time in my life I saw a bitch being fucked by a pig.
-\C[4]Bandit：\C[0]    So she's not a bitch, she's a sow!
-\C[4]Bandit：\C[0]    Let other people come and watch next time.
+\C[4]Bandit：\C[0]    Baru pertama kali seumur hidup aku melihat jalang ditiduri babi.
+\C[4]Bandit：\C[0]    Jadi dia bukan jalang, dia itu induk babi!
+\C[4]Bandit：\C[0]    Ajak orang lain buat menonton nanti.
 
 Wake/FirstRape16
-\narr Lona lost consciousness amidst the jeers of the thieves.
+\narr Lona kehilangan kesadaran di tengah ejekan para bandit.
 
 ######################################################################################################
 
 RapeLoop/DailyJob1
-\BonMP[guard1,5]\C[4]Bandit：\C[0]    Sow, get up!
-\BonMP[guard2,5]\C[4]Bandit：\C[0]    \{Wake up quickly!\}
+\BonMP[guard1,5]\C[4]Bandit：\C[0]    Induk babi, bangun!
+\BonMP[guard2,5]\C[4]Bandit：\C[0]    \{Cepat bangun!\}
 
 RapeLoop/DailyJob2
-\CBct[6]\m[tired]\Rshake\c[6]Lona：\c[0]    sob sob... What's wrong....
+\CBct[6]\m[tired]\Rshake\c[6]Lona：\c[0]    hiks hiks... Ada apa....
 
 RapeLoop/DailyJob3_Vag
-\CBmp[guard3,4]\C[4]Bandit：\C[0]    We're going to see how the sow mates with the boar♥
+\CBmp[guard3,4]\C[4]Bandit：\C[0]    Kita mau lihat gimana induk babi kawin sama babi jantan♥
 
 RapeLoop/DailyJob3_Anal
-\CBmp[guard4,4]\C[4]Bandit：\C[0]    We want to see how sows do anal with boars♥
+\CBmp[guard4,4]\C[4]Bandit：\C[0]    Kita mau lihat induk babi main anal sama babi jantan♥
 
 RapeLoop/DailyJob3_Mouth
-\CBmp[guard3,4]\C[4]Bandit：\C[0]    We want to watch the sow blow the trumpet of the boar♥
+\CBmp[guard3,4]\C[4]Bandit：\C[0]    Kita mau nonton induk babi meniup terompet babi jantan♥
 
 RapeLoop/DailyJob3_RimJob
-\CBmp[guard2,4]\C[4]Bandit：\C[0]    We want to see the sow lick the boar's asshole♥
-\CBmp[guard1,4]\C[4]Bandit：\C[0]    Right! Are you not a sow? Help it clean its asshole!
+\CBmp[guard2,4]\C[4]Bandit：\C[0]    Kita mau lihat induk babi menjilat lubang pantat babi jantan♥
+\CBmp[guard1,4]\C[4]Bandit：\C[0]    Benar! Bukankah kau itu induk babi? Bantu bersihkan lubang pantatnya!
 
 RapeLoop/DailyJob3_Dance
-\CBmp[guard1,4]\C[4]Bandit：\C[0]    Hello! sow! wake up! Go wake your husband up!
+\CBmp[guard1,4]\C[4]Bandit：\C[0]    Halo! induk babi! bangun! Pergi bangunkan suamimu!
 
 RapeLoop/DailyJob4
-\CBmp[guard4,5]\prf\C[4]Bandit：\C[0]    Hurry up! Otherwise you are dead!
-\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    I....
-\CBmp[guard1,4]\prf\C[4]Bandit：\C[0]    Quick! We are waiting for your performance♥
+\CBmp[guard4,5]\prf\C[4]Bandit：\C[0]    Cepat! Kalau tidak kau mati!
+\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    Aku....
+\CBmp[guard1,4]\prf\C[4]Bandit：\C[0]    Cepat! Kami menunggu pertunjukanmu♥
 
 ####################################################### common
 
 RapeLoop/DailyJob_PlayBegin0
-\CBct[8]\m[fear]do you really want to do it......\optB[No way!,I have to...]
+\CBct[8]\m[fear]apa kau benar-benar ingin melakukannya......\optB[Mustahil!,Aku harus...]
 
 RapeLoop/DailyJob_PlayBegin1
-\CBct[8]\PLF\m[sad]I have to...
+\CBct[8]\PLF\m[sad]Aku harus...
 
 RapeLoop/DailyJob_EndRng0
 \plf\C[4]Bandit：\C[0]    Ha ha ha ha♥
@@ -159,34 +159,34 @@ RapeLoop/DailyJob_EndRng1
 \C[4]Bandit：\C[0]    Hee hee hee♥
 
 RapeLoop/DailyJob_EndRng2
-\C[4]Bandit：\C[0]    Hello! Listen to her squealing like a pig♥
+\C[4]Bandit：\C[0]    Halo! Dengar dia menjerit-jerit seperti babi♥
 
 RapeLoop/DailyJob_EndRng3
-\C[4]Bandit：\C[0]    What's the name of the sow?♥
+\C[4]Bandit：\C[0]    Siapa nama induk babi ini?♥
 
 RapeLoop/DailyJob_EndRng4
-\C[4]Bandit：\C[0]    Look at her, this is not human! It's a pig♥
+\C[4]Bandit：\C[0]    Lihat dia, ini bukan manusia! Ini seekor babi♥
 
 RapeLoop/DailyJob_EndRng5
-\C[4]Bandit：\C[0]    Wow! Wow! Wow! Twice quickly for Grandpa♥
+\C[4]Bandit：\C[0]    Wow! Wow! Wow! Dua kali cepat untuk Kakek♥
 
 RapeLoop/DailyJob_EndRng6
-\C[4]Bandit：\C[0]    Hahahaha, so funny♥
+\C[4]Bandit：\C[0]    Hahahaha, lucu sekali♥
 
 RapeLoop/DailyJob_EndRng7
-\C[4]Bandit：\C[0]    What a smelly sow!
+\C[4]Bandit：\C[0]    Benar-benar induk babi yang bau!
 
 RapeLoop/DailyJob_EndRng8
-\C[4]Bandit：\C[0]    There is no dignity left in her!
+\C[4]Bandit：\C[0]    Sudah tidak ada harga diri lagi di dalam dirinya!
 
 RapeLoop/DailyJob5
-\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    Again... Do you still want it?
+\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    Lagi... Apa kalian masih menginginkannya?
 
 RapeLoop/DailyJob6
-\CBct[8]\m[hurt]\PRF\c[6]Lona：\c[0]    Please...be gentle...
+\CBct[8]\m[hurt]\PRF\c[6]Lona：\c[0]    Kumohon... lembutlah sedikit...
 
 RapeLoop/DailyJob7
-\CBct[8]\plf\c[6]Lona：\c[0]    sob sob...
+\CBct[8]\plf\c[6]Lona：\c[0]    hiks hiks...
 
 RapeLoop/DailyJob9
 \CBct[8]\m[tired]\c[6]Lona：\c[0]    .....
@@ -194,21 +194,21 @@ RapeLoop/DailyJob9
 ####################################################### mouth
 
 RapeLoop/DailyJob_PlayMouth0
-\narr \c[6]Lona\c[0]Puts the corkscrew in her tiny mouth and sucks the tip...
+\narr \c[6]Lona\c[0] memasukkan penis melintir itu ke mulut kecilnya dan menghisap ujungnya...
 
 RapeLoop/DailyJob_PlayAnal0
-\narr \c[6]Lona\c[0]Puts the thick, spiral cock into her asshole...
+\narr \c[6]Lona\c[0] memasukkan batang spiral yang tebal itu ke lubang pantatnya...
 
 RapeLoop/DailyJob_PlayRimJob0
-\narr \c[6]Lona\c[0]sticks her tongue in the pig's dirty asshole...
+\narr \c[6]Lona\c[0] menjulurkan lidahnya ke dalam lubang pantat babi yang kotor itu...
 
 RapeLoop/DailyJob_PlayRimJob1
-\CBct[8]\m[p5sta_damage]\Rshake It smells so nauseating, I can't take it anymore...
+\CBct[8]\m[p5sta_damage]\Rshake Baunya sangat memualkan, aku sudah tidak tahan lagi...
 
 RapeLoop/DailyJob_PlayRimJob2
-\CBmp[guard1,4]\C[4]Bandit：\C[0]    Hey! Go lick the shit off of its balls too!
+\CBmp[guard1,4]\C[4]Bandit：\C[0]    Hei! Jilat kotoran di bijinya juga!
 
 RapeLoop/DailyJob_PlayDance0
-\CBct[8]\m[shy]\PRF\c[6]Lona：\c[0]    Ok it woke up....
-\CBmp[guard4,4]\prf\C[4]Bandit：\C[0]    Then dance for your daddies♥
-\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    Yes...
+\CBct[8]\m[shy]\PRF\c[6]Lona：\c[0]    Oke dia sudah bangun....
+\CBmp[guard4,4]\prf\C[4]Bandit：\C[0]    Kalau begitu menarilah untuk ayah-ayahmu♥
+\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    Baik...
