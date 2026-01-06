@@ -33,7 +33,7 @@ system/SneakT3
 \bg[bg_TutorialThrow5_ENG] \C[2]Scoutcraft\C[0] akan meningkatkan seberapa lihai Lona saat dia \C[2]Mengendap\C[0] (Default：CTRL).
 \bg[bg_TutorialThrow5_ENG] Lona tidak akan bisa \C[2]Mengendap\C[0] dengan benar dari bahaya jika \C[2]Scoutcraft\C[0]-nya terlalu rendah.
 \bg[bg_TutorialThrow6_ENG] Untuk menggunakan \C[2]Mengendap\C[0] dasar, tingkatkan \C[2]Scoutcraft\C[0] kamu ke level 5 atau lebih tinggi.
-\bg[FeiraCropse,19]\bgoff Cobalah gabungkan \C[2]Lempar\C[0] dan \C[6]Mengendap\C[0] untuk mengelabui musuh dan ambil Short Sword itu!
+\CBmp[FeiraCropse,19]\bgoff Cobalah gabungkan \C[2]Lempar\C[0] dan \C[6]Mengendap\C[0] untuk mengelabui musuh dan ambil Short Sword itu!
 
 Tutorial/Trap
 \CBmp[trap,19].........
