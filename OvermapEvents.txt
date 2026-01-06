@@ -1,33 +1,33 @@
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+#Diterjemahkan sepenuhnya dan dibersihkan oleh Sugoi Soy Boy. Enyahlah wahai monyet-monyet MTL.
 
-#--------------------------------------------------------------------------- MAIN
+#--------------------------------------------------------------------------- UTAMA
 
 Lona/Exit
-\m[confused]Leave the area? \optB[Not yet!,Leave]
+\m[confused]Tinggalkan area ini? \optB[Belum!,Pergi]
 
 Lona/OutOfSta
-\m[tired]\c[6]Lona：\c[0]    Ugh, I'm so tired...
+\m[tired]\c[6]Lona：\c[0]    Ugh, aku sangat lelah...
 
-#--------------------------------------------------------------------------- WILD DANGER
+#--------------------------------------------------------------------------- BAHAYA ALAM LIAR
 
 Lona/WildnessNapSpawn
-\cg[event_Eyes]The sound of footsteps grew closer.
-\m[shocked]\cgoff\c[6]Lona：\c[0]    Who's there?!
+\cg[event_Eyes]Suara langkah kaki terdengar semakin dekat.
+\m[shocked]\cgoff\c[6]Lona：\c[0]    Siapa di sana?!
 
 Lona/WildnessNapRobber0
-\narr They snatched everything from Lona.
+\narr Mereka merampas segalanya dari Lona.
 
 Lona/WildnessNapRobber1_normal
-\m[bereft]\c[6]Lona：\c[0]    No! Give it back to me!
+\m[bereft]\c[6]Lona：\c[0]    Tidak! Kembalikan padaku!
 
 Lona/WildnessNapRobber1_tsun
-\m[angry]\c[6]Lona：\c[0]    Assholes! You'll pay for that!
+\m[angry]\c[6]Lona：\c[0]    Bajingan! Kalian akan membayarnya!
 
 Lona/WildnessNapRobber1_slut
-\m[fear]\c[6]Lona：\c[0]    My items! Give those back to me!
+\m[fear]\c[6]Lona：\c[0]    Barang-barangku! Kembalikan itu padaku!
 
 Lona/WildnessNapRobber1_weak
-\m[sad]\c[6]Lona：\c[0]    P-Please, don't hurt me... I'll give you everything... Just... Please...
+\m[sad]\c[6]Lona：\c[0]    T-Tolong, jangan sakiti aku... Akan kuberikan semuanya... Asal... Tolong...
 
 Lona/WildnessNapRobber1_overfatigue
 \m[tired]\c[6]Lona：\c[0]    ......
@@ -35,63 +35,63 @@ Lona/WildnessNapRobber1_overfatigue
 Lona/WildnessNapRobber1_mouth_block
 \m[tired]\c[6]Lona：\c[0]    Mmmph! Mmmmmpph!!
 
-#--------------------------------------------------------------------------- Capture by
-#---------------						NoerGuard
+#--------------------------------------------------------------------------- Ditangkap oleh
+#---------------						Penjaga Noer
 
 Lona/CaptureByNoerGuard
-\SETpl[Mreg_guardsman]\Lshake\c[4]Guard：\c[0]    Stop resisting! Don't even bother!
-\SETpr[Mreg_pikeman]\Rshake\c[4]Guard：\c[0]    You little bitch! I'll be sure you'll rot in jail!
-\m[fear]\c[6]Lona：\c[0]    *Whimper*.....
+\SETpl[Mreg_guardsman]\Lshake\c[4]Penjaga：\c[0]    Berhenti melawan! Jangan membuang tenaga!
+\SETpr[Mreg_pikeman]\Rshake\c[4]Penjaga：\c[0]    Dasar jalang! Kupastikan kau membusuk di penjara!
+\m[fear]\c[6]Lona：\c[0]    *Merengek*.....
 
 Lona/CaptureByNoerGuard_SlaveOwner
-\SETpl[Mreg_guardsman]\Lshake\c[4]Guard：\c[0]    This slave dares to be disobedient?!
-\SETpr[Mreg_pikeman]\Rshake\c[4]Guard：\c[0]    Get back to your master and prepare to receive your punishment!
-\m[fear]\c[6]Lona：\c[0]    *Whimper*.....
+\SETpl[Mreg_guardsman]\Lshake\c[4]Penjaga：\c[0]    Budak ini berani membangkang?!
+\SETpr[Mreg_pikeman]\Rshake\c[4]Penjaga：\c[0]    Kembalilah ke majikanmu dan bersiaplah menerima hukuman!
+\m[fear]\c[6]Lona：\c[0]    *Merengek*.....
 
-#---------------						FishPPL
+#---------------						Manusia Ikan
 
 Lona/CaptureByFishPPL_rape
-\SndLib[FishkindSmSpot]\SETpl[FrogSpear]\Lshake\c[4]Guard：\c[0]    Mate with her...! Breeding... Time!!!
-\SndLib[FishkindSmSpot]\SETpr[FrogCommon]\Rshake\c[4]Slaver：\c[0]    Get... Pregnant...!
+\SndLib[FishkindSmSpot]\SETpl[FrogSpear]\Lshake\c[4]Penjaga：\c[0]    Kawini dia...! Waktunya... Berkembang biak!!!
+\SndLib[FishkindSmSpot]\SETpr[FrogCommon]\Rshake\c[4]Penculik：\c[0]    Bikin... Hamil...!
 
 Lona/CaptureByFishPPL
-\SndLib[FishkindSmSpot]\SETpl[FrogSpear]\Lshake\c[4]Guard：\c[0]    Female...! It's a girlie!
-\SndLib[FishkindSmSpot]\SETpr[FrogCommon]\Rshake\c[4]Slaver：\c[0]    Fresh... New... Girl!
-\plf\PRF\m[fear]\c[6]Lona：\c[0]    N-No...
+\SndLib[FishkindSmSpot]\SETpl[FrogSpear]\Lshake\c[4]Penjaga：\c[0]    Betina...! Ini seorang gadis!
+\SndLib[FishkindSmSpot]\SETpr[FrogCommon]\Rshake\c[4]Penculik：\c[0]    Gadis... Baru yang... Segar!
+\plf\PRF\m[fear]\c[6]Lona：\c[0]    T-Tidak...
 
 Lona/CaptureByFishPPL_isSlave
-\SndLib[FishkindSmSpot]\SETpl[FrogSpear]\Lshake\c[4]Guard：\c[0]    Here is... Escaped slave...! Bad!
-\SndLib[FishkindSmSpot]\SETpr[FrogCommon]\Rshake\c[4]Slaver：\c[0]    Bad... Slave...!!!
+\SndLib[FishkindSmSpot]\SETpl[FrogSpear]\Lshake\c[4]Penjaga：\c[0]    Ini adalah... Budak yang kabur...! Buruk!
+\SndLib[FishkindSmSpot]\SETpr[FrogCommon]\Rshake\c[4]Penculik：\c[0]    Budak... Buruk...!!!
 
 Lona/CaptureByFishPPL_NotSlave
-\m[p5sta_damage]\plf\Rshake\c[6]Lona：\c[0]    Stop! Let go of me!!!
-\SndLib[FishkindSmSpot]\cg[event_SlaveBrand]\SETpl[FrogSpear]\plf\prf\C[4]Guard：\C[0]    Girlie...! Shut... Up!
+\m[p5sta_damage]\plf\Rshake\c[6]Lona：\c[0]    Berhenti! Lepaskan aku!!!
+\SndLib[FishkindSmSpot]\cg[event_SlaveBrand]\SETpl[FrogSpear]\plf\prf\C[4]Penjaga：\C[0]    Gadis...! Diam... Kau!
 \SndLib[sound_AcidBurnLong]\m[p5health_damage]\plf\Rshake\c[6]Lona：\c[0]    KYAAAAAAH!!!
 \SndLib[sound_AcidBurnLong]\m[p5crit_damage]\plf\Rshake\c[6]Lona：\c[0]    EEEAAAAAAH!!!
-\SndLib[FishkindSmSpot]\SETpl[FrogSpear]\Lshake\prf\C[4]Guard：\C[0]    We capture... New girl! New slave...!
-\SndLib[sound_AcidBurnLong]\m[p5crit_damage]\plf\Rshake\c[6]Lona：\c[0]    Nnnighn...! *Sob* Guuugh...
+\SndLib[FishkindSmSpot]\SETpl[FrogSpear]\Lshake\prf\C[4]Penjaga：\C[0]    Kami menangkap... Gadis baru! Budak baru...!
+\SndLib[sound_AcidBurnLong]\m[p5crit_damage]\plf\Rshake\c[6]Lona：\c[0]    Nnnighn...! *Isak* Guuugh...
 
 #---------------						Orkind
 
 Lona/CaptureByOrkind0
-\cg[event_captured]The monsters brought Lona back to their nest. They intended to use Lona as a mother for their children...
+\cg[event_captured]Para monster membawa Lona kembali ke sarang mereka. Mereka berniat menjadikan Lona sebagai induk bagi anak-anak mereka...
 
 Lona/CaptureByOrkind1_normal
-\m[terror]\c[6]Lona：\c[0]    No! Let me go! I don't want to have a baby with monsters!
+\m[terror]\c[6]Lona：\c[0]    Tidak! Lepaskan aku! Aku tidak mau punya bayi dengan monster!
 
 Lona/CaptureByOrkind1_tsun
-\m[wtf]\c[6]Lona：\c[0]    Shit! You freaks! Let go of me! Don't fucking touch me!!!
-\m[hurt]\c[6]Lona：\c[0]    Ninnngh!! STOP IT!
+\m[wtf]\c[6]Lona：\c[0]    Sial! Kalian aneh! Lepaskan aku! Jangan sentuh aku!!!
+\m[hurt]\c[6]Lona：\c[0]    Ninnngh!! HENTIKAN!
 
 Lona/CaptureByOrkind1_weak
-\m[sad]\c[6]Lona：\c[0]    *Sobs* Please... somebody... S-Save me...
+\m[sad]\c[6]Lona：\c[0]    *Isak* Tolong... siapa pun... S-Selamatkan aku...
 
 Lona/CaptureByOrkind1_slut
-\m[bereft]\c[6]Lona：\c[0]    No... Being a monster's breeding sow is too much!
-\m[hurt]\c[6]Lona：\c[0]    My pussy's going to break...
+\m[bereft]\c[6]Lona：\c[0]    Tidak... Menjadi induk babi monster itu keterlaluan!
+\m[hurt]\c[6]Lona：\c[0]    M*mek-ku akan hancur...
 
 Lona/CaptureByOrkind1_overfatigue
-\m[tired]\c[6]Lona：\c[0]    N-No...... *Whimper*...
+\m[tired]\c[6]Lona：\c[0]    T-Tidak...... *Merengek*...
 
 Lona/CaptureByOrkind1_mouth_block
 \m[pain]\c[6]Lona：\c[0]    Mmmph!! MMMFPH!!!
@@ -99,53 +99,53 @@ Lona/CaptureByOrkind1_mouth_block
 #=------------------------------------------------------
 
 Lona/CaptureByBandits0
-\SETpl[MobHumanCommoner]\Lshake\C[4]Bandits：\C[0]    Hey bitch! Don't ya dare fuckin' struggle!
+\SETpl[MobHumanCommoner]\Lshake\C[4]Bandit：\C[0]    Hei jalang! Jangan berani-berani melawan!
 
 Lona/CaptureByBandits1_typical
-\m[terror]\c[6]Lona：\c[0]    No! Where are you guys taking me?!
+\m[terror]\c[6]Lona：\c[0]    Tidak! Kalian mau membawaku ke mana?!
 
 Lona/CaptureByBandits1_tsundere
-\m[wtf]\c[6]Lona：\c[0]    Let me go! Don't you dare touch me!!!
+\m[wtf]\c[6]Lona：\c[0]    Lepaskan aku! Jangan berani menyentuhku!!!
 
 Lona/CaptureByBandits1_gloomy
-\m[sad]\c[6]Lona：\c[0]    *Sob* S-Someone... Please h-help me...
+\m[sad]\c[6]Lona：\c[0]    *Isak* S-Seseorang... Tolong b-bantu aku...
 
 Lona/CaptureByBandits1_slut
-\m[bereft]\c[6]Lona：\c[0]    No way... Are you guys going to sell me off as a slave?
+\m[bereft]\c[6]Lona：\c[0]    Tidak mungkin... Apa kalian akan menjualku sebagai budak?
 
 #=------------------------------------------------------
 
 Lona/CaptureByGang0
-\SETpl[MobHumanCommoner]\Lshake\C[4]Loan Shark：\C[0]    Hmmph! Our debts gonna get paid back, one way or another...!
+\SETpl[MobHumanCommoner]\Lshake\C[4]Lintah Darat：\C[0]    Hmmph! Utang kami harus dibayar, bagaimanapun caranya...!
 
 Lona/CaptureByGang1_typical
-\m[terror]\c[6]Lona：\c[0]    I'm sorry! Please, I just need more time!
+\m[terror]\c[6]Lona：\c[0]    Maafkan aku! Tolong, aku hanya butuh waktu lebih lama!
 
 Lona/CaptureByGang1_tsundere
-\m[wtf]\c[6]Lona：\c[0]    Damn it! Let go! Don't fucking touch me!
+\m[wtf]\c[6]Lona：\c[0]    Sialan! Lepaskan! Jangan sentuh aku!
 
 Lona/CaptureByGang1_gloomy
-\m[sad]\c[6]Lona：\c[0]    I'm... I'm sorry! *Sob*... Please... Please don't h-hurt me...
+\m[sad]\c[6]Lona：\c[0]    A-Aku minta maaf! *Isak*... Tolong... Tolong jangan s-sakiti aku...
 
 Lona/CaptureByGang1_slut
-\m[bereft]\c[6]Lona：\c[0]    Wait, no! I-Isn't there another way to pay back the debt...?
+\m[bereft]\c[6]Lona：\c[0]    Tunggu, tidak! A-Apakah ada cara lain untuk melunasi utangnya...?
 
 Lona/CaptureByGang2
-\SETpl[MobHumanCommoner]\Lshake\C[4]Loan Shark：\C[0]    Take her away!
+\SETpl[MobHumanCommoner]\Lshake\C[4]Lintah Darat：\C[0]    Bawa dia pergi!
 
-#--------------------------------------------------------------------------- Capture Arrived
+#--------------------------------------------------------------------------- Tiba di Penyekapan
 
 Lona/Capture_arrived_normal
-\m[bereft]\c[6]Lona：\c[0]    Please, someone?! Help me!
+\m[bereft]\c[6]Lona：\c[0]    Tolong, siapa pun?! Bantu aku!
 
 Lona/Capture_arrived_tsun
-\m[hurt]\c[6]Lona：\c[0]    You maggots! You'll regret this!!
+\m[hurt]\c[6]Lona：\c[0]    Kalian belatung kotor! Kalian akan menyesali ini!!
 
 Lona/Capture_arrived_weak
-\m[pain]\c[6]Lona：\c[0]    Nnnn... *Sniff*... P-please... I'm sorry... I can't... *Whimper*...
+\m[pain]\c[6]Lona：\c[0]    Nnnn... *Endus*... To-tolong... Maafkan aku... Aku tidak bisa... *Merengek*...
 
 Lona/Capture_arrived_slut
-\m[bereft]\c[6]Lona：\c[0]    Nooo... I'm going to die if this continues on...
+\m[bereft]\c[6]Lona：\c[0]    Tidaaak... Aku akan mati jika ini terus berlanjut...
 
 Lona/Capture_arrived_overfatigue
 \m[tired]\c[6]Lona：\c[0]    Ahhnnngh......
@@ -153,679 +153,679 @@ Lona/Capture_arrived_overfatigue
 Lona/Capture_arrived_mouth_block
 \m[pain]\c[6]Lona：\c[0]    Mmmffph! Mmmmmm!!!
 
-############################################### Z觸發之地形事件 ##############################
-############################################### Z觸發之地形事件 ##############################
-############################################### Z觸發之地形事件 ##############################
+############################################### ACARA PEMICU Z PADA MEDAN ##############################
+############################################### ACARA PEMICU Z PADA MEDAN ##############################
+############################################### ACARA PEMICU Z PADA MEDAN ##############################
 
 World/Region1
 \cg[map_region_PlainField]Plainfield
 
 World/Region2
-\cg[map_Shore]Shore
+\cg[map_Shore]Pesisir
 
 World/Region3
-\cg[map_region_CreepMountain]Infested Mountain
+\cg[map_region_CreepMountain]Gunung Terinfeksi
 
 World/Region4
-\cg[map_region_deadforest]Rain Forest
+\cg[map_region_deadforest]Hutan Hujan
 
 World/Region5
-\cg[map_region_deadforest]Pine Forest
+\cg[map_region_deadforest]Hutan Pinus
 
 World/Region6
-\cg[map_region_deadforest]Dead Forest
+\cg[map_region_deadforest]Hutan Mati
 
 World/Region7
-\cg[map_region_mountain]Mountain
+\cg[map_region_mountain]Gunung
 
 World/Region8
-\n\cg[map_region_Swamp]Swamp
+\n\cg[map_region_Swamp]Rawa
 
 World/Region9
-\cg[map_region_AbanbonedHouse]Abandoned House
+\cg[map_region_AbanbonedHouse]Rumah Terbengkalai
 
 World/Region10
-\cg[map_region_slum]Slums
+\cg[map_region_slum]Slum (Kumuh)
 
 World/Region11
-\cg[map_region_Road]Road
+\cg[map_region_Road]Jalan Raya
 
 World/Region12
-\cg[map_region_RoadNoerNob]Rudesind Slope
+\cg[map_region_RoadNoerNob]Lereng Rudesind
 
 World/Region13
-\cg[map_region_Swamp]Swamp Trail
+\cg[map_region_Swamp]Jalur Rawa
 
 World/Region14
-\cg[map_region_badland]Wasteland
+\cg[map_region_badland]Tanah Tandus
 
 World/Region15
-\cg[map_region_Marsh]Marsh
+\cg[map_region_Marsh]Tanah Paya
 
 World/Region16
-\cg[map_region_Creep]Infested Creep
+\cg[map_region_Creep]Sarang Infeksi
 
 World/Region17
-\cg[map_region_AbomRoad]Blighted Road
+\cg[map_region_AbomRoad]Jalan Terkutuk
 
 World/Region18
-\cg[map_region_AbomTown]Infected City Ruins
+\cg[map_region_AbomTown]Reruntuhan Kota Terinfeksi
 
 World/Region19
-\cg[map_region_badland]Polluted Land
+\cg[map_region_badland]Tanah Tercemar
 
 World/Region20
-\cg[map_human_camp]Refugee Camp
+\cg[map_human_camp]Kamp Pengungsi
 
 World/Region21
-\cg[map_region_NoerRoad]Town of Noer
+\cg[map_region_NoerRoad]Kota Noer
 
 World/Region22
-\cg[map_region_NoerRoad]Streets of Noer
+\cg[map_region_NoerRoad]Jalanan Noer
 
 World/Region23
-\cg[map_region_Boulevard]Highway
+\cg[map_region_Boulevard]Jalan Utama
 
 World/Region28
-\cg[map_region_Creep]Infected Terrain
+\cg[map_region_Creep]Medan Terinfeksi
 
 World/Region29
-\cg[map_DarkestDungeon]Fortress Ruins
+\cg[map_DarkestDungeon]Reruntuhan Benteng
 
 World/Region30
-\cg[map_DarkestDungeon]Fortress Ruins
+\cg[map_DarkestDungeon]Reruntuhan Benteng
 
 World/Region31
-\cg[map_SybStreet]Streets of Sybaris
+\cg[map_SybStreet]Jalanan Sybaris
 
 World/Region32
-\cg[map_SybAlley]Alleys of Sybaris
+\cg[map_SybAlley]Gang-gang Sybaris
 
-############# FISH ISLE ONLY
+############# KHUSUS PULAU IKAN
 
 World/Region24
-\cg[map_region_Swamp]Swamp Trail
+\cg[map_region_Swamp]Jalur Rawa
 
 World/Region25
-\cg[map_region_Swamp]Swamp
+\cg[map_region_Swamp]Rawa
 
 World/Region26
-\cg[map_region_Marsh]Marsh
+\cg[map_region_Marsh]Tanah Paya
 
 World/Region27
-\cg[map_Shore]Shore
+\cg[map_Shore]Pesisir
 
-############################################### options ##############################
+############################################### opsi ##############################
 
 World/Region_option_start
-What should I do? 
+Apa yang harus kulakukan?
 
 World/Region_option_Cancel
-Cancel
+Batal
 
 World/Region_option_Relax
-Relax
+Santai
 
 World/Region_option_Observe
-Observe
+Amati
 
 World/Region_option_RemoveTracks
-Remove Tracks
+Hapus Jejak
 
 World/Region_option_Enter
-Enter
+Masuk
 
 World/Region_option_Kyaaah
 KYAAAH!!!
 
 World/Region_option_check_danger
-\SndLib[stepBush]Not good, this place looks dangerous...
+\SndLib[stepBush]Gawat, tempat ini terlihat berbahaya...
 
 World/Region_option_check_unknow
-\SndLib[stepBush]Lona is unable to see what lies ahead.
+\SndLib[stepBush]Lona tidak bisa melihat apa yang ada di depan.
 
 World/Region_option_check_peace
-\SndLib[stepBush]This place seems safe... Maybe...
+\SndLib[stepBush]Tempat ini sepertinya aman... Mungkin...
 
 World/Region_option_check_peaceful
-\SndLib[stepBush]This place is safe, Lona should be fine here.
+\SndLib[stepBush]Tempat ini aman, Lona akan baik-baik saja di sini.
 
 World/Region_option_erase_win0
-\SndLib[sound_equip_armor]Lona attempts to remove her tracks.
+\SndLib[sound_equip_armor]Lona mencoba menghapus jejaknya.
 
 World/Region_option_erase_win1
-\SndLib[sound_equip_armor]Her tracks are now covered up.
+\SndLib[sound_equip_armor]Jejaknya kini telah tertutupi.
 
 World/Region_option_WatchThemDead
-\cg[map_DeadPPL]Lona hides and observes the helpless humans all get slaughtered one at a time.
+\cg[map_DeadPPL]Lona bersembunyi dan menyaksikan manusia-manusia malang itu dibantai satu per satu.
 \narr\..\..\..
 
 
 World/Region_option_erase_failed0
-Lona is not very good at concealing her footprints...
+Lona tidak terlalu ahli dalam menyembunyikan jejak kakinya...
 
 World/Region_option_erase_failed1
-(Failed) Lona doesn't have enough skills to do that.
+(Gagal) Lona tidak punya cukup keahlian untuk melakukan itu.
 
-############################################### RAND事件 ##############################
-############################################### RAND事件 ##############################
-############################################### RAND事件 ##############################
+############################################### ACARA ACAK ##############################
+############################################### ACARA ACAK ##############################
+############################################### ACARA ACAK ##############################
 
 World/ThingHappen_begin
-\narr\m[confused]\SND[SE/Cancel1.ogg]There is something going on in front of Lona!
+\narr\m[confused]\SND[SE/Cancel1.ogg]Ada sesuatu yang sedang terjadi di depan Lona!
 
 World/ThingVS_begin
-\m[confused]\SND[SE/Cancel1.ogg]\narr The sound of creatures fighting each other can be heard from afar...
+\m[confused]\SND[SE/Cancel1.ogg]\narr Suara makhluk-makhluk yang saling bertarung terdengar dari kejauhan...
 
 World/Ambush_begin
-\narr\m[confused]\SND[SE/Cancel1.ogg]Lona moves forward carefully, when suddenly...
+\narr\m[confused]\SND[SE/Cancel1.ogg]Lona melangkah maju dengan hati-hati, ketika tiba-tiba...
 
 World/RerollEvent_begin
-\narr\m[confused]\SND[SE/Cancel1.ogg]They seem to be terrified of something or someone... Suddenly-!
+\narr\m[confused]\SND[SE/Cancel1.ogg]Mereka tampak ketakutan pada sesuatu atau seseorang... Tiba-tiba-!
 
-############################################### 主動性事件 ##############################
-############################################### 主動性事件 ##############################
-############################################### 主動性事件 ##############################
-############################################### 主動性事件 ##############################
-############################################### 主動性事件 ##############################
-############################################### 主動性事件 ##############################
+############################################### ACARA PROAKTIF ##############################
+############################################### ACARA PROAKTIF ##############################
+############################################### ACARA PROAKTIF ##############################
+############################################### ACARA PROAKTIF ##############################
+############################################### ACARA PROAKTIF ##############################
+############################################### ACARA PROAKTIF ##############################
 World/ThingHappen_who_unknow_HumanGuard
-\cg[map_guards]A squad of the guards of Noer are on patrol!
+\cg[map_guards]Satu regu penjaga Noer sedang berpatroli!
 
 World/ThingHappen_who_unknow_Vs_Refugee_Orkind
-\cg[map_VS]A gang of Orkind monsters is chasing down a group of refugees?!
+\cg[map_VS]Sekelompok monster Orkind sedang mengejar sekelompok pengungsi?!
 
 World/ThingHappen_who_unknow_PPLsos
-\m[confused]\cg[map_sos]It seems like they really need help...
+\m[confused]\cg[map_sos]Sepertinya mereka sangat membutuhkan bantuan...
 
 World/ThingHappen_who_unknow_PPLsosHynger
-\cg[map_sos_hunger]The figure seems desperate for some help!
+\cg[map_sos_hunger]Sosok tersebut tampak putus asa meminta bantuan!
 
 World/ThingHappen_who_unknow_UnknowCamp
-\cg[map_human_camp]Seems to be an abandoned camp...
+\cg[map_human_camp]Sepertinya kamp yang terbengkalai...
 
 World/ThingHappen_who_unknow_AbandonedCropses
-\cg[map_DeadPPL]The pile of corpses' putrid stench warns you to run away... But, perhaps the dead might hold on to some valuables?
+\cg[map_DeadPPL]Bau busuk dari tumpukan mayat memperingatkanmu untuk lari... Tapi, mungkin orang mati ini menyimpan barang berharga?
 
 World/ThingHappen_who_unknow_AbandonedResources
-\cg[map_AbandonedResources]Looks like some abandoned supplies, maybe there are some useful items?
+\cg[map_AbandonedResources]Sepertinya ada pasokan yang tertinggal, mungkin ada barang yang berguna?
 
 World/ThingHappen_who_bad_AbomManager
-\m[shocked]\cg[map_AbominationGroup]Ungodly figures made of disgusting flesh soon trudges towards Lona!
+\m[shocked]\cg[map_AbominationGroup]Sosok mengerikan dari daging menjijikkan berjalan gontai menuju Lona!
 
 World/ThingHappen_who_bad_AbomSpider
-\m[shocked]\cg[map_AbominationSpider]A swarm of Spiders and trails of webs... Lona is soon surrounded by the creepy crawlies!
+\m[shocked]\cg[map_AbominationSpider]Sekawanan Laba-laba dan jejak jaring... Lona segera dikepung oleh makhluk merayap ini!
 
 World/ThingHappen_who_bad_WolfGroup
-\cg[map_WolfGroup]A pack of wolves hunt you down!
+\cg[map_WolfGroup]Sekawanan serigala sedang memburumu!
 
 World/ThingHappen_who_bad_GobRaider
-\cg[map_GobRaider]It's a cavalry of Orkind raiders!
+\cg[map_GobRaider]Itu adalah kavaleri penjarah Orkind!
 
 World/ThingHappen_who_bad_OrkindCamp
-\cg[map_monster_camp]A gang of Orkinds track down Lona!
+\cg[map_monster_camp]Sekelompok Orkind melacak keberadaan Lona!
 
 World/ThingHappen_who_bad_OrkindPlayGround
-\cg[map_OrcHappy]You've just stumbled upon an Orkind's grisly, gruesome, and gory playground!
+\cg[map_OrcHappy]Kau baru saja menemukan tempat bermain Orkind yang mengerikan dan penuh darah!
 
 World/ThingHappen_who_bad_RougeWave
-\cg[map_RogueWaves]\m[shocked]\Rshake Avast! Rouge waves ahead! The roaring, dangerous sea waters come crashing down on Lona!
+\cg[map_RogueWaves]\m[shocked]\Rshake Awas! Ombak ganas di depan! Air laut yang menderu dan berbahaya menerjang Lona!
 
 World/ThingHappen_who_bad_AbomBreedlingTrap
-\cg[map_TrapHole]\SndLib[BreedlingSpot]It's a trap! Lona is stuck hanging above a huge hole!
+\cg[map_TrapHole]\SndLib[BreedlingSpot]Ini jebakan! Lona terjebak menggantung di atas lubang besar!
 
 World/ThingHappen_who_bad_AbomBreedlingRaid
-\cg[map_AbomBreedlingRaid]\SndLib[BreedlingSpot]Flesh Demons! A swarm of Breedlings crawl towards Lona!
+\cg[map_AbomBreedlingRaid]\SndLib[BreedlingSpot]Iblis Daging! Sekawanan Breedling merayap menuju Lona!
 
 World/ThingHappen_who_bad_FishkindGroup
-\cg[map_FishkindGroup]A shoal of Deepones swims toward Lona!
+\cg[map_FishkindGroup]Sekelompok Deepone berenang menuju Lona!
 
 World/ThingHappen_who_bad_UndeadWalking
-\cg[map_undead_group]A horde of Undead approaches from the shadows!
+\cg[map_undead_group]Sekawanan Mayat Hidup mendekat dari bayang-bayang!
 
 World/ThingHappen_who_bad_BanditMobs
-\cg[map_bandits]Some rogues ambushed you! A wild Bandit appeared!
+\cg[map_bandits]Beberapa bajingan menyergapmu! Bandit liar muncul!
 
 World/ThingHappen_who_bad_FishPPL
-\cg[map_FishPPL]\SndLib[FishkindSmSpot] A school of Fishkind guards dive towards Lona!
+\cg[map_FishPPL]\SndLib[FishkindSmSpot] Sekelompok penjaga Manusia Ikan menyelam menuju Lona!
 
 World/ThingHappen_who_bad_GangDebtCollet
-\cg[map_IRS]It's a loan shark! He looks really pissed off!
+\cg[map_IRS]Itu lintah darat! Dia terlihat sangat marah!
 
 World/ThingHappen_who_bad_BanditsCiv
-\cg[map_bandits_farmer]Is it a protest? A robbery? Whatever it is, the situation is not good...
+\cg[map_bandits_farmer]Apakah ini protes? Perampokan? Apa pun itu, situasinya tidak bagus...
 
 World/ThingHappen_who_good_Merchant
-\cg[map_merchant]A wild merchant appears!
+\cg[map_merchant]Seorang pedagang muncul!
 
 World/ThingHappen_who_good_NoerMissionary
-\cg[map_missionary]A preacher! It's a preacher!
-\c[4]Preacher：\c[0]    The end is nigh! Listen up heathens! Become a follower or face eternal doom!
-\c[4]Preacher：\c[0]    This is the last chance before the end! Repent your sins and BELIEVE!!!
+\cg[map_missionary]Pengkhotbah! Itu pengkhotbah!
+\c[4]Pengkhotbah：\c[0]    Kiamat sudah dekat! Dengarlah para kafir! Jadilah pengikut atau hadapi kehancuran abadi!
+\c[4]Pengkhotbah：\c[0]    Ini kesempatan terakhir sebelum akhir zaman! Sesali dosamu dan PERCAYALAH!!!
 
 World/ThingHappen_who_Good_NoerHomeless
-\cg[map_homeless]A large number of refugees have appeared!
-\c[4]Refugees：\c[0]    I'm begging you... Please... Have mercy...
+\cg[map_homeless]Sejumlah besar pengungsi telah muncul!
+\c[4]Pengungsi：\c[0]    Aku memohon padamu... Tolong... Kasihanilah kami...
 
 World/ThingHappen_who_Good_NoerHomeless_SneakFailed
-\narr The refugees begin to gather around Lona.
-\narrOFF\c[4]Refugees：\c[0]    Miss... Help us... Pleeease...
+\narr Para pengungsi mulai berkumpul di sekitar Lona.
+\narrOFF\c[4]Pengungsi：\c[0]    Nona... Bantu kami... Tolooonng...
 \m[confused]\c[6]Lona：\c[0]    Uhhh...
 
 World/ThingHappen_who_Bad_RoadHalp
-\cg[map_Halp]Seems like someone is being attacked!
+\cg[map_Halp]Sepertinya seseorang sedang diserang!
 
 World/ThingHappen_who_Bad_RoadHalp_SneakFailed
-\narr They are running toward Lona's direction.
-\narrOFF\c[4]Refugee：\c[0]   HELP ME! PLEASE! HELP!
-\m[shocked]\Rshake\c[6]Lona：\c[0]    Huh?! Wait! What's happening?
+\narr Mereka berlari ke arah Lona.
+\narrOFF\c[4]Pengungsi：\c[0]   TOLONG AKU! TOLONG!
+\m[shocked]\Rshake\c[6]Lona：\c[0]    Hah?! Tunggu! Apa yang terjadi?
 
 World/ThingHappen_who_good_RefugeeCamp
-\cg[map_human_camp]Lona stumbles upon a refugee camp!
+\cg[map_human_camp]Lona menemukan sebuah kamp pengungsi!
 
 World/ThingHappen_who_bad_FishPPL_SneakFailed
-\SndLib[FishkindSmSpot]\SETpl[FrogSpear]\Lshake\c[4]Guard：\c[0]    Girl...! Get... Girl...! Girl is... Escaping...!
-\SndLib[FishkindSmSpot]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?! W-Wait!
+\SndLib[FishkindSmSpot]\SETpl[FrogSpear]\Lshake\c[4]Penjaga：\c[0]    Gadis...! Ambil... Gadis...! Gadis itu... Kabur...!
+\SndLib[FishkindSmSpot]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Hah?! T-Tunggu!
 
-################################################ 隱匿檢查 ##################################
+################################################ PEMERIKSAAN MENGENDAP ##################################
 
 World/ThingHappen_SneakWin
-They haven't noticed Lona.
+Mereka belum menyadari keberadaan Lona.
 
 World/ThingHappen_SneakFailed
-Lona has been found out!
+Lona telah ketahuan!
 
 World/ThingHappen_SneakTrueDeepone
-\narr Lona's pursuers relentlessly chased her, due to the aphrodisiac stench surrounding her body!
+\narr Pengejar Lona terus mengejarnya tanpa henti, karena bau afrodisiak yang menyengat dari tubuhnya!
 
 World/Check_NoEnemy_SneakWin
 \narr\..\..\..
-Nothing suspicious so far, it should be safe.
+Sejauh ini tidak ada yang mencurigakan, seharusnya aman.
 
 World/Check_Enemy_SneakWin
 \narr\..\..\..
-Something looks off... It's definitely dangerous...
+Ada yang tidak beres... Ini pasti berbahaya...
 
 World/Check_SneakFailed
 \narr\..\..\..
-Lona wasn't able to see if anything was wrong.
+Lona tidak bisa melihat apakah ada yang salah.
 
 World/Check_Hide
 \narr\..\..\..\SndLib[sys_StepChangeMap]
-Lona hid herself in a dark corner. They soon lost track of her...
+Lona bersembunyi di sudut yang gelap. Mereka segera kehilangan jejaknya...
 
-################################################ Lona的決定 ##################################
+################################################ KEPUTUSAN LONA ##################################
 
 Lona/Options
-What should I do? 
+Apa yang harus kulakukan?
 
 Lona/Options_Escape
-Escape
+Kabur
 
 Lona/Options_Observe
-Observe
+Amati
 
 Lona/Options_Talk
-Talk
+Bicara
 
 Lona/Options_Approach
-Approach
+Dekati
 
 Lona/Options_Kyaaah
 KYAAAH!!!
 
 Lona/Options_Bomb
-Bomb
+Bom
 
 Lona/Options_Hide
-Hide
+Sembunyi
 
 Lona/Options_Leave
-Leave
+Pergi
 
 Lona/Options_Intimidate
-Intimidate
+Gertak
 
 Lona/Options_Bluff
-Bluff
+Menggertak (Bluff)
 
 Lona/Options_Cocona
-Friends!
+Teman!
 
 Lona/Options_Struggle
-Struggle
+Melawan
 
 Lona/Options_GetHelp
-Request help
+Minta bantuan
 
-##################################### Options_Struggle ##############################################
+##################################### Opsi_Melawan ##############################################
 Lona/Options_StruggleLoop
-\narr\m[p5defence]\Rshake\SndLib[sound_punch_hit] It's not enough! Lona has to struggle harder...
+\narr\m[p5defence]\Rshake\SndLib[sound_punch_hit] Belum cukup! Lona harus melawan lebih keras lagi...
 
 Lona/Options_StruggleWin
-\narr\m[p5defence]\Rshake\SndLib[sound_punch_hit] Lona escaped! Time to get the heck outta here!
+\narr\m[p5defence]\Rshake\SndLib[sound_punch_hit] Lona berhasil kabur! Waktunya pergi dari sini!
 
-#####################################逃跑##############################################
+##################################### KABUR ##############################################
 
 Lona/Options_sneakpass_RunningWin
-\SND[SE/sneak_in.ogg]\narr\m[normal]Lona successfully runs away, her pursuers are unable to catch up with her.
+\SND[SE/sneak_in.ogg]\narr\m[normal]Lona berhasil melarikan diri, pengejarnya tidak bisa mengejarnya.
 
 Lona/Options_sneakpass_RunningFailed
-\SND[SE/sneak_in.ogg]\narr\m[shocked]Lona tries to run away... but failed.
+\SND[SE/sneak_in.ogg]\narr\m[shocked]Lona mencoba melarikan diri... tapi gagal.
 
 Lona/Options_sneakpass_SneakWin
-\SND[SE/sneak_in.ogg]\narr\m[normal]Lona hides in the shadows, her pursuers could not find her.
+\SND[SE/sneak_in.ogg]\narr\m[normal]Lona bersembunyi dalam bayang-bayang, pengejarnya tidak bisa menemukannya.
 
 Lona/Options_sneakpass_SneakFailed
-\SND[SE/sneak_in.ogg]\narr\m[shocked]Her pursuers followed the footsteps she carelessly left behind...
+\SND[SE/sneak_in.ogg]\narr\m[shocked]Pengejarnya mengikuti jejak kaki yang dia tinggalkan secara ceroboh...
 
 Lona/Options_sneakpass_JustLeave
-\SND[SE/sneak_in.ogg]\narr\m[normal]Lona decides to just leave.
+\SND[SE/sneak_in.ogg]\narr\m[normal]Lona memutuskan untuk pergi saja.
 
 Lona/Options_FollowerHelp
-\cg[map_FollowerHelp]\m[p5sta_damage]Lona's follower helped her out... She manages to escape!
+\cg[map_FollowerHelp]\m[p5sta_damage]Pengikut Lona membantunya... Dia berhasil melarikan diri!
 
-####################################觀察##############################################
-####################################觀察##############################################
-####################################觀察##############################################
+#################################### AMATI ##############################################
+#################################### AMATI ##############################################
+#################################### AMATI ##############################################
 
 World/ThingHappen_who_unknow_HumanGuard_ChkGood
-\m[confused]A squad of guards from Noer are still on patrol!
+\m[confused]Satu regu penjaga dari Noer masih berpatroli!
 
 World/ThingHappen_who_unknow_PPLsos_ChkGood
-\m[confused]\cg[map_sos]It looks like they seriously need help.
+\m[confused]\cg[map_sos]Sepertinya mereka benar-benar butuh bantuan.
 
 World/ThingHappen_who_unknow_UnknowCamp_ChkGood
-\m[confused]\cg[map_guards]They don't seem to be hostile.
+\m[confused]\cg[map_guards]Mereka tidak tampak bermusuhan.
 
 #####################################################################
 World/ThingHappen_who_unknow_Guards_ChkBad
-\m[shocked]Lona might still be wanted, it's best not to provoke them...
+\m[shocked]Lona mungkin masih dicari, sebaiknya jangan memprovokasi mereka...
 
 World/ThingHappen_who_unknow_Guards_ChkBad_SlaveOwner
-\m[shocked]Lona is an escaped slave, she should stay away from any guards in sight.
+\m[shocked]Lona adalah budak yang kabur, dia harus menjauhi penjaga mana pun yang terlihat.
 
 World/ThingHappen_who_unknow_PPLsos_ChkBad
-\m[confused]\cg[map_bandits]These people look very suspicious...
+\m[confused]\cg[map_bandits]Orang-orang ini terlihat sangat mencurigakan...
 
 World/ThingHappen_who_unknow_UnknowCamp_ChkBad
-\m[confused]\cg[map_bandits_farmer]The people up ahead definitely do not look friendly...
+\m[confused]\cg[map_bandits_farmer]Orang-orang di depan pasti tidak terlihat ramah...
 
 World/ThingHappen_who_unknow_HumanGuard_WisCheckWin
-\m[flirty]Lona fooled the guards! The guards now believe it was all just a misunderstanding.
+\m[flirty]Lona membodohi para penjaga! Para penjaga sekarang percaya bahwa itu semua hanya kesalahpahaman.
 
 World/ThingHappen_who_unknow_HumanGuard_WisCheckLose
-\m[shocked]\Rshake Lona tried her best to fool them, but they don't seem to believe her...
+\m[shocked]\Rshake Lona mencoba yang terbaik untuk membodohi mereka, tapi mereka sepertinya tidak percaya...
 
 #####################################################################
 World/ThingHappen_who_unknow_Guards_ChkUnknow
-\narr\m[confused]Lona isn't able to see what they are planning to do.
+\narr\m[confused]Lona tidak bisa melihat apa yang mereka rencanakan.
 
 World/ThingHappen_who_unknow_PPLsos_ChkUnknow
-\narr\m[confused]Lona isn't able to see the intentions of the people she's observing.
+\narr\m[confused]Lona tidak bisa melihat niat dari orang-orang yang dia amati.
 
 World/ThingHappen_who_unknow_UnknowCamp_ChkUnknow
-\narr\m[confused]Lona is unable to see the condition of the camp.
+\narr\m[confused]Lona tidak bisa melihat kondisi kamp tersebut.
 
 World/ThingHappen_who_unknow_NoerMissionary_CheckWin
-\c[4]Preacher：\c[0]    To all heathens! Become a follower of the Saint! The glory of the Saint will purify all lies and sin!
-\m[confused]Doesn't seem like anything suspicious...
+\c[4]Pengkhotbah：\c[0]    Untuk semua kafir! Jadilah pengikut Saint! Kejayaan Saint akan memurnikan semua kebohongan dan dosa!
+\m[confused]Sepertinya tidak ada yang mencurigakan...
 
 World/ThingHappen_who_unknow_NoerHomeless_CheckWin
-\m[confused]They don't seem suspicious, besides the fact that they reek...
+\m[confused]Mereka tidak tampak mencurigakan, selain fakta bahwa mereka sangat bau...
 
 World/ThingHappen_who_bad_AbomSpider_CheckWin
 \narr\..\..\..
-Lona found a way out.
-Lona has escaped!
+Lona menemukan jalan keluar.
+Lona telah melarikan diri!
 
-############################################### 嘗試溝通 ##############################
-############################################### 嘗試溝通 ##############################
-############################################### 嘗試溝通 ##############################
+############################################### COBA BICARA ##############################
+############################################### COBA BICARA ##############################
+############################################### COBA BICARA ##############################
 
 Lona/Options_Talk_begin
 \narr\..\..\..
-Lorna tried to negotiate with the strangers in front of her.
+Lona mencoba bernegosiasi dengan orang asing di depannya.
 
 Lona/Options_Intimidate_begin
 \narr\..\..\..
-Lona's face formed into a fierce snarl as she tired to intimidate her foes.
+Wajah Lona membentuk seringai garang saat dia mencoba menggertak musuhnya.
 
 Lona/Options_Intimidate_begin2_typical
 \m[overkill]\Rshake\c[6]Lona：\c[0]    Grrrrrr...
 
 Lona/Options_Intimidate_begin2_tsundere
-\m[overkill]\Rshake\c[6]Lona：\c[0]    Stay the FUCK outta my way...!
+\m[overkill]\Rshake\c[6]Lona：\c[0]    Minggir dari jalanku, BANGSAT...!
 
 Lona/Options_Intimidate_begin2_gloomy
 \m[bereft]\Rshake\c[6]Lona：\c[0]    Ahh... G-Grrr... Rawr......?
 
 Lona/Options_Intimidate_begin2_slut
-\m[overkill]\Rshake\c[6]Lona：\c[0]   Stay back! Or I'll fuck you..\..\.. up!
+\m[overkill]\Rshake\c[6]Lona：\c[0]   Mundur! Atau akan kuhajar.. kau sampai.. hancur!
 
 ##############################
 
 World/ThingHappen_who_unknow_HumanGuard_ComGood
-\m[normal]They mentioned to Lona it is not safe here. They advised her to leave quickly.
+\m[normal]Mereka memberitahu Lona bahwa di sini tidak aman. Mereka menyarankannya untuk segera pergi.
 
 World/ThingHappen_who_unknow_PPLsos_ComGood
-\m[sad]\cg[map_sos]They told Lona some tragic stories in hopes that she can help them.
+\m[sad]\cg[map_sos]Mereka menceritakan beberapa kisah tragis pada Lona dengan harapan dia bisa membantu mereka.
 
 World/ThingHappen_who_bad_AbomManager_ComGood
-\cgoff\m[flirty]The explosion from Lona's bomb stuns the monsters. The Abominations soon flee in terror!
+\cgoff\m[flirty]Ledakan dari bom Lona membuat monster-monster itu terpana. Para Abomination segera melarikan diri dengan ketakutan!
 
 World/ThingHappen_who_bad_WolfGroup_ComGood
-\m[flirty]They smelled Lona's hand and soon lost interest in her.
+\m[flirty]Mereka mencium tangan Lona dan segera kehilangan minat padanya.
 
 World/ThingHappen_who_bad_WolfGroup_VsComp_ComGood
-\m[flirty]The animals are afraid since Lona is not alone.
+\m[flirty]Hewan-hewan itu takut karena Lona tidak sendirian.
 
 World/ThingHappen_who_bad_WolfGroup_VsComp_ComNonWeak
-\m[serious]\Rshake The animals knew that Lona was not an easy prey. They became afraid of her presence and ran away in fear.
+\m[serious]\Rshake Hewan-hewan itu tahu bahwa Lona bukanlah mangsa yang mudah. Mereka menjadi takut akan kehadirannya dan lari ketakutan.
 
 World/ThingHappen_who_bad_OrkindCamp_ComGood
-\m[flirty]They were fooled easily and thought Lona was one of them.
+\m[flirty]Mereka mudah dibodohi dan mengira Lona adalah salah satu dari mereka.
 
 World/ThingHappen_who_bad_FishkindGroup_FishFollower
 \narr\..\..\..
-\narr\SndLib[FishkindLgQuestion]\m[flirty]它們看著洛娜的同伴，覺得洛娜是牠們的交配對象。
-\narr\m[flirty]它們離開了...
+\narr\SndLib[FishkindLgQuestion]\m[flirty]Mereka melihat rekan Lona, dan mengira Lona adalah pasangan kawin mereka.
+\narr\m[flirty]Mereka pergi...
 
 World/ThingHappen_who_bad_FishkindGroup_ComGood
-\m[flirty]For some odd reason, they lost interest in Lona...
+\m[flirty]Karena alasan yang aneh, mereka kehilangan minat pada Lona...
 
 World/ThingHappen_who_bad_UndeadWalking_ComBad
-\Rshake\m[shocked]They couldn't understand what Lona was saying, but they were interested in the taste of Lona's brain.
+\Rshake\m[shocked]Mereka tidak mengerti apa yang Lona katakan, tapi mereka tertarik dengan rasa otak Lona.
 
 World/ThingHappen_who_bad_Bandits_ComGood
-\m[sad]\cg[map_sos]They were having a chat about their hardships and how they hope it wasn't because of things they've done in the past.
+\m[sad]\cg[map_sos]Mereka sedang mengobrol tentang kesulitan mereka dan berharap itu bukan karena hal-hal yang mereka lakukan di masa lalu.
 
 World/ThingHappen_who_bad_GangDebtCollet_ComGood
-\m[sad]\cg[map_sos]Lona pleaded and begged them to give her more time.
-\m[sad]\cg[map_FollowerHelp]They agreed... For now...
+\m[sad]\cg[map_sos]Lona memohon dan meminta mereka untuk memberinya lebih banyak waktu.
+\m[sad]\cg[map_FollowerHelp]Mereka setuju... Untuk saat ini...
 
 World/ThingHappen_who_bad_GangDebtCollet_ComRepayment_1
-\m[fear]\cg[map_scroll]They observed the supplies that Lona handed over.\..\..\..
+\m[fear]\cg[map_scroll]Mereka mengamati pasokan yang diserahkan Lona.\..\..\..
 
 World/ThingHappen_who_bad_GangDebtCollet_ComRepayment_pass
-\m[flirty]\cg[map_IRS]They said Lona did a great job and hoped she would cooperate like this next time as well.
+\m[flirty]\cg[map_IRS]Mereka bilang Lona melakukan pekerjaan dengan baik dan berharap dia mau bekerja sama seperti ini lagi lain kali.
 
 World/ThingHappen_who_bad_GangDebtCollet_ComRepayment_Failed
-\Rshake\m[terror]\cg[map_IRS]They said this is not enough!!
+\Rshake\m[terror]\cg[map_IRS]Mereka bilang ini tidak cukup!!
 
 World/ThingHappen_who_bad_BanditsCiv_ComGood
-\m[sad]\cg[map_sos_hunger]They chatted about their hardships and mentioned trying to help out their starving families.
+\m[sad]\cg[map_sos_hunger]Mereka mengobrol tentang kesulitan mereka dan menyebutkan usaha mereka untuk membantu keluarga mereka yang kelaparan.
 
 World/ThingHappen_who_good_Merchant_ComGood
-\m[flirty]\cg[map_merchant]The merchant gave Lona a confused look, as if he had no interests in her.
+\m[flirty]\cg[map_merchant]Pedagang itu menatap Lona dengan bingung, seolah dia tidak punya ketertarikan padanya.
 
 World/ThingHappen_who_unknow_UnknowCamp_ComGood
-\m[normal]\cg[map_guards]The guards mentioned to Lona it is not safe here. They advised her to leave quickly.
+\m[normal]\cg[map_guards]Para penjaga memberitahu Lona bahwa di sini tidak aman. Mereka menyarankannya untuk segera pergi.
 
 World/ThingHappen_who_good_NoerMissionary_ComGood
-\c[4]Preacher：\c[0]    The end of Sybaris was caused from our lies and sin! All heathens! You must believe in the Saint!
-\c[4]Preacher：\c[0]    He will be brought back to this world as a mortal! He will be born again to save us all!
+\c[4]Pengkhotbah：\c[0]    Kehancuran Sybaris disebabkan oleh kebohongan dan dosa kita! Para kafir! Kalian harus percaya pada Saint!
+\c[4]Pengkhotbah：\c[0]    Dia akan dibawa kembali ke dunia ini sebagai manusia fana! Dia akan lahir kembali untuk menyelamatkan kita semua!
 \m[confused]......
 
 World/ThingHappen_who_bad_FishPPL_NotSlave
-\narr\m[flirty]Lona explained to them she wasn't a slave, they soon left her alone.
+\narr\m[flirty]Lona menjelaskan kepada mereka bahwa dia bukan seorang budak, mereka segera meninggalkannya.
 
 World/ThingHappen_who_bad_FishPPL_ComGood
-\narr\SndLib[FishkindSmSpot]They stopped chasing Lona once they spotted one of their own kind.
-\narr\SndLib[FishkindSmSpot]They believe Lona was one of their brethren's own woman.
+\narr\SndLib[FishkindSmSpot]Mereka berhenti mengejar Lona setelah melihat salah satu dari kaum mereka sendiri.
+\narr\SndLib[FishkindSmSpot]Mereka percaya Lona adalah wanita milik salah satu saudara mereka.
 \m[flirty]\c[6]Lona：\c[0]    Ummm...
 
 World/ThingHappen_who_bad_FishPPL_BluffGood
-\narr\SndLib[FishkindSmSpot]They stopped in their tracks and believe they made a mistake.
-\narr\SndLib[FishkindSmSpot]After a quick look, they were fooled into thinking that Lona was a male and walked away.
-\narrOFF\m[flirty]\c[6]Lona：\c[0]    ...Huh......?
+\narr\SndLib[FishkindSmSpot]Mereka berhenti di tempat dan percaya bahwa mereka telah melakukan kesalahan.
+\narr\SndLib[FishkindSmSpot]Setelah melihat sekilas, mereka tertipu dan mengira bahwa Lona adalah seorang laki-laki lalu pergi begitu saja.
+\narrOFF\m[flirty]\c[6]Lona：\c[0]    ...Hah......?
 
 #####################################################################
 
 World/ThingHappen_who_unknow_HumanGuard_ComBad
-\narr They think that Lona is a criminal, they soon surrounded Lona!
-\narr Lona is now surrounded!
+\narr Mereka mengira Lona adalah seorang penjahat, mereka segera mengepung Lona!
+\narr Lona kini telah dikepung!
 
 World/ThingHappen_who_unknow_PPLsos_ComBad
-\cg[map_bandits_farmer]They demanded Lona to leave all her belongings with them and to service them with her body.
-\m[wtf]\c[6]Lona：\c[0]    No! ...Get away from me!
+\cg[map_bandits_farmer]Mereka menuntut Lona untuk menyerahkan semua barang miliknya dan melayani mereka dengan tubuhnya.
+\m[wtf]\c[6]Lona：\c[0]    Tidak! ...Menjauh dariku!
 
 World/ThingHappen_who_unknow_PPLsos_ComLowMorality
-\cg[map_bandits_farmer]They grabbed their weapons, ready to use them. They determined that Lona was evil...
+\cg[map_bandits_farmer]Mereka mengambil senjata mereka, siap untuk menggunakannya. Mereka menganggap bahwa Lona itu jahat...
 
 World/ThingHappen_who_bad_AbomManger_ComBad
-\m[terror]\Rshake\narr The stench of rotten meat surrounds Lona... It seems they want to use Lona as a source for reproduction!
+\m[terror]\Rshake\narr Bau daging busuk menyelimuti Lona... Sepertinya mereka ingin menggunakan Lona sebagai sumber reproduksi!
 
 World/ThingHappen_who_bad_WolfGroup_ComBad
-\m[terror]\Rshake\narr They smelled Lona and thought she was delicious! They begin to growl as they surrounded her!
+\m[terror]\Rshake\narr Mereka mencium bau Lona dan menganggapnya lezat! Mereka mulai menggeram saat mengepungnya!
 
 World/ThingHappen_who_bad_OrkindCamp_ComBad
-\cg[event_OrkindGonnaRape]\c[4]Orkind：\c[0]    Hole! Me wan' da Meat Hole!!!
-\narr\m[fear]Saliva drools from their mouths as they surrounded her.
-\narr Seems like they want to use Lona as a meat hole...
+\cg[event_OrkindGonnaRape]\c[4]Orkind：\c[0]    Lubang! Aku mau Lubang Daging!!!
+\narr\m[fear]Air liur menetes dari mulut mereka saat mereka mengepungnya.
+\narr Sepertinya mereka ingin menggunakan Lona sebagai lubang daging...
 
 World/ThingHappen_who_bad_FishkindGroup_ComBad
 \cg[event_FishkindGonnaRape]\c[4]Deepone：\c[0]    Murr! Muluur!
-\narr\m[fear]They surrounded Lona with the foul smell of rotten fish.
-\narr It seems like they want to use Lona as a brood mother...
+\narr\m[fear]Mereka mengepung Lona dengan bau amis ikan busuk.
+\narr Sepertinya mereka ingin menjadikan Lona sebagai induk peranakan...
 
 World/ThingHappen_who_bad_BanditMobs_ComBad
-\m[wtf]\cg[map_bandits]\c[6]Lona：\c[0]    No... Stay away from me!
-\narr They demanded Lona to hand over all of her belongings.
+\m[wtf]\cg[map_bandits]\c[6]Lona：\c[0]    Tidak... Menjauh dariku!
+\narr Mereka menuntut Lona untuk menyerahkan semua barang bawaannya.
 
 World/ThingHappen_who_bad_GangDebtCollet_ComBad
-\m[wtf]\cg[map_IRS]\c[6]Lona：\c[0]    I'm sorry! Please, I didn't mean to-...!
-\narr They decided that Lona gives up all her possessions as payment for the debt she owes.
-
+\m[wtf]\cg[map_IRS]\c[6]Lona：\c[0]    Maafkan aku!
+Tolong, aku tidak bermaksud untuk-...!
+\narr Mereka memutuskan agar Lona menyerahkan seluruh hartanya sebagai pembayaran utang yang ia miliki.
 World/ThingHappen_who_bad_BanditsCiv_ComBad
-\cg[map_bandits_farmer]They demanded Lona to leave all her belongings with them and to service them with her body.
-\m[wtf]\c[6]Lona：\c[0]    No! ...Get away from me!
+\cg[map_bandits_farmer]Mereka menuntut Lona untuk menyerahkan semua barang miliknya dan melayani mereka dengan tubuhnya.
+\m[wtf]\c[6]Lona：\c[0]    Tidak! ...Menjauh dariku!
 
 World/ThingHappen_who_good_Merchant_ComBad
-\m[flirty]\cg[map_merchant]The merchant gave Lona a confused look, as if he had no interests in her.
+\m[flirty]\cg[map_merchant]Pedagang itu menatap Lona dengan bingung, seolah dia tidak punya ketertarikan padanya.
 
 World/ThingHappen_who_unknow_UnknowCamp_ComBad
-\m[wtf]\cg[map_bandits]\c[6]Lona：\c[0]    No... Stay away from me!
-\narr They demanded Lona to leave all her belongings with them and to service them with her body.
+\m[wtf]\cg[map_bandits]\c[6]Lona：\c[0]    Tidak... Menjauh dariku!
+\narr Mereka menuntut Lona untuk menyerahkan semua barang miliknya dan melayani mereka dengan tubuhnya.
 
 World/ThingHappen_who_bad_CommonMobs_ComBad1
-\m[normal]\cg[map_bandits_farmer]They threatened Lona to hand over 
+\m[normal]\cg[map_bandits_farmer]Mereka mengancam Lona untuk menyerahkan
 
 World/ThingHappen_who_bad_CommonMobs_ComBad2
- TP, or else they will harm her.
+ TP, atau mereka akan melukainya.
 
 World/ThingHappen_who_bad_CommonMobs_ComBad_win
-\narr They were quite satisfied with Lona's cooperation.
-\narr They left Lona alone and marched away.
+\narr Mereka cukup puas dengan kerja sama Lona.
+\narr Mereka meninggalkan Lona dan pergi menjauh.
 
 World/ThingHappen_who_bad_CommonMobs_ComBad_failed
-They were very upset with Lona's uncooperative attitude.
-\m[wtf]\cg[map_bandits]\c[6]Lona：\c[0]    Stop! Get away from me!
-\narr They demanded Lona give up everything she has on her, now!
+Mereka sangat kecewa dengan sikap Lona yang tidak kooperatif.
+\m[wtf]\cg[map_bandits]\c[6]Lona：\c[0]    Berhenti! Menjauh dariku!
+\narr Mereka menuntut Lona menyerahkan semua yang ia punya sekarang juga!
 
-####################################滑了一跤##############################################
+#################################### TERGELINCIR ##############################################
 
 Lona/OvermapSlip
 \m[shocked]\Rshake\c[6]Lona：\c[0]    \{KYAAAH!!!
-\narr\Rshake\m[hurt]Lona slipped and fell onto the ground. The unknown creatures that surrounded her heard her screams...
+\narr\Rshake\m[hurt]Lona tergelincir dan jatuh ke tanah. Makhluk tak dikenal yang mengepungnya mendengar teriakan itu...
 
 Lona/OvermapSlipDrowning
-\SndLib[sound_Bubble]\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    \{MMMNNNPH! *GURGLE*! GUUULB! Glug...
-\SndLib[sound_Bubble]\narr\m[p5health_damage]\Rshake Lona was slowly drowning, the harsh waves held her underwater as the tides carried her frail body into an unknown destination...
+\SndLib[sound_Bubble]\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    \{MMMNNNPH! *GLEK*! GLEK! Glug...
+\SndLib[sound_Bubble]\narr\m[p5health_damage]\Rshake Lona perlahan tenggelam, ombak yang keras menahannya di bawah air saat arus membawa tubuhnya yang lemah ke tujuan yang tidak diketahui...
 
-##################################### 諾爾鎮 大門Guard #############################################
+##################################### Penjaga Gerbang Kota Noer #############################################
 
 GateGuard/begin1
-\cg[map_NoerGate]The Gates of Noer Town
-\SETpl[Mreg_pikeman]\Lshake\c[4]Guard：\c[0]    Stop right there! \optB[Cancel,Enter,Sneak in<r=HiddenOPT1>]
+\cg[map_NoerGate]Gerbang Kota Noer
+\SETpl[Mreg_pikeman]\Lshake\c[4]Penjaga：\c[0]    Berhenti di sana! \optB[Batal,Masuk,Menyelinap masuk<r=HiddenOPT1>]
 
 GateGuard/enter_no_passport
-\prf\c[4]Guard：\c[0]    We have orders to not allow anyone entry without identification.
-\m[confused]\plf\PRF\c[6]Lona：\c[0]    Okay then...
+\prf\c[4]Penjaga：\c[0]    Kami punya perintah untuk tidak mengizinkan siapa pun masuk tanpa identitas.
+\m[confused]\plf\PRF\c[6]Lona：\c[0]    Baiklah kalau begitu...
 
 GateGuard/enter_LowMorality
-\prf\PLF\c[4]Guard：\c[0]    Huh? Hey you! STOP!
-\Lshake\c[4]Guard：\c[0]    I recognize your face! \{GET HER!
-\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Oh no!
+\prf\PLF\c[4]Penjaga：\c[0]    Hah? Hei kau! BERHENTI!
+\Lshake\c[4]Penjaga：\c[0]    Aku mengenali wajahmu! \{TANGKAP DIA!
+\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Aduh tidak!
 
 GateGuard/enter_sneak
 \plf\prf\..\..\..
 
 GateGuard/enter_sneak_win
-\m[flirty]\PRF\c[6]Lona：\c[0]    Phew! I made it...
+\m[flirty]\PRF\c[6]Lona：\c[0]    Fiuh! Aku berhasil...
 
 GateGuard/enter_sneak_failed
-\prf\PLF\c[4]Guard：\c[0]    Huh? Hey You! HALT!
-\Lshake\c[4]Guard：\c[0]     Where are you going? \{GET HER!
-\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Oh no!
+\prf\PLF\c[4]Penjaga：\c[0]    Hah? Hei Kau! BERHENTI!
+\Lshake\c[4]Penjaga：\c[0]     Mau ke mana kau? \{TANGKAP DIA!
+\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Aduh tidak!
 
 NobleGateGuard/NapCapture
-\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    How did this beggar slip in?
-\SETpr[Mreg_guardsman]\plf\Rshake\c[4]Guard：\c[0]    Get her!
-\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    What! What happened?!
+\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Penjaga：\c[0]    Bagaimana pengemis ini bisa menyelinap masuk?
+\SETpr[Mreg_guardsman]\plf\Rshake\c[4]Penjaga：\c[0]    Tangkap dia!
+\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    Apa! Apa yang terjadi?!
 
-################################################################# 劇本專用區 #################################################################
-################################################################# 劇本專用區 #################################################################
-################################################################# 劇本專用區 #################################################################
-################################################################# 劇本專用區 #################################################################
-################################################################# 劇本專用區 #################################################################
+################################################################# BAGIAN KHUSUS SKENARIO #################################################################
+################################################################# BAGIAN KHUSUS SKENARIO #################################################################
+################################################################# BAGIAN KHUSUS SKENARIO #################################################################
+################################################################# BAGIAN KHUSUS SKENARIO #################################################################
+################################################################# BAGIAN KHUSUS SKENARIO #################################################################
 
 NoerTavern/FristTimeNotice0
-\ph\board[World Map]
-The World Map uses turn-based gameplay.
-Every step taken on the map will decrease STA.
-When time runs out, Lona will be forced to nap.
-When Lona runs out of STA, she will be forced to enter the region she is on and faint.
+\ph\board[Peta Dunia]
+Peta Dunia menggunakan gameplay berbasis giliran (turn-based).
+Setiap langkah yang diambil di peta akan mengurangi STA.
+Saat waktu habis, Lona akan dipaksa untuk tidur sejenak.
+Saat Lona kehabisan STA, dia akan dipaksa masuk ke wilayah tempat dia berada dan pingsan.
 
 NoerTavern/FristTimeNotice1
-\board[World Map control]
-\C[2]CTRL  \C[0]：Skipping a turn will cause time to pass with no loss to STA.
-\C[2]SHIFT \C[0]：Holding SHIFT while moving on the map causes Lona to run in the World Map. Running decreases time past, but costs more STA.
-\C[2]Enter\C[0]：Enter the area.
-\C[2]KYAAAH!!!\C[0]：Increase environmental danger to maximum, then enter the area.
+\board[Kontrol Peta Dunia]
+\C[2]CTRL  \C[0]：Melewati giliran akan membuat waktu berlalu tanpa mengurangi STA.
+\C[2]SHIFT \C[0]：Menahan SHIFT saat bergerak di peta membuat Lona berlari di Peta Dunia. Berlari mengurangi waktu yang berlalu, tapi memakan lebih banyak STA.
+\C[2]Masuk\C[0]：Masuk ke area tersebut.
+\C[2]KYAAAH!!!\C[0]：Meningkatkan bahaya lingkungan ke tingkat maksimal, lalu masuk ke area tersebut.
 
 NoerTavern/FristTimeNotice2
-\board[Encounter]
-\C[2]Run away\C[0]：Run away from them.
-\C[2]Observe\C[0]：Check your surroundings.
-\C[2]Talk\C[0]：Attempt a conversation.
-\C[2]Approach\C[0]：Enter the area.
+\board[Pertemuan]
+\C[2]Kabur\C[0]：Melarikan diri dari mereka.
+\C[2]Amati\C[0]：Periksa keadaan sekitarmu.
+\C[2]Bicara\C[0]：Coba lakukan percakapan.
+\C[2]Dekati\C[0]：Masuk ke area tersebut.
 
 NoerTavern/FristTimeNotice3
-\SND[SE/Book1]\bg[bg_TutorialWorldDifficulty]\C[2]World Difficulty\C[0]：Will increase as more time passes.
-Enemy spawn and how strong they are is based on this variable.
-\SND[SE/Book1]\bg[bg_TutorialTime]\C[2]Time\C[0]： Once it reaches 100, Lona will be forced to sleep.
-\SND[SE/Book1]\bg[bg_TutorialCarrying]\C[2]Weight\C[0]： When Lona's carrying capacity reaches 0, her STA will decrease over time. Movement in the World Map will consume even more STA.
+\SND[SE/Book1]\bg[bg_TutorialWorldDifficulty]\C[2]Kesulitan Dunia\C[0]：Akan meningkat seiring berlalunya waktu.
+Kemunculan musuh dan seberapa kuat mereka didasarkan pada variabel ini.
+\SND[SE/Book1]\bg[bg_TutorialTime]\C[2]Waktu\C[0]： Begitu mencapai 100, Lona akan dipaksa tidur.
+\SND[SE/Book1]\bg[bg_TutorialCarrying]\C[2]Berat\C[0]： Saat kapasitas bawaan Lona mencapai 0, STA-nya akan berkurang seiring waktu. Pergerakan di Peta Dunia akan mengonsumsi lebih banyak STA lagi.
 
 NoerTavern/FristTimeNotice4
-\{Locations.
+\{Lokasi.
 \bgoff\CamMP[NoerTavern]The Burning Keg.
-The most famous tavern in Noer.
-Also known to be the business office of The Mercenary's Guild.
-Can provide meals, accommodation, work, etc.
-\CamMP[NoerDock]Port of Noer \BonMP[NoerDock,19]
-It's been rumored that they are still taking refugees.
-But the prices are sky-high, there is no way any ordinary person can afford it...
-\CamCT First, head over to the tavern and report about the monster's presence to the guild.
+Kedai paling terkenal di Noer.
+Juga dikenal sebagai kantor bisnis dari Serikat Mercenary.
+Dapat menyediakan makanan, penginapan, pekerjaan, dll.
+\CamMP[NoerDock]Pelabuhan Noer \BonMP[NoerDock,19]
+Rumornya mereka masih menerima pengungsi.
+Tapi harganya selangit, tidak mungkin orang biasa mampu membayarnya...
+\CamCT Pertama, pergilah ke kedai dan laporkan keberadaan monster itu kepada serikat.
 
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+#Diterjemahkan sepenuhnya dan dibersihkan oleh Sugoi Soy Boy. Enyahlah wahai monyet-monyet MTL.
