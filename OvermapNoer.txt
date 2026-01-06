@@ -1,146 +1,146 @@
-#Translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+#Diterjemahkan dan dibersihkan oleh Sugoi Soy Boy. Enyahlah wahai monyet-monyet MTL.
 
 common/closed
-\narr Closed
+\narr Tutup
 
-##################################### 諾爾鎮 大門守衛 #############################################
+##################################### Penjaga Gerbang Kota Noer #############################################
 
 GateGuard/begin1
-\cg[map_NoerGate]The gate of the Town of Noer.
-\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    Stop right there! \optB[Cancel,Enter,Sneak<r=HiddenOPT1>,Bluff<r=HiddenOPT2>]
+\cg[map_NoerGate]Gerbang Kota Noer.
+\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Penjaga：\c[0]    Berhenti di sana! \optB[Batal,Masuk,Menyelinap<r=HiddenOPT1>,Menggertak<r=HiddenOPT2>]
 
 GateNobGuard/begin1
-\cg[map_region_RoadNoerNob]The entrance of Rudesind Slope
-\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    You there! HALT! \optB[Cancel,Enter,Sneak<r=HiddenOPT1>,Bluff<r=HiddenOPT2>]
+\cg[map_region_RoadNoerNob]Pintu masuk Lereng Rudesind
+\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Penjaga：\c[0]    Kau di sana! BERHENTI! \optB[Batal,Masuk,Menyelinap<r=HiddenOPT1>,Menggertak<r=HiddenOPT2>]
 
 GateGuard/enter_no_passport_dir6
-\prf\c[4]Guard：\c[0]    There's no problem if you leave the city gates. But when you return, you must present your ID paper.
+\prf\c[4]Penjaga：\c[0]    Tidak masalah jika kau keluar dari gerbang kota. Tapi saat kau kembali, kau harus menunjukkan surat identitasmu.
 
 GateGuard/enter_no_passport_dir4
-\prf\PLF\c[4]Guard：\c[0]    We have orders to not allow anyone entry without identification.
-\m[confused]\plf\PRF\c[6]Lona：\c[0]    Okay then...
+\prf\PLF\c[4]Penjaga：\c[0]    Kami punya perintah untuk tidak mengizinkan siapa pun masuk tanpa identitas.
+\m[confused]\plf\PRF\c[6]Lona：\c[0]    Baiklah kalau begitu...
 
 GateGuard/enter_with_passport
-\prf\c[4]Guard：\c[0]    Hmmm......
-\prf\c[4]Guard：\c[0]    Alright, you may pass.
+\prf\c[4]Penjaga：\c[0]    Hmmm......
+\prf\c[4]Penjaga：\c[0]    Baiklah, kau boleh lewat.
 
 GateGuard/enter_LowMorality
-\prf\PLF\c[4]Guard：\c[0]    Huh? Hey you! STOP RIGHT THERE!!!
-\Lshake\c[4]Guard：\c[0]    I recognize your face! \n\{GET HER!
+\prf\PLF\c[4]Penjaga：\c[0]    Hah? Hei kau! BERHENTI DI SITU!!!
+\Lshake\c[4]Penjaga：\c[0]    Aku mengenali wajahmu! \n\{TANGKAP DIA!
 
 GateGuard/enter_failed_typical
-\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{No, wait!
+\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Tidak, tunggu!
 
 GateGuard/enter_failed_tsundere
-\m[irritated]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Shit!!!
+\m[irritated]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Sialan!!!
 
 GateGuard/enter_failed_gloomy
 \m[bereft]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{E-Eeep!
 
 GateGuard/enter_failed_slut
-\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Oh no!
+\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Aduh tidak!
 
 GateGuard/enter_wait
 \plf\prf\narr\..\..\..
 
 GateGuard/enter_sneak_win
-\m[flirty]\PRF\c[6]Lona：\c[0]    Phew! I made it...
+\m[flirty]\PRF\c[6]Lona：\c[0]    Fiuh! Aku berhasil...
 
 GateGuard/enter_sneak_failed
-\prf\PLF\c[4]Guard：\c[0]    Huh? Hey you! STOP RIGHT THERE!!!
-\Lshake\c[4]Guard：\c[0]    Where are you going?! \n\{GET HER!
+\prf\PLF\c[4]Penjaga：\c[0]    Hah? Hei kau! BERHENTI DI SITU!!!
+\Lshake\c[4]Penjaga：\c[0]    Mau ke mana kau?! \n\{TANGKAP DIA!
 
 GateGuard/enter_wisdom
-\PRF\c[6]Lona：\c[0]    Are you not aware? This was commanded from your higher-ups.
-\PLF\prf\c[4]Guard：\c[0]    Hmmm, is that right?
+\PRF\c[6]Lona：\c[0]    Apa Anda tidak tahu? Ini adalah perintah dari atasan Anda.
+\PLF\prf\c[4]Penjaga：\c[0]    Hmmm, benarkah begitu?
 \plf\prf\narr\..\..\..
 
 GateGuard/enter_wisdom_win_lona
-\PLF\c[4]Guard：\c[0]    Seems like it is... Carry on then.
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Phew! I can't believe that worked!
+\PLF\c[4]Penjaga：\c[0]    Sepertinya memang begitu... Silakan lanjut.
+\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Fiuh! Aku tidak percaya itu berhasil!
 
 GateGuard/enter_wisdom_win_slave1
-\PLF\c[4]Guard：\c[0]    I didn't know slaves could come and go freely...
+\PLF\c[4]Penjaga：\c[0]    Aku tidak tahu kalau budak bisa datang dan pergi dengan bebas...
 
 GateGuard/enter_wisdom_win_slave2
-\PLF\c[4]Guard：\c[0]    All right, get going, don't make your Master wait!
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Okay, he ate it...
+\PLF\c[4]Penjaga：\c[0]    Baiklah, jalan sana, jangan biarkan Majikanmu menunggu!
+\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Oke, dia percaya...
 
 GateGuard/enter_wisdom_win_maggot
-\PLF\c[4]Guard：\c[0]    Ugh! You reek! Do all Sybarians smell like shit?
-\PLF\c[4]Guard：\c[0]    You are a disgrace! Move along and don't you come near me!
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     I'm sorry Sir!
+\PLF\c[4]Penjaga：\c[0]    Ugh! Bau sekali kau! Apa semua orang Sybaris baunya seperti kotoran?
+\PLF\c[4]Penjaga：\c[0]    Kau benar-benar memalukan! Cepat jalan dan jangan dekat-dekat denganku!
+\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Maaf, Tuan!
 
 GateGuard/enter_wisdom_win_sexy
-\PLF\c[4]Guard：\c[0]    Came to make some money, little whore?
-\PLF\c[4]Guard：\c[0]    Aren't you cute? Be sure to stop by the barracks on your way back.
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     I-I-I will, Sir...
+\PLF\c[4]Penjaga：\c[0]    Datang untuk mencari uang, ya, pelacur kecil?
+\PLF\c[4]Penjaga：\c[0]    Kau manis juga, ya? Pastikan mampir ke barak saat kau kembali nanti.
+\m[flirty]\plf\PRF\c[6]Lona：\c[0]     A-A-Aku akan mampir, Tuan...
 
 GateGuard/enter_wisdom_win_weaker
-\PLF\c[4]Guard：\c[0]    Stop gawking and move along, peasant!
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Yes Sir!
+\PLF\c[4]Penjaga：\c[0]    Berhenti melongo dan cepat jalan, rakyat jelata!
+\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Siap, Tuan!
 
 GateGuard/enter_wisdom_win_SexyWeak1
-\PLF\c[4]Guard：\c[0]    Slut! come here. Let me check you.
-\m[sad]\plf\PRF\c[6]Lona：\c[0]     Nngh... Yes Sir.
+\PLF\c[4]Penjaga：\c[0]    Perek! Sini. Biar kuperiksa.
+\m[sad]\plf\PRF\c[6]Lona：\c[0]     Nngh... Baik, Tuan.
 
 GateGuard/enter_wisdom_win_SexyWeak2
-\PLF\c[4]Guard：\c[0]    Move along now, before we change our minds and make you stay...
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Phew... they were all looking at me...
+\PLF\c[4]Penjaga：\c[0]    Jalan sana sekarang, sebelum kami berubah pikiran dan menahanmu di sini...
+\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Fiuh... mereka semua tadi menatapku...
 
 GateGuard/enter_wisdom_win_SexSlave1
-\PLF\c[4]Guard：\c[0]    I'll have to search you, spread your legs.
-\m[sad]\plf\PRF\c[6]Lona：\c[0]     Nngh... Yes Sir...
+\PLF\c[4]Penjaga：\c[0]    Aku harus memeriksamu, buka kakimu.
+\m[sad]\plf\PRF\c[6]Lona：\c[0]     Nngh... Baik, Tuan...
 
 GateGuard/enter_wisdom_win_SexSlave2
-\PLF\prf\c[4]Guard：\c[0]    Disgusting, it stinks, move along.
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     How humiliating...
+\PLF\prf\c[4]Penjaga：\c[0]    Menjijikkan, baunya busuk, jalan sana.
+\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Sungguh memalukan...
 
 GateGuard/enter_wisdom_win_SexSlaveRuined1
-\PLF\c[4]Guard：\c[0]    Spread your legs you little shit, let's see if your fuckhole is still passable.
-\m[sad]\plf\PRF\c[6]Lona：\c[0]     Nngh... Yes Sir.
+\PLF\c[4]Penjaga：\c[0]    Buka kakimu bocah tengik, mari kita lihat apa lubangmu masih bisa dipakai.
+\m[sad]\plf\PRF\c[6]Lona：\c[0]     Nngh... Baik, Tuan.
 
 GateGuard/enter_wisdom_win_SexSlaveRuined2
-\PLF\prf\c[4]Guard：\c[0]    Whoa, what a grimy cunt! Get out of my sight!
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Yes Sir! Sorry Sir!
-
+\PLF\prf\c[4]Penjaga：\c[0]    Wah, m*mek yang kotor sekali!
+Pergi dari hadapanku!
+\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Baik, Tuan! Maaf, Tuan!
 GateGuard/enter_wisdom_win_moot
-\PLF\c[4]Guard：\c[0]    All right, everything seems to be in order here. Move along, hurry!
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Phew... He believed it!
+\PLF\c[4]Penjaga：\c[0]    Baiklah, semuanya sepertinya sudah beres di sini. Jalan sana, cepat!
+\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Fiuh... Dia percaya!
 
 GateGuard/enter_failed
-\PLF\c[4]Guard：\c[0]    Stay back! We guards have to deal with vagrants like you every single day!
+\PLF\c[4]Penjaga：\c[0]    Mundur! Kami para penjaga harus berurusan dengan gelandangan sepertimu setiap hari!
 
 GateGuard/enter_passport_NoDir
-\prf\c[4]Guard：\c[0]    Alright, you may pass.
+\prf\c[4]Penjaga：\c[0]    Baiklah, kau boleh lewat.
 
 GateGuard/enter_failedDirt1
-\PLF\Lshake\c[4]Guard：\c[0]    Beggars are not allowed here! Go away, shoo!
+\PLF\Lshake\c[4]Penjaga：\c[0]    Pengemis dilarang ke sini! Pergi sana, hus!
 
 GateGuard/enter_failedDirt2
-\narr Lona looks too dirty...
+\narr Lona terlihat terlalu kotor...
 
-####################################################### 諾爾鎮外
+####################################################### Di luar Noer
 
 GateGuardOuta/enter_LowMorality
-\prf\c[4]Guard：\c[0]    We know you! Criminal scum! You're not welcomed here!
+\prf\c[4]Penjaga：\c[0]    Kami mengenalmu! Bajingan kriminal! Kau tidak diterima di sini!
 
 GateGuardOuta/enter_failed_typical
 \m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    Ehhh?!
 
 GateGuardOuta/enter_failed_tsundere
-\m[irritated]\plf\PRF\Rshake\c[6]Lona：\c[0]   Damn!
+\m[irritated]\plf\PRF\Rshake\c[6]Lona：\c[0]   Sialan!
 
 GateGuardOuta/enter_failed_gloomy
-\m[sad]\plf\PRF\Rshake\c[6]Lona：\c[0]    Sorry...
+\m[sad]\plf\PRF\Rshake\c[6]Lona：\c[0]    Maaf...
 
 GateGuardOuta/enter_failed_slut
-\m[flirty]\plf\PRF\Rshake\c[6]Lona：\c[0]    Okay...
+\m[flirty]\plf\PRF\Rshake\c[6]Lona：\c[0]    Oke...
 
-####################################################### DEEPONE UNIQUE
+####################################################### UNIK DEEPONE
 
 GateGuard/LonaIsTrueDeepone
-\narr The guards begin to go crazy with lust and sexual desires at the sight of the young Sea Witch...
-They lost any sense of reason and being to hunt down Lona, with the intent of copulating with the monster girl...
+\narr Para penjaga mulai menjadi gila karena nafsu dan gairah seksual saat melihat Penyihir Laut muda itu...
+Mereka kehilangan akal sehat dan mulai memburu Lona, dengan niat untuk mengawini gadis monster itu...
 
-#Translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+#Diterjemahkan dan dibersihkan oleh Sugoi Soy Boy. Enyahlah wahai monyet-monyet MTL.
