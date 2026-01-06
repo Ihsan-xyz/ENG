@@ -1,31 +1,31 @@
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 RelayEMP/Welcome0
-\CBid[-1,20]\m[confused]\prf\c[4]Carriage Receptionist：\c[0]    "How may I be of service, Miss?"
+\CBid[-1,20]\m[confused]\prf\c[4]Resepsionis Kereta：\c[0]    "Ada yang bisa saya bantu, Nona?"
 
 RelayEMP/Welcome1
-\CBid[-1,20]\m[confused]\prf\c[4]Carriage Receptionist：\c[0]    "There's not many places you can travel to. Where do you wish to go?"
+\CBid[-1,20]\m[confused]\prf\c[4]Resepsionis Kereta：\c[0]    "Tidak banyak tempat yang bisa Anda kunjungi. Ke mana Anda ingin pergi?"
 
 RelayEMP/SlaveBlock
-\CBid[-1,20]\prf\c[4]Carriage Receptionist：\c[0]    "Flithy slaves have no right to use my services! Get away and go back to you master!"
-\CBct[6]\m[sad]\c[6]Lona：\c[0]    "Y-Yes..."
+\CBid[-1,20]\prf\c[4]Resepsionis Kereta：\c[0]    "Budak kotor tidak berhak menggunakan jasaku! Pergi sana dan kembalilah ke majikanmu!"
+\CBct[6]\m[sad]\c[6]Lona：\c[0]    "I-Iya..."
 
 RelayEMP/NoGold
-\CBid[-1,20]\prf\c[4]Carriage Receptionist：\c[0]    "You have no money?! THEN GET OUT OF MY SIGHT!"
-\CBct[6]\m[flirty]\c[6]Lona：\c[0]    "S... Sorry......"
+\CBid[-1,20]\prf\c[4]Resepsionis Kereta：\c[0]    "Kau tidak punya uang?! KALAU BEGITU PERGI DARI HADAPANKU!"
+\CBct[6]\m[flirty]\c[6]Lona：\c[0]    "M... Maaf......"
 
 RelayEMPfish/Welcome0
-\CBid[-1,20]\SndLib[FishkindSmSpot]\m[confused]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "Fishtopia... Our home..."
+\CBid[-1,20]\SndLib[FishkindSmSpot]\m[confused]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Pegawai Feri：\c[0]    "Fishtopia... Rumah kami..."
 
 RelayEMPfish/Welcome1
-\CBid[-1,20]\SndLib[FishkindSmSpot]\m[confused]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "Human... *Snort* Where you... Go...?"
+\CBid[-1,20]\SndLib[FishkindSmSpot]\m[confused]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Pegawai Feri：\c[0]    "Manusia... *Engus* Ke mana... kamu... pergi...?"
 
 RelayEMPfish/SlaveBlock
-\CBid[-1,20]\SndLib[FishkindSmSpot]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "Slaves... Not allowed... To leave...! Return... To birth... More offsprings...!"
-\CBct[6]\m[sad]\c[6]Lona：\c[0]    "U... Understood......"
+\CBid[-1,20]\SndLib[FishkindSmSpot]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Pegawai Feri：\c[0]    "Budak... Tidak boleh... Pergi...! Kembali... Untuk melahirkan... Lebih banyak keturunan...!"
+\CBct[6]\m[sad]\c[6]Lona：\c[0]    "S... Saya mengerti......"
 
 RelayEMPfish/SlaveAccept
-\CBid[-1,20]\SndLib[FishkindSmSpot]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "Slave... Fresh girl... Come on......"
+\CBid[-1,20]\SndLib[FishkindSmSpot]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Pegawai Feri：\c[0]    "Budak... Gadis segar... Ayo......"
 \CBct[2]\m[flirty]\c[6]Lona：\c[0]    "Ummm...?"
 
 RelayEMP/opt
