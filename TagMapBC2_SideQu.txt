@@ -1,173 +1,173 @@
 thisMap/OvermapEnter
-wrecked convoy\optB[Leave,Enter]
+konvoi hancur\optB[Pergi,Masuk]
 
 QuGiver/Begin0
-\CBid[-1,6]\m[confused]\prf\c[4]traveler：\c[0]    Gone, all gone....
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    What's wrong? Who's gone?
+\CBid[-1,6]\m[confused]\prf\c[4]pengelana：\c[0]    Hilang, semuanya hilang....
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Ada apa? Siapa yang hilang?
 
 QuGiver/Begin0_1
-\CBid[-1,8]\prf\c[4]traveler：\c[0]    You\..\..\.. Who are you? what are you doing here?
+\CBid[-1,8]\prf\c[4]pengelana：\c[0]    Kamu\..\..\.. Siapa kamu? Ngapain di sini?
 
 QuGiver/Begin1Cecily
-\CBfB[8]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    I have a bad feeling.
-\CBfF[8]\SETpr[GrayRatConfusedAr]\plf\Rshake\c[4]Gray Rat：\c[0]    Be careful!
+\CBfB[8]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    Perasaanku nggak enak.
+\CBfF[8]\SETpr[GrayRatConfusedAr]\plf\Rshake\c[4]Gray Rat：\c[0]    Hati-hati!
 
 QuGiver/Begin1Cocona
-\CBfB[5]\SETlpl[cocona_angry]\Lshake\prf\c[4]Cocona：\c[0]    Sister! There are bad guys!!!
+\CBfB[5]\SETlpl[cocona_angry]\Lshake\prf\c[4]Cocona：\c[0]    Kakak! Ada orang jahat!!!
 
 QuGiver/Begin1
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    Get out of here! I'm sure those people are still around!
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Huh? What people?
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    Pergi dari sini! Aku yakin orang-orang b*ngsat itu masih ada di sekitar sini!
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Hah? Orang-orang apa?
 
 QuGiver/Begin2
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Oh no, an ambush...
-\CBmp[Lguard1,20]\SETpl[MobHumanCommoner]\Lshake\prf\c[4]Bandit：\c[0]    Hey little girl! If you give us all your money, I will consider letting you live.
-\CBmp[Lguard2,20]\SETpr[MobHumanCommoner]\plf\Rshake\c[4]Bandit：\c[0]    It's just a little girl, catch her and sell her.
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Gawat, jebakan...
+\CBmp[Lguard1,20]\SETpl[MobHumanCommoner]\Lshake\prf\c[4]Bandit：\c[0]    Hei bocah cilik! Kalau lu kasih semua duit lu, gue bakal pikir-pikir buat biarin lu hidup.
+\CBmp[Lguard2,20]\SETpr[MobHumanCommoner]\plf\Rshake\c[4]Bandit：\c[0]    Cuma bocah kecil, tangkap terus jual aja jadi budak.
 
 QuGiver/Begin3
-\CBmp[Rguard1,20]\SETpl[MobHumanCommoner]\Lshake\prf\c[4]Bandit：\c[0]    Look around you, you don't want to die, right? Are you sure she's a woman?
-\CBmp[Rguard2,20]\SETpr[MobHumanCommoner]\plf\Rshake\c[4]Bandit：\c[0]    Woman?! Great! Finally, a new whore. All the bitches in the village are used up already.♥
+\CBmp[Rguard1,20]\SETpl[MobHumanCommoner]\Lshake\prf\c[4]Bandit：\c[0]    Liat sekeliling lu, nggak mau mati kan? Eh, lu yakin dia cewek?
+\CBmp[Rguard2,20]\SETpr[MobHumanCommoner]\plf\Rshake\c[4]Bandit：\c[0]    Cewek?! Mantap! Akhirnya ada l*nte baru. J*lang-j*lang di desa udah jebol semua dientotin.♥
 
 QuGiver/Begin4
-\CBct[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    What now? I'm surrounded...
+\CBct[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    Gimana sekarang? Aku dikepung...
 
 QuGiver/Begin4Cecily
-\CBfB[8]\SETpr[CecilyAngryAr]\plf\Rshake\C[4]Cecily：\C[0]    Do you know no shame?
-\CBfB[5]\SETpr[CecilyShockedAr]\plf\Rshake\C[4]Cecily：\C[0]    I'll make you pay for your insolence!
+\CBfB[8]\SETpr[CecilyAngryAr]\plf\Rshake\C[4]Cecily：\C[0]    Nggak punya malu ya kalian?
+\CBfB[5]\SETpr[CecilyShockedAr]\plf\Rshake\C[4]Cecily：\C[0]    Bakal gue bikin kalian nyesel karena udah nggak sopan!
 
 QuGiver/Begin4Cocona
-\CBfB[5]\SETlpr[cocona_shocked]\plf\Rshake\c[4]Cocona：\c[0]    Cocona protects her sister!
+\CBfB[5]\SETlpr[cocona_shocked]\plf\Rshake\c[4]Cocona：\c[0]    Cocona bakal lindungin Kakak!
 
 QuGiver/Begin5
-\CBmp[Lguard1,5]\SETpl[MobHumanCommoner]\Lshake\prf\c[4]Bandit：\c[0]    Let's waste no more time then! Everyone attack!
+\CBmp[Lguard1,5]\SETpl[MobHumanCommoner]\Lshake\prf\c[4]Bandit：\c[0]    Nggak usah banyak b*cot lagi! Semuanya, serang!
 
 #########################################################
 
 QuGiver2/Begin0
-\CBid[-1,6]\prf\c[4]traveler：\c[0]    *Sob*...
+\CBid[-1,6]\prf\c[4]pengelana：\c[0]    *Hiks*...
 
 QuGiver2/Begin0_opt
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Well...\optB[Leave,What happened?<r=HiddenOPT0>,Persuade him to leave<r=HiddenOPT1>,Help him<r=HiddenOPT2>]
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Anu...\optB[Pergi,Apa yang terjadi?<r=HiddenOPT0>,Bujuk dia pergi<r=HiddenOPT1>,Bantu dia<r=HiddenOPT2>]
 
 QuGiver2/Begin0_about0
-\CBid[-1,8]\prf\c[4]traveler：\c[0]    They... all died....?
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    They should be dead, yeah...
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    What's going on here? Were you attacked by those \c[4]Bandits\c[0]?
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Why are you traveling at this time? Now the whole island is a mess and it's not safe here.
-\CBid[-1,8]\prf\c[4]traveler：\c[0]    We came from a small village in the mountains, but recently red lumps of flesh and monsters have started appearing all over the forest.
-\CBid[-1,8]\prf\c[4]traveler：\c[0]    We had to leave.
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Oh? \c[6]Meat devils\c[0]?
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    \c[4]Meat devils\c[0]?
-\CBct[20]\m[confused]\PRF\c[6]Lona：\c[0]    Right, \c[4]meat devils\c[0]... Don't you know? \c[4]Sybaris\c[0] has been taken over by these monsters.
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    What are those monsters? Where the hell did they come from?
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    *Sigh*... These bandits are worse than even the monsters!
-\CBid[-1,5]\prf\c[4]traveler：\c[0]    \{My family, friends, my child... All dead!\}
-\CBid[-1,5]\prf\c[4]traveler：\c[0]    \{They raped and killed them!\}
+\CBid[-1,8]\prf\c[4]pengelana：\c[0]    Mereka... semuanya mati....?
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Harusnya sih udah mati semua, ya...
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Sebenarnya apa yang terjadi di sini? Apa paman diserang sama para \c[4]Bandit\c[0] itu?
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Kenapa paman malah bepergian di saat kayak gini? Sekarang seisi pulau lagi kacau dan di sini nggak aman.
+\CBid[-1,8]\prf\c[4]pengelana：\c[0]    Kami datang dari desa kecil di pegunungan, tapi belakangan ini gumpalan daging merah dan monster mulai muncul di seluruh hutan.
+\CBid[-1,8]\prf\c[4]pengelana：\c[0]    Kami terpaksa pergi.
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Oh? \c[6]Iblis daging\c[0]?
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    \c[4]Iblis daging\c[0]?
+\CBct[20]\m[confused]\PRF\c[6]Lona：\c[0]    Iya, \c[4]iblis daging\c[0]... Paman nggak tahu? \c[4]Sybaris\c[0] udah dikuasai sama monster-monster itu.
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    Monster macam apa itu? Dari mana asal b*ngsat-b*ngsat itu?
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    *Hela napas*... Para bandit ini bahkan lebih busuk dari monster itu!
+\CBid[-1,5]\prf\c[4]pengelana：\c[0]    \{Keluargaku, teman-temanku, anakku... Semuanya mati!\}
+\CBid[-1,5]\prf\c[4]pengelana：\c[0]    \{Mereka dient*t terus dibantai!\}
 
 QuGiver2/Begin0_about0_cecily
-\CBfB[5]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    These bloody robbers, they will pay.
+\CBfB[5]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    Perampok b*ngsat ini, mereka harus bayar harganya.
 
 QuGiver2/Begin0_about0_cocona
-\CBfB[6]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Sister, he is so pitiful...
+\CBfB[6]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Kakak, dia kasihan banget...
 
 QuGiver2/Begin0_about1
-\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    Calm down! Keep your voice down! Maybe there's more of them around!
+\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    Tenang dulu! Kecilin suaranya! Mungkin masih ada teman-teman mereka di sekitar sini!
 
 QuGiver3/Begin0_leave0
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    I'm sorry for what happened to you, but you'd better get out of here.
-\CBid[-1,5]\prf\c[4]traveler：\c[0]    Are you telling me to turn tail and run?
-\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    I...
+\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Aku turut sedih atas apa yang menimpa paman, tapi paman sebaiknya pergi dari sini.
+\CBid[-1,5]\prf\c[4]pengelana：\c[0]    Maksud kamu aku harus kabur sambil tekuk ekor?
+\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    Aku...
 
 QuGiver3/Begin0_leave1
-\CBct[6]\m[sad]\PRF\c[6]Lona：\c[0]    A few months ago, my family and friends died too, I'm from \c[4]Sybaris\c[0]. The monsters came out of nowehre and killed everyone.
-\CBct[6]\m[fear]\PRF\c[6]Lona：\c[0]    I had to run, some people sacrificed a lot to help me escape, so what if I lost my life for revenge?
-\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    Their sacrifice would be for nothing...
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    We are not like the \c[4]Saint\c[0]. We're no such heroes, we are just ordinary people, it is not despicable if we choose survive.
+\CBct[6]\m[sad]\PRF\c[6]Lona：\c[0]    Beberapa bulan lalu, keluargaku dan teman-temanku juga mati, aku dari \c[4]Sybaris\c[0]. Monster-monster itu muncul tiba-tiba dan ngebunuh semua orang.
+\CBct[6]\m[fear]\PRF\c[6]Lona：\c[0]    Aku terpaksa lari, ada orang-orang yang berkorban banyak biar aku bisa kabur, apa gunanya kalau aku mati cuma buat dendam?
+\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    Pengorbanan mereka bakal sia-sia...
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Kita nggak kayak sang \c[4]Saint\c[0]. Kita bukan pahlawan, kita cuma orang biasa, bukan hal memalukan kalau kita milih buat bertahan hidup.
 
 QuGiver3/Begin0_leave2_end_cocona
-\CBfB[8]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Sister....
-\CBct[6]\m[flirty]\PRF\c[6]Lona：\c[0]    I'm sorry, sister can't let you take risks.
-\CBfB[8]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Woo meow, Cocona knows.
+\CBfB[8]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Kakak....
+\CBct[6]\m[flirty]\PRF\c[6]Lona：\c[0]    Maafin Kakak, Kakak nggak bisa biarin kamu ambil risiko.
+\CBfB[8]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Meong, Cocona ngerti.
 
 QuGiver3/Begin0_leave2_end_cecily
-\CBfB[20]\SETpl[CecilyShockedAr]\Lshake\prf\C[4]Cecily：\C[0]    But I am not an ordinary person!
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?!
+\CBfB[20]\SETpl[CecilyShockedAr]\Lshake\prf\C[4]Cecily：\C[0]    Tapi aku bukan orang biasa!
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Hah?!
 
 QuGiver3/Begin0_leave2_end
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    Is that so? Little boy, I'm sorry...
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    Gitu ya? Bocah kecil, maafkan aku...
 
 QuGiver3/Begin0_help0
-\ph\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    What can I do for you?
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    You\..\..\..? I\..\..\..
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    I want to get back my wife's urn...
+\ph\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Apa yang bisa aku bantu?
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    Kamu\..\..\..? Aku\..\..\..
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    Aku mau ngambil lagi guci abu istriku...
 
 QuGiver3/Begin0_help1
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Huh?! Ashes?
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Hah?! Abu jenazah?
 
 QuGiver3/Begin0_help2
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Um....
-\CBct[20]\m[serious]\Rshake\c[6]Lona：\c[0]    Fine, leave it to me!
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Anu....
+\CBct[20]\m[serious]\Rshake\c[6]Lona：\c[0]    Baiklah, serahin aja ke aku!
 
 QuGiver5/Begin0
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    My cottage is in the western part of the \c[6]Copper mining town\c[0]. I'll show you where, come with me.
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Let me go ahead, I still have confidence in my eyes.
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    That's great, thank you.
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    Gubukku ada di bagian barat \c[6]Kota tambang tembaga\c[0]. Bakal aku tunjukin tempatnya, ayo ikut aku.
+\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Biar aku yang di depan, aku masih pede sama mata aku.
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    Baguslah, terima kasih banyak.
 
 QuGiver4/Begin0_end
-\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    Well....
+\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    Yah....
 
 QuGiver5/Begin1
-\board[retrieve ashes]
-Goal： Retrieve the ashes from the cottage to the west.\i[268]
-Reward： unknown
-Contractor： traveler
-Quest Term: Single fulfillment
-Protect the \c[4]traveler\c[0].
-Go to the \c[6]copper mining town\c[0] and help the \c[4]traveler\c[0] retrieve his wife's urn.
+\board[ambil abu jenazah]
+Tujuan： Ambil abu jenazah dari gubuk di sebelah barat.\i[268]
+Hadiah： tidak diketahui
+Pemberi tugas： pengelana
+Syarat Misi: Satu kali pemenuhan
+Lindungi sang \c[4]pengelana\c[0].
+Pergi ke \c[6]kota tambang tembaga\c[0] dan bantu \c[4]pengelana\c[0] ambil guci abu istrinya.
 
 ############################################################
 
 NPC/CommonConvoyTarget7
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    Did you find it?
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    Udah ketemu?
 
 NPC/CommonConvoyTarget8
-\CBid[-1,8]\narr He holds the urn and murmurs something...
+\CBid[-1,8]\narr Dia memegang guci abu itu sambil menggumamkan sesuatu...
 
 QuGiver8/Begin0
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    \..\..\..Is it this one?
-\CBct[20]\m[triumph]\PRF\c[6]Lona：\c[0]    That's right, this is it!
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    \..\..\..Apa yang ini?
+\CBct[20]\m[triumph]\PRF\c[6]Lona：\c[0]    Bener, yang ini tempatnya!
 
 QuGiver8/Begin1
-\board[retrieve ashes]
-Goal： Return the urn to the \c[4]traveler\c[0].
-Reward： unknown
-Contractor： traveler
+\board[ambil abu jenazah]
+Tujuan： Balikin guci abunya ke \c[4]pengelana\c[0].
+Hadiah： tidak diketahui
+Pemberi tugas： pengelana
 
 QuGiver9/Begin0
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    I found it, it should be this one, right?
+\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Udah ketemu, harusnya yang ini kan?
 
 QuGiver9/Begin1
-\CBid[-1,8]\prf\c[4]traveler：\c[0]    \..\..\..
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    Yes, this is it, my wife's ashes!
-\CBct[4]\m[flirty]\PRF\c[6]Lona：\c[0]    OK, let's get out of here.
+\CBid[-1,8]\prf\c[4]pengelana：\c[0]    \..\..\..
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    Iya, bener yang ini, abu jenazah istriku!
+\CBct[4]\m[flirty]\PRF\c[6]Lona：\c[0]    Oke, ayo cabut dari sini.
 
 QuGiver9/Begin2
-\board[retrieve ashes]
-Goal： Deliver the \c[4]traveler\c[0] safely to his convoy
-Reward： unknown
-Contractor： traveler
+\board[ambil abu jenazah]
+Tujuan： Bawa \c[4]pengelana\c[0] dengan aman ke konvoinya
+Hadiah： tidak diketahui
+Pemberi tugas： pengelana
 
 QuGiver10/Begin0
-\CBid[-1,8]\prf\c[4]traveler：\c[0]    That's enough, let's part our ways here.
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Yeah? Right here? It's not safe here, is it?
-\CBid[-1,20]\prf\c[4]traveler：\c[0]    No problem, take these.
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Well... What?
+\CBid[-1,8]\prf\c[4]pengelana：\c[0]    Cukup sampe di sini aja, kita pisah di sini.
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Iya? Di sini banget? Di sini nggak aman lho, paman yakin?
+\CBid[-1,20]\prf\c[4]pengelana：\c[0]    Nggak masalah, ambil ini.
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Anu... Apa ini?
 
 QuGiver10/Begin1
-\cg[event_Coins]\SND[SE/Chain_move01.ogg]\CBid[-1,8]\prf\c[4]traveler：\c[0]    Maybe I was dressed too shabby and the bandits didn't search me carefully.
-\CBid[-1,8]\prf\c[4]traveler：\c[0]    These are for you.
-\cgoff\CBct[2]\m[shocked]\Rshake\c[6]Lona：\c[0]    So much?!
-\CBid[-1,8]\prf\c[4]traveler：\c[0]    Take it, you're a good boy, good luck.
+\cg[event_Coins]\SND[SE/Chain_move01.ogg]\CBid[-1,8]\prf\c[4]pengelana：\c[0]    Mungkin karena baju paman terlalu gembel jadi para bandit itu nggak meriksa paman teliti.
+\CBid[-1,8]\prf\c[4]pengelana：\c[0]    Ini buat kamu.
+\cgoff\CBct[2]\m[shocked]\Rshake\c[6]Lona：\c[0]    Banyak banget?!
+\CBid[-1,8]\prf\c[4]pengelana：\c[0]    Ambil aja, kamu anak baik, semoga beruntung.
 
 QuGiver10/Begin2
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Is he going to be all right?
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Apa paman bakal baik-baik aja ya?
